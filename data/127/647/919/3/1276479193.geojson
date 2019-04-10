@@ -1,0 +1,71 @@
+{
+  "id": 1276479193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.29626,0.71891,30.29626,0.71891",
+    "geom:latitude":0.71891,
+    "geom:longitude":30.29626,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"79",
+    "gn:asciiname":"Harugongo",
+    "gn:country_code":"UG",
+    "gn:dem":1572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11402162,
+    "gn:latitude":0.71891,
+    "gn:longitude":30.29626,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Harugongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Harugongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11402162
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"59eb787f5245cb17b7b0e910b600bdb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069721,
+            "locality_id":1276479193,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1276479193,
+    "wof:lastmodified":1537712149,
+    "wof:name":"Harugongo",
+    "wof:parent_id":1092069721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.29626,
+    0.71891,
+    30.29626,
+    0.71891
+],
+  "geometry": {"coordinates":[30.29626,0.71891],"type":"Point"}
+}

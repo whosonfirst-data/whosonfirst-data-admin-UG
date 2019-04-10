@@ -1,0 +1,68 @@
+{
+  "id": 1327064089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.73518,0.56805,33.73518,0.56805",
+    "geom:latitude":0.56805,
+    "geom:longitude":33.73518,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"66",
+    "gn:asciiname":"Mugona",
+    "gn:country_code":"UG",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429610,
+    "gn:latitude":0.56805,
+    "gn:longitude":33.73518,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Mugona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429610
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ad8171c9db8e3380178d0ecc5cc78686",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1327064089,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1327064089,
+    "wof:lastmodified":1536715083,
+    "wof:name":"Mugona",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.73518,
+    0.56805,
+    33.73518,
+    0.56805
+],
+  "geometry": {"coordinates":[33.73518,0.56805],"type":"Point"}
+}

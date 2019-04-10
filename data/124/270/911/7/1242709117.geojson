@@ -1,0 +1,71 @@
+{
+  "id": 1242709117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.35,-0.38333,31.35,-0.38333",
+    "geom:latitude":-0.38333,
+    "geom:longitude":31.35,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"G5",
+    "gn:admin3_code":"7910221.0",
+    "gn:admin4_code":"8657658.0",
+    "gn:asciiname":"Kyazanga",
+    "gn:country_code":"UG",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230348,
+    "gn:latitude":-0.38333,
+    "gn:longitude":31.35,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyazanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680031,
+        1092069393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230348,
+        "wk:page":"Kyazanga"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9eeb6891bb1ba1c2fc3cbb2410e0607a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069393,
+            "locality_id":1242709117,
+            "region_id":85680031
+        }
+    ],
+    "wof:id":1242709117,
+    "wof:lastmodified":1537575041,
+    "wof:name":"Kyazanga",
+    "wof:parent_id":1092069393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35,
+    -0.38333,
+    31.35,
+    -0.38333
+],
+  "geometry": {"coordinates":[31.35,-0.38333],"type":"Point"}
+}

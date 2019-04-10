@@ -1,0 +1,71 @@
+{
+  "id": 1225979495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.04665,0.71506,30.04665,0.71506",
+    "geom:latitude":0.71506,
+    "geom:longitude":30.04665,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:asciiname":"Bunyaruta",
+    "gn:country_code":"UG",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401655,
+    "gn:latitude":0.71506,
+    "gn:longitude":30.04665,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Bunyaruta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bunyaruta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092070289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401655
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"11e6c18b4d21e293135b0fa2121833ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070289,
+            "locality_id":1225979495,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1225979495,
+    "wof:lastmodified":1537712140,
+    "wof:name":"Bunyaruta",
+    "wof:parent_id":1092070289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.04665,
+    0.71506,
+    30.04665,
+    0.71506
+],
+  "geometry": {"coordinates":[30.04665,0.71506],"type":"Point"}
+}

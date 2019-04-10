@@ -1,0 +1,68 @@
+{
+  "id": 1343692123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.07406,0.93336,33.07406,0.93336",
+    "geom:latitude":0.93336,
+    "geom:longitude":33.07406,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Kantu",
+    "gn:country_code":"UG",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553098,
+    "gn:latitude":0.93336,
+    "gn:longitude":33.07406,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kantu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092068917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553098
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"071d4a8c11bc29fa04d6a111a206462f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068917,
+            "locality_id":1343692123,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":1343692123,
+    "wof:lastmodified":1536909861,
+    "wof:name":"Kantu",
+    "wof:parent_id":1092068917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.07406,
+    0.93336,
+    33.07406,
+    0.93336
+],
+  "geometry": {"coordinates":[33.07406,0.93336],"type":"Point"}
+}

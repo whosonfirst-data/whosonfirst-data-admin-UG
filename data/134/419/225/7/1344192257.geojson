@@ -1,0 +1,70 @@
+{
+  "id": 1344192257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.96733,1.1441,31.96733,1.1441",
+    "geom:latitude":1.1441,
+    "geom:longitude":31.96733,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D9",
+    "gn:admin3_code":"8644153.0",
+    "gn:admin4_code":"8658601.0",
+    "gn:asciiname":"Bulungi",
+    "gn:country_code":"UG",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234227,
+    "gn:latitude":1.1441,
+    "gn:longitude":31.96733,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Bulungi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679895,
+        1092072985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234227
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"218c12857c4460f785719b48488cdaaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072985,
+            "locality_id":1344192257,
+            "region_id":85679895
+        }
+    ],
+    "wof:id":1344192257,
+    "wof:lastmodified":1536685441,
+    "wof:name":"Bulungi",
+    "wof:parent_id":1092072985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.96733,
+    1.1441,
+    31.96733,
+    1.1441
+],
+  "geometry": {"coordinates":[31.96733,1.1441],"type":"Point"}
+}

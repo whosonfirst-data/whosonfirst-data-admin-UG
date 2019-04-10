@@ -1,0 +1,73 @@
+{
+  "id": 1310041967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.97744,0.35101,33.97744,0.35101",
+    "geom:latitude":0.35101,
+    "geom:longitude":33.97744,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"67",
+    "gn:admin3_code":"8644151.0",
+    "gn:admin4_code":"8658193.0",
+    "gn:asciiname":"Masaba",
+    "gn:country_code":"UG",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229386,
+    "gn:latitude":0.35101,
+    "gn:longitude":33.97744,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Masaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Masaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679979,
+        1092073897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229386
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"46565e59f3b96410f593da0dcd4a77cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073897,
+            "locality_id":1310041967,
+            "region_id":85679979
+        }
+    ],
+    "wof:id":1310041967,
+    "wof:lastmodified":1537712075,
+    "wof:name":"Masaba",
+    "wof:parent_id":1092073897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.97744,
+    0.35101,
+    33.97744,
+    0.35101
+],
+  "geometry": {"coordinates":[33.97744,0.35101],"type":"Point"}
+}

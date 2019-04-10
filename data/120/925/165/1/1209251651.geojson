@@ -1,0 +1,65 @@
+{
+  "id": 1209251651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.26006,0.98709,34.26006,0.98709",
+    "geom:latitude":0.98709,
+    "geom:longitude":34.26006,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"87",
+    "gn:asciiname":"Bumamili",
+    "gn:country_code":"UG",
+    "gn:dem":1442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433030,
+    "gn:latitude":0.98709,
+    "gn:longitude":34.26006,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bumamili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bumamili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433030
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d5f0c6e16f13ced6b7359a83d8e253e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209251651
+        }
+    ],
+    "wof:id":1209251651,
+    "wof:lastmodified":1537712160,
+    "wof:name":"Bumamili",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.26006,
+    0.98709,
+    34.26006,
+    0.98709
+],
+  "geometry": {"coordinates":[34.26006,0.98709],"type":"Point"}
+}

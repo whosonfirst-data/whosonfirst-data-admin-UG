@@ -1,0 +1,73 @@
+{
+  "id": 1293408649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.96601,1.757,32.96601,1.757",
+    "geom:latitude":1.757,
+    "geom:longitude":32.96601,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B7",
+    "gn:admin3_code":"231170.0",
+    "gn:admin4_code":"8658424.0",
+    "gn:asciiname":"Otira",
+    "gn:country_code":"UG",
+    "gn:dem":1040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":226919,
+    "gn:latitude":1.757,
+    "gn:longitude":32.96601,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Otira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Otira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679799,
+        1092071719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226919
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6f6f505dcbe4bca11e0fb1d1e66d474a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071719,
+            "locality_id":1293408649,
+            "region_id":85679799
+        }
+    ],
+    "wof:id":1293408649,
+    "wof:lastmodified":1537712060,
+    "wof:name":"Otira",
+    "wof:parent_id":1092071719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.96601,
+    1.757,
+    32.96601,
+    1.757
+],
+  "geometry": {"coordinates":[32.96601,1.757],"type":"Point"}
+}

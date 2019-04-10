@@ -1,0 +1,68 @@
+{
+  "id": 1309940449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.04187,0.96909,33.04187,0.96909",
+    "geom:latitude":0.96909,
+    "geom:longitude":33.04187,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Agaliawamu",
+    "gn:country_code":"UG",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552864,
+    "gn:latitude":0.96909,
+    "gn:longitude":33.04187,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Agaliawamu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092068917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552864
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"fb1a5839fdbc99e6e480663b6fdb836c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068917,
+            "locality_id":1309940449,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":1309940449,
+    "wof:lastmodified":1536737091,
+    "wof:name":"Agaliawamu",
+    "wof:parent_id":1092068917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.04187,
+    0.96909,
+    33.04187,
+    0.96909
+],
+  "geometry": {"coordinates":[33.04187,0.96909],"type":"Point"}
+}

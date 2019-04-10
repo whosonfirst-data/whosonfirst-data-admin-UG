@@ -1,0 +1,70 @@
+{
+  "id": 1243299765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.58333,-0.66667,30.58333,-0.66667",
+    "geom:latitude":-0.66667,
+    "geom:longitude":30.58333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"52",
+    "gn:admin3_code":"226512.0",
+    "gn:admin4_code":"8658590.0",
+    "gn:asciiname":"Nyamatozho",
+    "gn:country_code":"UG",
+    "gn:dem":1417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227421,
+    "gn:latitude":-0.66667,
+    "gn:longitude":30.58333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nyamatozho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680069,
+        1092073881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227421
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c27a5ad51a0b6b0dd71d77f6fdd959ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073881,
+            "locality_id":1243299765,
+            "region_id":85680069
+        }
+    ],
+    "wof:id":1243299765,
+    "wof:lastmodified":1537016187,
+    "wof:name":"Nyamatozho",
+    "wof:parent_id":1092073881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.58333,
+    -0.66667,
+    30.58333,
+    -0.66667
+],
+  "geometry": {"coordinates":[30.58333,-0.66667],"type":"Point"}
+}

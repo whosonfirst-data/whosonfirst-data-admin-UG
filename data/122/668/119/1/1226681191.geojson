@@ -1,0 +1,70 @@
+{
+  "id": 1226681191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.87694,1.09028,32.87694,1.09028",
+    "geom:latitude":1.09028,
+    "geom:longitude":32.87694,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"83",
+    "gn:admin3_code":"8644158.0",
+    "gn:admin4_code":"8657751.0",
+    "gn:asciiname":"Bale",
+    "gn:country_code":"UG",
+    "gn:dem":1086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234872,
+    "gn:latitude":1.09028,
+    "gn:longitude":32.87694,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679787,
+        1092068673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234872
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1efa3f31d522191c666a9b50dfc2949e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068673,
+            "locality_id":1226681191,
+            "region_id":85679787
+        }
+    ],
+    "wof:id":1226681191,
+    "wof:lastmodified":1536808133,
+    "wof:name":"Bale",
+    "wof:parent_id":1092068673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.87694,
+    1.09028,
+    32.87694,
+    1.09028
+],
+  "geometry": {"coordinates":[32.87694,1.09028],"type":"Point"}
+}

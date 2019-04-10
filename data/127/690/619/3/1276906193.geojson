@@ -1,0 +1,73 @@
+{
+  "id": 1276906193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.52394,0.27666,33.52394,0.27666",
+    "geom:latitude":0.27666,
+    "geom:longitude":33.52394,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"86",
+    "gn:admin3_code":"8644164.0",
+    "gn:admin4_code":"8658516.0",
+    "gn:asciiname":"Mvule",
+    "gn:country_code":"UG",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259155,
+    "gn:latitude":0.27666,
+    "gn:longitude":33.52394,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Mvule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mvule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679985,
+        1092069607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259155
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d515300bea13f181afed0f46933186fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069607,
+            "locality_id":1276906193,
+            "region_id":85679985
+        }
+    ],
+    "wof:id":1276906193,
+    "wof:lastmodified":1537712121,
+    "wof:name":"Mvule",
+    "wof:parent_id":1092069607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.52394,
+    0.27666,
+    33.52394,
+    0.27666
+],
+  "geometry": {"coordinates":[33.52394,0.27666],"type":"Point"}
+}

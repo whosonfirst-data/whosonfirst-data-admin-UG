@@ -1,0 +1,64 @@
+{
+  "id": 1209652421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.34408,1.58161,31.34408,1.58161",
+    "geom:latitude":1.58161,
+    "geom:longitude":31.34408,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"7732256.0",
+    "gn:admin4_code":"8658194.0",
+    "gn:asciiname":"Kigomba",
+    "gn:country_code":"UG",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8080882,
+    "gn:latitude":1.58161,
+    "gn:longitude":31.34408,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kigomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8080882
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9db6fae2538934d44db00736e404ce42",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209652421
+        }
+    ],
+    "wof:id":1209652421,
+    "wof:lastmodified":1536280538,
+    "wof:name":"Kigomba",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.34408,
+    1.58161,
+    31.34408,
+    1.58161
+],
+  "geometry": {"coordinates":[31.34408,1.58161],"type":"Point"}
+}

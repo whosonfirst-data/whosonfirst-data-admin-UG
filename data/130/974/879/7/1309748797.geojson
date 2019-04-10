@@ -1,0 +1,70 @@
+{
+  "id": 1309748797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.73333,0.03333,31.73333,0.03333",
+    "geom:latitude":0.03333,
+    "geom:longitude":31.73333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F5",
+    "gn:admin3_code":"7910220.0",
+    "gn:admin4_code":"8658356.0",
+    "gn:asciiname":"Kalumaga",
+    "gn:country_code":"UG",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232496,
+    "gn:latitude":0.03333,
+    "gn:longitude":31.73333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kalumaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680223,
+        1092071167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232496
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e8222e8451a1bfdab5bb8e1f8f8bb6f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071167,
+            "locality_id":1309748797,
+            "region_id":85680223
+        }
+    ],
+    "wof:id":1309748797,
+    "wof:lastmodified":1537012524,
+    "wof:name":"Kalumaga",
+    "wof:parent_id":1092071167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.73333,
+    0.03333,
+    31.73333,
+    0.03333
+],
+  "geometry": {"coordinates":[31.73333,0.03333],"type":"Point"}
+}

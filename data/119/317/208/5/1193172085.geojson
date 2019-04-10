@@ -1,0 +1,71 @@
+{
+  "id": 1193172085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.1225,0.74601,34.1225,0.74601",
+    "geom:latitude":0.74601,
+    "geom:longitude":34.1225,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Olobai",
+    "gn:country_code":"UG",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11432846,
+    "gn:latitude":0.74601,
+    "gn:longitude":34.1225,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Olobai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Olobai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679989,
+        1092074289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11432846
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"96780e9d89256cca648731d8928335fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074289,
+            "locality_id":1193172085,
+            "region_id":85679989
+        }
+    ],
+    "wof:id":1193172085,
+    "wof:lastmodified":1537712156,
+    "wof:name":"Olobai",
+    "wof:parent_id":1092074289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.1225,
+    0.74601,
+    34.1225,
+    0.74601
+],
+  "geometry": {"coordinates":[34.1225,0.74601],"type":"Point"}
+}

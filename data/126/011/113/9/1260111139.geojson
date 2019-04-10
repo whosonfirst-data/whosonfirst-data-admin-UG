@@ -1,0 +1,70 @@
+{
+  "id": 1260111139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.04944,0.64583,31.04944,0.64583",
+    "geom:latitude":0.64583,
+    "geom:longitude":31.04944,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"G2",
+    "gn:admin3_code":"230499.0",
+    "gn:admin4_code":"7732541.0",
+    "gn:asciiname":"Nyamugura",
+    "gn:country_code":"UG",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227395,
+    "gn:latitude":0.64583,
+    "gn:longitude":31.04944,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nyamugura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680183,
+        1092072113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227395
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0a36e7f4c53131e0b1655dc83a1c4a74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072113,
+            "locality_id":1260111139,
+            "region_id":85680183
+        }
+    ],
+    "wof:id":1260111139,
+    "wof:lastmodified":1536948640,
+    "wof:name":"Nyamugura",
+    "wof:parent_id":1092072113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.04944,
+    0.64583,
+    31.04944,
+    0.64583
+],
+  "geometry": {"coordinates":[31.04944,0.64583],"type":"Point"}
+}

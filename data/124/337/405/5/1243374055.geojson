@@ -1,0 +1,71 @@
+{
+  "id": 1243374055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.49306,2.71917,33.49306,2.71917",
+    "geom:latitude":2.71917,
+    "geom:longitude":33.49306,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"E3",
+    "gn:admin3_code":"235459.0",
+    "gn:admin4_code":"8657577.0",
+    "gn:asciiname":"Adilang",
+    "gn:country_code":"UG",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235495,
+    "gn:latitude":2.71917,
+    "gn:longitude":33.49306,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Adilang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680169,
+        1092068365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235495,
+        "wk:page":"Adilang"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c10de2bba3b4ffc99c5edac4c7fe2cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068365,
+            "locality_id":1243374055,
+            "region_id":85680169
+        }
+    ],
+    "wof:id":1243374055,
+    "wof:lastmodified":1537575049,
+    "wof:name":"Adilang",
+    "wof:parent_id":1092068365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.49306,
+    2.71917,
+    33.49306,
+    2.71917
+],
+  "geometry": {"coordinates":[33.49306,2.71917],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243097825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.01056,0.3375,33.01056,0.3375",
+    "geom:latitude":0.3375,
+    "geom:longitude":33.01056,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E7",
+    "gn:admin3_code":"7732075.0",
+    "gn:admin4_code":"8658675.0",
+    "gn:asciiname":"Buikwe",
+    "gn:country_code":"UG",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":234480,
+    "gn:latitude":0.3375,
+    "gn:longitude":33.01056,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Buikwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680121,
+        1092069145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234480,
+        "wk:page":"Buikwe"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ecdc01aaf096c998f8a4dca05f807f45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069145,
+            "locality_id":1243097825,
+            "region_id":85680121
+        }
+    ],
+    "wof:id":1243097825,
+    "wof:lastmodified":1537575047,
+    "wof:name":"Buikwe",
+    "wof:parent_id":1092069145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.01056,
+    0.3375,
+    33.01056,
+    0.3375
+],
+  "geometry": {"coordinates":[33.01056,0.3375],"type":"Point"}
+}

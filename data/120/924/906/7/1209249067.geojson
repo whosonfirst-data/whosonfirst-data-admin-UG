@@ -1,0 +1,64 @@
+{
+  "id": 1209249067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.39356,1.05658,34.39356,1.05658",
+    "geom:latitude":1.05658,
+    "geom:longitude":34.39356,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C2",
+    "gn:admin3_code":"7869957.0",
+    "gn:admin4_code":"8658482.0",
+    "gn:asciiname":"Bushiyi",
+    "gn:country_code":"UG",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8628972,
+    "gn:latitude":1.05658,
+    "gn:longitude":34.39356,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bushiyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8628972
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9226735cce2ca6b1e5b5597d93b9b48e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209249067
+        }
+    ],
+    "wof:id":1209249067,
+    "wof:lastmodified":1536293064,
+    "wof:name":"Bushiyi",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.39356,
+    1.05658,
+    34.39356,
+    1.05658
+],
+  "geometry": {"coordinates":[34.39356,1.05658],"type":"Point"}
+}

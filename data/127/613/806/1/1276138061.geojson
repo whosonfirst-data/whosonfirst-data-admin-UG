@@ -1,0 +1,70 @@
+{
+  "id": 1276138061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.92683,2.55168,30.92683,2.55168",
+    "geom:latitude":2.55168,
+    "geom:longitude":30.92683,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"H7",
+    "gn:admin3_code":"227147.0",
+    "gn:admin4_code":"8657782.0",
+    "gn:asciiname":"Aringo",
+    "gn:country_code":"UG",
+    "gn:dem":1471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235051,
+    "gn:latitude":2.55168,
+    "gn:longitude":30.92683,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Aringo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680085,
+        1092073339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235051
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f9161c348ad61afac9c53111f4431101",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073339,
+            "locality_id":1276138061,
+            "region_id":85680085
+        }
+    ],
+    "wof:id":1276138061,
+    "wof:lastmodified":1537038638,
+    "wof:name":"Aringo",
+    "wof:parent_id":1092073339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.92683,
+    2.55168,
+    30.92683,
+    2.55168
+],
+  "geometry": {"coordinates":[30.92683,2.55168],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343292807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.29207,0.48966,32.29207,0.48966",
+    "geom:latitude":0.48966,
+    "geom:longitude":32.29207,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:asciiname":"Lutisi",
+    "gn:country_code":"UG",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11551952,
+    "gn:latitude":0.48966,
+    "gn:longitude":32.29207,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Lutisi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11551952
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"018c559aedb94e3b97841b33c24152de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1343292807,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1343292807,
+    "wof:lastmodified":1536987492,
+    "wof:name":"Lutisi",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.29207,
+    0.48966,
+    32.29207,
+    0.48966
+],
+  "geometry": {"coordinates":[32.29207,0.48966],"type":"Point"}
+}

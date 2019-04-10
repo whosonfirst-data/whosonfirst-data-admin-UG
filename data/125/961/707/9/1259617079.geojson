@@ -1,0 +1,70 @@
+{
+  "id": 1259617079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.61141,-0.80519,30.61141,-0.80519",
+    "geom:latitude":-0.80519,
+    "geom:longitude":30.61141,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"52",
+    "gn:admin3_code":"226512.0",
+    "gn:admin4_code":"8658428.0",
+    "gn:asciiname":"Kigaaga",
+    "gn:country_code":"UG",
+    "gn:dem":1738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258601,
+    "gn:latitude":-0.80519,
+    "gn:longitude":30.61141,
+    "gn:modification_date":"2016-10-05",
+    "gn:name":"Kigaaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680069,
+        1092073881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258601
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f62db9f1aa1bf52b22995407851a9927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073881,
+            "locality_id":1259617079,
+            "region_id":85680069
+        }
+    ],
+    "wof:id":1259617079,
+    "wof:lastmodified":1536666449,
+    "wof:name":"Kigaaga",
+    "wof:parent_id":1092073881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.61141,
+    -0.80519,
+    30.61141,
+    -0.80519
+],
+  "geometry": {"coordinates":[30.61141,-0.80519],"type":"Point"}
+}

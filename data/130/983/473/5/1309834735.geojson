@@ -1,0 +1,70 @@
+{
+  "id": 1309834735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.65,1.36667,32.65,1.36667",
+    "geom:latitude":1.36667,
+    "geom:longitude":32.65,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"73",
+    "gn:admin3_code":"234123.0",
+    "gn:admin4_code":"8658322.0",
+    "gn:asciiname":"Dagala",
+    "gn:country_code":"UG",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233623,
+    "gn:latitude":1.36667,
+    "gn:longitude":32.65,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dagala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679875,
+        1092069759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233623
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d92f1d6e7182d29b06d9a8ef702dc7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069759,
+            "locality_id":1309834735,
+            "region_id":85679875
+        }
+    ],
+    "wof:id":1309834735,
+    "wof:lastmodified":1536889140,
+    "wof:name":"Dagala",
+    "wof:parent_id":1092069759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.65,
+    1.36667,
+    32.65,
+    1.36667
+],
+  "geometry": {"coordinates":[32.65,1.36667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243098133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.01667,-1.38333,30.01667,-1.38333",
+    "geom:latitude":-1.38333,
+    "geom:longitude":30.01667,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"227915.0",
+    "gn:admin4_code":"8658421.0",
+    "gn:asciiname":"Kabahesi",
+    "gn:country_code":"UG",
+    "gn:dem":2090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233083,
+    "gn:latitude":-1.38333,
+    "gn:longitude":30.01667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kabahesi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680073,
+        1092073061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233083
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"069acd2a476ed4e15978a17e8c7ad6e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073061,
+            "locality_id":1243098133,
+            "region_id":85680073
+        }
+    ],
+    "wof:id":1243098133,
+    "wof:lastmodified":1536810202,
+    "wof:name":"Kabahesi",
+    "wof:parent_id":1092073061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.01667,
+    -1.38333,
+    30.01667,
+    -1.38333
+],
+  "geometry": {"coordinates":[30.01667,-1.38333],"type":"Point"}
+}

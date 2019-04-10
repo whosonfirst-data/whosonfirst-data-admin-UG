@@ -1,0 +1,73 @@
+{
+  "id": 1310629911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.19632,0.67667,30.19632,0.67667",
+    "geom:latitude":0.67667,
+    "geom:longitude":30.19632,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"79",
+    "gn:admin3_code":"7732254.0",
+    "gn:admin4_code":"8658700.0",
+    "gn:asciiname":"Ibonde",
+    "gn:country_code":"UG",
+    "gn:dem":1594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233289,
+    "gn:latitude":0.67667,
+    "gn:longitude":30.19632,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ibonde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ibonde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233289
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3b2e6f0209b3e8752b098450abdfc0c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069721,
+            "locality_id":1310629911,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1310629911,
+    "wof:lastmodified":1537712094,
+    "wof:name":"Ibonde",
+    "wof:parent_id":1092069721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.19632,
+    0.67667,
+    30.19632,
+    0.67667
+],
+  "geometry": {"coordinates":[30.19632,0.67667],"type":"Point"}
+}

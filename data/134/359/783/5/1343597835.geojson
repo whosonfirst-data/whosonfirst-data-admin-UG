@@ -1,0 +1,74 @@
+{
+  "id": 1343597835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.21759,0.28273,33.21759,0.28273",
+    "geom:latitude":0.28273,
+    "geom:longitude":33.21759,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F2",
+    "gn:admin3_code":"233919.0",
+    "gn:admin4_code":"8658170.0",
+    "gn:asciiname":"Kirongo",
+    "gn:country_code":"UG",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231110,
+    "gn:latitude":0.28273,
+    "gn:longitude":33.21759,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kirongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kikubo Landing",
+        "Kirongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680125,
+        1092070099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231110
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"92e613dc3a1ff4993f58a2153b53f4d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070099,
+            "locality_id":1343597835,
+            "region_id":85680125
+        }
+    ],
+    "wof:id":1343597835,
+    "wof:lastmodified":1537712084,
+    "wof:name":"Kirongo",
+    "wof:parent_id":1092070099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.21759,
+    0.28273,
+    33.21759,
+    0.28273
+],
+  "geometry": {"coordinates":[33.21759,0.28273],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209019559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.85,1.76667,34.85,1.76667",
+    "geom:latitude":1.76667,
+    "geom:longitude":34.85,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"91",
+    "gn:admin3_code":"8644141.0",
+    "gn:admin4_code":"8657805.0",
+    "gn:asciiname":"Katabok",
+    "gn:country_code":"UG",
+    "gn:dem":1327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231953,
+    "gn:latitude":1.76667,
+    "gn:longitude":34.85,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Katabok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotabok",
+        "Katabok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231953
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"02531634e6fa2a9c455d94049edf0c49",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209019559
+        }
+    ],
+    "wof:id":1209019559,
+    "wof:lastmodified":1537712088,
+    "wof:name":"Katabok",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.85,
+    1.76667,
+    34.85,
+    1.76667
+],
+  "geometry": {"coordinates":[34.85,1.76667],"type":"Point"}
+}

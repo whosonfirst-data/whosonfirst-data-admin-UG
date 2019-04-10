@@ -1,0 +1,70 @@
+{
+  "id": 1277013921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.98688,0.37811,32.98688,0.37811",
+    "geom:latitude":0.37811,
+    "geom:longitude":32.98688,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E7",
+    "gn:admin3_code":"7732075.0",
+    "gn:admin4_code":"8658333.0",
+    "gn:asciiname":"Tebalowoza",
+    "gn:country_code":"UG",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226176,
+    "gn:latitude":0.37811,
+    "gn:longitude":32.98688,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Tebalowoza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680121,
+        1092069145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226176
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d4b706a1c3ce0ecf73d1d4ed62f40834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069145,
+            "locality_id":1277013921,
+            "region_id":85680121
+        }
+    ],
+    "wof:id":1277013921,
+    "wof:lastmodified":1536860105,
+    "wof:name":"Tebalowoza",
+    "wof:parent_id":1092069145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.98688,
+    0.37811,
+    32.98688,
+    0.37811
+],
+  "geometry": {"coordinates":[32.98688,0.37811],"type":"Point"}
+}

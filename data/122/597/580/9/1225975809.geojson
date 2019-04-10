@@ -1,0 +1,68 @@
+{
+  "id": 1225975809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.50354,0.88849,33.50354,0.88849",
+    "geom:latitude":0.88849,
+    "geom:longitude":33.50354,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D2",
+    "gn:asciiname":"Busoma",
+    "gn:country_code":"UG",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429856,
+    "gn:latitude":0.88849,
+    "gn:longitude":33.50354,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Busoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679803,
+        1092069483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429856
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6f58128f309e7dbe0f616f3c4d5164d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069483,
+            "locality_id":1225975809,
+            "region_id":85679803
+        }
+    ],
+    "wof:id":1225975809,
+    "wof:lastmodified":1536825041,
+    "wof:name":"Busoma",
+    "wof:parent_id":1092069483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.50354,
+    0.88849,
+    33.50354,
+    0.88849
+],
+  "geometry": {"coordinates":[33.50354,0.88849],"type":"Point"}
+}

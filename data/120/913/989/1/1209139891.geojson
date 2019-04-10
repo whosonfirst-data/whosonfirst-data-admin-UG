@@ -1,0 +1,64 @@
+{
+  "id": 1209139891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.76482,0.7615,33.76482,0.7615",
+    "geom:latitude":0.7615,
+    "geom:longitude":33.76482,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"E1",
+    "gn:admin3_code":"8644136.0",
+    "gn:admin4_code":"8658053.0",
+    "gn:asciiname":"Mpumiro",
+    "gn:country_code":"UG",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228995,
+    "gn:latitude":0.7615,
+    "gn:longitude":33.76482,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Mpumiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228995
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8b44307ab33e2748e8c8426b5f9b9b2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209139891
+        }
+    ],
+    "wof:id":1209139891,
+    "wof:lastmodified":1536296538,
+    "wof:name":"Mpumiro",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.76482,
+    0.7615,
+    33.76482,
+    0.7615
+],
+  "geometry": {"coordinates":[33.76482,0.7615],"type":"Point"}
+}

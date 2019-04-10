@@ -1,0 +1,70 @@
+{
+  "id": 1343490447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.73867,0.31201,32.73867,0.31201",
+    "geom:latitude":0.31201,
+    "geom:longitude":32.73867,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"90",
+    "gn:admin3_code":"8644169.0",
+    "gn:admin4_code":"8658256.0",
+    "gn:asciiname":"Budo",
+    "gn:country_code":"UG",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11357043,
+    "gn:latitude":0.31201,
+    "gn:longitude":32.73867,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Budo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679817,
+        1092072911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11357043
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e7a08b53a04d6266ad2624ca4b63948b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072911,
+            "locality_id":1343490447,
+            "region_id":85679817
+        }
+    ],
+    "wof:id":1343490447,
+    "wof:lastmodified":1536703278,
+    "wof:name":"Budo",
+    "wof:parent_id":1092072911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.73867,
+    0.31201,
+    32.73867,
+    0.31201
+],
+  "geometry": {"coordinates":[32.73867,0.31201],"type":"Point"}
+}

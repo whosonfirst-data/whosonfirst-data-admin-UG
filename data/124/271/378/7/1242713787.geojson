@@ -1,0 +1,70 @@
+{
+  "id": 1242713787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.15806,1.31111,31.15806,1.31111",
+    "geom:latitude":1.31111,
+    "geom:longitude":31.15806,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"8644163.0",
+    "gn:admin4_code":"8658625.0",
+    "gn:asciiname":"Munteme",
+    "gn:country_code":"UG",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228796,
+    "gn:latitude":1.31111,
+    "gn:longitude":31.15806,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Munteme",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679933,
+        1092069075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228796
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d721daf42bd1aa1942fa1d8b910b5cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069075,
+            "locality_id":1242713787,
+            "region_id":85679933
+        }
+    ],
+    "wof:id":1242713787,
+    "wof:lastmodified":1536866282,
+    "wof:name":"Munteme",
+    "wof:parent_id":1092069075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.15806,
+    1.31111,
+    31.15806,
+    1.31111
+],
+  "geometry": {"coordinates":[31.15806,1.31111],"type":"Point"}
+}

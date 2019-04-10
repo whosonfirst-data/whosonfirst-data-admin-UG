@@ -1,0 +1,70 @@
+{
+  "id": 1259910633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.10468,1.78725,32.10468,1.78725",
+    "geom:latitude":1.78725,
+    "geom:longitude":32.10468,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"F7",
+    "gn:admin3_code":"231597.0",
+    "gn:admin4_code":"8657902.0",
+    "gn:asciiname":"Kitwara",
+    "gn:country_code":"UG",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538895,
+    "gn:latitude":1.78725,
+    "gn:longitude":32.10468,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kitwara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680175,
+        1092071513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538895
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a5c198a388f1f7a653d69d6ae42b9068",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071513,
+            "locality_id":1259910633,
+            "region_id":85680175
+        }
+    ],
+    "wof:id":1259910633,
+    "wof:lastmodified":1536739996,
+    "wof:name":"Kitwara",
+    "wof:parent_id":1092071513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.10468,
+    1.78725,
+    32.10468,
+    1.78725
+],
+  "geometry": {"coordinates":[32.10468,1.78725],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209042701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.26444,-0.1425,31.26444,-0.1425",
+    "geom:latitude":-0.1425,
+    "geom:longitude":31.26444,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D5",
+    "gn:admin3_code":"232958.0",
+    "gn:admin4_code":"8657666.0",
+    "gn:asciiname":"Mutoke",
+    "gn:country_code":"UG",
+    "gn:dem":1248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228707,
+    "gn:latitude":-0.1425,
+    "gn:longitude":31.26444,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mutoke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228707
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"702ee50141d98d50a196fea2e593beaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209042701
+        }
+    ],
+    "wof:id":1209042701,
+    "wof:lastmodified":1536299494,
+    "wof:name":"Mutoke",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.264440000000004,
+    -0.1425,
+    31.264440000000004,
+    -0.1425
+],
+  "geometry": {"coordinates":[31.26444,-0.1425],"type":"Point"}
+}

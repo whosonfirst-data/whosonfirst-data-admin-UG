@@ -1,0 +1,68 @@
+{
+  "id": 1209014987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.96196,3.07618,30.96196,3.07618",
+    "geom:latitude":3.07618,
+    "geom:longitude":30.96196,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"234911.0",
+    "gn:admin4_code":"8657558.0",
+    "gn:asciiname":"Yole",
+    "gn:country_code":"UG",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":225838,
+    "gn:latitude":3.07618,
+    "gn:longitude":30.96196,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Yole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yaule",
+        "Yole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":225838
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"07323bc78bdabdfd40e383dfe73f0efc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209014987
+        }
+    ],
+    "wof:id":1209014987,
+    "wof:lastmodified":1537712051,
+    "wof:name":"Yole",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.96196,
+    3.07618,
+    30.96196,
+    3.07618
+],
+  "geometry": {"coordinates":[30.96196,3.07618],"type":"Point"}
+}

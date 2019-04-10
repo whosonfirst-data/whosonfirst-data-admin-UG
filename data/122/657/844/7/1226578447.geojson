@@ -1,0 +1,73 @@
+{
+  "id": 1226578447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.26154,0.29187,33.26154,0.29187",
+    "geom:latitude":0.29187,
+    "geom:longitude":33.26154,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F2",
+    "gn:admin3_code":"233919.0",
+    "gn:admin4_code":"8658170.0",
+    "gn:asciiname":"Kibanga",
+    "gn:country_code":"UG",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11356481,
+    "gn:latitude":0.29187,
+    "gn:longitude":33.26154,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Kibanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kibanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680125,
+        1092070099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11356481
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"bb5b8c9e0365d98915eee50b29f8920c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070099,
+            "locality_id":1226578447,
+            "region_id":85680125
+        }
+    ],
+    "wof:id":1226578447,
+    "wof:lastmodified":1537712132,
+    "wof:name":"Kibanga",
+    "wof:parent_id":1092070099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.26154,
+    0.29187,
+    33.26154,
+    0.29187
+],
+  "geometry": {"coordinates":[33.26154,0.29187],"type":"Point"}
+}

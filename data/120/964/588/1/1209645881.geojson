@@ -1,0 +1,62 @@
+{
+  "id": 1209645881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.73238,0.80527,33.73238,0.80527",
+    "geom:latitude":0.80527,
+    "geom:longitude":33.73238,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"E1",
+    "gn:asciiname":"Namulu",
+    "gn:country_code":"UG",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11430084,
+    "gn:latitude":0.80527,
+    "gn:longitude":33.73238,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Namulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11430084
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c3cba792f76240a74b32dab550baf793",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209645881
+        }
+    ],
+    "wof:id":1209645881,
+    "wof:lastmodified":1536280738,
+    "wof:name":"Namulu",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.73238,
+    0.8052699999999999,
+    33.73238,
+    0.8052699999999999
+],
+  "geometry": {"coordinates":[33.73238,0.80527],"type":"Point"}
+}

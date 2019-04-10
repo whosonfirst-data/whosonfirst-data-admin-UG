@@ -1,0 +1,70 @@
+{
+  "id": 1193168425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.74,-0.01222,31.74,-0.01222",
+    "geom:latitude":-0.01222,
+    "geom:longitude":31.74,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F5",
+    "gn:admin3_code":"7910220.0",
+    "gn:admin4_code":"8658356.0",
+    "gn:asciiname":"Bwesa",
+    "gn:country_code":"UG",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233748,
+    "gn:latitude":-0.01222,
+    "gn:longitude":31.74,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bwesa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680223,
+        1092071167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233748
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"dca53e1e8948fa5776cd5625b09da09d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071167,
+            "locality_id":1193168425,
+            "region_id":85680223
+        }
+    ],
+    "wof:id":1193168425,
+    "wof:lastmodified":1536383136,
+    "wof:name":"Bwesa",
+    "wof:parent_id":1092071167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.74,
+    -0.01222,
+    31.74,
+    -0.01222
+],
+  "geometry": {"coordinates":[31.74,-0.01222],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343272265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.78739,3.03544,30.78739,3.03544",
+    "geom:latitude":3.03544,
+    "geom:longitude":30.78739,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"234911.0",
+    "gn:admin4_code":"8657622.0",
+    "gn:asciiname":"Mite",
+    "gn:country_code":"UG",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229148,
+    "gn:latitude":3.03544,
+    "gn:longitude":30.78739,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mite",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679837,
+        1092068591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229148
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7490052b838ff542837904fdde4b9962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068591,
+            "locality_id":1343272265,
+            "region_id":85679837
+        }
+    ],
+    "wof:id":1343272265,
+    "wof:lastmodified":1537017056,
+    "wof:name":"Mite",
+    "wof:parent_id":1092068591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.78739,
+    3.03544,
+    30.78739,
+    3.03544
+],
+  "geometry": {"coordinates":[30.78739,3.03544],"type":"Point"}
+}

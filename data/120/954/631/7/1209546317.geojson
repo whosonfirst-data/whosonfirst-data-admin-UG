@@ -1,0 +1,62 @@
+{
+  "id": 1209546317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4291,0.72979,33.4291,0.72979",
+    "geom:latitude":0.72979,
+    "geom:longitude":33.4291,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"78",
+    "gn:asciiname":"Nsinze",
+    "gn:country_code":"UG",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553541,
+    "gn:latitude":0.72979,
+    "gn:longitude":33.4291,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Nsinze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553541
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"098c93f0fdd6d9369595aa57a90bbbd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209546317
+        }
+    ],
+    "wof:id":1209546317,
+    "wof:lastmodified":1536283832,
+    "wof:name":"Nsinze",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4291,
+    0.7297899999999999,
+    33.4291,
+    0.7297899999999999
+],
+  "geometry": {"coordinates":[33.4291,0.72979],"type":"Point"}
+}

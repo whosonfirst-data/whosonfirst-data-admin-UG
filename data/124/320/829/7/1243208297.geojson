@@ -1,0 +1,70 @@
+{
+  "id": 1243208297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.10767,0.33099,32.10767,0.33099",
+    "geom:latitude":0.33099,
+    "geom:longitude":32.10767,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:admin3_code":"8644152.0",
+    "gn:admin4_code":"8657790.0",
+    "gn:asciiname":"Wabiyinja",
+    "gn:country_code":"UG",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226010,
+    "gn:latitude":0.33099,
+    "gn:longitude":32.10767,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Wabiyinja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679891,
+        1092069929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226010
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7545f62116f8b02d862f90fbf9de6f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069929,
+            "locality_id":1243208297,
+            "region_id":85679891
+        }
+    ],
+    "wof:id":1243208297,
+    "wof:lastmodified":1536651781,
+    "wof:name":"Wabiyinja",
+    "wof:parent_id":1092069929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.10767,
+    0.33099,
+    32.10767,
+    0.33099
+],
+  "geometry": {"coordinates":[32.10767,0.33099],"type":"Point"}
+}

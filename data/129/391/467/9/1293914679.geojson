@@ -1,0 +1,70 @@
+{
+  "id": 1293914679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.16667,0.46667,30.16667,0.46667",
+    "geom:latitude":0.46667,
+    "geom:longitude":30.16667,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"H8",
+    "gn:admin3_code":"234153.0",
+    "gn:admin4_code":"8657835.0",
+    "gn:asciiname":"Kabonero",
+    "gn:country_code":"UG",
+    "gn:dem":1459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232982,
+    "gn:latitude":0.46667,
+    "gn:longitude":30.16667,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Kabonero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232982
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7c9e7b889ca6196617658d7d77691790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069635,
+            "locality_id":1293914679,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1293914679,
+    "wof:lastmodified":1536668452,
+    "wof:name":"Kabonero",
+    "wof:parent_id":1092069635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.16667,
+    0.46667,
+    30.16667,
+    0.46667
+],
+  "geometry": {"coordinates":[30.16667,0.46667],"type":"Point"}
+}

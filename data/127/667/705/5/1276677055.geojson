@@ -1,0 +1,70 @@
+{
+  "id": 1276677055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.45668,2.33164,32.45668,2.33164",
+    "geom:latitude":2.33164,
+    "geom:longitude":32.45668,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"E2",
+    "gn:admin3_code":"226883.0",
+    "gn:admin4_code":"8261617.0",
+    "gn:asciiname":"Atipe",
+    "gn:country_code":"UG",
+    "gn:dem":1051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8194820,
+    "gn:latitude":2.33164,
+    "gn:longitude":32.45668,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Atipe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679927,
+        1092073449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8194820
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f21fc370aae56ace18a436867422c8b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073449,
+            "locality_id":1276677055,
+            "region_id":85679927
+        }
+    ],
+    "wof:id":1276677055,
+    "wof:lastmodified":1536814443,
+    "wof:name":"Atipe",
+    "wof:parent_id":1092073449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.45668,
+    2.33164,
+    32.45668,
+    2.33164
+],
+  "geometry": {"coordinates":[32.45668,2.33164],"type":"Point"}
+}

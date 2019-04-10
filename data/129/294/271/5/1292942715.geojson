@@ -1,0 +1,70 @@
+{
+  "id": 1292942715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6,-0.06667,30.6,-0.06667",
+    "geom:latitude":-0.06667,
+    "geom:longitude":30.6,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"D3",
+    "gn:admin3_code":"8644177.0",
+    "gn:admin4_code":"8657882.0",
+    "gn:asciiname":"Katagyengyera",
+    "gn:country_code":"UG",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231948,
+    "gn:latitude":-0.06667,
+    "gn:longitude":30.6,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Katagyengyera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        1108808411,
+        1092071473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231948
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0bfc1c7425dc7dd42607c361fdf0e8e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071473,
+            "locality_id":1292942715,
+            "region_id":1108808411
+        }
+    ],
+    "wof:id":1292942715,
+    "wof:lastmodified":1537072209,
+    "wof:name":"Katagyengyera",
+    "wof:parent_id":1092071473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6,
+    -0.06667,
+    30.6,
+    -0.06667
+],
+  "geometry": {"coordinates":[30.6,-0.06667],"type":"Point"}
+}

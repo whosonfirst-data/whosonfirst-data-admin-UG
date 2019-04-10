@@ -1,0 +1,70 @@
+{
+  "id": 1293705453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.40105,3.05702,33.40105,3.05702",
+    "geom:latitude":3.05702,
+    "geom:longitude":33.40105,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"E3",
+    "gn:admin3_code":"235459.0",
+    "gn:admin4_code":"8657929.0",
+    "gn:asciiname":"Lulim",
+    "gn:country_code":"UG",
+    "gn:dem":1124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8693932,
+    "gn:latitude":3.05702,
+    "gn:longitude":33.40105,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lulim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680169,
+        1092068365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8693932
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a5452daa984954a5be64c47a42db0bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068365,
+            "locality_id":1293705453,
+            "region_id":85680169
+        }
+    ],
+    "wof:id":1293705453,
+    "wof:lastmodified":1536969863,
+    "wof:name":"Lulim",
+    "wof:parent_id":1092068365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.40105,
+    3.05702,
+    33.40105,
+    3.05702
+],
+  "geometry": {"coordinates":[33.40105,3.05702],"type":"Point"}
+}

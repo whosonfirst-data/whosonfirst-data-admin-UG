@@ -1,0 +1,68 @@
+{
+  "id": 1226680655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.28107,0.90135,33.28107,0.90135",
+    "geom:latitude":0.90135,
+    "geom:longitude":33.28107,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Bulondo",
+    "gn:country_code":"UG",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553173,
+    "gn:latitude":0.90135,
+    "gn:longitude":33.28107,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bulondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092068917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553173
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f78d21d1da0dad1309cfa0cefc9b59f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068917,
+            "locality_id":1226680655,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":1226680655,
+    "wof:lastmodified":1536808842,
+    "wof:name":"Bulondo",
+    "wof:parent_id":1092068917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.28107,
+    0.90135,
+    33.28107,
+    0.90135
+],
+  "geometry": {"coordinates":[33.28107,0.90135],"type":"Point"}
+}

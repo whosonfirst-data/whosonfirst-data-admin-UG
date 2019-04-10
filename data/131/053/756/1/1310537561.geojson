@@ -1,0 +1,70 @@
+{
+  "id": 1310537561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9,0.68333,32.9,0.68333",
+    "geom:latitude":0.68333,
+    "geom:longitude":32.9,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"83",
+    "gn:admin3_code":"227613.0",
+    "gn:admin4_code":"8658174.0",
+    "gn:asciiname":"Ntoke",
+    "gn:country_code":"UG",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227609,
+    "gn:latitude":0.68333,
+    "gn:longitude":32.9,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ntoke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679787,
+        1092073141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227609
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b799a435aba8fdb13dcb95d289140358",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073141,
+            "locality_id":1310537561,
+            "region_id":85679787
+        }
+    ],
+    "wof:id":1310537561,
+    "wof:lastmodified":1536869474,
+    "wof:name":"Ntoke",
+    "wof:parent_id":1092073141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9,
+    0.68333,
+    32.9,
+    0.68333
+],
+  "geometry": {"coordinates":[32.9,0.68333],"type":"Point"}
+}

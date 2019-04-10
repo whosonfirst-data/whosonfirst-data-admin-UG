@@ -1,0 +1,64 @@
+{
+  "id": 1209035959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.12696,0.15654,32.12696,0.15654",
+    "geom:latitude":0.15654,
+    "geom:longitude":32.12696,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F1",
+    "gn:admin3_code":"234000.0",
+    "gn:admin4_code":"8658354.0",
+    "gn:asciiname":"Wananda",
+    "gn:country_code":"UG",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":225929,
+    "gn:latitude":0.15654,
+    "gn:longitude":32.12696,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Wananda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":225929
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e3aa02b77bd0dbfd5b53c604d157f9d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209035959
+        }
+    ],
+    "wof:id":1209035959,
+    "wof:lastmodified":1536299699,
+    "wof:name":"Wananda",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.12696,
+    0.15654,
+    32.12696,
+    0.15654
+],
+  "geometry": {"coordinates":[32.12696,0.15654],"type":"Point"}
+}

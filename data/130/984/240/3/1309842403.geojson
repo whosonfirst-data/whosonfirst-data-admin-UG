@@ -1,0 +1,70 @@
+{
+  "id": 1309842403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65073,1.84502,33.65073,1.84502",
+    "geom:latitude":1.84502,
+    "geom:longitude":33.65073,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"95",
+    "gn:admin3_code":"226232.0",
+    "gn:admin4_code":"8657623.0",
+    "gn:asciiname":"Arabaka",
+    "gn:country_code":"UG",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235076,
+    "gn:latitude":1.84502,
+    "gn:longitude":33.65073,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Arabaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679813,
+        1092074055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235076
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8ac9c05c0719ee5be4a673d00b59bae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074055,
+            "locality_id":1309842403,
+            "region_id":85679813
+        }
+    ],
+    "wof:id":1309842403,
+    "wof:lastmodified":1536877401,
+    "wof:name":"Arabaka",
+    "wof:parent_id":1092074055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65073,
+    1.84502,
+    33.65073,
+    1.84502
+],
+  "geometry": {"coordinates":[33.65073,1.84502],"type":"Point"}
+}

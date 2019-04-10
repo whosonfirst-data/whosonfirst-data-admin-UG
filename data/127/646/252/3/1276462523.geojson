@@ -1,0 +1,70 @@
+{
+  "id": 1276462523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8884,2.81624,30.8884,2.81624",
+    "geom:latitude":2.81624,
+    "geom:longitude":30.8884,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"226029.0",
+    "gn:admin4_code":"8657975.0",
+    "gn:asciiname":"Opika",
+    "gn:country_code":"UG",
+    "gn:dem":1413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226981,
+    "gn:latitude":2.81624,
+    "gn:longitude":30.8884,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Opika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679837,
+        1092074259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226981
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7a810d7e5ca7c5b63dab6efa23345d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074259,
+            "locality_id":1276462523,
+            "region_id":85679837
+        }
+    ],
+    "wof:id":1276462523,
+    "wof:lastmodified":1536602525,
+    "wof:name":"Opika",
+    "wof:parent_id":1092074259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8884,
+    2.81624,
+    30.8884,
+    2.81624
+],
+  "geometry": {"coordinates":[30.8884,2.81624],"type":"Point"}
+}

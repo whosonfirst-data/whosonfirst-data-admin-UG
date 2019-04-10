@@ -1,0 +1,68 @@
+{
+  "id": 1209651421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.51928,1.95273,33.51928,1.95273",
+    "geom:latitude":1.95273,
+    "geom:longitude":33.51928,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"95",
+    "gn:admin3_code":"226232.0",
+    "gn:admin4_code":"8658360.0",
+    "gn:asciiname":"Omatikile",
+    "gn:country_code":"UG",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227063,
+    "gn:latitude":1.95273,
+    "gn:longitude":33.51928,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Omatikile",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Omatakire",
+        "Omatikile"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227063
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"85c043fef18a8b2fb25dab5a1fa3ffb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209651421
+        }
+    ],
+    "wof:id":1209651421,
+    "wof:lastmodified":1537712062,
+    "wof:name":"Omatikile",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.51928,
+    1.95273,
+    33.51928,
+    1.95273
+],
+  "geometry": {"coordinates":[33.51928,1.95273],"type":"Point"}
+}

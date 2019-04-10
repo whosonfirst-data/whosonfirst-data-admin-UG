@@ -1,0 +1,78 @@
+{
+  "id": 1243190967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.83972,1.61556,32.83972,1.61556",
+    "geom:latitude":1.61556,
+    "geom:longitude":32.83972,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B7",
+    "gn:admin3_code":"231170.0",
+    "gn:admin4_code":"8658492.0",
+    "gn:asciiname":"Amolatar",
+    "gn:country_code":"UG",
+    "gn:dem":1041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":235203,
+    "gn:latitude":1.61556,
+    "gn:longitude":32.83972,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Amolatar",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Molitar",
+        "Amolota",
+        "Amolitar",
+        "Amolotar",
+        "Amolatar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679799,
+        1092071719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235203,
+        "wk:page":"Amolatar"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f3da581124e03d516bb6f1056af291e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071719,
+            "locality_id":1243190967,
+            "region_id":85679799
+        }
+    ],
+    "wof:id":1243190967,
+    "wof:lastmodified":1537712109,
+    "wof:name":"Amolatar",
+    "wof:parent_id":1092071719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.83972,
+    1.61556,
+    32.83972,
+    1.61556
+],
+  "geometry": {"coordinates":[32.83972,1.61556],"type":"Point"}
+}

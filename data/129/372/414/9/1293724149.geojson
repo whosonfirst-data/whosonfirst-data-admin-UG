@@ -1,0 +1,71 @@
+{
+  "id": 1293724149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.38333,0.08333,30.38333,0.08333",
+    "geom:latitude":0.08333,
+    "geom:longitude":30.38333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"81",
+    "gn:admin3_code":"7732901.0",
+    "gn:admin4_code":"8658629.0",
+    "gn:asciiname":"Mpanga",
+    "gn:country_code":"UG",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229044,
+    "gn:latitude":0.08333,
+    "gn:longitude":30.38333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mpanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680041,
+        1092071759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229044,
+        "wk:page":"Mpanga"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"bc0ae59a4126de630822af27742e52e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071759,
+            "locality_id":1293724149,
+            "region_id":85680041
+        }
+    ],
+    "wof:id":1293724149,
+    "wof:lastmodified":1537575040,
+    "wof:name":"Mpanga",
+    "wof:parent_id":1092071759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.38333,
+    0.08333,
+    30.38333,
+    0.08333
+],
+  "geometry": {"coordinates":[30.38333,0.08333],"type":"Point"}
+}

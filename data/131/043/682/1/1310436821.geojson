@@ -1,0 +1,70 @@
+{
+  "id": 1310436821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.14433,1.77494,32.14433,1.77494",
+    "geom:latitude":1.77494,
+    "geom:longitude":32.14433,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"F7",
+    "gn:admin3_code":"231597.0",
+    "gn:admin4_code":"8657902.0",
+    "gn:asciiname":"Kankoba",
+    "gn:country_code":"UG",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232317,
+    "gn:latitude":1.77494,
+    "gn:longitude":32.14433,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kankoba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680175,
+        1092071513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232317
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a751f085972a1b85959629887187bf92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071513,
+            "locality_id":1310436821,
+            "region_id":85680175
+        }
+    ],
+    "wof:id":1310436821,
+    "wof:lastmodified":1537015397,
+    "wof:name":"Kankoba",
+    "wof:parent_id":1092071513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.14433,
+    1.77494,
+    32.14433,
+    1.77494
+],
+  "geometry": {"coordinates":[32.14433,1.77494],"type":"Point"}
+}

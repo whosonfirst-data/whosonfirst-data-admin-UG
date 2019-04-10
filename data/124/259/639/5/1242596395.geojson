@@ -1,0 +1,70 @@
+{
+  "id": 1242596395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.33766,3.00402,33.33766,3.00402",
+    "geom:latitude":3.00402,
+    "geom:longitude":33.33766,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"E3",
+    "gn:admin3_code":"235459.0",
+    "gn:admin4_code":"8657929.0",
+    "gn:asciiname":"Pacer",
+    "gn:country_code":"UG",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8693941,
+    "gn:latitude":3.00402,
+    "gn:longitude":33.33766,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pacer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680169,
+        1092068365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8693941
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2579647d58fb01496147138dbb07398c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068365,
+            "locality_id":1242596395,
+            "region_id":85680169
+        }
+    ],
+    "wof:id":1242596395,
+    "wof:lastmodified":1537035031,
+    "wof:name":"Pacer",
+    "wof:parent_id":1092068365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.33766,
+    3.00402,
+    33.33766,
+    3.00402
+],
+  "geometry": {"coordinates":[33.33766,3.00402],"type":"Point"}
+}

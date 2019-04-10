@@ -1,0 +1,70 @@
+{
+  "id": 1259794065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.08095,3.20025,33.08095,3.20025",
+    "geom:latitude":3.20025,
+    "geom:longitude":33.08095,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"84",
+    "gn:admin3_code":"233642.0",
+    "gn:admin4_code":"8647781.0",
+    "gn:asciiname":"Lagoro",
+    "gn:country_code":"UG",
+    "gn:dem":1039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8617618,
+    "gn:latitude":3.20025,
+    "gn:longitude":33.08095,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lagoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679899,
+        1092070355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8617618
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4323624ecd4510f0035118137a80dd90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070355,
+            "locality_id":1259794065,
+            "region_id":85679899
+        }
+    ],
+    "wof:id":1259794065,
+    "wof:lastmodified":1536908118,
+    "wof:name":"Lagoro",
+    "wof:parent_id":1092070355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.08095,
+    3.20025,
+    33.08095,
+    3.20025
+],
+  "geometry": {"coordinates":[33.08095,3.20025],"type":"Point"}
+}

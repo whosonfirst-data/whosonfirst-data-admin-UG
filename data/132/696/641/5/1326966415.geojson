@@ -1,0 +1,81 @@
+{
+  "id": 1326966415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7248,0.04008,29.7248,0.04008",
+    "geom:latitude":0.04008,
+    "geom:longitude":29.7248,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"40",
+    "gn:admin3_code":"7869968.0",
+    "gn:admin4_code":"8657869.0",
+    "gn:asciiname":"Mpondwe",
+    "gn:country_code":"UG",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229006,
+    "gn:latitude":0.04008,
+    "gn:longitude":29.7248,
+    "gn:modification_date":"2015-07-10",
+    "gn:name":"Mpondwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680037,
+        1092069357,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229006,
+        "wk:page":"Mpondwe"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8070e30dd1f78da94a9c1432e13ec8cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069357,
+            "locality_id":1326966415,
+            "region_id":85680037
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1326966415,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1326966415,
+    "wof:lastmodified":1537575040,
+    "wof:name":"Mpondwe",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7248,
+    0.04008,
+    29.7248,
+    0.04008
+],
+  "geometry": {"coordinates":[29.7248,0.04008],"type":"Point"}
+}

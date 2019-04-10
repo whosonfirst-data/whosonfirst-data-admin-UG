@@ -1,0 +1,74 @@
+{
+  "id": 1360121675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.53333,1.41667,34.53333,1.41667",
+    "geom:latitude":1.41667,
+    "geom:longitude":34.53333,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"F9",
+    "gn:admin3_code":"7732258.0",
+    "gn:admin4_code":"8657937.0",
+    "gn:asciiname":"Tuskini",
+    "gn:country_code":"UG",
+    "gn:dem":1963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226086,
+    "gn:latitude":1.41667,
+    "gn:longitude":34.53333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tuskini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toskin",
+        "Tuskini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680187,
+        1092072009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226086
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4387c2b27fe34437ab9c69d77b940dbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072009,
+            "locality_id":1360121675,
+            "region_id":85680187
+        }
+    ],
+    "wof:id":1360121675,
+    "wof:lastmodified":1537712053,
+    "wof:name":"Tuskini",
+    "wof:parent_id":1092072009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.53333,
+    1.41667,
+    34.53333,
+    1.41667
+],
+  "geometry": {"coordinates":[34.53333,1.41667],"type":"Point"}
+}

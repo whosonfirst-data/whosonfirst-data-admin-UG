@@ -1,0 +1,70 @@
+{
+  "id": 1226476415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.41667,1.01667,31.41667,1.01667",
+    "geom:latitude":1.01667,
+    "geom:longitude":31.41667,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"I2",
+    "gn:admin3_code":"8644161.0",
+    "gn:admin4_code":"8658063.0",
+    "gn:asciiname":"Muchubwa",
+    "gn:country_code":"UG",
+    "gn:dem":1175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228956,
+    "gn:latitude":1.01667,
+    "gn:longitude":31.41667,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Muchubwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679947,
+        1092068999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228956
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7f3855ee1e651c4c17ca395f36eb36c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068999,
+            "locality_id":1226476415,
+            "region_id":85679947
+        }
+    ],
+    "wof:id":1226476415,
+    "wof:lastmodified":1537094726,
+    "wof:name":"Muchubwa",
+    "wof:parent_id":1092068999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.41667,
+    1.01667,
+    31.41667,
+    1.01667
+],
+  "geometry": {"coordinates":[31.41667,1.01667],"type":"Point"}
+}

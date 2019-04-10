@@ -1,0 +1,73 @@
+{
+  "id": 1210031429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.77297,1.70478,32.77297,1.70478",
+    "geom:latitude":1.70478,
+    "geom:longitude":32.77297,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B7",
+    "gn:admin3_code":"231170.0",
+    "gn:admin4_code":"8658553.0",
+    "gn:asciiname":"Awelo",
+    "gn:country_code":"UG",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234946,
+    "gn:latitude":1.70478,
+    "gn:longitude":32.77297,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Awelo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Awelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679799,
+        1092071719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234946
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"72dc240116d28109b2722dee2204f678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071719,
+            "locality_id":1210031429,
+            "region_id":85679799
+        }
+    ],
+    "wof:id":1210031429,
+    "wof:lastmodified":1537712106,
+    "wof:name":"Awelo",
+    "wof:parent_id":1092071719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.77297,
+    1.70478,
+    32.77297,
+    1.70478
+],
+  "geometry": {"coordinates":[32.77297,1.70478],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276581021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3231,0.67815,33.3231,0.67815",
+    "geom:latitude":0.67815,
+    "geom:longitude":33.3231,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G4",
+    "gn:asciiname":"Nanvunano",
+    "gn:country_code":"UG",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553515,
+    "gn:latitude":0.67815,
+    "gn:longitude":33.3231,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Nanvunano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680097,
+        1092072403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553515
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"bc4bdaf33e0e82c8f6d244e250633bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072403,
+            "locality_id":1276581021,
+            "region_id":85680097
+        }
+    ],
+    "wof:id":1276581021,
+    "wof:lastmodified":1536945007,
+    "wof:name":"Nanvunano",
+    "wof:parent_id":1092072403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3231,
+    0.67815,
+    33.3231,
+    0.67815
+],
+  "geometry": {"coordinates":[33.3231,0.67815],"type":"Point"}
+}

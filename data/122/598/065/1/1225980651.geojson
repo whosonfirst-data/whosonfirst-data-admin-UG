@@ -1,0 +1,70 @@
+{
+  "id": 1225980651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.25,-0.48333,31.25,-0.48333",
+    "geom:latitude":-0.48333,
+    "geom:longitude":31.25,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"61",
+    "gn:admin3_code":"8644135.0",
+    "gn:admin4_code":"8658518.0",
+    "gn:asciiname":"Bwenyege",
+    "gn:country_code":"UG",
+    "gn:dem":1289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233756,
+    "gn:latitude":-0.48333,
+    "gn:longitude":31.25,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bwenyege",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680025,
+        1092071897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233756
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"05c9e0791167987a9fdb7978908f24a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071897,
+            "locality_id":1225980651,
+            "region_id":85680025
+        }
+    ],
+    "wof:id":1225980651,
+    "wof:lastmodified":1536818021,
+    "wof:name":"Bwenyege",
+    "wof:parent_id":1092071897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.25,
+    -0.48333,
+    31.25,
+    -0.48333
+],
+  "geometry": {"coordinates":[31.25,-0.48333],"type":"Point"}
+}

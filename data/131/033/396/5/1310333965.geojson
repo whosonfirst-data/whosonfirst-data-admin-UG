@@ -1,0 +1,71 @@
+{
+  "id": 1310333965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.3002,0.70076,33.3002,0.70076",
+    "geom:latitude":0.70076,
+    "geom:longitude":33.3002,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G4",
+    "gn:admin3_code":"229762.0",
+    "gn:admin4_code":"8657928.0",
+    "gn:asciiname":"Luuka Town",
+    "gn:country_code":"UG",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8051538,
+    "gn:latitude":0.70076,
+    "gn:longitude":33.3002,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Luuka Town",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680097,
+        1092072403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051538,
+        "wk:page":"Luuka_Town"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e4cd93705fd64e4271be08b1dfc4f564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072403,
+            "locality_id":1310333965,
+            "region_id":85680097
+        }
+    ],
+    "wof:id":1310333965,
+    "wof:lastmodified":1537575050,
+    "wof:name":"Luuka Town",
+    "wof:parent_id":1092072403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.3002,
+    0.70076,
+    33.3002,
+    0.70076
+],
+  "geometry": {"coordinates":[33.3002,0.70076],"type":"Point"}
+}

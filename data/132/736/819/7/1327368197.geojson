@@ -1,0 +1,75 @@
+{
+  "id": 1327368197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.62706,0.75341,33.62706,0.75341",
+    "geom:latitude":0.75341,
+    "geom:longitude":33.62706,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"78",
+    "gn:admin3_code":"234502.0",
+    "gn:admin4_code":"8658167.0",
+    "gn:asciiname":"Namunyumya Mairo",
+    "gn:country_code":"UG",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228109,
+    "gn:latitude":0.75341,
+    "gn:longitude":33.62706,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Namunyumya Mairo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namunyuma",
+        "Namunyumya",
+        "Namunyumya Mairo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679789,
+        1092069033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228109
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6e3e144c2fdf3ab8530a3827f7b96af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069033,
+            "locality_id":1327368197,
+            "region_id":85679789
+        }
+    ],
+    "wof:id":1327368197,
+    "wof:lastmodified":1537712068,
+    "wof:name":"Namunyumya Mairo",
+    "wof:parent_id":1092069033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.62706,
+    0.75341,
+    33.62706,
+    0.75341
+],
+  "geometry": {"coordinates":[33.62706,0.75341],"type":"Point"}
+}

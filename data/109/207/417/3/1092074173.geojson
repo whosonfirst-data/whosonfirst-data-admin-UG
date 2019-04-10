@@ -1,0 +1,207 @@
+{
+  "id": 1092074173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002569,
+    "geom:area_square_m":31769342.721445,
+    "geom:bbox":"34.1545781103,0.65412542805,34.2123513835,0.717209879732",
+    "geom:latitude":0.687101,
+    "geom:longitude":34.182537,
+    "iso:country":"UG",
+    "lbl:latitude":0.68715,
+    "lbl:longitude":34.181987,
+    "meso:admin_1":"TORORO",
+    "meso:admin_1r":"ELGON",
+    "meso:dissme":"TORORO MUNICIPALITYTOROROELGON",
+    "meso:gadm_admin":"Tororo",
+    "meso:gadm_hasc2":"UG.TR.TR",
+    "meso:gaul_admin":"Tororo Municipality",
+    "meso:mps_x":34.181987,
+    "meso:mps_y":0.68715,
+    "meso:name_en":"TORORO MUNICIPALITY",
+    "meso:source":"AOTM",
+    "mps:latitude":0.68715,
+    "mps:longitude":34.181987,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0648\u0631\u0648\u0631\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09c1\u09b0\u09c1\u09b0\u09c1 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u6258\u7f85\u7f85\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Tororo District"
+    ],
+    "name:dut_x_preferred":[
+        "Tororo"
+    ],
+    "name:eng_x_preferred":[
+        "Tororo Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Tororo Municipality",
+        "Tororo",
+        "Tororo District",
+        "TORORO MUNICIPALITY"
+    ],
+    "name:fin_x_preferred":[
+        "Tororon kaupunginosa"
+    ],
+    "name:fre_x_preferred":[
+        "Tororo"
+    ],
+    "name:ger_x_preferred":[
+        "Tororo-Distrikt"
+    ],
+    "name:glg_x_preferred":[
+        "Distrito Tororo"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03bf\u03c1\u03cc\u03c1\u03bf"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9f\u0acb\u0ab0\u0acb\u0ab0\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e8\u05d5\u05e8\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u094b\u0930\u094b\u0930\u094b \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Tororo"
+    ],
+    "name:ita_x_preferred":[
+        "Tororo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c8\u30ed\u30ed\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9f\u0cca\u0cb0\u0cca\u0cb0\u0cca \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ud1a0\ub85c\ub85c \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Tororo distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Tororo sritis"
+    ],
+    "name:lug_x_preferred":[
+        "Tororo"
+    ],
+    "name:mar_x_preferred":[
+        "\u091f\u094b\u0930\u094b\u0930\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Tororo District"
+    ],
+    "name:nob_x_preferred":[
+        "Tororo"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Tororo"
+    ],
+    "name:por_x_preferred":[
+        "Distrito de Tororo"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Tororo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0440\u043e\u0440\u043e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0ddc\u0dbb\u0ddd\u0dbb\u0ddd \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Tororo"
+    ],
+    "name:swa_x_preferred":[
+        "Wilaya ya Tororo"
+    ],
+    "name:swe_x_preferred":[
+        "Tororodistriktet"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bcb\u0bb0\u0bcb\u0bb0\u0bcb  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c4a\u0c30\u0c4b\u0c30\u0c4b \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e1b\u0e01\u0e04\u0e23\u0e2d\u0e07\u0e42\u0e15\u0e42\u0e23\u0e42\u0e23\u0e48"
+    ],
+    "name:tur_x_preferred":[
+        "Tororo District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u0422\u043e\u0440\u043e\u0440\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0648\u0631\u0648\u0631\u0648 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Tororo"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"UG",
+    "statoids:hasc":"UG.TR",
+    "statoids:name":"Tororo",
+    "statoids:population":"",
+    "statoids:statoid":"UG.TR.TR",
+    "statoids:timezone":"3",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679989
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"UG.TR.TR",
+        "wd:id":"Q1186541"
+    },
+    "wof:country":"UG",
+    "wof:created":1473899477,
+    "wof:geomhash":"5d53d2728787b21e5acf63344a65d748",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074173,
+            "region_id":85679989
+        }
+    ],
+    "wof:id":1092074173,
+    "wof:lastmodified":1544032789,
+    "wof:name":"Tororo Municipality",
+    "wof:parent_id":85679989,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:shortcode":"TR",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.15457811033465,
+    0.65412542804983,
+    34.21235138346439,
+    0.71720987973155
+],
+  "geometry": {"coordinates":[[[34.15512405147232,0.68463309613948],[34.1571679400509,0.68917953413586],[34.15739039714614,0.69217119143806],[34.15750000000011,0.6925],[34.15750000000011,0.6975],[34.15750000000011,0.69832511760524],[34.1566084857706,0.7025],[34.15722842773329,0.70656668192467],[34.16161894784544,0.70918306994074],[34.16481163275166,0.71019333134784],[34.16663789094142,0.71112260168477],[34.16854517753895,0.71077960104305],[34.17007460424325,0.71089609226289],[34.17272331685706,0.71258507218169],[34.17379890760739,0.71365237283766],[34.18342510626754,0.71666609912916],[34.18427125227159,0.71720987973155],[34.18666114126572,0.71639507827107],[34.18943096383035,0.71325434161211],[34.19374604320451,0.71168477913996],[34.19521684068065,0.71160876105646],[34.20044263066768,0.71272331584324],[34.20644274729774,0.7060550031457],[34.20659431015946,0.70503169793064],[34.20665475804661,0.70492561070093],[34.2068287597858,0.7047898720578],[34.21210047936027,0.69865726606432],[34.21235138346439,0.69312518323971],[34.2080328789846,0.6898027380253],[34.20791202945556,0.68967556394386],[34.2069823497106,0.68672078584507],[34.20705225968346,0.68464306059638],[34.20877673201363,0.68175294304367],[34.20915214070425,0.67777691228606],[34.20909639410063,0.67742248293446],[34.20888715721892,0.6765957463682],[34.20874086026082,0.67614134448392],[34.20234616271596,0.6700077131265],[34.20222322796419,0.66958484194607],[34.20170011055627,0.66880016583419],[34.20124751709093,0.66839852940354],[34.19817321397599,0.66682678602411],[34.19424038423151,0.66199433768716],[34.19424012489105,0.66199199678646],[34.19278687227019,0.65864881113705],[34.19229270530521,0.65808289615152],[34.18423840647809,0.65430574436179],[34.1838090172409,0.65412542804983],[34.1808671211124,0.65503213022714],[34.17845839478381,0.65718053507208],[34.17750000000012,0.6575],[34.17531642295939,0.6575],[34.16783909175012,0.6626188773104],[34.16714741291195,0.66355776126447],[34.16664917514578,0.66505247456299],[34.16483618340065,0.66675886413914],[34.16453971348547,0.66681188504808],[34.15830694449415,0.67028953725135],[34.15473002589143,0.67308607845614],[34.15457811033465,0.67360564751844],[34.15615531000179,0.67873494304387],[34.15521703800606,0.68438528528174],[34.15512405147232,0.68463309613948]]],"type":"Polygon"}
+}

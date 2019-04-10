@@ -1,0 +1,70 @@
+{
+  "id": 1277092835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.91667,2.65,32.91667,2.65",
+    "geom:latitude":2.65,
+    "geom:longitude":32.91667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"92",
+    "gn:admin3_code":"8644156.0",
+    "gn:admin4_code":"8658650.0",
+    "gn:asciiname":"Kelak",
+    "gn:country_code":"UG",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231659,
+    "gn:latitude":2.65,
+    "gn:longitude":32.91667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kelak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679917,
+        1092068503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231659
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b9089469ca60dee69a238a8466eedf93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068503,
+            "locality_id":1277092835,
+            "region_id":85679917
+        }
+    ],
+    "wof:id":1277092835,
+    "wof:lastmodified":1536753024,
+    "wof:name":"Kelak",
+    "wof:parent_id":1092068503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.91667,
+    2.65,
+    32.91667,
+    2.65
+],
+  "geometry": {"coordinates":[32.91667,2.65],"type":"Point"}
+}

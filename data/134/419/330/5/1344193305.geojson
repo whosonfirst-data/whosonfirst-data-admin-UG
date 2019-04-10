@@ -1,0 +1,70 @@
+{
+  "id": 1344193305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.50013,0.07658,32.50013,0.07658",
+    "geom:latitude":0.07658,
+    "geom:longitude":32.50013,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"234053.0",
+    "gn:admin4_code":"8658284.0",
+    "gn:asciiname":"Kyewaga Forest Reserve",
+    "gn:country_code":"UG",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11357533,
+    "gn:latitude":0.07658,
+    "gn:longitude":32.50013,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Kyewaga Forest Reserve",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11357533
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6c890c1ee6618e7303f657bc617d0c1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1344193305,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1344193305,
+    "wof:lastmodified":1536683849,
+    "wof:name":"Kyewaga Forest Reserve",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.50013,
+    0.07658,
+    32.50013,
+    0.07658
+],
+  "geometry": {"coordinates":[32.50013,0.07658],"type":"Point"}
+}

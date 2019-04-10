@@ -1,0 +1,64 @@
+{
+  "id": 1209139925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.29477,1.90818,32.29477,1.90818",
+    "geom:latitude":1.90818,
+    "geom:longitude":32.29477,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"F7",
+    "gn:admin3_code":"231597.0",
+    "gn:admin4_code":"8657585.0",
+    "gn:asciiname":"Kijumbura",
+    "gn:country_code":"UG",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8261625,
+    "gn:latitude":1.90818,
+    "gn:longitude":32.29477,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kijumbura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261625
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"990b82ec8e4e88b731021301e0d2a9ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209139925
+        }
+    ],
+    "wof:id":1209139925,
+    "wof:lastmodified":1536296537,
+    "wof:name":"Kijumbura",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.29477,
+    1.90818,
+    32.29477,
+    1.90818
+],
+  "geometry": {"coordinates":[32.29477,1.90818],"type":"Point"}
+}

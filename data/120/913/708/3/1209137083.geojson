@@ -1,0 +1,64 @@
+{
+  "id": 1209137083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.56667,0.88333,32.56667,0.88333",
+    "geom:latitude":0.88333,
+    "geom:longitude":32.56667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"8644176.0",
+    "gn:admin4_code":"8657621.0",
+    "gn:asciiname":"Kito",
+    "gn:country_code":"UG",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230885,
+    "gn:latitude":0.88333,
+    "gn:longitude":32.56667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230885
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"040270a4dfe54e9ce42fee4ff4d8b4f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209137083
+        }
+    ],
+    "wof:id":1209137083,
+    "wof:lastmodified":1536296626,
+    "wof:name":"Kito",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.56667,
+    0.88333,
+    32.56667,
+    0.88333
+],
+  "geometry": {"coordinates":[32.56667,0.88333],"type":"Point"}
+}

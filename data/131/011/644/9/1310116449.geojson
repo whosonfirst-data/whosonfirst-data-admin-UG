@@ -1,0 +1,70 @@
+{
+  "id": 1310116449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.84459,2.55708,30.84459,2.55708",
+    "geom:latitude":2.55708,
+    "geom:longitude":30.84459,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"H7",
+    "gn:admin3_code":"227147.0",
+    "gn:admin4_code":"8657766.0",
+    "gn:asciiname":"Pagei",
+    "gn:country_code":"UG",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226859,
+    "gn:latitude":2.55708,
+    "gn:longitude":30.84459,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pagei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680085,
+        1092073339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226859
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"702edbe5087876c4358121f9c6ced118",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073339,
+            "locality_id":1310116449,
+            "region_id":85680085
+        }
+    ],
+    "wof:id":1310116449,
+    "wof:lastmodified":1536979941,
+    "wof:name":"Pagei",
+    "wof:parent_id":1092073339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.84459,
+    2.55708,
+    30.84459,
+    2.55708
+],
+  "geometry": {"coordinates":[30.84459,2.55708],"type":"Point"}
+}

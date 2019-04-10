@@ -1,0 +1,68 @@
+{
+  "id": 1209852461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.04242,0.59473,33.04242,0.59473",
+    "geom:latitude":0.59473,
+    "geom:longitude":33.04242,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"83",
+    "gn:asciiname":"Kalagala",
+    "gn:country_code":"UG",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553351,
+    "gn:latitude":0.59473,
+    "gn:longitude":33.04242,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kalagala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679787,
+        1092073141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553351
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"452b10089f4fa0af447ff9c4d6f94fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073141,
+            "locality_id":1209852461,
+            "region_id":85679787
+        }
+    ],
+    "wof:id":1209852461,
+    "wof:lastmodified":1536387785,
+    "wof:name":"Kalagala",
+    "wof:parent_id":1092073141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.04242,
+    0.59473,
+    33.04242,
+    0.59473
+],
+  "geometry": {"coordinates":[33.04242,0.59473],"type":"Point"}
+}

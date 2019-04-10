@@ -1,0 +1,68 @@
+{
+  "id": 1209136675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.56667,1.15,33.56667,1.15",
+    "geom:latitude":1.15,
+    "geom:longitude":33.56667,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D2",
+    "gn:admin3_code":"234305.0",
+    "gn:admin4_code":"8658203.0",
+    "gn:asciiname":"Kibwiza",
+    "gn:country_code":"UG",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231516,
+    "gn:latitude":1.15,
+    "gn:longitude":33.56667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kibwiza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiwiza",
+        "Kibwiza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231516
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ddf600d4e3fdb56e5220a38d408fe681",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209136675
+        }
+    ],
+    "wof:id":1209136675,
+    "wof:lastmodified":1537712085,
+    "wof:name":"Kibwiza",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.56667,
+    1.15,
+    33.56667,
+    1.15
+],
+  "geometry": {"coordinates":[33.56667,1.15],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327263289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.21919,0.88439,33.21919,0.88439",
+    "geom:latitude":0.88439,
+    "geom:longitude":33.21919,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"38",
+    "gn:admin3_code":"234617.0",
+    "gn:admin4_code":"8658093.0",
+    "gn:asciiname":"Namaganda",
+    "gn:country_code":"UG",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228276,
+    "gn:latitude":0.88439,
+    "gn:longitude":33.21919,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Namaganda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092068917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228276
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a7f000762d8e91866bea24285125d65e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068917,
+            "locality_id":1327263289,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":1327263289,
+    "wof:lastmodified":1536925774,
+    "wof:name":"Namaganda",
+    "wof:parent_id":1092068917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.21919,
+    0.88439,
+    33.21919,
+    0.88439
+],
+  "geometry": {"coordinates":[33.21919,0.88439],"type":"Point"}
+}

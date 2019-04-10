@@ -1,0 +1,70 @@
+{
+  "id": 1243489361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13333,-0.43333,31.13333,-0.43333",
+    "geom:latitude":-0.43333,
+    "geom:longitude":31.13333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"D3",
+    "gn:admin3_code":"7870011.0",
+    "gn:admin4_code":"8657791.0",
+    "gn:asciiname":"Ntarama",
+    "gn:country_code":"UG",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227623,
+    "gn:latitude":-0.43333,
+    "gn:longitude":31.13333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ntarama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        1108808411,
+        1092073255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227623
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9729b04cc6e7686bf680d9aea17d4f70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073255,
+            "locality_id":1243489361,
+            "region_id":1108808411
+        }
+    ],
+    "wof:id":1243489361,
+    "wof:lastmodified":1536743334,
+    "wof:name":"Ntarama",
+    "wof:parent_id":1092073255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13333,
+    -0.43333,
+    31.13333,
+    -0.43333
+],
+  "geometry": {"coordinates":[31.13333,-0.43333],"type":"Point"}
+}

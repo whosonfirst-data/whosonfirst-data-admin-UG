@@ -1,0 +1,75 @@
+{
+  "id": 1326966623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.12389,0.97583,33.12389,0.97583",
+    "geom:latitude":0.97583,
+    "geom:longitude":33.12389,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"38",
+    "gn:admin3_code":"234617.0",
+    "gn:admin4_code":"8658272.0",
+    "gn:asciiname":"Nabuwigulu",
+    "gn:country_code":"UG",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228559,
+    "gn:latitude":0.97583,
+    "gn:longitude":33.12389,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nabuwigulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nabiwigulu",
+        "Nabiwugulu",
+        "Nabuwigulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092068917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228559
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7b8b596d9a7191d60052d7c4225d55b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068917,
+            "locality_id":1326966623,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":1326966623,
+    "wof:lastmodified":1537712071,
+    "wof:name":"Nabuwigulu",
+    "wof:parent_id":1092068917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.12389,
+    0.97583,
+    33.12389,
+    0.97583
+],
+  "geometry": {"coordinates":[33.12389,0.97583],"type":"Point"}
+}

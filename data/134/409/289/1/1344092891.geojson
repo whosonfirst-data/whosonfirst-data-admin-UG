@@ -1,0 +1,73 @@
+{
+  "id": 1344092891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.26356,0.03725,33.26356,0.03725",
+    "geom:latitude":0.03725,
+    "geom:longitude":33.26356,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F2",
+    "gn:admin3_code":"233919.0",
+    "gn:admin4_code":"8657880.0",
+    "gn:asciiname":"Busiza",
+    "gn:country_code":"UG",
+    "gn:dem":1233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234050,
+    "gn:latitude":0.03725,
+    "gn:longitude":33.26356,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Busiza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Busiza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680125,
+        1092070099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234050
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f59a3f0db37f6d9b11eee6302228b898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070099,
+            "locality_id":1344092891,
+            "region_id":85680125
+        }
+    ],
+    "wof:id":1344092891,
+    "wof:lastmodified":1537712098,
+    "wof:name":"Busiza",
+    "wof:parent_id":1092070099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.26356,
+    0.03725,
+    33.26356,
+    0.03725
+],
+  "geometry": {"coordinates":[33.26356,0.03725],"type":"Point"}
+}

@@ -1,0 +1,201 @@
+{
+  "id": 1092068475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000866,
+    "geom:area_square_m":10692166.963626,
+    "geom:bbox":"30.8985242309,3.00258973377,30.9345452812,3.03987879332",
+    "geom:latitude":3.020098,
+    "geom:longitude":30.915793,
+    "iso:country":"UG",
+    "lbl:latitude":3.019602,
+    "lbl:longitude":30.915791,
+    "meso:admin_1":"ARUA",
+    "meso:admin_1r":"WEST NILE",
+    "meso:dissme":"ARUA MUNICIPALITYARUAWEST NILE",
+    "meso:gadm_admin":"Arua Municipality",
+    "meso:gadm_hasc2":"UG.AW.AU",
+    "meso:gaul_admin":"Arua Municipality",
+    "meso:mps_x":30.915791,
+    "meso:mps_y":3.019602,
+    "meso:name_en":"ARUA MUNICIPALITY",
+    "meso:source":"AOTM",
+    "mps:latitude":3.019602,
+    "mps:longitude":30.915791,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0631\u0648\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b0\u09c1\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u963f\u9b6f\u963f\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Arua District"
+    ],
+    "name:dut_x_preferred":[
+        "Arua"
+    ],
+    "name:eng_x_preferred":[
+        "Arua Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Arua Municipality",
+        "Arua District",
+        "ARUA MUNICIPALITY",
+        "Arua"
+    ],
+    "name:fin_x_preferred":[
+        "Aruan kaupunginosa"
+    ],
+    "name:fre_x_preferred":[
+        "Arua"
+    ],
+    "name:ger_x_preferred":[
+        "Distrikt Arua"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03c1\u03bf\u03cd\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a86\u0ab0\u0ac2\u0a86 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0930\u0941\u0906 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Arua"
+    ],
+    "name:ita_x_preferred":[
+        "Arua"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\u30a2\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0cb0\u0cc1\u0cb5\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ub8e8\uc544 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Arua distikts"
+    ],
+    "name:lit_x_preferred":[
+        "Arua apskritis"
+    ],
+    "name:lug_x_preferred":[
+        "Arua"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0930\u0941\u0906 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Arua District"
+    ],
+    "name:nob_x_preferred":[
+        "Arua"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Arua"
+    ],
+    "name:por_x_preferred":[
+        "Arua"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Arua"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0440\u0443\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dbb\u0dd4\u0dc0\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Arua"
+    ],
+    "name:swa_x_preferred":[
+        "Wilaya ya Arua"
+    ],
+    "name:swe_x_preferred":[
+        "Aruadistriktet"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b86\u0bb0\u0bcd\u0b89\u0b86 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c06\u0c30\u0c41\u0c35\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e2d\u0e23\u0e31\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Arua District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u0410\u0440\u0443\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0631\u0648\u0627 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Arua"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"UG",
+    "statoids:hasc":"UG.AX",
+    "statoids:name":"Arua",
+    "statoids:population":"",
+    "statoids:statoid":"UG.AX.AU",
+    "statoids:timezone":"3",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"UG.AX.AU",
+        "wd:id":"Q1229758"
+    },
+    "wof:country":"UG",
+    "wof:created":1473899249,
+    "wof:geomhash":"338724c186f4822bd13454dbf5e6bb73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068475,
+            "region_id":85679837
+        }
+    ],
+    "wof:id":1092068475,
+    "wof:lastmodified":1543954402,
+    "wof:name":"Arua Municipality",
+    "wof:parent_id":85679837,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:shortcode":"AU",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.89852423092766,
+    3.0025897337722,
+    30.93454528124577,
+    3.03987879331586
+],
+  "geometry": {"coordinates":[[[30.89974858360622,3.03476688771566],[30.90400465883204,3.03883929927049],[30.90910874418908,3.03987879331586],[30.91080189758884,3.03964010461246],[30.91108930914089,3.03954763027749],[30.91153948955504,3.03920122612357],[30.91294780275298,3.03838639157073],[30.91338204239189,3.03802417781016],[30.91658370707885,3.03590875766988],[30.91734381149348,3.03489454158562],[30.92081025568672,3.03247490860293],[30.92233306578558,3.02893391760473],[30.92323545838083,3.02731983508427],[30.92406640162645,3.02648281635917],[30.92758982656815,3.02522506638134],[30.92793688746765,3.02504445672285],[30.92894584834723,3.0247090295015],[30.9313371367787,3.02314307137831],[30.93429998774954,3.01779207188987],[30.93454528124577,3.01617038448937],[30.93450933360281,3.01591741730892],[30.93299230997446,3.01301371505988],[30.93204127924595,3.01136339897535],[30.93195914900072,3.01114618946945],[30.93193860356673,3.01070005664496],[30.93144740623204,3.0082816473245],[30.93085925224106,3.00680688964856],[30.93060132231822,3.00622657261804],[30.92908888530383,3.0045978086949],[30.9199242518788,3.00314230912788],[30.91964874088461,3.00321624696173],[30.91785494493283,3.00261831497781],[30.91617641152462,3.00278626945785],[30.91086167250786,3.0025897337722],[30.91074933084176,3.00266470910582],[30.90761387827592,3.00520817832817],[30.90590991306511,3.00968456169969],[30.90604456095389,3.01034758504821],[30.90605773207717,3.01560311267734],[30.90356168260008,3.01824148110259],[30.90264825403025,3.01951527199996],[30.90195597143596,3.02401557507692],[30.90131630254618,3.02540027573139],[30.89887786735872,3.02767954170207],[30.89852423092766,3.03302636633556],[30.89974858360622,3.03476688771566]]],"type":"Polygon"}
+}

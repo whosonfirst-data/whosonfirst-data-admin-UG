@@ -1,0 +1,70 @@
+{
+  "id": 1309822309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.45,2.46667,34.45,2.46667",
+    "geom:latitude":2.46667,
+    "geom:longitude":34.45,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"G8",
+    "gn:admin3_code":"234720.0",
+    "gn:admin4_code":"8658006.0",
+    "gn:asciiname":"Ngololiet",
+    "gn:country_code":"UG",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227859,
+    "gn:latitude":2.46667,
+    "gn:longitude":34.45,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ngololiet",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680201,
+        1092068715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227859
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ca6820d027b6c734aa6179e2de8e40a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068715,
+            "locality_id":1309822309,
+            "region_id":85680201
+        }
+    ],
+    "wof:id":1309822309,
+    "wof:lastmodified":1536907571,
+    "wof:name":"Ngololiet",
+    "wof:parent_id":1092068715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.45,
+    2.46667,
+    34.45,
+    2.46667
+],
+  "geometry": {"coordinates":[34.45,2.46667],"type":"Point"}
+}

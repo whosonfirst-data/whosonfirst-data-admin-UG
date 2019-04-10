@@ -1,0 +1,70 @@
+{
+  "id": 1226276863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65548,0.98359,33.65548,0.98359",
+    "geom:latitude":0.98359,
+    "geom:longitude":33.65548,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"E1",
+    "gn:admin3_code":"8644136.0",
+    "gn:admin4_code":"8658412.0",
+    "gn:asciiname":"Naisamula",
+    "gn:country_code":"UG",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228488,
+    "gn:latitude":0.98359,
+    "gn:longitude":33.65548,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Naisamula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679807,
+        1092069849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228488
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"dc7056493860d42aa254977dced4244f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069849,
+            "locality_id":1226276863,
+            "region_id":85679807
+        }
+    ],
+    "wof:id":1226276863,
+    "wof:lastmodified":1536888342,
+    "wof:name":"Naisamula",
+    "wof:parent_id":1092069849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65548,
+    0.98359,
+    33.65548,
+    0.98359
+],
+  "geometry": {"coordinates":[33.65548,0.98359],"type":"Point"}
+}

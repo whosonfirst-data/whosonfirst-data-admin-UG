@@ -1,0 +1,70 @@
+{
+  "id": 1260117347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.8175,0.44556,33.8175,0.44556",
+    "geom:latitude":0.44556,
+    "geom:longitude":33.8175,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G7",
+    "gn:admin3_code":"8644167.0",
+    "gn:admin4_code":"8658051.0",
+    "gn:asciiname":"Igwe",
+    "gn:country_code":"UG",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233263,
+    "gn:latitude":0.44556,
+    "gn:longitude":33.8175,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Igwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233263
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4f0b826140a883492e6c19103f95fa8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1260117347,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1260117347,
+    "wof:lastmodified":1536939933,
+    "wof:name":"Igwe",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.8175,
+    0.44556,
+    33.8175,
+    0.44556
+],
+  "geometry": {"coordinates":[33.8175,0.44556],"type":"Point"}
+}

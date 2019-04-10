@@ -1,0 +1,70 @@
+{
+  "id": 1259601871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.92019,3.21878,30.92019,3.21878",
+    "geom:latitude":3.21878,
+    "geom:longitude":30.92019,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"D7",
+    "gn:admin3_code":"229396.0",
+    "gn:admin4_code":"8658259.0",
+    "gn:asciiname":"Moyiga",
+    "gn:country_code":"UG",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229060,
+    "gn:latitude":3.21878,
+    "gn:longitude":30.92019,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Moyiga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679861,
+        1092072511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229060
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"40735bc387b47fa8928b88d1b540e2cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072511,
+            "locality_id":1259601871,
+            "region_id":85679861
+        }
+    ],
+    "wof:id":1259601871,
+    "wof:lastmodified":1536688376,
+    "wof:name":"Moyiga",
+    "wof:parent_id":1092072511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.92019,
+    3.21878,
+    30.92019,
+    3.21878
+],
+  "geometry": {"coordinates":[30.92019,3.21878],"type":"Point"}
+}

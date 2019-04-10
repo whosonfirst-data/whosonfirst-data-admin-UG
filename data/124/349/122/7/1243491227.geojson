@@ -1,0 +1,70 @@
+{
+  "id": 1243491227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14528,-0.26417,31.14528,-0.26417",
+    "geom:latitude":-0.26417,
+    "geom:longitude":31.14528,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D5",
+    "gn:admin3_code":"232958.0",
+    "gn:admin4_code":"8658009.0",
+    "gn:asciiname":"Kaliro",
+    "gn:country_code":"UG",
+    "gn:dem":1277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232528,
+    "gn:latitude":-0.26417,
+    "gn:longitude":31.14528,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kaliro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680215,
+        1092070975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232528
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"eb4dcdc925fba1920b2d12efa0c9f04c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070975,
+            "locality_id":1243491227,
+            "region_id":85680215
+        }
+    ],
+    "wof:id":1243491227,
+    "wof:lastmodified":1536740707,
+    "wof:name":"Kaliro",
+    "wof:parent_id":1092070975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14528,
+    -0.26417,
+    31.14528,
+    -0.26417
+],
+  "geometry": {"coordinates":[31.14528,-0.26417],"type":"Point"}
+}

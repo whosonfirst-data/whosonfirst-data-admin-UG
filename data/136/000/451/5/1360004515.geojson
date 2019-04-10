@@ -1,0 +1,70 @@
+{
+  "id": 1360004515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.07217,3.047,33.07217,3.047",
+    "geom:latitude":3.047,
+    "geom:longitude":33.07217,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"92",
+    "gn:admin3_code":"8644156.0",
+    "gn:admin4_code":"8647864.0",
+    "gn:asciiname":"Lagwayi",
+    "gn:country_code":"UG",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8693874,
+    "gn:latitude":3.047,
+    "gn:longitude":33.07217,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lagwayi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679917,
+        1092068503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8693874
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c60acc2ff0147be2263043944797daf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068503,
+            "locality_id":1360004515,
+            "region_id":85679917
+        }
+    ],
+    "wof:id":1360004515,
+    "wof:lastmodified":1537059282,
+    "wof:name":"Lagwayi",
+    "wof:parent_id":1092068503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.07217,
+    3.047,
+    33.07217,
+    3.047
+],
+  "geometry": {"coordinates":[33.07217,3.047],"type":"Point"}
+}

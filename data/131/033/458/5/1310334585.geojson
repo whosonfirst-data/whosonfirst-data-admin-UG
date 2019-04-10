@@ -1,0 +1,68 @@
+{
+  "id": 1310334585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.775,-1.03222,30.775,-1.03222",
+    "geom:latitude":-1.03222,
+    "geom:longitude":30.775,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"C9",
+    "gn:asciiname":"Nsongezi",
+    "gn:country_code":"UG",
+    "gn:dem":1647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227655,
+    "gn:latitude":-1.03222,
+    "gn:longitude":30.775,
+    "gn:modification_date":"2012-04-28",
+    "gn:name":"Nsongezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227655
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a7655b67aaf31815602424f7c2a0b804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693101,
+            "locality_id":1310334585,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1310334585,
+    "wof:lastmodified":1536666135,
+    "wof:name":"Nsongezi",
+    "wof:parent_id":1108693101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.775,
+    -1.03222,
+    30.775,
+    -1.03222
+],
+  "geometry": {"coordinates":[30.775,-1.03222],"type":"Point"}
+}

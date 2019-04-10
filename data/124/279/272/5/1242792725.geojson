@@ -1,0 +1,80 @@
+{
+  "id": 1242792725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05252,2.36476,31.05252,2.36476",
+    "geom:latitude":2.36476,
+    "geom:longitude":31.05252,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"8080237.0",
+    "gn:admin4_code":"8657802.0",
+    "gn:asciiname":"Jopanziri",
+    "gn:country_code":"UG",
+    "gn:dem":1403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8080303,
+    "gn:latitude":2.36476,
+    "gn:longitude":31.05252,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Jopanziri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679849,
+        1092073489,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8080303
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ff0671da1b125a05c7d9db848eee3018",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073489,
+            "locality_id":1242792725,
+            "region_id":85679849
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1242792725,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1242792725,
+    "wof:lastmodified":1536753690,
+    "wof:name":"Jopanziri",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05252,
+    2.36476,
+    31.05252,
+    2.36476
+],
+  "geometry": {"coordinates":[31.05252,2.36476],"type":"Point"}
+}

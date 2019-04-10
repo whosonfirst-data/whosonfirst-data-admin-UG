@@ -1,0 +1,68 @@
+{
+  "id": 1343394917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.39272,0.61525,33.39272,0.61525",
+    "geom:latitude":0.61525,
+    "geom:longitude":33.39272,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G4",
+    "gn:asciiname":"Ikonko",
+    "gn:country_code":"UG",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553611,
+    "gn:latitude":0.61525,
+    "gn:longitude":33.39272,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ikonko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680097,
+        1092072403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553611
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3c54bed91624a94d77229c052b06a517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072403,
+            "locality_id":1343394917,
+            "region_id":85680097
+        }
+    ],
+    "wof:id":1343394917,
+    "wof:lastmodified":1536839824,
+    "wof:name":"Ikonko",
+    "wof:parent_id":1092072403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.39272,
+    0.61525,
+    33.39272,
+    0.61525
+],
+  "geometry": {"coordinates":[33.39272,0.61525],"type":"Point"}
+}

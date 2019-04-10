@@ -1,0 +1,75 @@
+{
+  "id": 1293035783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.33333,-0.95,30.33333,-0.95",
+    "geom:latitude":-0.95,
+    "geom:longitude":30.33333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"7732260.0",
+    "gn:admin4_code":"7732409.0",
+    "gn:asciiname":"Katozho",
+    "gn:country_code":"UG",
+    "gn:dem":1768,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231820,
+    "gn:latitude":-0.95,
+    "gn:longitude":30.33333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Katozho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katojo",
+        "Katoio",
+        "Katozho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680059,
+        1092073713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231820
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"414f934d92f88315d895131bee42eff6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073713,
+            "locality_id":1293035783,
+            "region_id":85680059
+        }
+    ],
+    "wof:id":1293035783,
+    "wof:lastmodified":1537712087,
+    "wof:name":"Katozho",
+    "wof:parent_id":1092073713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.33333,
+    -0.95,
+    30.33333,
+    -0.95
+],
+  "geometry": {"coordinates":[30.33333,-0.95],"type":"Point"}
+}

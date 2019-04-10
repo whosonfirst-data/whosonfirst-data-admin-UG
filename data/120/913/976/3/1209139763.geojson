@@ -1,0 +1,64 @@
+{
+  "id": 1209139763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.94356,0.01818,32.94356,0.01818",
+    "geom:latitude":0.01818,
+    "geom:longitude":32.94356,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F2",
+    "gn:admin3_code":"233919.0",
+    "gn:admin4_code":"8658076.0",
+    "gn:asciiname":"Kiwalalo",
+    "gn:country_code":"UG",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11357725,
+    "gn:latitude":0.01818,
+    "gn:longitude":32.94356,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Kiwalalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11357725
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9db64f9098d3642a3b71bba5b55f243f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209139763
+        }
+    ],
+    "wof:id":1209139763,
+    "wof:lastmodified":1536296542,
+    "wof:name":"Kiwalalo",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.94356,
+    0.01818,
+    32.94356,
+    0.01818
+],
+  "geometry": {"coordinates":[32.94356,0.01818],"type":"Point"}
+}

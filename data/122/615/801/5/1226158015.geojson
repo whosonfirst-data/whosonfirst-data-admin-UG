@@ -1,0 +1,73 @@
+{
+  "id": 1226158015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.97552,3.36839,31.97552,3.36839",
+    "geom:latitude":3.36839,
+    "geom:longitude":31.97552,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"8644133.0",
+    "gn:admin4_code":"8658573.0",
+    "gn:asciiname":"Mangara",
+    "gn:country_code":"UG",
+    "gn:dem":689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142034,
+    "gn:latitude":3.36839,
+    "gn:longitude":31.97552,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mangara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panwiyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679833,
+        1092070471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142034
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"73f39f201ebfd5ba8dfc04243109d386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070471,
+            "locality_id":1226158015,
+            "region_id":85679833
+        }
+    ],
+    "wof:id":1226158015,
+    "wof:lastmodified":1537712114,
+    "wof:name":"Mangara",
+    "wof:parent_id":1092070471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.97552,
+    3.36839,
+    31.97552,
+    3.36839
+],
+  "geometry": {"coordinates":[31.97552,3.36839],"type":"Point"}
+}

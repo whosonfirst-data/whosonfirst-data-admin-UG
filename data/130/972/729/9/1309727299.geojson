@@ -1,0 +1,70 @@
+{
+  "id": 1309727299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58671,3.11781,33.58671,3.11781",
+    "geom:latitude":3.11781,
+    "geom:longitude":33.58671,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B6",
+    "gn:admin3_code":"230247.0",
+    "gn:admin4_code":"8658730.0",
+    "gn:asciiname":"Ayongtoke",
+    "gn:country_code":"UG",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234908,
+    "gn:latitude":3.11781,
+    "gn:longitude":33.58671,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ayongtoke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680013,
+        1092072215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234908
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"86aa4538bf94043cc4c6755322b37b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072215,
+            "locality_id":1309727299,
+            "region_id":85680013
+        }
+    ],
+    "wof:id":1309727299,
+    "wof:lastmodified":1537042421,
+    "wof:name":"Ayongtoke",
+    "wof:parent_id":1092072215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58671,
+    3.11781,
+    33.58671,
+    3.11781
+],
+  "geometry": {"coordinates":[33.58671,3.11781],"type":"Point"}
+}

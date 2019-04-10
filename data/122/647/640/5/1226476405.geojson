@@ -1,0 +1,70 @@
+{
+  "id": 1226476405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.16667,1.38333,32.16667,1.38333",
+    "geom:latitude":1.38333,
+    "geom:longitude":32.16667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"73",
+    "gn:admin3_code":"234123.0",
+    "gn:admin4_code":"8657970.0",
+    "gn:asciiname":"Kitontogolo",
+    "gn:country_code":"UG",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230863,
+    "gn:latitude":1.38333,
+    "gn:longitude":32.16667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kitontogolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679875,
+        1092069759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230863
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"dad6ce93cd2a2a3c76cbcdcf9c139be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069759,
+            "locality_id":1226476405,
+            "region_id":85679875
+        }
+    ],
+    "wof:id":1226476405,
+    "wof:lastmodified":1537094738,
+    "wof:name":"Kitontogolo",
+    "wof:parent_id":1092069759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.16667,
+    1.38333,
+    32.16667,
+    1.38333
+],
+  "geometry": {"coordinates":[32.16667,1.38333],"type":"Point"}
+}

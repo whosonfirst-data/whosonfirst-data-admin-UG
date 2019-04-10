@@ -1,0 +1,70 @@
+{
+  "id": 1293625893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.44714,1.58997,31.44714,1.58997",
+    "geom:latitude":1.58997,
+    "geom:longitude":31.44714,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"7732256.0",
+    "gn:admin4_code":"8657597.0",
+    "gn:asciiname":"Kyabaitirwa",
+    "gn:country_code":"UG",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8080896,
+    "gn:latitude":1.58997,
+    "gn:longitude":31.44714,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyabaitirwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679933,
+        1092068961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8080896
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"af9a8210a1fd16fbd2b8ad003a0562ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068961,
+            "locality_id":1293625893,
+            "region_id":85679933
+        }
+    ],
+    "wof:id":1293625893,
+    "wof:lastmodified":1537081430,
+    "wof:name":"Kyabaitirwa",
+    "wof:parent_id":1092068961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.44714,
+    1.58997,
+    31.44714,
+    1.58997
+],
+  "geometry": {"coordinates":[31.44714,1.58997],"type":"Point"}
+}

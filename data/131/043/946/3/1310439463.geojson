@@ -1,0 +1,70 @@
+{
+  "id": 1310439463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.7261,0.89352,33.7261,0.89352",
+    "geom:latitude":0.89352,
+    "geom:longitude":33.7261,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"E1",
+    "gn:admin3_code":"8644136.0",
+    "gn:admin4_code":"8657858.0",
+    "gn:asciiname":"Magada",
+    "gn:country_code":"UG",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229537,
+    "gn:latitude":0.89352,
+    "gn:longitude":33.7261,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Magada",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679807,
+        1092069849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229537
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"59ac7a7e9ddade8fa26ffcb088e22144",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069849,
+            "locality_id":1310439463,
+            "region_id":85679807
+        }
+    ],
+    "wof:id":1310439463,
+    "wof:lastmodified":1537011592,
+    "wof:name":"Magada",
+    "wof:parent_id":1092069849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.7261,
+    0.89352,
+    33.7261,
+    0.89352
+],
+  "geometry": {"coordinates":[33.7261,0.89352],"type":"Point"}
+}

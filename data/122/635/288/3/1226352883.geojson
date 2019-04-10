@@ -1,0 +1,70 @@
+{
+  "id": 1226352883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.69583,2.26028,32.69583,2.26028",
+    "geom:latitude":2.26028,
+    "geom:longitude":32.69583,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"F8",
+    "gn:admin3_code":"8644134.0",
+    "gn:admin4_code":"8658400.0",
+    "gn:asciiname":"Ayer",
+    "gn:country_code":"UG",
+    "gn:dem":1048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234921,
+    "gn:latitude":2.26028,
+    "gn:longitude":32.69583,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ayer",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680157,
+        1092071837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234921
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"61c693d60d9502c04bd5a0df69d2a6ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071837,
+            "locality_id":1226352883,
+            "region_id":85680157
+        }
+    ],
+    "wof:id":1226352883,
+    "wof:lastmodified":1536779602,
+    "wof:name":"Ayer",
+    "wof:parent_id":1092071837,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.69583,
+    2.26028,
+    32.69583,
+    2.26028
+],
+  "geometry": {"coordinates":[32.69583,2.26028],"type":"Point"}
+}

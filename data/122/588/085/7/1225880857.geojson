@@ -1,0 +1,70 @@
+{
+  "id": 1225880857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.06667,-0.91667,30.06667,-0.91667",
+    "geom:latitude":-0.91667,
+    "geom:longitude":30.06667,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"7732261.0",
+    "gn:admin4_code":"8658263.0",
+    "gn:asciiname":"Nyabichenche",
+    "gn:country_code":"UG",
+    "gn:dem":1486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227571,
+    "gn:latitude":-0.91667,
+    "gn:longitude":30.06667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nyabichenche",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680059,
+        1092073825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227571
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"69e5ac4604c11ff70b533b7c1a9d41a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073825,
+            "locality_id":1225880857,
+            "region_id":85680059
+        }
+    ],
+    "wof:id":1225880857,
+    "wof:lastmodified":1536962814,
+    "wof:name":"Nyabichenche",
+    "wof:parent_id":1092073825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.06667,
+    -0.91667,
+    30.06667,
+    -0.91667
+],
+  "geometry": {"coordinates":[30.06667,-0.91667],"type":"Point"}
+}

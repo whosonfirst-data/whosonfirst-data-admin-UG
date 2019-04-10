@@ -1,0 +1,73 @@
+{
+  "id": 1360118339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.52466,0.93657,33.52466,0.93657",
+    "geom:latitude":0.93657,
+    "geom:longitude":33.52466,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D2",
+    "gn:admin3_code":"234305.0",
+    "gn:admin4_code":"8658350.0",
+    "gn:asciiname":"Kiboyo-Kasokwe",
+    "gn:country_code":"UG",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232006,
+    "gn:latitude":0.93657,
+    "gn:longitude":33.52466,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kiboyo-Kasokwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasokwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679803,
+        1092069483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232006
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4f13092df1be57df8b04c506e2def53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069483,
+            "locality_id":1360118339,
+            "region_id":85679803
+        }
+    ],
+    "wof:id":1360118339,
+    "wof:lastmodified":1537712088,
+    "wof:name":"Kiboyo-Kasokwe",
+    "wof:parent_id":1092069483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.52466,
+    0.93657,
+    33.52466,
+    0.93657
+],
+  "geometry": {"coordinates":[33.52466,0.93657],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276693085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.56469,1.86559,33.56469,1.86559",
+    "geom:latitude":1.86559,
+    "geom:longitude":33.56469,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"95",
+    "gn:admin3_code":"226232.0",
+    "gn:admin4_code":"8657809.0",
+    "gn:asciiname":"Ejemoruno",
+    "gn:country_code":"UG",
+    "gn:dem":1089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233526,
+    "gn:latitude":1.86559,
+    "gn:longitude":33.56469,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Ejemoruno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679813,
+        1092074055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233526
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"509076f57d02121b280718903d4fad6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074055,
+            "locality_id":1276693085,
+            "region_id":85679813
+        }
+    ],
+    "wof:id":1276693085,
+    "wof:lastmodified":1536793956,
+    "wof:name":"Ejemoruno",
+    "wof:parent_id":1092074055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.56469,
+    1.86559,
+    33.56469,
+    1.86559
+],
+  "geometry": {"coordinates":[33.56469,1.86559],"type":"Point"}
+}

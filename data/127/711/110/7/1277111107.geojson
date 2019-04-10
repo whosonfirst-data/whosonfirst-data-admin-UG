@@ -1,0 +1,68 @@
+{
+  "id": 1277111107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.40507,0.37516,32.40507,0.37516",
+    "geom:latitude":0.37516,
+    "geom:longitude":32.40507,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:asciiname":"Kibuye",
+    "gn:country_code":"UG",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552164,
+    "gn:latitude":0.37516,
+    "gn:longitude":32.40507,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kibuye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552164
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e22da02f3c061eb012a00784cdcd97a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1277111107,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1277111107,
+    "wof:lastmodified":1536727128,
+    "wof:name":"Kibuye",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.40507,
+    0.37516,
+    32.40507,
+    0.37516
+],
+  "geometry": {"coordinates":[32.40507,0.37516],"type":"Point"}
+}

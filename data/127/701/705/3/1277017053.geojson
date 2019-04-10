@@ -1,0 +1,70 @@
+{
+  "id": 1277017053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.97835,-1.38728,29.97835,-1.38728",
+    "geom:latitude":-1.38728,
+    "geom:longitude":29.97835,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"227915.0",
+    "gn:admin4_code":"8658421.0",
+    "gn:asciiname":"Kyasano",
+    "gn:country_code":"UG",
+    "gn:dem":1925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8658845,
+    "gn:latitude":-1.38728,
+    "gn:longitude":29.97835,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyasano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680073,
+        1092073061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8658845
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ca4a26d23f076e4ecbecb51c206925ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073061,
+            "locality_id":1277017053,
+            "region_id":85680073
+        }
+    ],
+    "wof:id":1277017053,
+    "wof:lastmodified":1536856037,
+    "wof:name":"Kyasano",
+    "wof:parent_id":1092073061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.97835,
+    -1.38728,
+    29.97835,
+    -1.38728
+],
+  "geometry": {"coordinates":[29.97835,-1.38728],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260201849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.67844,3.49793,31.67844,3.49793",
+    "geom:latitude":3.49793,
+    "geom:longitude":31.67844,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"72",
+    "gn:admin3_code":"8644127.0",
+    "gn:admin4_code":"8657844.0",
+    "gn:asciiname":"Ndirindiri",
+    "gn:country_code":"UG",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140862,
+    "gn:latitude":3.49793,
+    "gn:longitude":31.67844,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ndirindiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679853,
+        1092073299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140862
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"885289b62014f66012983931a95a5eb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073299,
+            "locality_id":1260201849,
+            "region_id":85679853
+        }
+    ],
+    "wof:id":1260201849,
+    "wof:lastmodified":1536821887,
+    "wof:name":"Ndirindiri",
+    "wof:parent_id":1092073299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.67844,
+    3.49793,
+    31.67844,
+    3.49793
+],
+  "geometry": {"coordinates":[31.67844,3.49793],"type":"Point"}
+}

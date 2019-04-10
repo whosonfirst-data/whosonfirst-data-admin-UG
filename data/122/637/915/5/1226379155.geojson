@@ -1,0 +1,70 @@
+{
+  "id": 1226379155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.53333,0.61667,32.53333,0.61667",
+    "geom:latitude":0.61667,
+    "geom:longitude":32.53333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"8644176.0",
+    "gn:admin4_code":"8657989.0",
+    "gn:asciiname":"Nyimbwa",
+    "gn:country_code":"UG",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227317,
+    "gn:latitude":0.61667,
+    "gn:longitude":32.53333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nyimbwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679881,
+        1092071399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227317
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"87f9b7b275b660ce9f8350c2bdc008f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071399,
+            "locality_id":1226379155,
+            "region_id":85679881
+        }
+    ],
+    "wof:id":1226379155,
+    "wof:lastmodified":1536741120,
+    "wof:name":"Nyimbwa",
+    "wof:parent_id":1092071399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.53333,
+    0.61667,
+    32.53333,
+    0.61667
+],
+  "geometry": {"coordinates":[32.53333,0.61667],"type":"Point"}
+}

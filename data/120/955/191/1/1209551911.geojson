@@ -1,0 +1,62 @@
+{
+  "id": 1209551911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.86229,0.74994,33.86229,0.74994",
+    "geom:latitude":0.74994,
+    "geom:longitude":33.86229,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C6",
+    "gn:asciiname":"Magoje",
+    "gn:country_code":"UG",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429792,
+    "gn:latitude":0.74994,
+    "gn:longitude":33.86229,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Magoje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429792
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"351b5de0fd97140ba0392cca21799df7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209551911
+        }
+    ],
+    "wof:id":1209551911,
+    "wof:lastmodified":1536283667,
+    "wof:name":"Magoje",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.86229,
+    0.7499399999999999,
+    33.86229,
+    0.7499399999999999
+],
+  "geometry": {"coordinates":[33.86229,0.74994],"type":"Point"}
+}

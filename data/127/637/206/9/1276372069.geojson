@@ -1,0 +1,70 @@
+{
+  "id": 1276372069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.08111,-1.31583,30.08111,-1.31583",
+    "geom:latitude":-1.31583,
+    "geom:longitude":30.08111,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"227915.0",
+    "gn:admin4_code":"8657836.0",
+    "gn:asciiname":"Maziba",
+    "gn:country_code":"UG",
+    "gn:dem":1875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229289,
+    "gn:latitude":-1.31583,
+    "gn:longitude":30.08111,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Maziba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680073,
+        1092073061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229289
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ff056b567fc755aa2674a50fdd95cebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073061,
+            "locality_id":1276372069,
+            "region_id":85680073
+        }
+    ],
+    "wof:id":1276372069,
+    "wof:lastmodified":1536727047,
+    "wof:name":"Maziba",
+    "wof:parent_id":1092073061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.08111,
+    -1.31583,
+    30.08111,
+    -1.31583
+],
+  "geometry": {"coordinates":[30.08111,-1.31583],"type":"Point"}
+}

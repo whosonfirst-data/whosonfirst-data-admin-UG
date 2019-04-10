@@ -1,0 +1,75 @@
+{
+  "id": 1344087861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.265,-0.4925,30.265,-0.4925",
+    "geom:latitude":-0.4925,
+    "geom:longitude":30.265,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"7732267.0",
+    "gn:admin4_code":"7732411.0",
+    "gn:asciiname":"Bugalama",
+    "gn:cc2":"UG",
+    "gn:country_code":"UG",
+    "gn:dem":1599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234608,
+    "gn:latitude":-0.4925,
+    "gn:longitude":30.265,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bugalama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bugarama",
+        "Bugalama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680035,
+        1092070703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234608
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d0f1ddb2a1ae4a822958888f1938a1be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070703,
+            "locality_id":1344087861,
+            "region_id":85680035
+        }
+    ],
+    "wof:id":1344087861,
+    "wof:lastmodified":1537712103,
+    "wof:name":"Bugalama",
+    "wof:parent_id":1092070703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.265,
+    -0.4925,
+    30.265,
+    -0.4925
+],
+  "geometry": {"coordinates":[30.265,-0.4925],"type":"Point"}
+}

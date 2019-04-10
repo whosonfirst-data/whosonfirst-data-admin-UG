@@ -1,0 +1,68 @@
+{
+  "id": 1310420911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.16889,2.19444,31.16889,2.19444",
+    "geom:latitude":2.19444,
+    "geom:longitude":31.16889,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"58",
+    "gn:asciiname":"Milia",
+    "gn:country_code":"UG",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448276,
+    "gn:latitude":2.19444,
+    "gn:longitude":31.16889,
+    "gn:modification_date":"2012-04-28",
+    "gn:name":"Milia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85669979,
+        1091679797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448276
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0afe6a595351f1932fa3a3de0221257a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679797,
+            "locality_id":1310420911,
+            "region_id":85669979
+        }
+    ],
+    "wof:id":1310420911,
+    "wof:lastmodified":1537037341,
+    "wof:name":"Milia",
+    "wof:parent_id":1091679797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.16889,
+    2.19444,
+    31.16889,
+    2.19444
+],
+  "geometry": {"coordinates":[31.16889,2.19444],"type":"Point"}
+}

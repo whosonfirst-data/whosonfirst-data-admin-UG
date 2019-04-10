@@ -1,0 +1,68 @@
+{
+  "id": 1277017077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.75588,0.71304,33.75588,0.71304",
+    "geom:latitude":0.71304,
+    "geom:longitude":33.75588,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"66",
+    "gn:asciiname":"Nabuganga",
+    "gn:country_code":"UG",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429670,
+    "gn:latitude":0.71304,
+    "gn:longitude":33.75588,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Nabuganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429670
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c3f205ec2a1cd7da7bf2056ec80ac154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1277017077,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1277017077,
+    "wof:lastmodified":1536856003,
+    "wof:name":"Nabuganga",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.75588,
+    0.71304,
+    33.75588,
+    0.71304
+],
+  "geometry": {"coordinates":[33.75588,0.71304],"type":"Point"}
+}

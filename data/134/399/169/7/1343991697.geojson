@@ -1,0 +1,70 @@
+{
+  "id": 1343991697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76667,-0.81667,30.76667,-0.81667",
+    "geom:latitude":-0.81667,
+    "geom:longitude":30.76667,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"C9",
+    "gn:admin3_code":"233175.0",
+    "gn:admin4_code":"8658679.0",
+    "gn:asciiname":"Kyabinunga",
+    "gn:country_code":"UG",
+    "gn:dem":1644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230527,
+    "gn:latitude":-0.81667,
+    "gn:longitude":30.76667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyabinunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680051,
+        1092070741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230527
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"cba93df958ef7f1171972edd434d0cdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070741,
+            "locality_id":1343991697,
+            "region_id":85680051
+        }
+    ],
+    "wof:id":1343991697,
+    "wof:lastmodified":1536974466,
+    "wof:name":"Kyabinunga",
+    "wof:parent_id":1092070741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76667,
+    -0.81667,
+    30.76667,
+    -0.81667
+],
+  "geometry": {"coordinates":[30.76667,-0.81667],"type":"Point"}
+}

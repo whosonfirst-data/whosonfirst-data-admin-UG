@@ -1,0 +1,70 @@
+{
+  "id": 1243098275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.28333,-0.55,30.28333,-0.55",
+    "geom:latitude":-0.55,
+    "geom:longitude":30.28333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"29",
+    "gn:admin3_code":"7732267.0",
+    "gn:admin4_code":"8657647.0",
+    "gn:asciiname":"Kayanta",
+    "gn:country_code":"UG",
+    "gn:dem":1544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231726,
+    "gn:latitude":-0.55,
+    "gn:longitude":30.28333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kayanta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680035,
+        1092070703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231726
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"90b18156acfae163b0c7627cecb02a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070703,
+            "locality_id":1243098275,
+            "region_id":85680035
+        }
+    ],
+    "wof:id":1243098275,
+    "wof:lastmodified":1536809993,
+    "wof:name":"Kayanta",
+    "wof:parent_id":1092070703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28333,
+    -0.55,
+    30.28333,
+    -0.55
+],
+  "geometry": {"coordinates":[30.28333,-0.55],"type":"Point"}
+}

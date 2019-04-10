@@ -1,0 +1,67 @@
+{
+  "id": 1209450161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.63346,0.47169,33.63346,0.47169",
+    "geom:latitude":0.47169,
+    "geom:longitude":33.63346,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G7",
+    "gn:admin3_code":"8644167.0",
+    "gn:admin4_code":"8657680.0",
+    "gn:asciiname":"Isegero",
+    "gn:country_code":"UG",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259028,
+    "gn:latitude":0.47169,
+    "gn:longitude":33.63346,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Isegero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Isegero"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259028
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a467a93c62d73913c2f4472f2ebbe434",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209450161
+        }
+    ],
+    "wof:id":1209450161,
+    "wof:lastmodified":1537712117,
+    "wof:name":"Isegero",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.63346,
+    0.47169,
+    33.63346,
+    0.47169
+],
+  "geometry": {"coordinates":[33.63346,0.47169],"type":"Point"}
+}

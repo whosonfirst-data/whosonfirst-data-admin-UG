@@ -1,0 +1,70 @@
+{
+  "id": 1242981287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.91833,2.18167,32.91833,2.18167",
+    "geom:latitude":2.18167,
+    "geom:longitude":32.91833,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"233491.0",
+    "gn:admin4_code":"8630012.0",
+    "gn:asciiname":"Boroboro",
+    "gn:country_code":"UG",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234710,
+    "gn:latitude":2.18167,
+    "gn:longitude":32.91833,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Boroboro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679909,
+        1092070567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234710
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9af8f14e0938236c6d66df21314d6992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070567,
+            "locality_id":1242981287,
+            "region_id":85679909
+        }
+    ],
+    "wof:id":1242981287,
+    "wof:lastmodified":1536978481,
+    "wof:name":"Boroboro",
+    "wof:parent_id":1092070567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.91833,
+    2.18167,
+    32.91833,
+    2.18167
+],
+  "geometry": {"coordinates":[32.91833,2.18167],"type":"Point"}
+}

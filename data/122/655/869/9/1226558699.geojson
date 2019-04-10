@@ -1,0 +1,70 @@
+{
+  "id": 1226558699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.29159,2.9129,31.29159,2.9129",
+    "geom:latitude":2.9129,
+    "geom:longitude":31.29159,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"8644146.0",
+    "gn:admin4_code":"8261591.0",
+    "gn:asciiname":"Degia",
+    "gn:country_code":"UG",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8081192,
+    "gn:latitude":2.9129,
+    "gn:longitude":31.29159,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Degia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092074425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8081192
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"fdcbed1e7ced07f20b8ceb3c7dc7d786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074425,
+            "locality_id":1226558699,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1226558699,
+    "wof:lastmodified":1536978770,
+    "wof:name":"Degia",
+    "wof:parent_id":1092074425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.29159000000001,
+    2.9129,
+    31.29159000000001,
+    2.9129
+],
+  "geometry": {"coordinates":[31.29159000000001,2.9129],"type":"Point"}
+}

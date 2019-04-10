@@ -1,0 +1,97 @@
+{
+  "id": 421204539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-03",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.088073,0.977735,33.088073,0.977735",
+    "geom:latitude":0.977735,
+    "geom:longitude":33.088073,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Kamuli"
+    ],
+    "name:fin_x_preferred":[
+        "Kamuli"
+    ],
+    "name:fra_x_preferred":[
+        "Kamuli"
+    ],
+    "name:lug_x_preferred":[
+        "Kamuli"
+    ],
+    "name:nld_x_preferred":[
+        "Kamuli"
+    ],
+    "name:ron_x_preferred":[
+        "Kamuli"
+    ],
+    "name:swa_x_preferred":[
+        "Kamuli"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Kamuli",
+    "qs:name_adm0":"Uganda",
+    "qs:name_adm1":"Kamuli",
+    "qs:photos":180,
+    "qs:photos_1k":36,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":577,
+    "qs:photos_sr":4,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "qs:qs_id":241324,
+    "qs:woe_adm0":23424974,
+    "qs:woe_id":20070422,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":350,
+    "wof:belongsto":[
+        102191573,
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070422,
+        "qs:id":241324,
+        "wd:id":"Q3088116"
+    },
+    "wof:country":"UG",
+    "wof:created":1459010190,
+    "wof:geomhash":"38962d8d16e3068743886bbc3cbdf927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "region_id":421204539
+        }
+    ],
+    "wof:id":421204539,
+    "wof:lastmodified":1529541199,
+    "wof:name":"Kamuli",
+    "wof:parent_id":85632625,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.088073,
+    0.977735,
+    33.088073,
+    0.977735
+],
+  "geometry": {"coordinates":[33.088073,0.977735],"type":"Point"}
+}

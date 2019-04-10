@@ -1,0 +1,70 @@
+{
+  "id": 1360004375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.50909,3.18951,31.50909,3.18951",
+    "geom:latitude":3.18951,
+    "geom:longitude":31.50909,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"72",
+    "gn:admin3_code":"8644127.0",
+    "gn:admin4_code":"8658634.0",
+    "gn:asciiname":"Atubanga",
+    "gn:country_code":"UG",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142220,
+    "gn:latitude":3.18951,
+    "gn:longitude":31.50909,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Atubanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679853,
+        1092073299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142220
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6b6f0822e74ae2009f55ec6467e893d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073299,
+            "locality_id":1360004375,
+            "region_id":85679853
+        }
+    ],
+    "wof:id":1360004375,
+    "wof:lastmodified":1537059473,
+    "wof:name":"Atubanga",
+    "wof:parent_id":1092073299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.50909,
+    3.18951,
+    31.50909,
+    3.18951
+],
+  "geometry": {"coordinates":[31.50909,3.18951],"type":"Point"}
+}

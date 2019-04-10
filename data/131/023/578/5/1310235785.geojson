@@ -1,0 +1,68 @@
+{
+  "id": 1310235785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.17176,0.31042,32.17176,0.31042",
+    "geom:latitude":0.31042,
+    "geom:longitude":32.17176,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:asciiname":"Nsambya",
+    "gn:country_code":"UG",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11551838,
+    "gn:latitude":0.31042,
+    "gn:longitude":32.17176,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Nsambya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679891,
+        1092069929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11551838
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"90ab076fdd072f9e52076d95459a6676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069929,
+            "locality_id":1310235785,
+            "region_id":85679891
+        }
+    ],
+    "wof:id":1310235785,
+    "wof:lastmodified":1536808276,
+    "wof:name":"Nsambya",
+    "wof:parent_id":1092069929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.17176,
+    0.31042,
+    32.17176,
+    0.31042
+],
+  "geometry": {"coordinates":[32.17176,0.31042],"type":"Point"}
+}

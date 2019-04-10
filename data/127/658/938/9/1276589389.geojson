@@ -1,0 +1,70 @@
+{
+  "id": 1276589389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.65,1.05,31.65,1.05",
+    "geom:latitude":1.05,
+    "geom:longitude":31.65,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"8644178.0",
+    "gn:admin4_code":"8657575.0",
+    "gn:asciiname":"Bekina",
+    "gn:country_code":"UG",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234826,
+    "gn:latitude":1.05,
+    "gn:longitude":31.65,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bekina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        1108808409,
+        1092071543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234826
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6953dc046118de4d02bb4164c38dd227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071543,
+            "locality_id":1276589389,
+            "region_id":1108808409
+        }
+    ],
+    "wof:id":1276589389,
+    "wof:lastmodified":1536933715,
+    "wof:name":"Bekina",
+    "wof:parent_id":1092071543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.65,
+    1.05,
+    31.65,
+    1.05
+],
+  "geometry": {"coordinates":[31.65,1.05],"type":"Point"}
+}

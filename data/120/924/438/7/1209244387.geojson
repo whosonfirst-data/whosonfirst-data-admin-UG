@@ -1,0 +1,64 @@
+{
+  "id": 1209244387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.43333,1.05,32.43333,1.05",
+    "geom:latitude":1.05,
+    "geom:longitude":32.43333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"8644176.0",
+    "gn:admin4_code":"8657621.0",
+    "gn:asciiname":"Kalongo",
+    "gn:country_code":"UG",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232510,
+    "gn:latitude":1.05,
+    "gn:longitude":32.43333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kalongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232510
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"89c33ecab1af522a65172e9d94018eb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209244387
+        }
+    ],
+    "wof:id":1209244387,
+    "wof:lastmodified":1536293215,
+    "wof:name":"Kalongo",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.43333,
+    1.05,
+    32.43333,
+    1.05
+],
+  "geometry": {"coordinates":[32.43333,1.05],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209525793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.08903,2.61409,32.08903,2.61409",
+    "geom:latitude":2.61409,
+    "geom:longitude":32.08903,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"8644126.0",
+    "gn:admin4_code":"8658622.0",
+    "gn:asciiname":"Lakalac",
+    "gn:country_code":"UG",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8202515,
+    "gn:latitude":2.61409,
+    "gn:longitude":32.08903,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lakalac",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8202515
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"56f80ed44850843555e9a2b7b5875d3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209525793
+        }
+    ],
+    "wof:id":1209525793,
+    "wof:lastmodified":1536284435,
+    "wof:name":"Lakalac",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.08903,
+    2.61409,
+    32.08903,
+    2.61409
+],
+  "geometry": {"coordinates":[32.08903,2.61409],"type":"Point"}
+}

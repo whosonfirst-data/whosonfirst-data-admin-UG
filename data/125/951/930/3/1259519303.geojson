@@ -1,0 +1,73 @@
+{
+  "id": 1259519303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.04952,0.18022,33.04952,0.18022",
+    "geom:latitude":0.18022,
+    "geom:longitude":33.04952,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E7",
+    "gn:admin3_code":"7732075.0",
+    "gn:admin4_code":"8658514.0",
+    "gn:asciiname":"Busunga",
+    "gn:country_code":"UG",
+    "gn:dem":1261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11356322,
+    "gn:latitude":0.18022,
+    "gn:longitude":33.04952,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Busunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Busunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680121,
+        1092069145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11356322
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"09adcdf6100a5a689d2eade27a496097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069145,
+            "locality_id":1259519303,
+            "region_id":85680121
+        }
+    ],
+    "wof:id":1259519303,
+    "wof:lastmodified":1537712130,
+    "wof:name":"Busunga",
+    "wof:parent_id":1092069145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.04952,
+    0.18022,
+    33.04952,
+    0.18022
+],
+  "geometry": {"coordinates":[33.04952,0.18022],"type":"Point"}
+}

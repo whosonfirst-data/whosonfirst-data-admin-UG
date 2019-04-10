@@ -1,0 +1,68 @@
+{
+  "id": 1226177197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.06329,0.79627,33.06329,0.79627",
+    "geom:latitude":0.79627,
+    "geom:longitude":33.06329,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Bukoyo-Bukiika",
+    "gn:country_code":"UG",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552963,
+    "gn:latitude":0.79627,
+    "gn:longitude":33.06329,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bukoyo-Bukiika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092070253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552963
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"be7a8d282dbc589581cb693c4a72bbd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070253,
+            "locality_id":1226177197,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":1226177197,
+    "wof:lastmodified":1537030995,
+    "wof:name":"Bukoyo-Bukiika",
+    "wof:parent_id":1092070253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.06329,
+    0.79627,
+    33.06329,
+    0.79627
+],
+  "geometry": {"coordinates":[33.06329,0.79627],"type":"Point"}
+}

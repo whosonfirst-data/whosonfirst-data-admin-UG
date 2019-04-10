@@ -1,0 +1,193 @@
+{
+  "id": 1092074017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002126,
+    "geom:area_square_m":26281001.698359,
+    "geom:bbox":"33.5692022207,1.69625828439,33.6329921053,1.75162137181",
+    "geom:latitude":1.72488,
+    "geom:longitude":33.604406,
+    "iso:country":"UG",
+    "lbl:latitude":1.720629,
+    "lbl:longitude":33.608204,
+    "meso:admin_1":"SOROTI",
+    "meso:admin_1r":"TESO",
+    "meso:dissme":"SOROTI MUNICIPALITYSOROTITESO",
+    "meso:gadm_admin":"Soroti",
+    "meso:gadm_hasc2":"UG.SR.SM",
+    "meso:gaul_admin":"Soroti Municipality",
+    "meso:mps_x":33.608204,
+    "meso:mps_y":1.720629,
+    "meso:name_en":"SOROTI MUNICIPALITY",
+    "meso:source":"AOTM",
+    "mps:latitude":1.720629,
+    "mps:longitude":33.608204,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0648\u0631\u0648\u062a\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09b0\u09cb\u09a4\u09bf \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u7d22\u7f85\u63d0\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Soroti District"
+    ],
+    "name:dut_x_preferred":[
+        "Soroti"
+    ],
+    "name:eng_x_preferred":[
+        "Soroti Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Soroti Municipality",
+        "Soroti",
+        "SOROTI MUNICIPALITY",
+        "Soroti District"
+    ],
+    "name:fin_x_preferred":[
+        "Sorotin kaupunginosa"
+    ],
+    "name:fre_x_preferred":[
+        "Soroti"
+    ],
+    "name:ger_x_preferred":[
+        "Distrikt Soroti"
+    ],
+    "name:glg_x_preferred":[
+        "Distrito Soroti"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a3\u03bf\u03c1\u03cc\u03c4\u03b9"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0acb\u0ab0\u0acb\u0a9f\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094b\u0930\u0949\u091f\u0940 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Soroti"
+    ],
+    "name:ita_x_preferred":[
+        "Soroti"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30ed\u30c6\u30a3\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cca\u0cb0\u0cca\u0c9f\u0cbf \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc18c\ub85c\ud2f0 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Soroti distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Soro\u010dio apskritis"
+    ],
+    "name:lug_x_preferred":[
+        "Soroti"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u094b\u0930\u094b\u091f\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Soroti District"
+    ],
+    "name:nob_x_preferred":[
+        "Soroti"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Soroti"
+    ],
+    "name:por_x_preferred":[
+        "Soroti"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Soroti"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0440\u043e\u0442\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0ddc\u0dbb\u0ddd\u0da7\u0dd2 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Soroti"
+    ],
+    "name:swa_x_preferred":[
+        "Wilaya ya Soroti"
+    ],
+    "name:swe_x_preferred":[
+        "Sorotidistriktet"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bca\u0bb0\u0bca\u0b9f\u0bcd\u0b9f\u0bbf   \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c4b\u0c30\u0c4b\u0c1f\u0c3f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e42\u0e0b\u0e42\u0e23\u0e15\u0e34"
+    ],
+    "name:tur_x_preferred":[
+        "Soroti District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u0421\u043e\u0440\u043e\u0442\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0648\u0631\u0648\u062a\u06cc \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Soroti"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"UG.SR.SM",
+        "wd:id":"Q1091337"
+    },
+    "wof:country":"UG",
+    "wof:created":1473899470,
+    "wof:geomhash":"780a4ac6ec9a358d56fa554b961a1a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074017,
+            "region_id":85679813
+        }
+    ],
+    "wof:id":1092074017,
+    "wof:lastmodified":1543954411,
+    "wof:name":"Soroti Municipality",
+    "wof:parent_id":85679813,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:shortcode":"SM",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.56920222066378,
+    1.69625828439183,
+    33.63299210530948,
+    1.75162137181082
+],
+  "geometry": {"coordinates":[[[33.56998001876802,1.74213818158869],[33.57474929932204,1.74593746137177],[33.5752896250263,1.74659529667163],[33.57556687020633,1.74685562340214],[33.57610941018203,1.7470364700607],[33.57785531422914,1.7475],[33.57819110910678,1.7475],[33.58105329169489,1.74787993348939],[33.58198608836182,1.7477421216962],[33.58764986041096,1.74815536717531],[33.58821479804863,1.74815050607135],[33.58842085657188,1.74833203535367],[33.59160761022665,1.74992864658015],[33.60369438639089,1.75162137181082],[33.60369710420471,1.75161628734993],[33.60514280238032,1.74847447845345],[33.60538537405795,1.74802351197892],[33.61267138964003,1.74572232769974],[33.61277931515213,1.74565707051723],[33.61644947405564,1.74108707426978],[33.6175880284253,1.73686811382853],[33.61963783441758,1.73533094142678],[33.62699134241904,1.73496656395453],[33.62763059672694,1.73426632429742],[33.6286773052726,1.73264297720651],[33.62922126280932,1.72577873719048],[33.63203788508904,1.72296211491076],[33.63225386031436,1.7175],[33.63299210530948,1.71560459739315],[33.63167205207402,1.7125459811119],[33.63114639080761,1.71092114641604],[33.63118600497068,1.71039830829744],[33.63038325671355,1.70492408245335],[33.62786187413241,1.70177625173483],[33.62503541550803,1.7016852375958],[33.61970985295063,1.69957217606825],[33.61940139284804,1.69954461747444],[33.6161299155348,1.69653746289758],[33.61499206424564,1.69634604572823],[33.61110010595328,1.69625828439183],[33.60896289730093,1.69676433866818],[33.60447749080882,1.7013881505634],[33.60063068876401,1.70010505910056],[33.59624372748268,1.70132923700102],[33.59265763958689,1.70336023587066],[33.59218966478849,1.70383950156901],[33.59070062381189,1.70695573972682],[33.59048952402175,1.70836071186564],[33.5898274433716,1.70915170947345],[33.5886884048026,1.71266168039141],[33.5886110695551,1.71336692730773],[33.5889755639476,1.71737441987486],[33.58902048177376,1.7175],[33.58882512084893,1.7212174540322],[33.58951007067515,1.72419400567464],[33.58481958123264,1.73029001473455],[33.5801062267148,1.73066178996661],[33.57742689903289,1.72969284073017],[33.57734511821541,1.7296711248318],[33.57413972273724,1.73137662359739],[33.56920222066378,1.73824632479541],[33.56998001876802,1.74213818158869]]],"type":"Polygon"}
+}

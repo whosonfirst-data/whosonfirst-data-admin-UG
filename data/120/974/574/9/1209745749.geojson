@@ -1,0 +1,73 @@
+{
+  "id": 1209745749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.69658,0.35781,33.69658,0.35781",
+    "geom:latitude":0.35781,
+    "geom:longitude":33.69658,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"86",
+    "gn:admin3_code":"8644164.0",
+    "gn:admin4_code":"8658417.0",
+    "gn:asciiname":"Buzinga",
+    "gn:country_code":"UG",
+    "gn:dem":1233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259191,
+    "gn:latitude":0.35781,
+    "gn:longitude":33.69658,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Buzinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buzinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679985,
+        1092069607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259191
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"55a42126633d7ed6994c867807d3d298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069607,
+            "locality_id":1209745749,
+            "region_id":85679985
+        }
+    ],
+    "wof:id":1209745749,
+    "wof:lastmodified":1537712122,
+    "wof:name":"Buzinga",
+    "wof:parent_id":1092069607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.69658,
+    0.35781,
+    33.69658,
+    0.35781
+],
+  "geometry": {"coordinates":[33.69658,0.35781],"type":"Point"}
+}

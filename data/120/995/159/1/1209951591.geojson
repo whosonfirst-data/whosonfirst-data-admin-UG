@@ -1,0 +1,73 @@
+{
+  "id": 1209951591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.79871,1.26699,34.79871,1.26699",
+    "geom:latitude":1.26699,
+    "geom:longitude":34.79871,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C4",
+    "gn:admin3_code":"7732537.0",
+    "gn:admin4_code":"8658078.0",
+    "gn:asciiname":"Kaptererwa",
+    "gn:country_code":"UG",
+    "gn:dem":1872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8644102,
+    "gn:latitude":1.26699,
+    "gn:longitude":34.79871,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kaptererwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaptererwo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679957,
+        1092071861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8644102
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b47688e37aa77650113e7bca20d3adbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071861,
+            "locality_id":1209951591,
+            "region_id":85679957
+        }
+    ],
+    "wof:id":1209951591,
+    "wof:lastmodified":1537712114,
+    "wof:name":"Kaptererwa",
+    "wof:parent_id":1092071861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.79871,
+    1.26699,
+    34.79871,
+    1.26699
+],
+  "geometry": {"coordinates":[34.79871,1.26699],"type":"Point"}
+}

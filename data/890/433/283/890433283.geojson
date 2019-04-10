@@ -1,0 +1,96 @@
+{
+  "id": 890433283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.94194,-0.84111,29.94194,-0.84111",
+    "geom:latitude":-0.84111,
+    "geom:longitude":29.94194,
+    "gn:country":"UG",
+    "gn:fcode":"PPLA2",
+    "gn:pop":14000,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Rukungiri"
+    ],
+    "name:eng_x_preferred":[
+        "Rukungiri"
+    ],
+    "name:fre_x_preferred":[
+        "Rukungiri"
+    ],
+    "name:ita_x_preferred":[
+        "Rukungiri"
+    ],
+    "name:nob_x_preferred":[
+        "Rukungiri"
+    ],
+    "name:rum_x_preferred":[
+        "Rukungiri"
+    ],
+    "name:swa_x_preferred":[
+        "Rukungiri"
+    ],
+    "name:unk_x_variant":[
+        "Kinyasano"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u06a9\u0648\u0646\u06af\u06cc\u0631\u06cc"
+    ],
+    "qs:name":"Rukungiri",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":345,
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680061,
+        1092073637
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226600,
+        "gp:id":1455180,
+        "qs:id":123590,
+        "wd:id":"Q6700211",
+        "wk:page":"Rukungiri"
+    },
+    "wof:country":"UG",
+    "wof:created":1469051975,
+    "wof:geomhash":"c307e531b687f786e8aa951a8f2cb03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073637,
+            "locality_id":890433283,
+            "region_id":85680061
+        }
+    ],
+    "wof:id":890433283,
+    "wof:lastmodified":1527792955,
+    "wof:name":"Rukungiri",
+    "wof:parent_id":1092073637,
+    "wof:placetype":"locality",
+    "wof:population":14000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.94194,
+    -0.84111,
+    29.94194,
+    -0.84111
+],
+  "geometry": {"coordinates":[29.94194,-0.84111],"type":"Point"}
+}

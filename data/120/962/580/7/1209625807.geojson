@@ -1,0 +1,64 @@
+{
+  "id": 1209625807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.35737,2.55573,32.35737,2.55573",
+    "geom:latitude":2.55573,
+    "geom:longitude":32.35737,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"I5",
+    "gn:admin3_code":"227037.0",
+    "gn:admin4_code":"8261619.0",
+    "gn:asciiname":"Bobi",
+    "gn:country_code":"UG",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234723,
+    "gn:latitude":2.55573,
+    "gn:longitude":32.35737,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Bobi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234723
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"97220daeabcf7522d1012b6fff80f486",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209625807
+        }
+    ],
+    "wof:id":1209625807,
+    "wof:lastmodified":1536281358,
+    "wof:name":"Bobi",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.35737,
+    2.55573,
+    32.35737,
+    2.55573
+],
+  "geometry": {"coordinates":[32.35737,2.55573],"type":"Point"}
+}

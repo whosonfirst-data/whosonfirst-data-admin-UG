@@ -1,0 +1,70 @@
+{
+  "id": 1243102173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.38825,0.18597,32.38825,0.18597",
+    "geom:latitude":0.18597,
+    "geom:longitude":32.38825,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"234053.0",
+    "gn:admin4_code":"8657875.0",
+    "gn:asciiname":"Ttaba",
+    "gn:country_code":"UG",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226103,
+    "gn:latitude":0.18597,
+    "gn:longitude":32.38825,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Ttaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226103
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"dae6f0b57dbbd55f53fe876418fd24ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1243102173,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1243102173,
+    "wof:lastmodified":1536804599,
+    "wof:name":"Ttaba",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.38825,
+    0.18597,
+    32.38825,
+    0.18597
+],
+  "geometry": {"coordinates":[32.38825,0.18597],"type":"Point"}
+}

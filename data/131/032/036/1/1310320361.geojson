@@ -1,0 +1,70 @@
+{
+  "id": 1310320361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.99353,2.99435,33.99353,2.99435",
+    "geom:latitude":2.99435,
+    "geom:longitude":33.99353,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"45",
+    "gn:admin3_code":"233117.0",
+    "gn:admin4_code":"8657781.0",
+    "gn:asciiname":"Lokitelaebu",
+    "gn:country_code":"UG",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11101574,
+    "gn:latitude":2.99435,
+    "gn:longitude":33.99353,
+    "gn:modification_date":"2016-03-15",
+    "gn:name":"Lokitelaebu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679999,
+        1092070781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11101574
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a722bf96617850c7d0649e0ce1684147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070781,
+            "locality_id":1310320361,
+            "region_id":85679999
+        }
+    ],
+    "wof:id":1310320361,
+    "wof:lastmodified":1536686427,
+    "wof:name":"Lokitelaebu",
+    "wof:parent_id":1092070781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.99353,
+    2.99435,
+    33.99353,
+    2.99435
+],
+  "geometry": {"coordinates":[33.99353,2.99435],"type":"Point"}
+}

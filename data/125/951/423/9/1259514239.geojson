@@ -1,0 +1,70 @@
+{
+  "id": 1259514239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4,1.06667,32.4,1.06667",
+    "geom:latitude":1.06667,
+    "geom:longitude":32.4,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"8644176.0",
+    "gn:admin4_code":"8657621.0",
+    "gn:asciiname":"Kabale",
+    "gn:country_code":"UG",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233071,
+    "gn:latitude":1.06667,
+    "gn:longitude":32.4,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kabale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679881,
+        1092071399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233071
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"42b09e274f5c8ae1d34434213cbbfc9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071399,
+            "locality_id":1259514239,
+            "region_id":85679881
+        }
+    ],
+    "wof:id":1259514239,
+    "wof:lastmodified":1536814026,
+    "wof:name":"Kabale",
+    "wof:parent_id":1092071399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4,
+    1.06667,
+    32.4,
+    1.06667
+],
+  "geometry": {"coordinates":[32.4,1.06667],"type":"Point"}
+}

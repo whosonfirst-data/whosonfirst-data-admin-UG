@@ -1,0 +1,70 @@
+{
+  "id": 1193155661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.96052,2.59424,31.96052,2.59424",
+    "geom:latitude":2.59424,
+    "geom:longitude":31.96052,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"8644126.0",
+    "gn:admin4_code":"8658737.0",
+    "gn:asciiname":"Alokolum",
+    "gn:country_code":"UG",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200522,
+    "gn:latitude":2.59424,
+    "gn:longitude":31.96052,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Alokolum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680247,
+        1092073225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200522
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"488c9d66958ffb673b8e2b8c86423c93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073225,
+            "locality_id":1193155661,
+            "region_id":85680247
+        }
+    ],
+    "wof:id":1193155661,
+    "wof:lastmodified":1536373513,
+    "wof:name":"Alokolum",
+    "wof:parent_id":1092073225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.96052,
+    2.59424,
+    31.96052,
+    2.59424
+],
+  "geometry": {"coordinates":[31.96052,2.59424],"type":"Point"}
+}

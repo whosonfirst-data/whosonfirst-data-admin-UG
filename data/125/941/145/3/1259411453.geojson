@@ -1,0 +1,68 @@
+{
+  "id": 1259411453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.24221,0.10665,32.24221,0.10665",
+    "geom:latitude":0.10665,
+    "geom:longitude":32.24221,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:asciiname":"Buzungu",
+    "gn:country_code":"UG",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552321,
+    "gn:latitude":0.10665,
+    "gn:longitude":32.24221,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Buzungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679827,
+        1092072705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552321
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"23075ed0d0fb538a02aeb52d336fbb9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072705,
+            "locality_id":1259411453,
+            "region_id":85679827
+        }
+    ],
+    "wof:id":1259411453,
+    "wof:lastmodified":1536962271,
+    "wof:name":"Buzungu",
+    "wof:parent_id":1092072705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.24221,
+    0.10665,
+    32.24221,
+    0.10665
+],
+  "geometry": {"coordinates":[32.24221,0.10665],"type":"Point"}
+}

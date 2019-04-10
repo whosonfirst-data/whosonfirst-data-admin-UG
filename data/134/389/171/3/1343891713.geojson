@@ -1,0 +1,70 @@
+{
+  "id": 1343891713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.76667,-0.4,31.76667,-0.4",
+    "geom:latitude":-0.4,
+    "geom:longitude":31.76667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"G5",
+    "gn:admin3_code":"7910221.0",
+    "gn:admin4_code":"8658034.0",
+    "gn:asciiname":"Mukoni",
+    "gn:country_code":"UG",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228856,
+    "gn:latitude":-0.4,
+    "gn:longitude":31.76667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mukoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680031,
+        1092069393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228856
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"12a236e48e0388a106cd6b425202d6f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069393,
+            "locality_id":1343891713,
+            "region_id":85680031
+        }
+    ],
+    "wof:id":1343891713,
+    "wof:lastmodified":1536619405,
+    "wof:name":"Mukoni",
+    "wof:parent_id":1092069393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.76667,
+    -0.4,
+    31.76667,
+    -0.4
+],
+  "geometry": {"coordinates":[31.76667,-0.4],"type":"Point"}
+}

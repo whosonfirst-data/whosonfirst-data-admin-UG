@@ -1,0 +1,70 @@
+{
+  "id": 1243082787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.82326,2.54883,30.82326,2.54883",
+    "geom:latitude":2.54883,
+    "geom:longitude":30.82326,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"H7",
+    "gn:admin3_code":"227147.0",
+    "gn:admin4_code":"8657766.0",
+    "gn:asciiname":"Omoyo",
+    "gn:country_code":"UG",
+    "gn:dem":1551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227035,
+    "gn:latitude":2.54883,
+    "gn:longitude":30.82326,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Omoyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680085,
+        1092073339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227035
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"94997a637a5ae0caa887d7384fe60a50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073339,
+            "locality_id":1243082787,
+            "region_id":85680085
+        }
+    ],
+    "wof:id":1243082787,
+    "wof:lastmodified":1536831655,
+    "wof:name":"Omoyo",
+    "wof:parent_id":1092073339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.82326,
+    2.54883,
+    30.82326,
+    2.54883
+],
+  "geometry": {"coordinates":[30.82326,2.54883],"type":"Point"}
+}

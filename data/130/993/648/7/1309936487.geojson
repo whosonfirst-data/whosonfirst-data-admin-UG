@@ -1,0 +1,70 @@
+{
+  "id": 1309936487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.61667,1.43333,33.61667,1.43333",
+    "geom:latitude":1.43333,
+    "geom:longitude":33.61667,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"H5",
+    "gn:admin3_code":"226329.0",
+    "gn:admin4_code":"8657603.0",
+    "gn:asciiname":"Ocheko",
+    "gn:country_code":"UG",
+    "gn:dem":1062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227260,
+    "gn:latitude":1.43333,
+    "gn:longitude":33.61667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ocheko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680119,
+        1092073939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227260
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a7c3176c88ce74982645acbabeaba131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073939,
+            "locality_id":1309936487,
+            "region_id":85680119
+        }
+    ],
+    "wof:id":1309936487,
+    "wof:lastmodified":1536742628,
+    "wof:name":"Ocheko",
+    "wof:parent_id":1092073939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.61667,
+    1.43333,
+    33.61667,
+    1.43333
+],
+  "geometry": {"coordinates":[33.61667,1.43333],"type":"Point"}
+}

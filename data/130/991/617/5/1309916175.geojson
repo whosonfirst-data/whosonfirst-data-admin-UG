@@ -1,0 +1,73 @@
+{
+  "id": 1309916175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.62541,1.97251,32.62541,1.97251",
+    "geom:latitude":1.97251,
+    "geom:longitude":32.62541,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"26",
+    "gn:admin3_code":"229387.0",
+    "gn:admin4_code":"8261613.0",
+    "gn:asciiname":"Atana",
+    "gn:country_code":"UG",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":235006,
+    "gn:latitude":1.97251,
+    "gn:longitude":32.62541,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Atana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Atana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680151,
+        1092072551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235006
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"dcb9181aadc661c91b8b211154380761",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072551,
+            "locality_id":1309916175,
+            "region_id":85680151
+        }
+    ],
+    "wof:id":1309916175,
+    "wof:lastmodified":1537712106,
+    "wof:name":"Atana",
+    "wof:parent_id":1092072551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.62541,
+    1.97251,
+    32.62541,
+    1.97251
+],
+  "geometry": {"coordinates":[32.62541,1.97251],"type":"Point"}
+}

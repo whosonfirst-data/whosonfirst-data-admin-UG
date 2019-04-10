@@ -1,0 +1,64 @@
+{
+  "id": 1209651205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.46621,1.85322,33.46621,1.85322",
+    "geom:latitude":1.85322,
+    "geom:longitude":33.46621,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"95",
+    "gn:admin3_code":"226232.0",
+    "gn:admin4_code":"8657809.0",
+    "gn:asciiname":"Aputon",
+    "gn:country_code":"UG",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235081,
+    "gn:latitude":1.85322,
+    "gn:longitude":33.46621,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Aputon",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235081
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"48d2c1afbe7ead059c6d61a911948bdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209651205
+        }
+    ],
+    "wof:id":1209651205,
+    "wof:lastmodified":1536280574,
+    "wof:name":"Aputon",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.46621,
+    1.85322,
+    33.46621,
+    1.85322
+],
+  "geometry": {"coordinates":[33.46621,1.85322],"type":"Point"}
+}

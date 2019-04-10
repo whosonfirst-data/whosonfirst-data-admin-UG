@@ -1,0 +1,71 @@
+{
+  "id": 1276259693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.04291,0.74367,34.04291,0.74367",
+    "geom:latitude":0.74367,
+    "geom:longitude":34.04291,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Panyandere",
+    "gn:country_code":"UG",
+    "gn:dem":1127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11432824,
+    "gn:latitude":0.74367,
+    "gn:longitude":34.04291,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Panyandere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Panyandere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679989,
+        1092074289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11432824
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8189b398a06494a56c44c16815ef9881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074289,
+            "locality_id":1276259693,
+            "region_id":85679989
+        }
+    ],
+    "wof:id":1276259693,
+    "wof:lastmodified":1537712155,
+    "wof:name":"Panyandere",
+    "wof:parent_id":1092074289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.04291,
+    0.74367,
+    34.04291,
+    0.74367
+],
+  "geometry": {"coordinates":[34.04291,0.74367],"type":"Point"}
+}

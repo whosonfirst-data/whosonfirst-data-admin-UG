@@ -1,0 +1,73 @@
+{
+  "id": 1226677553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.02323,0.11918,32.02323,0.11918",
+    "geom:latitude":0.11918,
+    "geom:longitude":32.02323,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F1",
+    "gn:admin3_code":"234000.0",
+    "gn:admin4_code":"8658604.0",
+    "gn:asciiname":"Ndeese",
+    "gn:country_code":"UG",
+    "gn:dem":1239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227923,
+    "gn:latitude":0.11918,
+    "gn:longitude":32.02323,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Ndeese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ndese"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680131,
+        1092069969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227923
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0484ca2b8e77a01543de78b1aa348be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069969,
+            "locality_id":1226677553,
+            "region_id":85680131
+        }
+    ],
+    "wof:id":1226677553,
+    "wof:lastmodified":1537712067,
+    "wof:name":"Ndeese",
+    "wof:parent_id":1092069969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.02323,
+    0.11918,
+    32.02323,
+    0.11918
+],
+  "geometry": {"coordinates":[32.02323,0.11918],"type":"Point"}
+}

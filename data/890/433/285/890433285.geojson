@@ -1,0 +1,78 @@
+{
+  "id": 890433285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.62861,-0.59167,30.62861,-0.59167",
+    "geom:latitude":-0.59167,
+    "geom:longitude":30.62861,
+    "gn:country":"UG",
+    "gn:fcode":"PPL",
+    "gn:pop":79157,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Bwizibwera"
+    ],
+    "name:eng_x_preferred":[
+        "Bwizibwera"
+    ],
+    "name:lug_x_preferred":[
+        "Bwizibwera"
+    ],
+    "qs:name":"Bwizibwera",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wd:wordcount":100,
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680069,
+        1092072775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233730,
+        "gp:id":1453747,
+        "qs:id":123623,
+        "wd:id":"Q5003690",
+        "wk:page":"Bwizibwera"
+    },
+    "wof:country":"UG",
+    "wof:created":1469051975,
+    "wof:geomhash":"b48596989b030510c42612ad49f6e287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072775,
+            "locality_id":890433285,
+            "region_id":85680069
+        }
+    ],
+    "wof:id":890433285,
+    "wof:lastmodified":1527792956,
+    "wof:name":"Bwizibwera",
+    "wof:parent_id":1092072775,
+    "wof:placetype":"locality",
+    "wof:population":79157,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.62861,
+    -0.59167,
+    30.62861,
+    -0.59167
+],
+  "geometry": {"coordinates":[30.62861,-0.59167],"type":"Point"}
+}

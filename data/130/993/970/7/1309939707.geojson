@@ -1,0 +1,73 @@
+{
+  "id": 1309939707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.98672,0.58162,29.98672,0.58162",
+    "geom:latitude":0.58162,
+    "geom:longitude":29.98672,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"8644162.0",
+    "gn:admin4_code":"8657610.0",
+    "gn:asciiname":"Kakuka",
+    "gn:country_code":"UG",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232625,
+    "gn:latitude":0.58162,
+    "gn:longitude":29.98672,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kakuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kakuka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092074383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232625
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8f7ec08c835b8e53d30cbac9aa845ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074383,
+            "locality_id":1309939707,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1309939707,
+    "wof:lastmodified":1537712091,
+    "wof:name":"Kakuka",
+    "wof:parent_id":1092074383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.98672,
+    0.58162,
+    29.98672,
+    0.58162
+],
+  "geometry": {"coordinates":[29.98672,0.58162],"type":"Point"}
+}

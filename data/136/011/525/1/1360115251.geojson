@@ -1,0 +1,68 @@
+{
+  "id": 1360115251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.28953,0.26907,32.28953,0.26907",
+    "geom:latitude":0.26907,
+    "geom:longitude":32.28953,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F1",
+    "gn:asciiname":"Ngogwe",
+    "gn:country_code":"UG",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552086,
+    "gn:latitude":0.26907,
+    "gn:longitude":32.28953,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ngogwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680131,
+        1092069969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552086
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7c49b34525e750a4a2d199aca92b0fc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069969,
+            "locality_id":1360115251,
+            "region_id":85680131
+        }
+    ],
+    "wof:id":1360115251,
+    "wof:lastmodified":1536902321,
+    "wof:name":"Ngogwe",
+    "wof:parent_id":1092069969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.28953,
+    0.26907,
+    32.28953,
+    0.26907
+],
+  "geometry": {"coordinates":[32.28953,0.26907],"type":"Point"}
+}

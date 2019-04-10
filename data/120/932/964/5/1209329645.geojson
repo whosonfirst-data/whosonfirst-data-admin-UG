@@ -1,0 +1,67 @@
+{
+  "id": 1209329645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.86943,1.68657,32.86943,1.68657",
+    "geom:latitude":1.68657,
+    "geom:longitude":32.86943,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B7",
+    "gn:admin3_code":"231170.0",
+    "gn:admin4_code":"8658377.0",
+    "gn:asciiname":"Adita",
+    "gn:country_code":"UG",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":235492,
+    "gn:latitude":1.68657,
+    "gn:longitude":32.86943,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Adita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Adita"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235492
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5348b90266b49d4c533b3338881a0a9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209329645
+        }
+    ],
+    "wof:id":1209329645,
+    "wof:lastmodified":1537712111,
+    "wof:name":"Adita",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.86943,
+    1.68657,
+    32.86943,
+    1.68657
+],
+  "geometry": {"coordinates":[32.86943,1.68657],"type":"Point"}
+}

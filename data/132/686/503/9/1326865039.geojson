@@ -1,0 +1,68 @@
+{
+  "id": 1326865039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.27604,0.7926,33.27604,0.7926",
+    "geom:latitude":0.7926,
+    "geom:longitude":33.27604,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G4",
+    "gn:asciiname":"Bukyamata",
+    "gn:country_code":"UG",
+    "gn:dem":1094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553247,
+    "gn:latitude":0.7926,
+    "gn:longitude":33.27604,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bukyamata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680097,
+        1092072403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553247
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2e28c9545e7f4354f79addfa57357771",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072403,
+            "locality_id":1326865039,
+            "region_id":85680097
+        }
+    ],
+    "wof:id":1326865039,
+    "wof:lastmodified":1537000721,
+    "wof:name":"Bukyamata",
+    "wof:parent_id":1092072403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.27604,
+    0.7926,
+    33.27604,
+    0.7926
+],
+  "geometry": {"coordinates":[33.27604,0.7926],"type":"Point"}
+}

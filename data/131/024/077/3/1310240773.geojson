@@ -1,0 +1,73 @@
+{
+  "id": 1310240773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.17326,0.86663,30.17326,0.86663",
+    "geom:latitude":0.86663,
+    "geom:longitude":30.17326,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"8644162.0",
+    "gn:admin4_code":"8657673.0",
+    "gn:asciiname":"Burondo",
+    "gn:country_code":"UG",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234126,
+    "gn:latitude":0.86663,
+    "gn:longitude":30.17326,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Burondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Burondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092074383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234126
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"813ba95da49dac2860a4bebea8378f3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074383,
+            "locality_id":1310240773,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1310240773,
+    "wof:lastmodified":1537712099,
+    "wof:name":"Burondo",
+    "wof:parent_id":1092074383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.17326,
+    0.86663,
+    30.17326,
+    0.86663
+],
+  "geometry": {"coordinates":[30.17326,0.86663],"type":"Point"}
+}

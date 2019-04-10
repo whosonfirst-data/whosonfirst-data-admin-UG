@@ -1,0 +1,74 @@
+{
+  "id": 1327060901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.71667,-0.91667,31.71667,-0.91667",
+    "geom:latitude":-0.91667,
+    "geom:longitude":31.71667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"I3",
+    "gn:admin3_code":"8643028.0",
+    "gn:admin4_code":"8657732.0",
+    "gn:asciiname":"Bugera",
+    "gn:country_code":"UG",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234574,
+    "gn:latitude":-0.91667,
+    "gn:longitude":31.71667,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Bugera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bugela",
+        "Bugera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680025,
+        1092071087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234574
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6332c867198c22ba9535d47a12a7dc17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071087,
+            "locality_id":1327060901,
+            "region_id":85680025
+        }
+    ],
+    "wof:id":1327060901,
+    "wof:lastmodified":1537712103,
+    "wof:name":"Bugera",
+    "wof:parent_id":1092071087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.71667,
+    -0.91667,
+    31.71667,
+    -0.91667
+],
+  "geometry": {"coordinates":[31.71667,-0.91667],"type":"Point"}
+}

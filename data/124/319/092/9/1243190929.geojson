@@ -1,0 +1,73 @@
+{
+  "id": 1243190929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.73858,1.64704,32.73858,1.64704",
+    "geom:latitude":1.64704,
+    "geom:longitude":32.73858,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B7",
+    "gn:admin3_code":"231170.0",
+    "gn:admin4_code":"8657892.0",
+    "gn:asciiname":"Turukang",
+    "gn:country_code":"UG",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":226089,
+    "gn:latitude":1.64704,
+    "gn:longitude":32.73858,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Turukang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Turukang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679799,
+        1092071719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226089
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3c935d6a9bea6cae83546b192f4d87c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071719,
+            "locality_id":1243190929,
+            "region_id":85679799
+        }
+    ],
+    "wof:id":1243190929,
+    "wof:lastmodified":1537712053,
+    "wof:name":"Turukang",
+    "wof:parent_id":1092071719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.73858,
+    1.64704,
+    32.73858,
+    1.64704
+],
+  "geometry": {"coordinates":[32.73858,1.64704],"type":"Point"}
+}

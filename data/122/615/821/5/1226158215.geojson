@@ -1,0 +1,70 @@
+{
+  "id": 1226158215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.83525,3.46933,32.83525,3.46933",
+    "geom:latitude":3.46933,
+    "geom:longitude":32.83525,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"G3",
+    "gn:admin3_code":"230209.0",
+    "gn:admin4_code":"8658635.0",
+    "gn:asciiname":"Padibe",
+    "gn:country_code":"UG",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226865,
+    "gn:latitude":3.46933,
+    "gn:longitude":32.83525,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Padibe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680147,
+        1092072341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226865
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0e48bbf3c8c526d4f13af8b5120cbc5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072341,
+            "locality_id":1226158215,
+            "region_id":85680147
+        }
+    ],
+    "wof:id":1226158215,
+    "wof:lastmodified":1537057145,
+    "wof:name":"Padibe",
+    "wof:parent_id":1092072341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.83525,
+    3.46933,
+    32.83525,
+    3.46933
+],
+  "geometry": {"coordinates":[32.83525,3.46933],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293894041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.92714,2.31294,32.92714,2.31294",
+    "geom:latitude":2.31294,
+    "geom:longitude":32.92714,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"233491.0",
+    "gn:admin4_code":"8658409.0",
+    "gn:asciiname":"Ngeta",
+    "gn:country_code":"UG",
+    "gn:dem":1142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227878,
+    "gn:latitude":2.31294,
+    "gn:longitude":32.92714,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ngeta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679909,
+        1092070567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227878
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1db27ac846046433f91af3bae8217ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070567,
+            "locality_id":1293894041,
+            "region_id":85679909
+        }
+    ],
+    "wof:id":1293894041,
+    "wof:lastmodified":1536698321,
+    "wof:name":"Ngeta",
+    "wof:parent_id":1092070567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.92714,
+    2.31294,
+    32.92714,
+    2.31294
+],
+  "geometry": {"coordinates":[32.92714,2.31294],"type":"Point"}
+}

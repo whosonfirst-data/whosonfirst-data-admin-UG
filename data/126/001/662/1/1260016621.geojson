@@ -1,0 +1,70 @@
+{
+  "id": 1260016621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.81667,0.96667,30.81667,0.96667",
+    "geom:latitude":0.96667,
+    "geom:longitude":30.81667,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"I1",
+    "gn:admin3_code":"233860.0",
+    "gn:admin4_code":"8657614.0",
+    "gn:asciiname":"Kitegwa",
+    "gn:country_code":"UG",
+    "gn:dem":1201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230922,
+    "gn:latitude":0.96667,
+    "gn:longitude":30.81667,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Kitegwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679947,
+        1092070183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230922
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9a82f84c3b544e0ae012d0303d27da5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070183,
+            "locality_id":1260016621,
+            "region_id":85679947
+        }
+    ],
+    "wof:id":1260016621,
+    "wof:lastmodified":1537081033,
+    "wof:name":"Kitegwa",
+    "wof:parent_id":1092070183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.81667,
+    0.96667,
+    30.81667,
+    0.96667
+],
+  "geometry": {"coordinates":[30.81667,0.96667],"type":"Point"}
+}

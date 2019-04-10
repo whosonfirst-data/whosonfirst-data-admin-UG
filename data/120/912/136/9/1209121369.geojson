@@ -1,0 +1,64 @@
+{
+  "id": 1209121369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.12373,2.63514,31.12373,2.63514",
+    "geom:latitude":2.63514,
+    "geom:longitude":31.12373,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"8644146.0",
+    "gn:admin4_code":"8261585.0",
+    "gn:asciiname":"Oyua",
+    "gn:country_code":"UG",
+    "gn:dem":844,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8081101,
+    "gn:latitude":2.63514,
+    "gn:longitude":31.12373,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Oyua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8081101
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0a4b2a0fbcad66eaebdf7c1da84a4bca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209121369
+        }
+    ],
+    "wof:id":1209121369,
+    "wof:lastmodified":1536297087,
+    "wof:name":"Oyua",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.12373,
+    2.6351400000000003,
+    31.12373,
+    2.6351400000000003
+],
+  "geometry": {"coordinates":[31.12373,2.63514],"type":"Point"}
+}

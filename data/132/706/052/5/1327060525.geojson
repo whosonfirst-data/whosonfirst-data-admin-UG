@@ -1,0 +1,70 @@
+{
+  "id": 1327060525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6,0.28333,30.6,0.28333",
+    "geom:latitude":0.28333,
+    "geom:longitude":30.6,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"81",
+    "gn:admin3_code":"231608.0",
+    "gn:admin4_code":"8657565.0",
+    "gn:asciiname":"Rwamanja",
+    "gn:country_code":"UG",
+    "gn:dem":1331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226516,
+    "gn:latitude":0.28333,
+    "gn:longitude":30.6,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rwamanja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680041,
+        421202527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226516
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0328eab0c5d1ed7166fe235c27ba9539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":421202527,
+            "locality_id":1327060525,
+            "region_id":85680041
+        }
+    ],
+    "wof:id":1327060525,
+    "wof:lastmodified":1536720314,
+    "wof:name":"Rwamanja",
+    "wof:parent_id":421202527,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6,
+    0.28333,
+    30.6,
+    0.28333
+],
+  "geometry": {"coordinates":[30.6,0.28333],"type":"Point"}
+}

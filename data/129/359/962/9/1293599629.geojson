@@ -1,0 +1,75 @@
+{
+  "id": 1293599629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.97058,3.19433,30.97058,3.19433",
+    "geom:latitude":3.19433,
+    "geom:longitude":30.97058,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"D7",
+    "gn:admin3_code":"229396.0",
+    "gn:admin4_code":"8658274.0",
+    "gn:asciiname":"Obuje",
+    "gn:country_code":"UG",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227287,
+    "gn:latitude":3.19433,
+    "gn:longitude":30.97058,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Obuje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Offude",
+        "Ofude",
+        "Obuje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679861,
+        1092072511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227287
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"59df5c3e4b9e9a0d40dd8ea909ab38eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072511,
+            "locality_id":1293599629,
+            "region_id":85679861
+        }
+    ],
+    "wof:id":1293599629,
+    "wof:lastmodified":1537712065,
+    "wof:name":"Obuje",
+    "wof:parent_id":1092072511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.97058,
+    3.19433,
+    30.97058,
+    3.19433
+],
+  "geometry": {"coordinates":[30.97058,3.19433],"type":"Point"}
+}

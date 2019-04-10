@@ -1,0 +1,75 @@
+{
+  "id": 1293814475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08472,0.70417,31.08472,0.70417",
+    "geom:latitude":0.70417,
+    "geom:longitude":31.08472,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"41",
+    "gn:admin3_code":"8644139.0",
+    "gn:admin4_code":"8658062.0",
+    "gn:asciiname":"Kisele",
+    "gn:cc2":"UG",
+    "gn:country_code":"UG",
+    "gn:dem":1301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231044,
+    "gn:latitude":0.70417,
+    "gn:longitude":31.08472,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kisele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kisela",
+        "Kisele"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679947,
+        1092070207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231044
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"86dc96e04e433cd0751c7f8e902e8b9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070207,
+            "locality_id":1293814475,
+            "region_id":85679947
+        }
+    ],
+    "wof:id":1293814475,
+    "wof:lastmodified":1537712083,
+    "wof:name":"Kisele",
+    "wof:parent_id":1092070207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08472,
+    0.70417,
+    31.08472,
+    0.70417
+],
+  "geometry": {"coordinates":[31.08472,0.70417],"type":"Point"}
+}

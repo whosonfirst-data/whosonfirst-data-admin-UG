@@ -1,0 +1,68 @@
+{
+  "id": 1243300389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.20622,0.88397,33.20622,0.88397",
+    "geom:latitude":0.88397,
+    "geom:longitude":33.20622,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Bunakatwe",
+    "gn:country_code":"UG",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552898,
+    "gn:latitude":0.88397,
+    "gn:longitude":33.20622,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bunakatwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092068917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552898
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"fce825ffa6a4f7927705173975334b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068917,
+            "locality_id":1243300389,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":1243300389,
+    "wof:lastmodified":1537015241,
+    "wof:name":"Bunakatwe",
+    "wof:parent_id":1092068917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.20622,
+    0.88397,
+    33.20622,
+    0.88397
+],
+  "geometry": {"coordinates":[33.20622,0.88397],"type":"Point"}
+}

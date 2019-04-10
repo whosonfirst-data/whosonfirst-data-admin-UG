@@ -1,0 +1,70 @@
+{
+  "id": 1343868823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.97008,3.12172,30.97008,3.12172",
+    "geom:latitude":3.12172,
+    "geom:longitude":30.97008,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"226158.0",
+    "gn:admin4_code":"8657701.0",
+    "gn:asciiname":"Katrini",
+    "gn:country_code":"UG",
+    "gn:dem":1183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231819,
+    "gn:latitude":3.12172,
+    "gn:longitude":30.97008,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Katrini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679861,
+        1092074097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231819
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"08eacc746d370a2616451d5b4e22f77f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074097,
+            "locality_id":1343868823,
+            "region_id":85679861
+        }
+    ],
+    "wof:id":1343868823,
+    "wof:lastmodified":1536654429,
+    "wof:name":"Katrini",
+    "wof:parent_id":1092074097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.97008,
+    3.12172,
+    30.97008,
+    3.12172
+],
+  "geometry": {"coordinates":[30.97008,3.12172],"type":"Point"}
+}

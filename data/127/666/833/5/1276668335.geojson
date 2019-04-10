@@ -1,0 +1,74 @@
+{
+  "id": 1276668335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.02468,3.41205,33.02468,3.41205",
+    "geom:latitude":3.41205,
+    "geom:longitude":33.02468,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"84",
+    "gn:admin3_code":"233642.0",
+    "gn:admin4_code":"8647780.0",
+    "gn:asciiname":"Mucwini",
+    "gn:country_code":"UG",
+    "gn:dem":980,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228953,
+    "gn:latitude":3.41205,
+    "gn:longitude":33.02468,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mucwini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Musini",
+        "Mucwini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679899,
+        1092070355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228953
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9aefaa10217a828b07faac118739dfcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070355,
+            "locality_id":1276668335,
+            "region_id":85679899
+        }
+    ],
+    "wof:id":1276668335,
+    "wof:lastmodified":1537712073,
+    "wof:name":"Mucwini",
+    "wof:parent_id":1092070355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.02468,
+    3.41205,
+    33.02468,
+    3.41205
+],
+  "geometry": {"coordinates":[33.02468,3.41205],"type":"Point"}
+}

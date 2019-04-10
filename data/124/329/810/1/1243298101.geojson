@@ -1,0 +1,73 @@
+{
+  "id": 1243298101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.59931,0.30024,33.59931,0.30024",
+    "geom:latitude":0.30024,
+    "geom:longitude":33.59931,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"86",
+    "gn:admin3_code":"8644164.0",
+    "gn:admin4_code":"8658516.0",
+    "gn:asciiname":"Bugoma",
+    "gn:country_code":"UG",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259152,
+    "gn:latitude":0.30024,
+    "gn:longitude":33.59931,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Bugoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bugoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679985,
+        1092069607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259152
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"97125077c51563da91401d98b6be60a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069607,
+            "locality_id":1243298101,
+            "region_id":85679985
+        }
+    ],
+    "wof:id":1243298101,
+    "wof:lastmodified":1537712121,
+    "wof:name":"Bugoma",
+    "wof:parent_id":1092069607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.59931,
+    0.30024,
+    33.59931,
+    0.30024
+],
+  "geometry": {"coordinates":[33.59931,0.30024],"type":"Point"}
+}

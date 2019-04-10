@@ -1,0 +1,70 @@
+{
+  "id": 1243008097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.76215,0.41425,32.76215,0.41425",
+    "geom:latitude":0.41425,
+    "geom:longitude":32.76215,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"90",
+    "gn:admin3_code":"7732384.0",
+    "gn:admin4_code":"8658288.0",
+    "gn:asciiname":"Kibooba",
+    "gn:country_code":"UG",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11357190,
+    "gn:latitude":0.41425,
+    "gn:longitude":32.76215,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Kibooba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679817,
+        1092072911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11357190
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0c44c5f6d7a3bb4c149e7fc36e01e1ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072911,
+            "locality_id":1243008097,
+            "region_id":85679817
+        }
+    ],
+    "wof:id":1243008097,
+    "wof:lastmodified":1536941136,
+    "wof:name":"Kibooba",
+    "wof:parent_id":1092072911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.76215,
+    0.41425,
+    32.76215,
+    0.41425
+],
+  "geometry": {"coordinates":[32.76215,0.41425],"type":"Point"}
+}

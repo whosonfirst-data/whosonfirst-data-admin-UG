@@ -1,0 +1,70 @@
+{
+  "id": 1310629697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.55439,0.38407,32.55439,0.38407",
+    "geom:latitude":0.38407,
+    "geom:longitude":32.55439,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"7732385.0",
+    "gn:admin4_code":"8658133.0",
+    "gn:asciiname":"Jinja",
+    "gn:country_code":"UG",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233113,
+    "gn:latitude":0.38407,
+    "gn:longitude":32.55439,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Jinja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679867,
+        1092071203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233113
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6b6a4f32b9c3b7c396c0d9a8e765ff76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071203,
+            "locality_id":1310629697,
+            "region_id":85679867
+        }
+    ],
+    "wof:id":1310629697,
+    "wof:lastmodified":1536737815,
+    "wof:name":"Jinja",
+    "wof:parent_id":1092071203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.55439000000001,
+    0.38407,
+    32.55439000000001,
+    0.38407
+],
+  "geometry": {"coordinates":[32.55439000000001,0.38407],"type":"Point"}
+}

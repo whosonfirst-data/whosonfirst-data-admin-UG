@@ -1,0 +1,70 @@
+{
+  "id": 1260218461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.96545,0.39313,32.96545,0.39313",
+    "geom:latitude":0.39313,
+    "geom:longitude":32.96545,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E7",
+    "gn:admin3_code":"7732075.0",
+    "gn:admin4_code":"8658333.0",
+    "gn:asciiname":"Namere",
+    "gn:country_code":"UG",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11357259,
+    "gn:latitude":0.39313,
+    "gn:longitude":32.96545,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Namere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680121,
+        1092069145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11357259
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c0d73abee39a2b8506b969dd544138bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069145,
+            "locality_id":1260218461,
+            "region_id":85680121
+        }
+    ],
+    "wof:id":1260218461,
+    "wof:lastmodified":1536800261,
+    "wof:name":"Namere",
+    "wof:parent_id":1092069145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.96545,
+    0.39313,
+    32.96545,
+    0.39313
+],
+  "geometry": {"coordinates":[32.96545,0.39313],"type":"Point"}
+}

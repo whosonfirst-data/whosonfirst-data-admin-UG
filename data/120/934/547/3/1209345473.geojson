@@ -1,0 +1,64 @@
+{
+  "id": 1209345473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.66667,2.01667,33.66667,2.01667",
+    "geom:latitude":2.01667,
+    "geom:longitude":33.66667,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"B8",
+    "gn:admin3_code":"235185.0",
+    "gn:admin4_code":"8658728.0",
+    "gn:asciiname":"Asamuk",
+    "gn:country_code":"UG",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235028,
+    "gn:latitude":2.01667,
+    "gn:longitude":33.66667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Asamuk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235028
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"75f9d13c3a2aca916d045f2678ad103a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209345473
+        }
+    ],
+    "wof:id":1209345473,
+    "wof:lastmodified":1536289926,
+    "wof:name":"Asamuk",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.66667,
+    2.01667,
+    33.66667,
+    2.01667
+],
+  "geometry": {"coordinates":[33.66667,2.01667],"type":"Point"}
+}

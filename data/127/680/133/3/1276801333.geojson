@@ -1,0 +1,70 @@
+{
+  "id": 1276801333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.23333,-1.15,30.23333,-1.15",
+    "geom:latitude":-1.15,
+    "geom:longitude":30.23333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"7732261.0",
+    "gn:admin4_code":"8657641.0",
+    "gn:asciiname":"Kabezi",
+    "gn:country_code":"UG",
+    "gn:dem":1461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233015,
+    "gn:latitude":-1.15,
+    "gn:longitude":30.23333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kabezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680059,
+        1092073825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233015
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"de42818e5b4d6649d3f11165f899d819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073825,
+            "locality_id":1276801333,
+            "region_id":85680059
+        }
+    ],
+    "wof:id":1276801333,
+    "wof:lastmodified":1536648521,
+    "wof:name":"Kabezi",
+    "wof:parent_id":1092073825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.23333,
+    -1.15,
+    30.23333,
+    -1.15
+],
+  "geometry": {"coordinates":[30.23333,-1.15],"type":"Point"}
+}

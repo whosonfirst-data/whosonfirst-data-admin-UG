@@ -1,0 +1,70 @@
+{
+  "id": 1293117263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.29111,3.44854,31.29111,3.44854",
+    "geom:latitude":3.44854,
+    "geom:longitude":31.29111,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"97",
+    "gn:admin3_code":"235054.0",
+    "gn:admin4_code":"8657729.0",
+    "gn:asciiname":"Aranga",
+    "gn:country_code":"UG",
+    "gn:dem":922,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235070,
+    "gn:latitude":3.44854,
+    "gn:longitude":31.29111,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Aranga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679857,
+        1092068435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235070
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"cbfecadef0d1a5db0a8c70b1fdf8f82e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068435,
+            "locality_id":1293117263,
+            "region_id":85679857
+        }
+    ],
+    "wof:id":1293117263,
+    "wof:lastmodified":1536822947,
+    "wof:name":"Aranga",
+    "wof:parent_id":1092068435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.29111,
+    3.44854,
+    31.29111,
+    3.44854
+],
+  "geometry": {"coordinates":[31.29111,3.44854],"type":"Point"}
+}

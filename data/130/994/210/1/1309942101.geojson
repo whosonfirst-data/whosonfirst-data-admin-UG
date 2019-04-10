@@ -1,0 +1,70 @@
+{
+  "id": 1309942101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.16503,0.40899,32.16503,0.40899",
+    "geom:latitude":0.40899,
+    "geom:longitude":32.16503,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:admin3_code":"8644152.0",
+    "gn:admin4_code":"8657879.0",
+    "gn:asciiname":"Mugulu",
+    "gn:country_code":"UG",
+    "gn:dem":1255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228917,
+    "gn:latitude":0.40899,
+    "gn:longitude":32.16503,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Mugulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679891,
+        1092072811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228917
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"50c56ed56bf99d590a8f1193637e1894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072811,
+            "locality_id":1309942101,
+            "region_id":85679891
+        }
+    ],
+    "wof:id":1309942101,
+    "wof:lastmodified":1536734818,
+    "wof:name":"Mugulu",
+    "wof:parent_id":1092072811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.16503,
+    0.40899,
+    32.16503,
+    0.40899
+],
+  "geometry": {"coordinates":[32.16503,0.40899],"type":"Point"}
+}

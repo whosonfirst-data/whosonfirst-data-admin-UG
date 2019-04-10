@@ -1,0 +1,70 @@
+{
+  "id": 1243399913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.28333,-0.86028,30.28333,-0.86028",
+    "geom:latitude":-0.86028,
+    "geom:longitude":30.28333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"8644181.0",
+    "gn:admin4_code":"8658089.0",
+    "gn:asciiname":"Ruhanga",
+    "gn:country_code":"UG",
+    "gn:dem":1417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226634,
+    "gn:latitude":-0.86028,
+    "gn:longitude":30.28333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ruhanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680059,
+        1092073713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226634
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ee5a2198cb5302c7b7ac3736f5e6ed21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073713,
+            "locality_id":1243399913,
+            "region_id":85680059
+        }
+    ],
+    "wof:id":1243399913,
+    "wof:lastmodified":1536871580,
+    "wof:name":"Ruhanga",
+    "wof:parent_id":1092073713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28333,
+    -0.86028,
+    30.28333,
+    -0.86028
+],
+  "geometry": {"coordinates":[30.28333,-0.86028],"type":"Point"}
+}

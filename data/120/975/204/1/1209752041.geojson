@@ -1,0 +1,68 @@
+{
+  "id": 1209752041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.23523,0.95726,33.23523,0.95726",
+    "geom:latitude":0.95726,
+    "geom:longitude":33.23523,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Bukyabanda",
+    "gn:country_code":"UG",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553009,
+    "gn:latitude":0.95726,
+    "gn:longitude":33.23523,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bukyabanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092068917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553009
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f54fd62763984a5b8c6bba0fc155c65b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068917,
+            "locality_id":1209752041,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":1209752041,
+    "wof:lastmodified":1536392306,
+    "wof:name":"Bukyabanda",
+    "wof:parent_id":1092068917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.23523,
+    0.95726,
+    33.23523,
+    0.95726
+],
+  "geometry": {"coordinates":[33.23523,0.95726],"type":"Point"}
+}

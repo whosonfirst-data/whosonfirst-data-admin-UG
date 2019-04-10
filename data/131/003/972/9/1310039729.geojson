@@ -1,0 +1,68 @@
+{
+  "id": 1310039729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58395,1.57406,33.58395,1.57406",
+    "geom:latitude":1.57406,
+    "geom:longitude":33.58395,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"95",
+    "gn:asciiname":"Otoitoi",
+    "gn:country_code":"UG",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11498019,
+    "gn:latitude":1.57406,
+    "gn:longitude":33.58395,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Otoitoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679813,
+        1092074055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11498019
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e942dc73e2bb9d636f4b84578d57fcdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074055,
+            "locality_id":1310039729,
+            "region_id":85679813
+        }
+    ],
+    "wof:id":1310039729,
+    "wof:lastmodified":1537088144,
+    "wof:name":"Otoitoi",
+    "wof:parent_id":1092074055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58395,
+    1.57406,
+    33.58395,
+    1.57406
+],
+  "geometry": {"coordinates":[33.58395,1.57406],"type":"Point"}
+}

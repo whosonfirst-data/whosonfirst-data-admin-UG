@@ -1,0 +1,70 @@
+{
+  "id": 1260317555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.32524,1.62249,31.32524,1.62249",
+    "geom:latitude":1.62249,
+    "geom:longitude":31.32524,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"7732256.0",
+    "gn:admin4_code":"8657918.0",
+    "gn:asciiname":"Kaburamurro",
+    "gn:country_code":"UG",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8080923,
+    "gn:latitude":1.62249,
+    "gn:longitude":31.32524,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kaburamurro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679933,
+        1092068961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8080923
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b45869843a55f3f08f610c84b7e8f826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068961,
+            "locality_id":1260317555,
+            "region_id":85679933
+        }
+    ],
+    "wof:id":1260317555,
+    "wof:lastmodified":1536666309,
+    "wof:name":"Kaburamurro",
+    "wof:parent_id":1092068961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.32524,
+    1.62249,
+    31.32524,
+    1.62249
+],
+  "geometry": {"coordinates":[31.32524,1.62249],"type":"Point"}
+}

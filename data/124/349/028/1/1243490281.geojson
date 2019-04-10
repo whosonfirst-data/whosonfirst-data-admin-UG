@@ -1,0 +1,70 @@
+{
+  "id": 1243490281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48333,-0.95,30.48333,-0.95",
+    "geom:latitude":-0.95,
+    "geom:longitude":30.48333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"7732260.0",
+    "gn:admin4_code":"8658657.0",
+    "gn:asciiname":"Kigomero",
+    "gn:country_code":"UG",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231431,
+    "gn:latitude":-0.95,
+    "gn:longitude":30.48333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kigomero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680059,
+        1092073713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231431
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7de70d20d3a638ff024659d2d4c851dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073713,
+            "locality_id":1243490281,
+            "region_id":85680059
+        }
+    ],
+    "wof:id":1243490281,
+    "wof:lastmodified":1536742027,
+    "wof:name":"Kigomero",
+    "wof:parent_id":1092073713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48333,
+    -0.95,
+    30.48333,
+    -0.95
+],
+  "geometry": {"coordinates":[30.48333,-0.95],"type":"Point"}
+}

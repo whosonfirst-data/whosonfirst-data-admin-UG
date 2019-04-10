@@ -1,0 +1,70 @@
+{
+  "id": 1309924285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.33962,2.72147,31.33962,2.72147",
+    "geom:latitude":2.72147,
+    "geom:longitude":31.33962,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"8644146.0",
+    "gn:admin4_code":"8261585.0",
+    "gn:asciiname":"Olimbuni",
+    "gn:country_code":"UG",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8081036,
+    "gn:latitude":2.72147,
+    "gn:longitude":31.33962,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Olimbuni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092074425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8081036
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"03284b4c5d2cdd4afb899f08a6870411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074425,
+            "locality_id":1309924285,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1309924285,
+    "wof:lastmodified":1536760520,
+    "wof:name":"Olimbuni",
+    "wof:parent_id":1092074425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.33962,
+    2.72147,
+    31.33962,
+    2.72147
+],
+  "geometry": {"coordinates":[31.33962,2.72147],"type":"Point"}
+}

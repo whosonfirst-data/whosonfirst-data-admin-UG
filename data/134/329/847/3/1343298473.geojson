@@ -1,0 +1,70 @@
+{
+  "id": 1343298473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.35,0.7,31.35,0.7",
+    "geom:latitude":0.7,
+    "geom:longitude":31.35,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"56",
+    "gn:admin3_code":"233891.0",
+    "gn:admin4_code":"8658595.0",
+    "gn:asciiname":"Lwabijubwa",
+    "gn:country_code":"UG",
+    "gn:dem":1235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229720,
+    "gn:latitude":0.7,
+    "gn:longitude":31.35,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lwabijubwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679889,
+        1092070137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229720
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4b24a47bb0e7cb952b3f9e0704edd888",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070137,
+            "locality_id":1343298473,
+            "region_id":85679889
+        }
+    ],
+    "wof:id":1343298473,
+    "wof:lastmodified":1536979313,
+    "wof:name":"Lwabijubwa",
+    "wof:parent_id":1092070137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35,
+    0.7,
+    31.35,
+    0.7
+],
+  "geometry": {"coordinates":[31.35,0.7],"type":"Point"}
+}

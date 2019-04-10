@@ -1,0 +1,70 @@
+{
+  "id": 1344090287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.91881,1.34247,31.91881,1.34247",
+    "geom:latitude":1.34247,
+    "geom:longitude":31.91881,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D9",
+    "gn:admin3_code":"8644153.0",
+    "gn:admin4_code":"8657851.0",
+    "gn:asciiname":"Lwebikere",
+    "gn:country_code":"UG",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229645,
+    "gn:latitude":1.34247,
+    "gn:longitude":31.91881,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Lwebikere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679895,
+        1092072985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229645
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ef738d91332e8c32ec1e896635bfd7ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072985,
+            "locality_id":1344090287,
+            "region_id":85679895
+        }
+    ],
+    "wof:id":1344090287,
+    "wof:lastmodified":1536831676,
+    "wof:name":"Lwebikere",
+    "wof:parent_id":1092072985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.91881,
+    1.34247,
+    31.91881,
+    1.34247
+],
+  "geometry": {"coordinates":[31.91881,1.34247],"type":"Point"}
+}

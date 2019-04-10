@@ -1,0 +1,71 @@
+{
+  "id": 1226680239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.36127,0.89206,34.36127,0.89206",
+    "geom:latitude":0.89206,
+    "geom:longitude":34.36127,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D6",
+    "gn:asciiname":"Nameme",
+    "gn:country_code":"UG",
+    "gn:dem":1515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433213,
+    "gn:latitude":0.89206,
+    "gn:longitude":34.36127,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Nameme",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nameme"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679969,
+        1092068753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433213
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"525bd7092205fd1959b39fe4e232ccce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068753,
+            "locality_id":1226680239,
+            "region_id":85679969
+        }
+    ],
+    "wof:id":1226680239,
+    "wof:lastmodified":1537712165,
+    "wof:name":"Nameme",
+    "wof:parent_id":1092068753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.36127,
+    0.89206,
+    34.36127,
+    0.89206
+],
+  "geometry": {"coordinates":[34.36127,0.89206],"type":"Point"}
+}

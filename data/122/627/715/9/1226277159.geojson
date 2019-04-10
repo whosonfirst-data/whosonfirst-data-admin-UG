@@ -1,0 +1,68 @@
+{
+  "id": 1226277159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.36208,0.73561,33.36208,0.73561",
+    "geom:latitude":0.73561,
+    "geom:longitude":33.36208,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G4",
+    "gn:asciiname":"Katenga",
+    "gn:country_code":"UG",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553534,
+    "gn:latitude":0.73561,
+    "gn:longitude":33.36208,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Katenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680097,
+        1092072403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553534
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"49ae3567cc7106459c9917df9cebef15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072403,
+            "locality_id":1226277159,
+            "region_id":85680097
+        }
+    ],
+    "wof:id":1226277159,
+    "wof:lastmodified":1536887909,
+    "wof:name":"Katenga",
+    "wof:parent_id":1092072403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.36208,
+    0.73561,
+    33.36208,
+    0.73561
+],
+  "geometry": {"coordinates":[33.36208,0.73561],"type":"Point"}
+}

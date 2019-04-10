@@ -1,0 +1,70 @@
+{
+  "id": 1259717701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.15,1.25,33.15,1.25",
+    "geom:latitude":1.25,
+    "geom:longitude":33.15,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"F3",
+    "gn:admin3_code":"8644160.0",
+    "gn:admin4_code":"8657773.0",
+    "gn:asciiname":"Nawantale",
+    "gn:country_code":"UG",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227958,
+    "gn:latitude":1.25,
+    "gn:longitude":33.15,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nawantale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680103,
+        1092068855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227958
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a228e50c66e7bfd4c30a8080e4066255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068855,
+            "locality_id":1259717701,
+            "region_id":85680103
+        }
+    ],
+    "wof:id":1259717701,
+    "wof:lastmodified":1537017081,
+    "wof:name":"Nawantale",
+    "wof:parent_id":1092068855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.15,
+    1.25,
+    33.15,
+    1.25
+],
+  "geometry": {"coordinates":[33.15,1.25],"type":"Point"}
+}

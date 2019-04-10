@@ -1,0 +1,71 @@
+{
+  "id": 1277017465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.03007,0.76963,34.03007,0.76963",
+    "geom:latitude":0.76963,
+    "geom:longitude":34.03007,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Tawojwoki",
+    "gn:country_code":"UG",
+    "gn:dem":1136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433826,
+    "gn:latitude":0.76963,
+    "gn:longitude":34.03007,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Tawojwoki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tawojwoki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679989,
+        1092074289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433826
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1c748f104aa0ee611a4ff8e84bbbb90e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074289,
+            "locality_id":1277017465,
+            "region_id":85679989
+        }
+    ],
+    "wof:id":1277017465,
+    "wof:lastmodified":1537712178,
+    "wof:name":"Tawojwoki",
+    "wof:parent_id":1092074289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.03007,
+    0.76963,
+    34.03007,
+    0.76963
+],
+  "geometry": {"coordinates":[34.03007,0.76963],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1343597457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48333,0.98333,31.48333,0.98333",
+    "geom:latitude":0.98333,
+    "geom:longitude":31.48333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"I2",
+    "gn:admin3_code":"8644161.0",
+    "gn:admin4_code":"8657988.0",
+    "gn:asciiname":"Mweruka",
+    "gn:cc2":"UG",
+    "gn:country_code":"UG",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228636,
+    "gn:latitude":0.98333,
+    "gn:longitude":31.48333,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Mweruka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nweruka",
+        "Mweruka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679947,
+        1092068999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228636
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"474f659216d66f4bccdd0cefb530660f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068999,
+            "locality_id":1343597457,
+            "region_id":85679947
+        }
+    ],
+    "wof:id":1343597457,
+    "wof:lastmodified":1537712071,
+    "wof:name":"Mweruka",
+    "wof:parent_id":1092068999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48333,
+    0.98333,
+    31.48333,
+    0.98333
+],
+  "geometry": {"coordinates":[31.48333,0.98333],"type":"Point"}
+}

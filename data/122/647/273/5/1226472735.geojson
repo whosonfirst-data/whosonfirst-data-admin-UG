@@ -1,0 +1,74 @@
+{
+  "id": 1226472735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.38333,1.2,32.38333,1.2",
+    "geom:latitude":1.2,
+    "geom:longitude":32.38333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"73",
+    "gn:admin3_code":"234123.0",
+    "gn:admin4_code":"8657735.0",
+    "gn:asciiname":"Wabisisa",
+    "gn:country_code":"UG",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226015,
+    "gn:latitude":1.2,
+    "gn:longitude":32.38333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wabisisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wabisise",
+        "Wabisisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679875,
+        1092069759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226015
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d73ab4a680276cdb1afa4966505e8582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069759,
+            "locality_id":1226472735,
+            "region_id":85679875
+        }
+    ],
+    "wof:id":1226472735,
+    "wof:lastmodified":1537712053,
+    "wof:name":"Wabisisa",
+    "wof:parent_id":1092069759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.38333,
+    1.2,
+    32.38333,
+    1.2
+],
+  "geometry": {"coordinates":[32.38333,1.2],"type":"Point"}
+}

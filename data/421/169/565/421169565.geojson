@@ -1,0 +1,79 @@
+{
+  "id": 421169565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.99833,-1.34806,29.99833,-1.34806",
+    "geom:latitude":-1.34806,
+    "geom:longitude":29.99833,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Ndorwa"
+    ],
+    "qs:gn_country":"UG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":231270,
+    "qs:gn_pop":0,
+    "qs:name":"Kikungiri",
+    "qs:name_adm0":"Uganda",
+    "qs:name_adm1":"Kabale",
+    "qs:photos":429,
+    "qs:photos_1k":87,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":429,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":211610,
+    "qs:woe_adm0":23424974,
+    "qs:woe_id":1452672,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680073,
+        1092073061
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231270,
+        "gp:id":1452672,
+        "qs:id":211610
+    },
+    "wof:country":"UG",
+    "wof:created":1459008815,
+    "wof:geomhash":"29c5a6e45ec46b02c5b4f5bdaeae4875",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073061,
+            "locality_id":421169565,
+            "region_id":85680073
+        }
+    ],
+    "wof:id":421169565,
+    "wof:lastmodified":1501213226,
+    "wof:name":"Kikungiri",
+    "wof:parent_id":1092073061,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.99833,
+    -1.34806,
+    29.99833,
+    -1.34806
+],
+  "geometry": {"coordinates":[29.99833,-1.34806],"type":"Point"}
+}

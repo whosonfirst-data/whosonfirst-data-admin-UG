@@ -1,0 +1,70 @@
+{
+  "id": 1309818925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.66774,2.57871,34.66774,2.57871",
+    "geom:latitude":2.57871,
+    "geom:longitude":34.66774,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"88",
+    "gn:admin3_code":"229332.0",
+    "gn:admin4_code":"8630015.0",
+    "gn:asciiname":"Rupa",
+    "gn:country_code":"UG",
+    "gn:dem":1350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11210488,
+    "gn:latitude":2.57871,
+    "gn:longitude":34.66774,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Rupa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680017,
+        1092072625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11210488
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"375e6ef0c82c82698191d1c67eb390a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072625,
+            "locality_id":1309818925,
+            "region_id":85680017
+        }
+    ],
+    "wof:id":1309818925,
+    "wof:lastmodified":1536912463,
+    "wof:name":"Rupa",
+    "wof:parent_id":1092072625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.66774,
+    2.57871,
+    34.66774,
+    2.57871
+],
+  "geometry": {"coordinates":[34.66774,2.57871],"type":"Point"}
+}

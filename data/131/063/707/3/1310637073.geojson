@@ -1,0 +1,70 @@
+{
+  "id": 1310637073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.35914,1.05012,34.35914,1.05012",
+    "geom:latitude":1.05012,
+    "geom:longitude":34.35914,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C2",
+    "gn:admin3_code":"7869957.0",
+    "gn:admin4_code":"8658233.0",
+    "gn:asciiname":"Bulobi",
+    "gn:country_code":"UG",
+    "gn:dem":1490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8629799,
+    "gn:latitude":1.05012,
+    "gn:longitude":34.35914,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bulobi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680251,
+        1092072481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629799
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5916a401f740ee38fdd3b0b61c6ec99d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072481,
+            "locality_id":1310637073,
+            "region_id":85680251
+        }
+    ],
+    "wof:id":1310637073,
+    "wof:lastmodified":1536727424,
+    "wof:name":"Bulobi",
+    "wof:parent_id":1092072481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.35914,
+    1.05012,
+    34.35914,
+    1.05012
+],
+  "geometry": {"coordinates":[34.35914,1.05012],"type":"Point"}
+}

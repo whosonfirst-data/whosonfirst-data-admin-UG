@@ -1,0 +1,70 @@
+{
+  "id": 1226778415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.15745,1.27633,34.15745,1.27633",
+    "geom:latitude":1.27633,
+    "geom:longitude":34.15745,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C3",
+    "gn:admin3_code":"7732906.0",
+    "gn:admin4_code":"8658081.0",
+    "gn:asciiname":"Apopong",
+    "gn:country_code":"UG",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8617609,
+    "gn:latitude":1.27633,
+    "gn:longitude":34.15745,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Apopong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680095,
+        1092069307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8617609
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ed7c2420ac92d359f8c8a0ffe26c1083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069307,
+            "locality_id":1226778415,
+            "region_id":85680095
+        }
+    ],
+    "wof:id":1226778415,
+    "wof:lastmodified":1536668616,
+    "wof:name":"Apopong",
+    "wof:parent_id":1092069307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.15745,
+    1.27633,
+    34.15745,
+    1.27633
+],
+  "geometry": {"coordinates":[34.15745,1.27633],"type":"Point"}
+}

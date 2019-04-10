@@ -1,0 +1,70 @@
+{
+  "id": 1260320345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1,0.95,32.1,0.95",
+    "geom:latitude":0.95,
+    "geom:longitude":32.1,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D9",
+    "gn:admin3_code":"8644153.0",
+    "gn:admin4_code":"8658601.0",
+    "gn:asciiname":"Mbiridzi",
+    "gn:country_code":"UG",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229258,
+    "gn:latitude":0.95,
+    "gn:longitude":32.1,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mbiridzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679895,
+        1092072985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229258
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"de5d72e11d36e45568fef53a896eb2fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072985,
+            "locality_id":1260320345,
+            "region_id":85679895
+        }
+    ],
+    "wof:id":1260320345,
+    "wof:lastmodified":1536662535,
+    "wof:name":"Mbiridzi",
+    "wof:parent_id":1092072985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1,
+    0.95,
+    32.1,
+    0.95
+],
+  "geometry": {"coordinates":[32.1,0.95],"type":"Point"}
+}

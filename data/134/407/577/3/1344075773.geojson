@@ -1,0 +1,70 @@
+{
+  "id": 1344075773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.52942,3.19835,31.52942,3.19835",
+    "geom:latitude":3.19835,
+    "geom:longitude":31.52942,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"72",
+    "gn:admin3_code":"8644127.0",
+    "gn:admin4_code":"8658634.0",
+    "gn:asciiname":"Achimari",
+    "gn:country_code":"UG",
+    "gn:dem":636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142213,
+    "gn:latitude":3.19835,
+    "gn:longitude":31.52942,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Achimari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679853,
+        1092073299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142213
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b54f9dcf53725405a759ae0499a9b97f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073299,
+            "locality_id":1344075773,
+            "region_id":85679853
+        }
+    ],
+    "wof:id":1344075773,
+    "wof:lastmodified":1536852388,
+    "wof:name":"Achimari",
+    "wof:parent_id":1092073299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.52942,
+    3.19835,
+    31.52942,
+    3.19835
+],
+  "geometry": {"coordinates":[31.52942,3.19835],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360021831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.85,0.78333,32.85,0.78333",
+    "geom:latitude":0.78333,
+    "geom:longitude":32.85,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"83",
+    "gn:admin3_code":"227613.0",
+    "gn:admin4_code":"8658174.0",
+    "gn:asciiname":"Buwungiro",
+    "gn:country_code":"UG",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233868,
+    "gn:latitude":0.78333,
+    "gn:longitude":32.85,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Buwungiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679787,
+        1092073141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233868
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0714172a6ba4e1bbad264bb7efcde52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073141,
+            "locality_id":1360021831,
+            "region_id":85679787
+        }
+    ],
+    "wof:id":1360021831,
+    "wof:lastmodified":1537035270,
+    "wof:name":"Buwungiro",
+    "wof:parent_id":1092073141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.85,
+    0.78333,
+    32.85,
+    0.78333
+],
+  "geometry": {"coordinates":[32.85,0.78333],"type":"Point"}
+}

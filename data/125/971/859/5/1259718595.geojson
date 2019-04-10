@@ -1,0 +1,70 @@
+{
+  "id": 1259718595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.63359,-0.34334,31.63359,-0.34334",
+    "geom:latitude":-0.34334,
+    "geom:longitude":31.63359,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"G5",
+    "gn:admin3_code":"7910221.0",
+    "gn:admin4_code":"8658021.0",
+    "gn:asciiname":"Kagganda",
+    "gn:country_code":"UG",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258209,
+    "gn:latitude":-0.34334,
+    "gn:longitude":31.63359,
+    "gn:modification_date":"2016-09-28",
+    "gn:name":"Kagganda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680031,
+        1092069393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258209
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"bc83b3661c1748408a210e4b17e296c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069393,
+            "locality_id":1259718595,
+            "region_id":85680031
+        }
+    ],
+    "wof:id":1259718595,
+    "wof:lastmodified":1537015758,
+    "wof:name":"Kagganda",
+    "wof:parent_id":1092069393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.63359,
+    -0.34334,
+    31.63359,
+    -0.34334
+],
+  "geometry": {"coordinates":[31.63359,-0.34334],"type":"Point"}
+}

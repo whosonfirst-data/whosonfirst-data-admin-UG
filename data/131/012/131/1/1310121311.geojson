@@ -1,0 +1,70 @@
+{
+  "id": 1310121311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.98528,2.59757,31.98528,2.59757",
+    "geom:latitude":2.59757,
+    "geom:longitude":31.98528,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"8644126.0",
+    "gn:admin4_code":"8658737.0",
+    "gn:asciiname":"Patira",
+    "gn:country_code":"UG",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200499,
+    "gn:latitude":2.59757,
+    "gn:longitude":31.98528,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Patira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680247,
+        1092073225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200499
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"aeb6f5fe6efffdd7bb9dbd8a7131e459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073225,
+            "locality_id":1310121311,
+            "region_id":85680247
+        }
+    ],
+    "wof:id":1310121311,
+    "wof:lastmodified":1536973173,
+    "wof:name":"Patira",
+    "wof:parent_id":1092073225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.98528,
+    2.59757,
+    31.98528,
+    2.59757
+],
+  "geometry": {"coordinates":[31.98528,2.59757],"type":"Point"}
+}

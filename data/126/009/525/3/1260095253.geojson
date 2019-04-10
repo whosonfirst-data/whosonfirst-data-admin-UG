@@ -1,0 +1,70 @@
+{
+  "id": 1260095253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.05292,3.4757,33.05292,3.4757",
+    "geom:latitude":3.4757,
+    "geom:longitude":33.05292,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"84",
+    "gn:admin3_code":"233642.0",
+    "gn:admin4_code":"8647780.0",
+    "gn:asciiname":"Okol",
+    "gn:country_code":"UG",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8694012,
+    "gn:latitude":3.4757,
+    "gn:longitude":33.05292,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Okol",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679899,
+        1092070355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8694012
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"28a2929b8d8167db3dddf1aa29353937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070355,
+            "locality_id":1260095253,
+            "region_id":85679899
+        }
+    ],
+    "wof:id":1260095253,
+    "wof:lastmodified":1536970692,
+    "wof:name":"Okol",
+    "wof:parent_id":1092070355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.05292,
+    3.4757,
+    33.05292,
+    3.4757
+],
+  "geometry": {"coordinates":[33.05292,3.4757],"type":"Point"}
+}

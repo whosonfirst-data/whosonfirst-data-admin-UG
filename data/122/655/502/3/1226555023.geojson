@@ -1,0 +1,70 @@
+{
+  "id": 1226555023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0107,2.85827,31.0107,2.85827",
+    "geom:latitude":2.85827,
+    "geom:longitude":31.0107,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"226029.0",
+    "gn:admin4_code":"8658545.0",
+    "gn:asciiname":"Omoo",
+    "gn:country_code":"UG",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8081222,
+    "gn:latitude":2.85827,
+    "gn:longitude":31.0107,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Omoo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679837,
+        1092074259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8081222
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"aaa9f8c9821be9a8b19d99117810c052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074259,
+            "locality_id":1226555023,
+            "region_id":85679837
+        }
+    ],
+    "wof:id":1226555023,
+    "wof:lastmodified":1536983819,
+    "wof:name":"Omoo",
+    "wof:parent_id":1092074259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0107,
+    2.85827,
+    31.0107,
+    2.85827
+],
+  "geometry": {"coordinates":[31.0107,2.85827],"type":"Point"}
+}

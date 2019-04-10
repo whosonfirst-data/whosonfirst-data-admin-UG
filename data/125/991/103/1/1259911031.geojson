@@ -1,0 +1,70 @@
+{
+  "id": 1259911031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.43659,0.94231,33.43659,0.94231",
+    "geom:latitude":0.94231,
+    "geom:longitude":33.43659,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D2",
+    "gn:admin3_code":"234305.0",
+    "gn:admin4_code":"8657555.0",
+    "gn:asciiname":"Kanankamba",
+    "gn:country_code":"UG",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232347,
+    "gn:latitude":0.94231,
+    "gn:longitude":33.43659,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Kanankamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679803,
+        1092069483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232347
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"257ce7eb54de81d250b793e98de8206c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069483,
+            "locality_id":1259911031,
+            "region_id":85679803
+        }
+    ],
+    "wof:id":1259911031,
+    "wof:lastmodified":1536739403,
+    "wof:name":"Kanankamba",
+    "wof:parent_id":1092069483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.43659,
+    0.94231,
+    33.43659,
+    0.94231
+],
+  "geometry": {"coordinates":[33.43659,0.94231],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225975039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.81667,0.96667,32.81667,0.96667",
+    "geom:latitude":0.96667,
+    "geom:longitude":32.81667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"83",
+    "gn:admin3_code":"8644158.0",
+    "gn:admin4_code":"8657767.0",
+    "gn:asciiname":"Kirimantogo",
+    "gn:country_code":"UG",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231126,
+    "gn:latitude":0.96667,
+    "gn:longitude":32.81667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kirimantogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679787,
+        1092068673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231126
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c9283663778cc65a224633064ad0d7ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068673,
+            "locality_id":1225975039,
+            "region_id":85679787
+        }
+    ],
+    "wof:id":1225975039,
+    "wof:lastmodified":1536826248,
+    "wof:name":"Kirimantogo",
+    "wof:parent_id":1092068673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.81667,
+    0.96667,
+    32.81667,
+    0.96667
+],
+  "geometry": {"coordinates":[32.81667,0.96667],"type":"Point"}
+}

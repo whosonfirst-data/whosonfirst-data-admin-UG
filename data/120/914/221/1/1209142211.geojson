@@ -1,0 +1,64 @@
+{
+  "id": 1209142211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.01667,1.26667,33.01667,1.26667",
+    "geom:latitude":1.26667,
+    "geom:longitude":33.01667,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"F3",
+    "gn:admin3_code":"8644160.0",
+    "gn:admin4_code":"8658315.0",
+    "gn:asciiname":"Iringa",
+    "gn:country_code":"UG",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233204,
+    "gn:latitude":1.26667,
+    "gn:longitude":33.01667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Iringa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233204
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9a0069b32ed37f2b4dd89f3310cebedf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209142211
+        }
+    ],
+    "wof:id":1209142211,
+    "wof:lastmodified":1536296467,
+    "wof:name":"Iringa",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.01667,
+    1.26667,
+    33.01667,
+    1.26667
+],
+  "geometry": {"coordinates":[33.01667,1.26667],"type":"Point"}
+}

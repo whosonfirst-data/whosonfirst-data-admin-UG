@@ -1,0 +1,71 @@
+{
+  "id": 1327262395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.08205,0.92736,34.08205,0.92736",
+    "geom:latitude":0.92736,
+    "geom:longitude":34.08205,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C6",
+    "gn:asciiname":"Halanga",
+    "gn:country_code":"UG",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433645,
+    "gn:latitude":0.92736,
+    "gn:longitude":34.08205,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Halanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Halanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679981,
+        1092069677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433645
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"bc5459c5290205a5601b56cdb1864e8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069677,
+            "locality_id":1327262395,
+            "region_id":85679981
+        }
+    ],
+    "wof:id":1327262395,
+    "wof:lastmodified":1537712172,
+    "wof:name":"Halanga",
+    "wof:parent_id":1092069677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.08205,
+    0.92736,
+    34.08205,
+    0.92736
+],
+  "geometry": {"coordinates":[34.08205,0.92736],"type":"Point"}
+}

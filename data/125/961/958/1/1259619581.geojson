@@ -1,0 +1,70 @@
+{
+  "id": 1259619581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.23273,0.09422,32.23273,0.09422",
+    "geom:latitude":0.09422,
+    "geom:longitude":32.23273,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:admin3_code":"7910214.0",
+    "gn:admin4_code":"8658615.0",
+    "gn:asciiname":"Kiwumu",
+    "gn:country_code":"UG",
+    "gn:dem":1192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230788,
+    "gn:latitude":0.09422,
+    "gn:longitude":32.23273,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Kiwumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679827,
+        1092072705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230788
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"371935b92e28b04b54a17daf25976179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072705,
+            "locality_id":1259619581,
+            "region_id":85679827
+        }
+    ],
+    "wof:id":1259619581,
+    "wof:lastmodified":1536662677,
+    "wof:name":"Kiwumu",
+    "wof:parent_id":1092072705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.23273,
+    0.09422,
+    32.23273,
+    0.09422
+],
+  "geometry": {"coordinates":[32.23273,0.09422],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293326701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6,-0.26667,31.6,-0.26667",
+    "geom:latitude":-0.26667,
+    "geom:longitude":31.6,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E8",
+    "gn:admin3_code":"7910224.0",
+    "gn:admin4_code":"8658069.0",
+    "gn:asciiname":"Kyabiri",
+    "gn:country_code":"UG",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230526,
+    "gn:latitude":-0.26667,
+    "gn:longitude":31.6,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyabiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680219,
+        1092069329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230526
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"31d7edc0a544d8c679c3de70e3de00a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069329,
+            "locality_id":1293326701,
+            "region_id":85680219
+        }
+    ],
+    "wof:id":1293326701,
+    "wof:lastmodified":1537018136,
+    "wof:name":"Kyabiri",
+    "wof:parent_id":1092069329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6,
+    -0.26667,
+    31.6,
+    -0.26667
+],
+  "geometry": {"coordinates":[31.6,-0.26667],"type":"Point"}
+}

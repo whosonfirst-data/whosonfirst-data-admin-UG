@@ -1,0 +1,64 @@
+{
+  "id": 1209036189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.67928,0.74425,33.67928,0.74425",
+    "geom:latitude":0.74425,
+    "geom:longitude":33.67928,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"E1",
+    "gn:admin3_code":"8644136.0",
+    "gn:admin4_code":"8658444.0",
+    "gn:asciiname":"Nawampandu",
+    "gn:country_code":"UG",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227974,
+    "gn:latitude":0.74425,
+    "gn:longitude":33.67928,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Nawampandu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227974
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b28a56870c6c5944a1a33e1061403536",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209036189
+        }
+    ],
+    "wof:id":1209036189,
+    "wof:lastmodified":1536299692,
+    "wof:name":"Nawampandu",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.67928,
+    0.74425,
+    33.67928,
+    0.74425
+],
+  "geometry": {"coordinates":[33.67928,0.74425],"type":"Point"}
+}

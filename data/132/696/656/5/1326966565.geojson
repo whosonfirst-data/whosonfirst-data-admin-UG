@@ -1,0 +1,74 @@
+{
+  "id": 1326966565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4,0.5,31.4,0.5",
+    "geom:latitude":0.5,
+    "geom:longitude":31.4,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"56",
+    "gn:admin3_code":"8644172.0",
+    "gn:admin4_code":"8657890.0",
+    "gn:asciiname":"Kayonga",
+    "gn:country_code":"UG",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231712,
+    "gn:latitude":0.5,
+    "gn:longitude":31.4,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kayonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kayunga",
+        "Kayonga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679889,
+        1092070137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231712
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"dd2b983bfdd95dc5db56f0d903830c8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070137,
+            "locality_id":1326966565,
+            "region_id":85679889
+        }
+    ],
+    "wof:id":1326966565,
+    "wof:lastmodified":1537712086,
+    "wof:name":"Kayonga",
+    "wof:parent_id":1092070137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4,
+    0.5,
+    31.4,
+    0.5
+],
+  "geometry": {"coordinates":[31.4,0.5],"type":"Point"}
+}

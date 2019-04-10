@@ -1,0 +1,67 @@
+{
+  "id": 1209551699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.08927,0.79156,30.08927,0.79156",
+    "geom:latitude":0.79156,
+    "geom:longitude":30.08927,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"8644162.0",
+    "gn:admin4_code":"8657643.0",
+    "gn:asciiname":"Kirimia",
+    "gn:country_code":"UG",
+    "gn:dem":730,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231125,
+    "gn:latitude":0.79156,
+    "gn:longitude":30.08927,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kirimia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kirimia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231125
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"401c9db122b3c9c273ca30afc0a055e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209551699
+        }
+    ],
+    "wof:id":1209551699,
+    "wof:lastmodified":1537712084,
+    "wof:name":"Kirimia",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.08927000000001,
+    0.79156,
+    30.08927000000001,
+    0.79156
+],
+  "geometry": {"coordinates":[30.08927000000001,0.79156],"type":"Point"}
+}

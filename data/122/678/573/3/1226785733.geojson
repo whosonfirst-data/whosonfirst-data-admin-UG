@@ -1,0 +1,71 @@
+{
+  "id": 1226785733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.26367,0.77471,34.26367,0.77471",
+    "geom:latitude":0.77471,
+    "geom:longitude":34.26367,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D6",
+    "gn:asciiname":"Bumisanga",
+    "gn:country_code":"UG",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433380,
+    "gn:latitude":0.77471,
+    "gn:longitude":34.26367,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bumisanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bumisanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679969,
+        1092068753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433380
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"fc18601988d3a1513e0a405076511229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068753,
+            "locality_id":1226785733,
+            "region_id":85679969
+        }
+    ],
+    "wof:id":1226785733,
+    "wof:lastmodified":1537712169,
+    "wof:name":"Bumisanga",
+    "wof:parent_id":1092068753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.26367,
+    0.77471,
+    34.26367,
+    0.77471
+],
+  "geometry": {"coordinates":[34.26367,0.77471],"type":"Point"}
+}

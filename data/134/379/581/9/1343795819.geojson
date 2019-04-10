@@ -1,0 +1,68 @@
+{
+  "id": 1343795819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.53644,0.93107,33.53644,0.93107",
+    "geom:latitude":0.93107,
+    "geom:longitude":33.53644,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D2",
+    "gn:asciiname":"Kiboyo-Buyodi",
+    "gn:country_code":"UG",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429504,
+    "gn:latitude":0.93107,
+    "gn:longitude":33.53644,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Kiboyo-Buyodi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679803,
+        1092069483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429504
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7a8abaa9f2dbb52501bbbfec15b0a979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069483,
+            "locality_id":1343795819,
+            "region_id":85679803
+        }
+    ],
+    "wof:id":1343795819,
+    "wof:lastmodified":1536760193,
+    "wof:name":"Kiboyo-Buyodi",
+    "wof:parent_id":1092069483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.53644,
+    0.93107,
+    33.53644,
+    0.93107
+],
+  "geometry": {"coordinates":[33.53644,0.93107],"type":"Point"}
+}

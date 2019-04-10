@@ -1,0 +1,68 @@
+{
+  "id": 1226477017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.99259,0.99654,33.99259,0.99654",
+    "geom:latitude":0.99654,
+    "geom:longitude":33.99259,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C1",
+    "gn:asciiname":"Bulumbi",
+    "gn:country_code":"UG",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429557,
+    "gn:latitude":0.99654,
+    "gn:longitude":33.99259,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bulumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680107,
+        1092068817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429557
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4835263c850b6c5c28fe2b609bdf0e41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068817,
+            "locality_id":1226477017,
+            "region_id":85680107
+        }
+    ],
+    "wof:id":1226477017,
+    "wof:lastmodified":1537093846,
+    "wof:name":"Bulumbi",
+    "wof:parent_id":1092068817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.99259,
+    0.99654,
+    33.99259,
+    0.99654
+],
+  "geometry": {"coordinates":[33.99259,0.99654],"type":"Point"}
+}

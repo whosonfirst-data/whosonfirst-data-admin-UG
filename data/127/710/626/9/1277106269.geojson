@@ -1,0 +1,73 @@
+{
+  "id": 1277106269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.21942,0.44644,33.21942,0.44644",
+    "geom:latitude":0.44644,
+    "geom:longitude":33.21942,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"33",
+    "gn:admin3_code":"7732228.0",
+    "gn:admin4_code":"8657586.0",
+    "gn:asciiname":"Babu",
+    "gn:country_code":"UG",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11356580,
+    "gn:latitude":0.44644,
+    "gn:longitude":33.21942,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Babu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Babu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679773,
+        1092070823
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11356580
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ea5550a494da21513b6b02a01831e22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070823,
+            "locality_id":1277106269,
+            "region_id":85679773
+        }
+    ],
+    "wof:id":1277106269,
+    "wof:lastmodified":1537712134,
+    "wof:name":"Babu",
+    "wof:parent_id":1092070823,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.21942,
+    0.44644,
+    33.21942,
+    0.44644
+],
+  "geometry": {"coordinates":[33.21942,0.44644],"type":"Point"}
+}

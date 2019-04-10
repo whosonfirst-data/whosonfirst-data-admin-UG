@@ -1,0 +1,70 @@
+{
+  "id": 1293818993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.11667,-0.86667,30.11667,-0.86667",
+    "geom:latitude":-0.86667,
+    "geom:longitude":30.11667,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"7732262.0",
+    "gn:admin4_code":"8657865.0",
+    "gn:asciiname":"Rwensinga",
+    "gn:country_code":"UG",
+    "gn:dem":1483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226453,
+    "gn:latitude":-0.86667,
+    "gn:longitude":30.11667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rwensinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680059,
+        1092071063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226453
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"206c7b90eb63e2f2fd8b5f5ee34f5cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071063,
+            "locality_id":1293818993,
+            "region_id":85680059
+        }
+    ],
+    "wof:id":1293818993,
+    "wof:lastmodified":1536806019,
+    "wof:name":"Rwensinga",
+    "wof:parent_id":1092071063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.11667000000001,
+    -0.86667,
+    30.11667000000001,
+    -0.86667
+],
+  "geometry": {"coordinates":[30.11667000000001,-0.86667],"type":"Point"}
+}

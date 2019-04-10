@@ -1,0 +1,70 @@
+{
+  "id": 1209950371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.86917,1.19354,33.86917,1.19354",
+    "geom:latitude":1.19354,
+    "geom:longitude":33.86917,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"H9",
+    "gn:admin3_code":"7732905.0",
+    "gn:admin4_code":"8658232.0",
+    "gn:asciiname":"Nasuleta",
+    "gn:country_code":"UG",
+    "gn:dem":1089,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11048685,
+    "gn:latitude":1.19354,
+    "gn:longitude":33.86917,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Nasuleta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679819,
+        1092070015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11048685
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"17249709c4249b78ff8bf7bae312b77f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070015,
+            "locality_id":1209950371,
+            "region_id":85679819
+        }
+    ],
+    "wof:id":1209950371,
+    "wof:lastmodified":1536384257,
+    "wof:name":"Nasuleta",
+    "wof:parent_id":1092070015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.86917,
+    1.19354,
+    33.86917,
+    1.19354
+],
+  "geometry": {"coordinates":[33.86917,1.19354],"type":"Point"}
+}

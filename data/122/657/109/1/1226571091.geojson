@@ -1,0 +1,71 @@
+{
+  "id": 1226571091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.17344,0.75026,34.17344,0.75026",
+    "geom:latitude":0.75026,
+    "geom:longitude":34.17344,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Nyakesi",
+    "gn:country_code":"UG",
+    "gn:dem":1232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433847,
+    "gn:latitude":0.75026,
+    "gn:longitude":34.17344,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Nyakesi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyakesi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679989,
+        1092074289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433847
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"54cdc8fa5ff640f4e52a7770b0bf6b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074289,
+            "locality_id":1226571091,
+            "region_id":85679989
+        }
+    ],
+    "wof:id":1226571091,
+    "wof:lastmodified":1537712178,
+    "wof:name":"Nyakesi",
+    "wof:parent_id":1092074289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.17344,
+    0.75026,
+    34.17344,
+    0.75026
+],
+  "geometry": {"coordinates":[34.17344,0.75026],"type":"Point"}
+}

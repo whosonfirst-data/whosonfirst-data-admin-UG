@@ -1,0 +1,68 @@
+{
+  "id": 1259416533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.98647,0.97656,33.98647,0.97656",
+    "geom:latitude":0.97656,
+    "geom:longitude":33.98647,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C1",
+    "gn:asciiname":"Kazinga",
+    "gn:country_code":"UG",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429556,
+    "gn:latitude":0.97656,
+    "gn:longitude":33.98647,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Kazinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680107,
+        1092068817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429556
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"620adb906ab0c1857958711fa84c33e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068817,
+            "locality_id":1259416533,
+            "region_id":85680107
+        }
+    ],
+    "wof:id":1259416533,
+    "wof:lastmodified":1536955106,
+    "wof:name":"Kazinga",
+    "wof:parent_id":1092068817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.98647,
+    0.97656,
+    33.98647,
+    0.97656
+],
+  "geometry": {"coordinates":[33.98647,0.97656],"type":"Point"}
+}

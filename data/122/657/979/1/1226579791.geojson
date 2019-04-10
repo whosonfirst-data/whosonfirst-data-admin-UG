@@ -1,0 +1,71 @@
+{
+  "id": 1226579791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.12071,0.70996,34.12071,0.70996",
+    "geom:latitude":0.70996,
+    "geom:longitude":34.12071,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Papeli",
+    "gn:country_code":"UG",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11432873,
+    "gn:latitude":0.70996,
+    "gn:longitude":34.12071,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Papeli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Papeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679989,
+        1092074289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11432873
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f27469e2fde3834e82962eeb75e18670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074289,
+            "locality_id":1226579791,
+            "region_id":85679989
+        }
+    ],
+    "wof:id":1226579791,
+    "wof:lastmodified":1537712157,
+    "wof:name":"Papeli",
+    "wof:parent_id":1092074289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.12071,
+    0.70996,
+    34.12071,
+    0.70996
+],
+  "geometry": {"coordinates":[34.12071,0.70996],"type":"Point"}
+}

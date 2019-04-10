@@ -1,0 +1,84 @@
+{
+  "id": 890433291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.23444,0.47972,33.23444,0.47972",
+    "geom:latitude":0.47972,
+    "geom:longitude":33.23444,
+    "gn:country":"UG",
+    "gn:fcode":"PPL",
+    "gn:pop":11598,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:bul_x_preferred":[
+        "\u0411\u0443\u0433\u0435\u043c\u0431\u0435"
+    ],
+    "name:dut_x_preferred":[
+        "Bugembe"
+    ],
+    "name:eng_x_preferred":[
+        "Bugembe"
+    ],
+    "name:lug_x_preferred":[
+        "Bugembe"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u06af\u06cc\u0645\u0628\u06d2"
+    ],
+    "qs:name":"Bugembe",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":290,
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679773,
+        1092070051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234578,
+        "gp:id":1450671,
+        "qs:id":123634,
+        "wd:id":"Q4986157",
+        "wk:page":"Bugembe"
+    },
+    "wof:country":"UG",
+    "wof:created":1469051975,
+    "wof:geomhash":"1edd1aee07db6a24fac0b923b2d31a49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070051,
+            "locality_id":890433291,
+            "region_id":85679773
+        }
+    ],
+    "wof:id":890433291,
+    "wof:lastmodified":1527792957,
+    "wof:name":"Bugembe",
+    "wof:parent_id":1092070051,
+    "wof:placetype":"locality",
+    "wof:population":11598,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.23444,
+    0.47972,
+    33.23444,
+    0.47972
+],
+  "geometry": {"coordinates":[33.23444,0.47972],"type":"Point"}
+}

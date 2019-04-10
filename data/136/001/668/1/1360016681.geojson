@@ -1,0 +1,76 @@
+{
+  "id": 1360016681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.66667,1.15,33.66667,1.15",
+    "geom:latitude":1.15,
+    "geom:longitude":33.66667,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"226822.0",
+    "gn:admin4_code":"8657581.0",
+    "gn:asciiname":"Najeneti",
+    "gn:country_code":"UG",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228479,
+    "gn:latitude":1.15,
+    "gn:longitude":33.66667,
+    "gn:modification_date":"2016-09-28",
+    "gn:name":"Najeneti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Najneti",
+        "Najineti",
+        "Najeneti",
+        "Najjaneti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679819,
+        1092073523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228479
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b6abd3328de8b5b495c52fcd09d6c327",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073523,
+            "locality_id":1360016681,
+            "region_id":85679819
+        }
+    ],
+    "wof:id":1360016681,
+    "wof:lastmodified":1537712070,
+    "wof:name":"Najeneti",
+    "wof:parent_id":1092073523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.66667,
+    1.15,
+    33.66667,
+    1.15
+],
+  "geometry": {"coordinates":[33.66667,1.15],"type":"Point"}
+}

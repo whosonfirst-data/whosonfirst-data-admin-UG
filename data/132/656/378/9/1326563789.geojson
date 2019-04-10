@@ -1,0 +1,70 @@
+{
+  "id": 1326563789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.4,-0.96667,31.4,-0.96667",
+    "geom:latitude":-0.96667,
+    "geom:longitude":31.4,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"I3",
+    "gn:admin3_code":"8643028.0",
+    "gn:admin4_code":"8658741.0",
+    "gn:asciiname":"Kyesimbi",
+    "gn:country_code":"UG",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230284,
+    "gn:latitude":-0.96667,
+    "gn:longitude":31.4,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Kyesimbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680025,
+        1092071087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230284
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f99380b5eaf6379b21cd1160367af764",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071087,
+            "locality_id":1326563789,
+            "region_id":85680025
+        }
+    ],
+    "wof:id":1326563789,
+    "wof:lastmodified":1536939263,
+    "wof:name":"Kyesimbi",
+    "wof:parent_id":1092071087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.4,
+    -0.96667,
+    31.4,
+    -0.96667
+],
+  "geometry": {"coordinates":[31.4,-0.96667],"type":"Point"}
+}

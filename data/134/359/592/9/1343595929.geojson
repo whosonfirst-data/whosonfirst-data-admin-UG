@@ -1,0 +1,71 @@
+{
+  "id": 1343595929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.99922,0.65902,29.99922,0.65902",
+    "geom:latitude":0.65902,
+    "geom:longitude":29.99922,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:asciiname":"Njanja",
+    "gn:country_code":"UG",
+    "gn:dem":907,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401752,
+    "gn:latitude":0.65902,
+    "gn:longitude":29.99922,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Njanja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Njanja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092070289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401752
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ad1fb7981d76c80919674ed47de2a013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070289,
+            "locality_id":1343595929,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1343595929,
+    "wof:lastmodified":1537712142,
+    "wof:name":"Njanja",
+    "wof:parent_id":1092070289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.99922,
+    0.65902,
+    29.99922,
+    0.65902
+],
+  "geometry": {"coordinates":[29.99922,0.65902],"type":"Point"}
+}

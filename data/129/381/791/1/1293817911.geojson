@@ -1,0 +1,70 @@
+{
+  "id": 1293817911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.18274,0.74379,33.18274,0.74379",
+    "geom:latitude":0.74379,
+    "geom:longitude":33.18274,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"38",
+    "gn:admin3_code":"8644140.0",
+    "gn:admin4_code":"8658363.0",
+    "gn:asciiname":"Wankole",
+    "gn:country_code":"UG",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643881,
+    "gn:latitude":0.74379,
+    "gn:longitude":33.18274,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wankole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092070253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643881
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"55d90be1ffba00e26bcd9d9086ab87ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070253,
+            "locality_id":1293817911,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":1293817911,
+    "wof:lastmodified":1536807550,
+    "wof:name":"Wankole",
+    "wof:parent_id":1092070253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.18274,
+    0.74379,
+    33.18274,
+    0.74379
+],
+  "geometry": {"coordinates":[33.18274,0.74379],"type":"Point"}
+}

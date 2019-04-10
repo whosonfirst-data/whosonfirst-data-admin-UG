@@ -1,0 +1,70 @@
+{
+  "id": 1260016167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2,0.76667,33.2,0.76667",
+    "geom:latitude":0.76667,
+    "geom:longitude":33.2,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"38",
+    "gn:admin3_code":"8644140.0",
+    "gn:admin4_code":"8658363.0",
+    "gn:asciiname":"Nawandyo",
+    "gn:country_code":"UG",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227968,
+    "gn:latitude":0.76667,
+    "gn:longitude":33.2,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nawandyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092070253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227968
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"46cab6bdb0caa43da663c9b94159a52b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070253,
+            "locality_id":1260016167,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":1260016167,
+    "wof:lastmodified":1537081688,
+    "wof:name":"Nawandyo",
+    "wof:parent_id":1092070253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2,
+    0.76667,
+    33.2,
+    0.76667
+],
+  "geometry": {"coordinates":[33.2,0.76667],"type":"Point"}
+}

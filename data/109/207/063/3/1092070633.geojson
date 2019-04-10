@@ -1,0 +1,201 @@
+{
+  "id": 1092070633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004224,
+    "geom:area_square_m":52171998.202712,
+    "geom:bbox":"32.2425953113,2.73943087043,32.3360965066,2.81247851709",
+    "geom:latitude":2.774101,
+    "geom:longitude":32.290448,
+    "iso:country":"UG",
+    "lbl:latitude":2.776351,
+    "lbl:longitude":32.29422,
+    "meso:admin_1":"GULU",
+    "meso:admin_1r":"ACHOLI",
+    "meso:dissme":"GULU MUNICIPALITYGULUACHOLI",
+    "meso:gadm_admin":"Gulu",
+    "meso:gadm_hasc2":"UG.GL.GL",
+    "meso:gaul_admin":"Gulu Municipality",
+    "meso:mps_x":32.29422,
+    "meso:mps_y":2.776351,
+    "meso:name_en":"GULU MUNICIPALITY",
+    "meso:source":"AOTM",
+    "mps:latitude":2.776351,
+    "mps:longitude":32.29422,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0636\u0627\u062d\u064a\u0629 \u063a\u0648\u0644\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09c1\u09b2\u09cb \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u53e4\u76e7\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Gulu District"
+    ],
+    "name:dut_x_preferred":[
+        "Gulu"
+    ],
+    "name:eng_x_preferred":[
+        "Gulu Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Gulu Municipality",
+        "Gulu",
+        "Gulu District",
+        "GULU MUNICIPALITY"
+    ],
+    "name:fin_x_preferred":[
+        "Gulun kaupunginosa"
+    ],
+    "name:fre_x_preferred":[
+        "Gulu"
+    ],
+    "name:ger_x_preferred":[
+        "Distrikt Gulu"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03bb\u03bf\u03cd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a97\u0ac1\u0ab2\u0ac1 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u0941\u0932\u0942 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Gulu"
+    ],
+    "name:ita_x_preferred":[
+        "Gulu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b0\u30eb\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c97\u0cc1\u0cb2\u0cc1 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uad74\ub8e8 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Gulu distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Gulu apskritis"
+    ],
+    "name:lug_x_preferred":[
+        "Gulu"
+    ],
+    "name:mar_x_preferred":[
+        "\u0917\u0941\u0932\u0942 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Gulu District"
+    ],
+    "name:nob_x_preferred":[
+        "Gulu"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Gulu"
+    ],
+    "name:por_x_preferred":[
+        "Gulu"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Gulu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0443\u043b\u0443"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9c\u0dd4\u0dc5\u0dd4 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Gulu"
+    ],
+    "name:swa_x_preferred":[
+        "Wilaya ya Gulu"
+    ],
+    "name:swe_x_preferred":[
+        "Gulu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bc1\u0bb2\u0bc1  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c17\u0c41\u0c32\u0c41 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e01\u0e39\u0e25\u0e39"
+    ],
+    "name:tur_x_preferred":[
+        "Gulu District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0443\u043b\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0648\u0644\u0648 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Gulu"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"UG",
+    "statoids:hasc":"UG.GL",
+    "statoids:name":"Gulu",
+    "statoids:population":"",
+    "statoids:statoid":"UG.GL.GL",
+    "statoids:timezone":"3",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"UG.GL.GL",
+        "wd:id":"Q1028215"
+    },
+    "wof:country":"UG",
+    "wof:created":1473899332,
+    "wof:geomhash":"883eae694994ed82f932efa7a7009b32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070633,
+            "region_id":85679905
+        }
+    ],
+    "wof:id":1092070633,
+    "wof:lastmodified":1553816445,
+    "wof:name":"Gulu Municipality",
+    "wof:parent_id":85679905,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:shortcode":"GL",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.24259531132933,
+    2.73943087042691,
+    32.33609650660152,
+    2.81247851708717
+],
+  "geometry": {"coordinates":[[[32.32652257482361,2.77465936927374],[32.326293377376,2.77378796882525],[32.33433616446029,2.76585240327725],[32.33609650660152,2.76294862337661],[32.33398502063044,2.75525874085071],[32.33383226991656,2.75512151268923],[32.33302848185735,2.75463023365531],[32.33143094099741,2.75166455655517],[32.33125044712983,2.75107692375537],[32.32829575357721,2.74670424642191],[32.32499999999917,2.74515231802842],[32.32046042057151,2.74670880252588],[32.31207505396119,2.74436258094299],[32.31178571428488,2.74392857142852],[32.30765450031505,2.74255150010524],[32.30447928820617,2.7406544324871],[32.29821160522655,2.74102323304856],[32.29722746938922,2.74127036852039],[32.29275097726993,2.73990438802788],[32.29167301795795,2.73992109647771],[32.29117301848206,2.73969838871929],[32.28597906196102,2.73943087042691],[32.27973982870287,2.74243031573118],[32.2781019759746,2.7450836250974],[32.27780202013587,2.7475],[32.27918936668953,2.75484878059187],[32.27436521937369,2.75647073292679],[32.26456539027592,2.76415597942077],[32.26432214375905,2.76454446405996],[32.26229406456498,2.76505148385848],[32.25749999999913,2.76240835384939],[32.25249999999913,2.76150671942816],[32.24914764960462,2.76214594582908],[32.24542863525875,2.76490591517123],[32.24425969108527,2.76694554333385],[32.24306798410973,2.77167776937104],[32.24372528591275,2.77243621758049],[32.24526486389029,2.77912903769987],[32.24325734540653,2.7854778454567],[32.24259531132933,2.78721185558609],[32.24401098441312,2.78895852705246],[32.24679134571934,2.79110313377748],[32.24860198261643,2.79201695359894],[32.25214319441032,2.79461334595114],[32.25513670775417,2.79396642778921],[32.25552391157472,2.79383119813299],[32.25897158667016,2.79413071796595],[32.26078423944296,2.79485866148121],[32.26238763429748,2.79515613790478],[32.2663698067725,2.79705148024325],[32.2678195892261,2.80688747445721],[32.26955727078388,2.81247851708717],[32.26985559938738,2.81243684185406],[32.27363534210662,2.81010735596619],[32.27594339110194,2.80818212309573],[32.28101166795542,2.8019766935284],[32.28120219867029,2.80191613411271],[32.28425338163515,2.80220629523456],[32.29052544706448,2.80713038724176],[32.29232209137719,2.8075732564404],[32.29249999999915,2.80758640009311],[32.29334787091262,2.80736854961797],[32.29757094057592,2.80561194382241],[32.29898425963409,2.80367191345497],[32.30236162064453,2.80254612645148],[32.30242457814298,2.80255608934382],[32.30828109325564,2.80273412921651],[32.31012689099072,2.80216340864616],[32.31245520560912,2.80216663978905],[32.31477710679427,2.80056664617548],[32.31599294351986,2.7993713588274],[32.31874939344695,2.79547090445188],[32.32012918258503,2.79105622612115],[32.32018504333633,2.7909724349942],[32.32013137576342,2.78758014350638],[32.32313294937601,2.78241866903328],[32.32515366716653,2.77984583114148],[32.32529618947864,2.77947168885588],[32.32652257482361,2.77465936927374]]],"type":"Polygon"}
+}

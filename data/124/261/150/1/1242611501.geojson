@@ -1,0 +1,70 @@
+{
+  "id": 1242611501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.32674,0.47332,32.32674,0.47332",
+    "geom:latitude":0.47332,
+    "geom:longitude":32.32674,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"234053.0",
+    "gn:admin4_code":"8657620.0",
+    "gn:asciiname":"Nampunge",
+    "gn:country_code":"UG",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228155,
+    "gn:latitude":0.47332,
+    "gn:longitude":32.32674,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Nampunge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228155
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"50ceabb60c30b953c0a3a5e4f938e5f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1242611501,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1242611501,
+    "wof:lastmodified":1537014165,
+    "wof:name":"Nampunge",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.32674,
+    0.47332,
+    32.32674,
+    0.47332
+],
+  "geometry": {"coordinates":[32.32674,0.47332],"type":"Point"}
+}

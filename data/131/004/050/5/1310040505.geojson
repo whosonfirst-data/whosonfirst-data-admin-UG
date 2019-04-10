@@ -1,0 +1,68 @@
+{
+  "id": 1310040505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.76311,0.77486,33.76311,0.77486",
+    "geom:latitude":0.77486,
+    "geom:longitude":33.76311,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"E1",
+    "gn:asciiname":"Mpimiro",
+    "gn:country_code":"UG",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429481,
+    "gn:latitude":0.77486,
+    "gn:longitude":33.76311,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Mpimiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679807,
+        1092069849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429481
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c064d25ad367e187a0bb4d93a65520c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069849,
+            "locality_id":1310040505,
+            "region_id":85679807
+        }
+    ],
+    "wof:id":1310040505,
+    "wof:lastmodified":1537086988,
+    "wof:name":"Mpimiro",
+    "wof:parent_id":1092069849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.76311,
+    0.77486,
+    33.76311,
+    0.77486
+],
+  "geometry": {"coordinates":[33.76311,0.77486],"type":"Point"}
+}

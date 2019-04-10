@@ -1,0 +1,67 @@
+{
+  "id": 1209225145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.27571,3.16349,31.27571,3.16349",
+    "geom:latitude":3.16349,
+    "geom:longitude":31.27571,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"226158.0",
+    "gn:admin4_code":"8658301.0",
+    "gn:asciiname":"Ngurua",
+    "gn:country_code":"UG",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227828,
+    "gn:latitude":3.16349,
+    "gn:longitude":31.27571,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ngurua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nguruwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227828
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3a206a5a7858f7d454fc18a44aedae0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209225145
+        }
+    ],
+    "wof:id":1209225145,
+    "wof:lastmodified":1537712067,
+    "wof:name":"Ngurua",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.27571,
+    3.16349,
+    31.27571,
+    3.16349
+],
+  "geometry": {"coordinates":[31.27571,3.16349],"type":"Point"}
+}

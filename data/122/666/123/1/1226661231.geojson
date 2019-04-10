@@ -1,0 +1,70 @@
+{
+  "id": 1226661231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.73643,3.24974,31.73643,3.24974",
+    "geom:latitude":3.24974,
+    "geom:longitude":31.73643,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"8644133.0",
+    "gn:admin4_code":"8657828.0",
+    "gn:asciiname":"Obilokongo",
+    "gn:country_code":"UG",
+    "gn:dem":809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8141103,
+    "gn:latitude":3.24974,
+    "gn:longitude":31.73643,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Obilokongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679833,
+        1092070471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8141103
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9d23eabbe5004c62d3653c405045c13b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070471,
+            "locality_id":1226661231,
+            "region_id":85679833
+        }
+    ],
+    "wof:id":1226661231,
+    "wof:lastmodified":1536836026,
+    "wof:name":"Obilokongo",
+    "wof:parent_id":1092070471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.73643,
+    3.24974,
+    31.73643,
+    3.24974
+],
+  "geometry": {"coordinates":[31.73643,3.24974],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1259998297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.94694,2.59806,32.94694,2.59806",
+    "geom:latitude":2.59806,
+    "geom:longitude":32.94694,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"233491.0",
+    "gn:admin4_code":"8630009.0",
+    "gn:asciiname":"Putanga",
+    "gn:cc2":"UG",
+    "gn:country_code":"UG",
+    "gn:dem":1000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226792,
+    "gn:latitude":2.59806,
+    "gn:longitude":32.94694,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Putanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Puranga",
+        "Paranga",
+        "Putanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679909,
+        1092070567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226792,
+        "wk:page":"Putanga"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ff0077d5ab4f856ba1b1425e0fd277db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070567,
+            "locality_id":1259998297,
+            "region_id":85679909
+        }
+    ],
+    "wof:id":1259998297,
+    "wof:lastmodified":1537712058,
+    "wof:name":"Putanga",
+    "wof:parent_id":1092070567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.94694,
+    2.59806,
+    32.94694,
+    2.59806
+],
+  "geometry": {"coordinates":[32.94694,2.59806],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209834249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.2642,3.14291,31.2642,3.14291",
+    "geom:latitude":3.14291,
+    "geom:longitude":31.2642,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"226158.0",
+    "gn:admin4_code":"8658301.0",
+    "gn:asciiname":"Simbili Settlement",
+    "gn:country_code":"UG",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8079580,
+    "gn:latitude":3.14291,
+    "gn:longitude":31.2642,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Simbili Settlement",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679861,
+        1092074097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8079580
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6eba372008bb143ccffd07976cd9345b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074097,
+            "locality_id":1209834249,
+            "region_id":85679861
+        }
+    ],
+    "wof:id":1209834249,
+    "wof:lastmodified":1536395612,
+    "wof:name":"Simbili Settlement",
+    "wof:parent_id":1092074097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.2642,
+    3.14291,
+    31.2642,
+    3.14291
+],
+  "geometry": {"coordinates":[31.2642,3.14291],"type":"Point"}
+}

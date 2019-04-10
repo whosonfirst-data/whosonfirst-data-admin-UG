@@ -1,0 +1,70 @@
+{
+  "id": 1259717183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9,1.4,32.9,1.4",
+    "geom:latitude":1.4,
+    "geom:longitude":32.9,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"F3",
+    "gn:admin3_code":"8644160.0",
+    "gn:admin4_code":"8657608.0",
+    "gn:asciiname":"Butayunja",
+    "gn:country_code":"UG",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233986,
+    "gn:latitude":1.4,
+    "gn:longitude":32.9,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Butayunja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680103,
+        1092068855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233986
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0c261d1ecbb24572b4f072b1009fe995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068855,
+            "locality_id":1259717183,
+            "region_id":85680103
+        }
+    ],
+    "wof:id":1259717183,
+    "wof:lastmodified":1537017854,
+    "wof:name":"Butayunja",
+    "wof:parent_id":1092068855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9,
+    1.4,
+    32.9,
+    1.4
+],
+  "geometry": {"coordinates":[32.9,1.4],"type":"Point"}
+}

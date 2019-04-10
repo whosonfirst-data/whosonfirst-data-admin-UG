@@ -1,0 +1,68 @@
+{
+  "id": 1327167829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.30877,0.30981,32.30877,0.30981",
+    "geom:latitude":0.30981,
+    "geom:longitude":32.30877,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:asciiname":"Kikwabanga",
+    "gn:country_code":"UG",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552089,
+    "gn:latitude":0.30981,
+    "gn:longitude":32.30877,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kikwabanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679827,
+        1092072705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552089
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2116a75aa3b33a06f0f4ec829efb7567",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072705,
+            "locality_id":1327167829,
+            "region_id":85679827
+        }
+    ],
+    "wof:id":1327167829,
+    "wof:lastmodified":1537060237,
+    "wof:name":"Kikwabanga",
+    "wof:parent_id":1092072705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.30877,
+    0.30981,
+    32.30877,
+    0.30981
+],
+  "geometry": {"coordinates":[32.30877,0.30981],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343598053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.12991,0.71648,30.12991,0.71648",
+    "geom:latitude":0.71648,
+    "geom:longitude":30.12991,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"8644162.0",
+    "gn:admin4_code":"8657616.0",
+    "gn:asciiname":"Karambe",
+    "gn:country_code":"UG",
+    "gn:dem":1709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232202,
+    "gn:latitude":0.71648,
+    "gn:longitude":30.12991,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Karambe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Karambe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092074383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232202
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1bc3582393f6110416d164c5e47985ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074383,
+            "locality_id":1343598053,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1343598053,
+    "wof:lastmodified":1537712089,
+    "wof:name":"Karambe",
+    "wof:parent_id":1092074383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.12991,
+    0.71648,
+    30.12991,
+    0.71648
+],
+  "geometry": {"coordinates":[30.12991,0.71648],"type":"Point"}
+}

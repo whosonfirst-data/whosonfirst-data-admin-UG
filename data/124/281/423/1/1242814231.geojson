@@ -1,0 +1,68 @@
+{
+  "id": 1242814231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.00917,0.75365,33.00917,0.75365",
+    "geom:latitude":0.75365,
+    "geom:longitude":33.00917,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"83",
+    "gn:asciiname":"Bugaddu",
+    "gn:country_code":"UG",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552955,
+    "gn:latitude":0.75365,
+    "gn:longitude":33.00917,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bugaddu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679787,
+        1092073141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552955
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"bdde5f1111da5079f80d6f638b246590",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073141,
+            "locality_id":1242814231,
+            "region_id":85679787
+        }
+    ],
+    "wof:id":1242814231,
+    "wof:lastmodified":1536723163,
+    "wof:name":"Bugaddu",
+    "wof:parent_id":1092073141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.00917,
+    0.75365,
+    33.00917,
+    0.75365
+],
+  "geometry": {"coordinates":[33.00917,0.75365],"type":"Point"}
+}

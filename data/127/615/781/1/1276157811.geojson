@@ -1,0 +1,68 @@
+{
+  "id": 1276157811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.15225,0.88391,33.15225,0.88391",
+    "geom:latitude":0.88391,
+    "geom:longitude":33.15225,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Bukwanga-Bukubombo",
+    "gn:country_code":"UG",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553136,
+    "gn:latitude":0.88391,
+    "gn:longitude":33.15225,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bukwanga-Bukubombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092068917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553136
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"348d4291163c9e4a28210b76d7e88a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068917,
+            "locality_id":1276157811,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":1276157811,
+    "wof:lastmodified":1537013286,
+    "wof:name":"Bukwanga-Bukubombo",
+    "wof:parent_id":1092068917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.15225,
+    0.88391,
+    33.15225,
+    0.88391
+],
+  "geometry": {"coordinates":[33.15225,0.88391],"type":"Point"}
+}

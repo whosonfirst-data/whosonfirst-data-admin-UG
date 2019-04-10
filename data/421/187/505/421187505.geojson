@@ -1,0 +1,110 @@
+{
+  "id": 421187505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.13333,1.08333,33.13333,1.08333",
+    "geom:latitude":1.08333,
+    "geom:longitude":33.13333,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0645\u0648\u0644\u064a"
+    ],
+    "name:dut_x_preferred":[
+        "Kamuli"
+    ],
+    "name:eng_x_preferred":[
+        "Kamuli"
+    ],
+    "name:fre_x_preferred":[
+        "Kamuli"
+    ],
+    "name:ita_x_preferred":[
+        "Kamuli"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30e0\u30ea"
+    ],
+    "name:nob_x_preferred":[
+        "Kamuli"
+    ],
+    "name:por_x_preferred":[
+        "Kamuli"
+    ],
+    "name:rum_x_preferred":[
+        "Kamuli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043c\u0443\u043b\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Kamuli"
+    ],
+    "qs:gn_country":"UG",
+    "qs:gn_fcode":"ADMD",
+    "qs:gn_id":234617,
+    "qs:gn_pop":0,
+    "qs:name":"Kamuli",
+    "qs:name_adm0":"Uganda",
+    "qs:name_adm1":"Kamuli",
+    "qs:photos":397,
+    "qs:photos_1k":80,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":397,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083594,
+    "qs:woe_adm0":23424974,
+    "qs:woe_id":1451981,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092068917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234617,
+        "gp:id":1451981,
+        "qs:id":1083594,
+        "wd:id":"Q3088116"
+    },
+    "wof:country":"UG",
+    "wof:created":1459009515,
+    "wof:geomhash":"eb4ece3b56b9a698dba819c5250a72bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068917,
+            "locality_id":421187505,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":421187505,
+    "wof:lastmodified":1514510984,
+    "wof:name":"Kamuli",
+    "wof:parent_id":1092068917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.13333,
+    1.08333,
+    33.13333,
+    1.08333
+],
+  "geometry": {"coordinates":[33.13333,1.08333],"type":"Point"}
+}

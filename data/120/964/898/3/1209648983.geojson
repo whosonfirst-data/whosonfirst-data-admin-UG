@@ -1,0 +1,64 @@
+{
+  "id": 1209648983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6,1.36667,32.6,1.36667",
+    "geom:latitude":1.36667,
+    "geom:longitude":32.6,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"73",
+    "gn:admin3_code":"234123.0",
+    "gn:admin4_code":"8658322.0",
+    "gn:asciiname":"Lukoge",
+    "gn:country_code":"UG",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229863,
+    "gn:latitude":1.36667,
+    "gn:longitude":32.6,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lukoge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229863
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0e9d4372b4756ec588d751068b5eca07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209648983
+        }
+    ],
+    "wof:id":1209648983,
+    "wof:lastmodified":1536280641,
+    "wof:name":"Lukoge",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6,
+    1.36667,
+    32.6,
+    1.36667
+],
+  "geometry": {"coordinates":[32.6,1.36667],"type":"Point"}
+}

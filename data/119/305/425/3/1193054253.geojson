@@ -1,0 +1,73 @@
+{
+  "id": 1193054253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.96384,0.27926,33.96384,0.27926",
+    "geom:latitude":0.27926,
+    "geom:longitude":33.96384,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"67",
+    "gn:admin3_code":"8644151.0",
+    "gn:admin4_code":"8657692.0",
+    "gn:asciiname":"Lulonda",
+    "gn:country_code":"UG",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259404,
+    "gn:latitude":0.27926,
+    "gn:longitude":33.96384,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Lulonda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lulonda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679979,
+        1092073897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259404
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"dfc7b8e224ff53d6a89807074364db60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073897,
+            "locality_id":1193054253,
+            "region_id":85679979
+        }
+    ],
+    "wof:id":1193054253,
+    "wof:lastmodified":1537712128,
+    "wof:name":"Lulonda",
+    "wof:parent_id":1092073897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.96384,
+    0.27926,
+    33.96384,
+    0.27926
+],
+  "geometry": {"coordinates":[33.96384,0.27926],"type":"Point"}
+}

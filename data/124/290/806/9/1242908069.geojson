@@ -1,0 +1,70 @@
+{
+  "id": 1242908069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.60948,0.26509,32.60948,0.26509",
+    "geom:latitude":0.26509,
+    "geom:longitude":32.60948,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"8644170.0",
+    "gn:admin4_code":"8260676.0",
+    "gn:asciiname":"Kongi",
+    "gn:country_code":"UG",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11357116,
+    "gn:latitude":0.26509,
+    "gn:longitude":32.60948,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Kongi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679867,
+        1092071203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11357116
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b1faa53d7e3880cbf6711d2a82aca8bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071203,
+            "locality_id":1242908069,
+            "region_id":85679867
+        }
+    ],
+    "wof:id":1242908069,
+    "wof:lastmodified":1537081535,
+    "wof:name":"Kongi",
+    "wof:parent_id":1092071203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.60948,
+    0.26509,
+    32.60948,
+    0.26509
+],
+  "geometry": {"coordinates":[32.60948,0.26509],"type":"Point"}
+}

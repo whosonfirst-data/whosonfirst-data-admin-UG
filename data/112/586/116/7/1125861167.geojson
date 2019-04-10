@@ -1,0 +1,106 @@
+{
+  "id": 1125861167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.06469,0.71117,30.06469,0.71117",
+    "geom:latitude":0.71117,
+    "geom:longitude":30.06469,
+    "gn:gn_country":"UG",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":16919,
+    "gn:population":16919,
+    "iso:country":"UG",
+    "lbl:latitude":0.71117,
+    "lbl:longitude":30.06469,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Bundibugyo"
+    ],
+    "name:eng_x_preferred":[
+        "Bundibugyo"
+    ],
+    "name:fre_x_preferred":[
+        "Bundibugyo"
+    ],
+    "name:ita_x_preferred":[
+        "Bundibugyo"
+    ],
+    "name:lug_x_preferred":[
+        "Bundibugyo"
+    ],
+    "name:nob_x_preferred":[
+        "Bundibugyo"
+    ],
+    "name:rum_x_preferred":[
+        "Bundibugyo"
+    ],
+    "name:swa_x_preferred":[
+        "Bundibugyo"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0646\u062f\u06cc\u0628\u0648\u06af\u06cc\u0648"
+    ],
+    "qs_pg:aaroncc":"UG",
+    "qs_pg:gn_country":"UG",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":234178,
+    "qs_pg:gn_pop":16919,
+    "qs_pg:name":"Bundibugyo",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":123631,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092070289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234178,
+        "qs_pg:id":123631,
+        "wd:id":"Q2597300"
+    },
+    "wof:country":"UG",
+    "wof:created":1497293836,
+    "wof:geomhash":"c4e4bfb7fa615f385a8558f2da9e1654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070289,
+            "locality_id":1125861167,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1125861167,
+    "wof:lastmodified":1514510912,
+    "wof:name":"Bundibugyo",
+    "wof:parent_id":1092070289,
+    "wof:placetype":"locality",
+    "wof:population":16919,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.06469,
+    0.71117,
+    30.06469,
+    0.71117
+],
+  "geometry": {"coordinates":[30.06469,0.71117],"type":"Point"}
+}

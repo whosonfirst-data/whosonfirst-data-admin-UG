@@ -1,0 +1,70 @@
+{
+  "id": 1309942937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48333,-0.36667,30.48333,-0.36667",
+    "geom:latitude":-0.36667,
+    "geom:longitude":30.48333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"E6",
+    "gn:admin3_code":"234484.0",
+    "gn:admin4_code":"8658535.0",
+    "gn:asciiname":"Rugongo",
+    "gn:country_code":"UG",
+    "gn:dem":1636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226646,
+    "gn:latitude":-0.36667,
+    "gn:longitude":30.48333,
+    "gn:modification_date":"2014-09-08",
+    "gn:name":"Rugongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680241,
+        1092069121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226646
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3f1899b5c8bc34340826d6b607f0e735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069121,
+            "locality_id":1309942937,
+            "region_id":85680241
+        }
+    ],
+    "wof:id":1309942937,
+    "wof:lastmodified":1536733627,
+    "wof:name":"Rugongo",
+    "wof:parent_id":1092069121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48333,
+    -0.36667,
+    30.48333,
+    -0.36667
+],
+  "geometry": {"coordinates":[30.48333,-0.36667],"type":"Point"}
+}

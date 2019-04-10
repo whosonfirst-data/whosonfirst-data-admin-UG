@@ -1,0 +1,71 @@
+{
+  "id": 1259417105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.20224,0.98958,34.20224,0.98958",
+    "geom:latitude":0.98958,
+    "geom:longitude":34.20224,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"87",
+    "gn:asciiname":"Mahanga",
+    "gn:country_code":"UG",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433441,
+    "gn:latitude":0.98958,
+    "gn:longitude":34.20224,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Mahanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mahanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679965,
+        1092069563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433441
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ecba67d4f07a959570d9e4aec7a56c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069563,
+            "locality_id":1259417105,
+            "region_id":85679965
+        }
+    ],
+    "wof:id":1259417105,
+    "wof:lastmodified":1537712170,
+    "wof:name":"Mahanga",
+    "wof:parent_id":1092069563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.20224,
+    0.98958,
+    34.20224,
+    0.98958
+],
+  "geometry": {"coordinates":[34.20224,0.98958],"type":"Point"}
+}

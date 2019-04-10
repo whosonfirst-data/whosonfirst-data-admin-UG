@@ -1,0 +1,62 @@
+{
+  "id": 1209142675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.03032,0.75237,33.03032,0.75237",
+    "geom:latitude":0.75237,
+    "geom:longitude":33.03032,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"83",
+    "gn:asciiname":"Nakakandwa",
+    "gn:country_code":"UG",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552952,
+    "gn:latitude":0.75237,
+    "gn:longitude":33.03032,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Nakakandwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552952
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6d7f1e12909b558f826b43d4de5cf6e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209142675
+        }
+    ],
+    "wof:id":1209142675,
+    "wof:lastmodified":1536296454,
+    "wof:name":"Nakakandwa",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03032,
+    0.75237,
+    33.03032,
+    0.75237
+],
+  "geometry": {"coordinates":[33.03032,0.75237],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259794167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.71828,1.9951,32.71828,1.9951",
+    "geom:latitude":1.9951,
+    "geom:longitude":32.71828,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"26",
+    "gn:admin3_code":"230563.0",
+    "gn:admin4_code":"8658393.0",
+    "gn:asciiname":"Aduku",
+    "gn:country_code":"UG",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235470,
+    "gn:latitude":1.9951,
+    "gn:longitude":32.71828,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Aduku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaduku",
+        "Aduku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680151,
+        1092071971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235470,
+        "wk:page":"Aduku"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9eb2ea8df87b088ce127780ceabab18b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071971,
+            "locality_id":1259794167,
+            "region_id":85680151
+        }
+    ],
+    "wof:id":1259794167,
+    "wof:lastmodified":1537712111,
+    "wof:name":"Aduku",
+    "wof:parent_id":1092071971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.71828,
+    1.9951,
+    32.71828,
+    1.9951
+],
+  "geometry": {"coordinates":[32.71828,1.9951],"type":"Point"}
+}

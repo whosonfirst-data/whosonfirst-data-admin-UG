@@ -1,0 +1,106 @@
+{
+  "id": 421168613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.98551,2.41669,30.98551,2.41669",
+    "geom:latitude":2.41669,
+    "geom:longitude":30.98551,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Paidha"
+    ],
+    "name:eng_x_preferred":[
+        "Paidha"
+    ],
+    "name:fra_x_preferred":[
+        "Paidha"
+    ],
+    "name:fre_x_preferred":[
+        "Paidha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30a4\u30c0"
+    ],
+    "name:lug_x_preferred":[
+        "Paidha"
+    ],
+    "name:unk_x_variant":[
+        "Payida"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0627\u06cc\u062f\u06c1\u0627"
+    ],
+    "qs:gn_country":"UG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":226853,
+    "qs:gn_pop":28348,
+    "qs:name":"Paidha",
+    "qs:name_adm0":"Uganda",
+    "qs:name_adm1":"Nebbi",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":0,
+    "qs:photos_9r":0,
+    "qs:photos_all":0,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1298908,
+    "qs:woe_adm0":23424974,
+    "qs:woe_id":1455038,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":532,
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680085,
+        1092073339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226853,
+        "gp:id":1455038,
+        "qs:id":1298908,
+        "wd:id":"Q7124680",
+        "wk:page":"Paidha"
+    },
+    "wof:country":"UG",
+    "wof:created":1459008771,
+    "wof:geomhash":"6191359106306ae5558f3e9b2505bf1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073339,
+            "locality_id":421168613,
+            "region_id":85680085
+        }
+    ],
+    "wof:id":421168613,
+    "wof:lastmodified":1527716096,
+    "wof:name":"Paidha",
+    "wof:parent_id":1092073339,
+    "wof:placetype":"locality",
+    "wof:population":28348,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.98551,
+    2.41669,
+    30.98551,
+    2.41669
+],
+  "geometry": {"coordinates":[30.98551,2.41669],"type":"Point"}
+}

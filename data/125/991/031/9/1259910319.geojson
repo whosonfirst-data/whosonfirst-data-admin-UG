@@ -1,0 +1,73 @@
+{
+  "id": 1259910319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.55282,0.42727,33.55282,0.42727",
+    "geom:latitude":0.42727,
+    "geom:longitude":33.55282,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"86",
+    "gn:admin3_code":"8644164.0",
+    "gn:admin4_code":"8658348.0",
+    "gn:asciiname":"Musima",
+    "gn:country_code":"UG",
+    "gn:dem":1200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228735,
+    "gn:latitude":0.42727,
+    "gn:longitude":33.55282,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Musima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Musima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679985,
+        1092069607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228735
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ac1807a1f1eb30accde1cc41bb4e2718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069607,
+            "locality_id":1259910319,
+            "region_id":85679985
+        }
+    ],
+    "wof:id":1259910319,
+    "wof:lastmodified":1537712072,
+    "wof:name":"Musima",
+    "wof:parent_id":1092069607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.55282,
+    0.42727,
+    33.55282,
+    0.42727
+],
+  "geometry": {"coordinates":[33.55282,0.42727],"type":"Point"}
+}

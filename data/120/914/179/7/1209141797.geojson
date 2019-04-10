@@ -1,0 +1,62 @@
+{
+  "id": 1209141797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.97229,1.82725,33.97229,1.82725",
+    "geom:latitude":1.82725,
+    "geom:longitude":33.97229,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"69",
+    "gn:asciiname":"Amusia",
+    "gn:country_code":"UG",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11497970,
+    "gn:latitude":1.82725,
+    "gn:longitude":33.97229,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Amusia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11497970
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4069ef2ff92366c4e6cbcb7b13f1a59d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209141797
+        }
+    ],
+    "wof:id":1209141797,
+    "wof:lastmodified":1536296480,
+    "wof:name":"Amusia",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.97229,
+    1.82725,
+    33.97229,
+    1.82725
+],
+  "geometry": {"coordinates":[33.97229,1.82725],"type":"Point"}
+}

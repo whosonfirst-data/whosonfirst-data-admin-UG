@@ -1,0 +1,62 @@
+{
+  "id": 1209451809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.53175,0.97293,33.53175,0.97293",
+    "geom:latitude":0.97293,
+    "geom:longitude":33.53175,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D2",
+    "gn:asciiname":"Kisenyi",
+    "gn:country_code":"UG",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429863,
+    "gn:latitude":0.97293,
+    "gn:longitude":33.53175,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Kisenyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429863
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"99d768c44f566e473811afc14d630c85",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209451809
+        }
+    ],
+    "wof:id":1209451809,
+    "wof:lastmodified":1536286649,
+    "wof:name":"Kisenyi",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.53175,
+    0.97293,
+    33.53175,
+    0.97293
+],
+  "geometry": {"coordinates":[33.53175,0.97293],"type":"Point"}
+}

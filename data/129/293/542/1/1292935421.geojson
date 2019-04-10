@@ -1,0 +1,70 @@
+{
+  "id": 1292935421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.80624,1.81568,31.80624,1.81568",
+    "geom:latitude":1.81568,
+    "geom:longitude":31.80624,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"8644129.0",
+    "gn:admin4_code":"8657823.0",
+    "gn:asciiname":"Kiyuya",
+    "gn:country_code":"UG",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8080201,
+    "gn:latitude":1.81568,
+    "gn:longitude":31.80624,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kiyuya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092069799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8080201
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"81c1dbb3b7707b73011088b6f8d976bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069799,
+            "locality_id":1292935421,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1292935421,
+    "wof:lastmodified":1537082903,
+    "wof:name":"Kiyuya",
+    "wof:parent_id":1092069799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.80624000000001,
+    1.81568,
+    31.80624000000001,
+    1.81568
+],
+  "geometry": {"coordinates":[31.80624000000001,1.81568],"type":"Point"}
+}

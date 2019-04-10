@@ -1,0 +1,70 @@
+{
+  "id": 1242812521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.65,1.31667,32.65,1.31667",
+    "geom:latitude":1.31667,
+    "geom:longitude":32.65,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"73",
+    "gn:admin3_code":"234123.0",
+    "gn:admin4_code":"8658322.0",
+    "gn:asciiname":"Kyamutendo",
+    "gn:country_code":"UG",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230429,
+    "gn:latitude":1.31667,
+    "gn:longitude":32.65,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyamutendo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679875,
+        1092069759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230429
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d7ba1e9b0a08b5d7b7661f6adc075a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069759,
+            "locality_id":1242812521,
+            "region_id":85679875
+        }
+    ],
+    "wof:id":1242812521,
+    "wof:lastmodified":1536725733,
+    "wof:name":"Kyamutendo",
+    "wof:parent_id":1092069759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.65,
+    1.31667,
+    32.65,
+    1.31667
+],
+  "geometry": {"coordinates":[32.65,1.31667],"type":"Point"}
+}

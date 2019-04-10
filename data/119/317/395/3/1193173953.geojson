@@ -1,0 +1,71 @@
+{
+  "id": 1193173953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.29798,0.50308,30.29798,0.50308",
+    "geom:latitude":0.50308,
+    "geom:longitude":30.29798,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"79",
+    "gn:asciiname":"Ruihamba",
+    "gn:country_code":"UG",
+    "gn:dem":1532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11402551,
+    "gn:latitude":0.50308,
+    "gn:longitude":30.29798,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Ruihamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ruihamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11402551
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1629f7f3b30111ccf798fbbab7f3ab25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069721,
+            "locality_id":1193173953,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1193173953,
+    "wof:lastmodified":1537712155,
+    "wof:name":"Ruihamba",
+    "wof:parent_id":1092069721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.29798,
+    0.50308,
+    30.29798,
+    0.50308
+],
+  "geometry": {"coordinates":[30.29798,0.50308],"type":"Point"}
+}

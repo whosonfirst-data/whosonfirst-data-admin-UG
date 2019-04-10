@@ -1,0 +1,75 @@
+{
+  "id": 1259593849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.43194,2.69083,32.43194,2.69083",
+    "geom:latitude":2.69083,
+    "geom:longitude":32.43194,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"I5",
+    "gn:admin3_code":"227037.0",
+    "gn:admin4_code":"8658556.0",
+    "gn:asciiname":"Ogwam",
+    "gn:cc2":"UG",
+    "gn:country_code":"UG",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227191,
+    "gn:latitude":2.69083,
+    "gn:longitude":32.43194,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Ogwam",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oswam",
+        "Ogwam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679905,
+        1092073377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227191
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"83bfd680288badf9225831130d1e229e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073377,
+            "locality_id":1259593849,
+            "region_id":85679905
+        }
+    ],
+    "wof:id":1259593849,
+    "wof:lastmodified":1537712063,
+    "wof:name":"Ogwam",
+    "wof:parent_id":1092073377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.43194,
+    2.69083,
+    32.43194,
+    2.69083
+],
+  "geometry": {"coordinates":[32.43194,2.69083],"type":"Point"}
+}

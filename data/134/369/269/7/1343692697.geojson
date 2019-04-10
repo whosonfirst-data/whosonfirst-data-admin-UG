@@ -1,0 +1,70 @@
+{
+  "id": 1343692697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.05315,1.6069,33.05315,1.6069",
+    "geom:latitude":1.6069,
+    "geom:longitude":33.05315,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"80",
+    "gn:admin3_code":"233018.0",
+    "gn:admin4_code":"8658326.0",
+    "gn:asciiname":"Bweyale",
+    "gn:country_code":"UG",
+    "gn:dem":1032,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233741,
+    "gn:latitude":1.6069,
+    "gn:longitude":33.05315,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Bweyale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679783,
+        1092070941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233741
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"14d8b8db721e9da82376ff11160af370",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070941,
+            "locality_id":1343692697,
+            "region_id":85679783
+        }
+    ],
+    "wof:id":1343692697,
+    "wof:lastmodified":1536908960,
+    "wof:name":"Bweyale",
+    "wof:parent_id":1092070941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.05315,
+    1.6069,
+    33.05315,
+    1.6069
+],
+  "geometry": {"coordinates":[33.05315,1.6069],"type":"Point"}
+}

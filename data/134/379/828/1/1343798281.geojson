@@ -1,0 +1,70 @@
+{
+  "id": 1343798281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.85,-0.38333,31.85,-0.38333",
+    "geom:latitude":-0.38333,
+    "geom:longitude":31.85,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"G5",
+    "gn:admin3_code":"7910221.0",
+    "gn:admin4_code":"8658034.0",
+    "gn:asciiname":"Kasaka",
+    "gn:country_code":"UG",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232153,
+    "gn:latitude":-0.38333,
+    "gn:longitude":31.85,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kasaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680031,
+        1092069393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232153
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ec4b891ae2d688f5960ddb1b922e352a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069393,
+            "locality_id":1343798281,
+            "region_id":85680031
+        }
+    ],
+    "wof:id":1343798281,
+    "wof:lastmodified":1536756446,
+    "wof:name":"Kasaka",
+    "wof:parent_id":1092069393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.85,
+    -0.38333,
+    31.85,
+    -0.38333
+],
+  "geometry": {"coordinates":[31.85,-0.38333],"type":"Point"}
+}

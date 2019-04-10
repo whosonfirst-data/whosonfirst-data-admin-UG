@@ -1,0 +1,73 @@
+{
+  "id": 1277112943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.24778,-0.89083,31.24778,-0.89083",
+    "geom:latitude":-0.89083,
+    "geom:longitude":31.24778,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"61",
+    "gn:admin3_code":"8644135.0",
+    "gn:admin4_code":"8658684.0",
+    "gn:asciiname":"Magabbi",
+    "gn:country_code":"UG",
+    "gn:dem":1389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229539,
+    "gn:latitude":-0.89083,
+    "gn:longitude":31.24778,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Magabbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magabi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680025,
+        1092071897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229539
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c792c1d621fbbc22319eed3c9960d7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071897,
+            "locality_id":1277112943,
+            "region_id":85680025
+        }
+    ],
+    "wof:id":1277112943,
+    "wof:lastmodified":1537712076,
+    "wof:name":"Magabbi",
+    "wof:parent_id":1092071897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.24778,
+    -0.89083,
+    31.24778,
+    -0.89083
+],
+  "geometry": {"coordinates":[31.24778,-0.89083],"type":"Point"}
+}

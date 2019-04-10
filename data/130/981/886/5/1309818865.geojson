@@ -1,0 +1,74 @@
+{
+  "id": 1309818865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.73333,2.03333,32.73333,2.03333",
+    "geom:latitude":2.03333,
+    "geom:longitude":32.73333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"26",
+    "gn:admin3_code":"230563.0",
+    "gn:admin4_code":"8657821.0",
+    "gn:asciiname":"Alira",
+    "gn:country_code":"UG",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235269,
+    "gn:latitude":2.03333,
+    "gn:longitude":32.73333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Alira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alila",
+        "Alira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680151,
+        1092071971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235269
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"89810c34ae9951ab7c414bf4753782fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071971,
+            "locality_id":1309818865,
+            "region_id":85680151
+        }
+    ],
+    "wof:id":1309818865,
+    "wof:lastmodified":1537712110,
+    "wof:name":"Alira",
+    "wof:parent_id":1092071971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.73333,
+    2.03333,
+    32.73333,
+    2.03333
+],
+  "geometry": {"coordinates":[32.73333,2.03333],"type":"Point"}
+}

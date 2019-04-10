@@ -1,0 +1,70 @@
+{
+  "id": 1243292937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.56754,1.96338,33.56754,1.96338",
+    "geom:latitude":1.96338,
+    "geom:longitude":33.56754,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"95",
+    "gn:admin3_code":"226232.0",
+    "gn:admin4_code":"8658360.0",
+    "gn:asciiname":"Obule",
+    "gn:country_code":"UG",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227285,
+    "gn:latitude":1.96338,
+    "gn:longitude":33.56754,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Obule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679813,
+        1092074055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227285
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3b71d18ad779c7c984206b2abba206ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074055,
+            "locality_id":1243292937,
+            "region_id":85679813
+        }
+    ],
+    "wof:id":1243292937,
+    "wof:lastmodified":1537025747,
+    "wof:name":"Obule",
+    "wof:parent_id":1092074055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.56754,
+    1.96338,
+    33.56754,
+    1.96338
+],
+  "geometry": {"coordinates":[33.56754,1.96338],"type":"Point"}
+}

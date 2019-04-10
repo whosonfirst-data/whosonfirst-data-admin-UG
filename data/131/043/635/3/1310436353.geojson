@@ -1,0 +1,68 @@
+{
+  "id": 1310436353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.37102,0.02442,32.37102,0.02442",
+    "geom:latitude":0.02442,
+    "geom:longitude":32.37102,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:asciiname":"Mukaka",
+    "gn:country_code":"UG",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552555,
+    "gn:latitude":0.02442,
+    "gn:longitude":32.37102,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Mukaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552555
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c3d22847c3d3ea08c27a1e1890384f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1310436353,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1310436353,
+    "wof:lastmodified":1537016103,
+    "wof:name":"Mukaka",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.37102,
+    0.02442,
+    32.37102,
+    0.02442
+],
+  "geometry": {"coordinates":[32.37102,0.02442],"type":"Point"}
+}

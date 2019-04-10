@@ -1,0 +1,64 @@
+{
+  "id": 1209349425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.51341,0.21636,32.51341,0.21636",
+    "geom:latitude":0.21636,
+    "geom:longitude":32.51341,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"234053.0",
+    "gn:admin4_code":"8658010.0",
+    "gn:asciiname":"Nakigalala",
+    "gn:country_code":"UG",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228369,
+    "gn:latitude":0.21636,
+    "gn:longitude":32.51341,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Nakigalala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228369
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"11af849ce30518be6c94d20ac67f31cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209349425
+        }
+    ],
+    "wof:id":1209349425,
+    "wof:lastmodified":1536289796,
+    "wof:name":"Nakigalala",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.51341,
+    0.21636,
+    32.51341,
+    0.21636
+],
+  "geometry": {"coordinates":[32.51341,0.21636],"type":"Point"}
+}

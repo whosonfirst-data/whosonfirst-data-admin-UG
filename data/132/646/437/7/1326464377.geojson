@@ -1,0 +1,68 @@
+{
+  "id": 1326464377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00917,-1.0475,31.00917,-1.0475",
+    "geom:latitude":-1.0475,
+    "geom:longitude":31.00917,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"C9",
+    "gn:asciiname":"Kigaragara",
+    "gn:country_code":"UG",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231460,
+    "gn:latitude":-1.0475,
+    "gn:longitude":31.00917,
+    "gn:modification_date":"2012-04-28",
+    "gn:name":"Kigaragara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231460
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"fe7d4a75ad70d8cb1038a61ac5972de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693099,
+            "locality_id":1326464377,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1326464377,
+    "wof:lastmodified":1537078639,
+    "wof:name":"Kigaragara",
+    "wof:parent_id":1108693099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00917,
+    -1.0475,
+    31.00917,
+    -1.0475
+],
+  "geometry": {"coordinates":[31.00917,-1.0475],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326959121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.47417,1.61491,31.47417,1.61491",
+    "geom:latitude":1.61491,
+    "geom:longitude":31.47417,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"234463.0",
+    "gn:admin4_code":"8657903.0",
+    "gn:asciiname":"Kabarongo",
+    "gn:country_code":"UG",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8081007,
+    "gn:latitude":1.61491,
+    "gn:longitude":31.47417,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kabarongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092074425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8081007
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b8774aa312de0c12d04c5c4b7c487fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074425,
+            "locality_id":1326959121,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1326959121,
+    "wof:lastmodified":1536864875,
+    "wof:name":"Kabarongo",
+    "wof:parent_id":1092074425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.47417,
+    1.61491,
+    31.47417,
+    1.61491
+],
+  "geometry": {"coordinates":[31.47417,1.61491],"type":"Point"}
+}

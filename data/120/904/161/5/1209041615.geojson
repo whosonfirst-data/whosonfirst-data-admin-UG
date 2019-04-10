@@ -1,0 +1,68 @@
+{
+  "id": 1209041615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.25,0.86667,34.25,0.86667",
+    "geom:latitude":0.86667,
+    "geom:longitude":34.25,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D6",
+    "gn:admin3_code":"7869955.0",
+    "gn:admin4_code":"8658048.0",
+    "gn:asciiname":"Nakhupa",
+    "gn:country_code":"UG",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228380,
+    "gn:latitude":0.86667,
+    "gn:longitude":34.25,
+    "gn:modification_date":"2018-06-24",
+    "gn:name":"Nakhupa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nakupa",
+        "Nakhupa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228380
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"36478fc197ae3b6b1b0a696efe9ef292",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209041615
+        }
+    ],
+    "wof:id":1209041615,
+    "wof:lastmodified":1537712070,
+    "wof:name":"Nakhupa",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.25,
+    0.86667,
+    34.25,
+    0.86667
+],
+  "geometry": {"coordinates":[34.25,0.86667],"type":"Point"}
+}

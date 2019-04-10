@@ -1,0 +1,70 @@
+{
+  "id": 1259817893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4,-0.13333,30.4,-0.13333",
+    "geom:latitude":-0.13333,
+    "geom:longitude":30.4,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"81",
+    "gn:admin3_code":"7732901.0",
+    "gn:admin4_code":"8657792.0",
+    "gn:asciiname":"Kagazi",
+    "gn:country_code":"UG",
+    "gn:dem":1705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232811,
+    "gn:latitude":-0.13333,
+    "gn:longitude":30.4,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kagazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680041,
+        1092071759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232811
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e0d634bc71610b1cd53dad9e9b16df5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071759,
+            "locality_id":1259817893,
+            "region_id":85680041
+        }
+    ],
+    "wof:id":1259817893,
+    "wof:lastmodified":1536872746,
+    "wof:name":"Kagazi",
+    "wof:parent_id":1092071759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4,
+    -0.13333,
+    30.4,
+    -0.13333
+],
+  "geometry": {"coordinates":[30.4,-0.13333],"type":"Point"}
+}

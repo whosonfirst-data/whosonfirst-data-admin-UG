@@ -1,0 +1,68 @@
+{
+  "id": 1310235609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.20534,0.08563,32.20534,0.08563",
+    "geom:latitude":0.08563,
+    "geom:longitude":32.20534,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:asciiname":"Nsumba",
+    "gn:country_code":"UG",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552414,
+    "gn:latitude":0.08563,
+    "gn:longitude":32.20534,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Nsumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679827,
+        1092072705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552414
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8faf927218a24adc315abca942a70314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072705,
+            "locality_id":1310235609,
+            "region_id":85679827
+        }
+    ],
+    "wof:id":1310235609,
+    "wof:lastmodified":1536808544,
+    "wof:name":"Nsumba",
+    "wof:parent_id":1092072705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.20534,
+    0.08563,
+    32.20534,
+    0.08563
+],
+  "geometry": {"coordinates":[32.20534,0.08563],"type":"Point"}
+}

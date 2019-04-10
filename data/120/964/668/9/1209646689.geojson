@@ -1,0 +1,64 @@
+{
+  "id": 1209646689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.45,1.23333,32.45,1.23333",
+    "geom:latitude":1.23333,
+    "geom:longitude":32.45,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"73",
+    "gn:admin3_code":"234123.0",
+    "gn:admin4_code":"8657735.0",
+    "gn:asciiname":"Kyaluweza",
+    "gn:country_code":"UG",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230480,
+    "gn:latitude":1.23333,
+    "gn:longitude":32.45,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyaluweza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230480
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6dd6ab46576c275724d3cb6deef2272e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209646689
+        }
+    ],
+    "wof:id":1209646689,
+    "wof:lastmodified":1536280712,
+    "wof:name":"Kyaluweza",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.45,
+    1.23333,
+    32.45,
+    1.23333
+],
+  "geometry": {"coordinates":[32.45,1.23333],"type":"Point"}
+}

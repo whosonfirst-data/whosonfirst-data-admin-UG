@@ -1,0 +1,68 @@
+{
+  "id": 1260010885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.23063,0.99291,33.23063,0.99291",
+    "geom:latitude":0.99291,
+    "geom:longitude":33.23063,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"F3",
+    "gn:asciiname":"Bukwanga-Musano",
+    "gn:country_code":"UG",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553015,
+    "gn:latitude":0.99291,
+    "gn:longitude":33.23063,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bukwanga-Musano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680103,
+        1092068855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553015
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"25ddfb845930527b954b06798a255d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068855,
+            "locality_id":1260010885,
+            "region_id":85680103
+        }
+    ],
+    "wof:id":1260010885,
+    "wof:lastmodified":1537089344,
+    "wof:name":"Bukwanga-Musano",
+    "wof:parent_id":1092068855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.23063,
+    0.99291,
+    33.23063,
+    0.99291
+],
+  "geometry": {"coordinates":[33.23063,0.99291],"type":"Point"}
+}

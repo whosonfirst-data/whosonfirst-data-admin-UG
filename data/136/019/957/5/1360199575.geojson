@@ -1,0 +1,73 @@
+{
+  "id": 1360199575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.77797,1.99282,32.77797,1.99282",
+    "geom:latitude":1.99282,
+    "geom:longitude":32.77797,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"26",
+    "gn:admin3_code":"230563.0",
+    "gn:admin4_code":"8658616.0",
+    "gn:asciiname":"Awei",
+    "gn:country_code":"UG",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":234947,
+    "gn:latitude":1.99282,
+    "gn:longitude":32.77797,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Awei",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Awei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680151,
+        1092071971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234947
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f42e60b47ba2ec24b46ab18cbd414917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071971,
+            "locality_id":1360199575,
+            "region_id":85680151
+        }
+    ],
+    "wof:id":1360199575,
+    "wof:lastmodified":1537712106,
+    "wof:name":"Awei",
+    "wof:parent_id":1092071971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.77797,
+    1.99282,
+    32.77797,
+    1.99282
+],
+  "geometry": {"coordinates":[32.77797,1.99282],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1209042971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.8348,0.5931,33.8348,0.5931",
+    "geom:latitude":0.5931,
+    "geom:longitude":33.8348,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"66",
+    "gn:asciiname":"Kigulu",
+    "gn:country_code":"UG",
+    "gn:dem":1088,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429851,
+    "gn:latitude":0.5931,
+    "gn:longitude":33.8348,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Kigulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429851
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9c92abe93aaf0c7cf85802eb23592d27",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209042971
+        }
+    ],
+    "wof:id":1209042971,
+    "wof:lastmodified":1536299485,
+    "wof:name":"Kigulu",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.8348,
+    0.5931,
+    33.8348,
+    0.5931
+],
+  "geometry": {"coordinates":[33.8348,0.5931],"type":"Point"}
+}

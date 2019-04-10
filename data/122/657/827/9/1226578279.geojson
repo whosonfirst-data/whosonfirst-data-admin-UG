@@ -1,0 +1,70 @@
+{
+  "id": 1226578279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.54428,0.32619,32.54428,0.32619",
+    "geom:latitude":0.32619,
+    "geom:longitude":32.54428,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"8644170.0",
+    "gn:admin4_code":"7732390.0",
+    "gn:asciiname":"Bukesa",
+    "gn:country_code":"UG",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11279315,
+    "gn:latitude":0.32619,
+    "gn:longitude":32.54428,
+    "gn:modification_date":"2016-10-12",
+    "gn:name":"Bukesa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679867,
+        1092071203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11279315
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"bddc9d2a92a2c3c9e4d013f0e14957d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071203,
+            "locality_id":1226578279,
+            "region_id":85679867
+        }
+    ],
+    "wof:id":1226578279,
+    "wof:lastmodified":1536952942,
+    "wof:name":"Bukesa",
+    "wof:parent_id":1092071203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.54428,
+    0.32619,
+    32.54428,
+    0.32619
+],
+  "geometry": {"coordinates":[32.54428,0.32619],"type":"Point"}
+}

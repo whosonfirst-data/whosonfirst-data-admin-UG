@@ -1,0 +1,70 @@
+{
+  "id": 1193054011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.21726,-1.22597,30.21726,-1.22597",
+    "geom:latitude":-1.22597,
+    "geom:longitude":30.21726,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"I8",
+    "gn:admin3_code":"226611.0",
+    "gn:admin4_code":"8657841.0",
+    "gn:asciiname":"Kamwezi",
+    "gn:country_code":"UG",
+    "gn:dem":1514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232369,
+    "gn:latitude":-1.22597,
+    "gn:longitude":30.21726,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Kamwezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680073,
+        1092073783
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232369
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d9a3f1e40a463c59fe4f4fed52a671ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073783,
+            "locality_id":1193054011,
+            "region_id":85680073
+        }
+    ],
+    "wof:id":1193054011,
+    "wof:lastmodified":1536363980,
+    "wof:name":"Kamwezi",
+    "wof:parent_id":1092073783,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21726,
+    -1.22597,
+    30.21726,
+    -1.22597
+],
+  "geometry": {"coordinates":[30.21726,-1.22597],"type":"Point"}
+}

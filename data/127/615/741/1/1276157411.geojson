@@ -1,0 +1,70 @@
+{
+  "id": 1276157411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.53333,0.91667,30.53333,0.91667",
+    "geom:latitude":0.91667,
+    "geom:longitude":30.53333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"85",
+    "gn:admin3_code":"228643.0",
+    "gn:admin4_code":"8657559.0",
+    "gn:asciiname":"Wamfuru",
+    "gn:country_code":"UG",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":225937,
+    "gn:latitude":0.91667,
+    "gn:longitude":30.53333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wamfuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679943,
+        1092072955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":225937
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f63f3c165e8ddcbac678b68d692d5ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072955,
+            "locality_id":1276157411,
+            "region_id":85679943
+        }
+    ],
+    "wof:id":1276157411,
+    "wof:lastmodified":1537013827,
+    "wof:name":"Wamfuru",
+    "wof:parent_id":1092072955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.53333,
+    0.91667,
+    30.53333,
+    0.91667
+],
+  "geometry": {"coordinates":[30.53333,0.91667],"type":"Point"}
+}

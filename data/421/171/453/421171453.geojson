@@ -1,0 +1,85 @@
+{
+  "id": 421171453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-03",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.530273,1.823422,33.530273,1.823422",
+    "geom:latitude":1.823422,
+    "geom:longitude":33.530273,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Soroti"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Soroti",
+    "qs:name_adm0":"Uganda",
+    "qs:name_adm1":"Soroti",
+    "qs:photos":151,
+    "qs:photos_1k":31,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":629,
+    "qs:photos_sr":4,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1251713,
+    "qs:woe_adm0":23424974,
+    "qs:woe_id":20070447,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070447,
+        "qs:id":1251713
+    },
+    "wof:country":"UG",
+    "wof:created":1459008894,
+    "wof:geomhash":"944b703f8ed796b3d73865f8fd2543ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "region_id":421171453
+        }
+    ],
+    "wof:id":421171453,
+    "wof:lang_x_official":[
+        "swa",
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "swa",
+        "eng"
+    ],
+    "wof:lastmodified":1529541194,
+    "wof:name":"Soroti",
+    "wof:parent_id":85632625,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.530273,
+    1.823422,
+    33.530273,
+    1.823422
+],
+  "geometry": {"coordinates":[33.530273,1.823422],"type":"Point"}
+}

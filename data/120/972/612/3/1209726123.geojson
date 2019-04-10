@@ -1,0 +1,70 @@
+{
+  "id": 1209726123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.11681,2.34527,33.11681,2.34527",
+    "geom:latitude":2.34527,
+    "geom:longitude":33.11681,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"E4",
+    "gn:admin3_code":"229109.0",
+    "gn:admin4_code":"8657548.0",
+    "gn:asciiname":"Akura",
+    "gn:country_code":"UG",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11280520,
+    "gn:latitude":2.34527,
+    "gn:longitude":33.11681,
+    "gn:modification_date":"2016-10-19",
+    "gn:name":"Akura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680161,
+        1092072869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11280520
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ff74878e3ed83fb19220cefeff70a83a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072869,
+            "locality_id":1209726123,
+            "region_id":85680161
+        }
+    ],
+    "wof:id":1209726123,
+    "wof:lastmodified":1536383588,
+    "wof:name":"Akura",
+    "wof:parent_id":1092072869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.11681,
+    2.34527,
+    33.11681,
+    2.34527
+],
+  "geometry": {"coordinates":[33.11681,2.34527],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209530703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.06184,1.81217,33.06184,1.81217",
+    "geom:latitude":1.81217,
+    "geom:longitude":33.06184,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"C7",
+    "gn:admin3_code":"233559.0",
+    "gn:admin4_code":"8658388.0",
+    "gn:asciiname":"Ayoni",
+    "gn:country_code":"UG",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234907,
+    "gn:latitude":1.81217,
+    "gn:longitude":33.06184,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Ayoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234907
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"267f4a86b2d8c14a0596e7dee7b94aaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209530703
+        }
+    ],
+    "wof:id":1209530703,
+    "wof:lastmodified":1536284289,
+    "wof:name":"Ayoni",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.061840000000004,
+    1.81217,
+    33.061840000000004,
+    1.81217
+],
+  "geometry": {"coordinates":[33.06184,1.81217],"type":"Point"}
+}

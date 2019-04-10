@@ -1,0 +1,68 @@
+{
+  "id": 1259614391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.70463,0.83905,33.70463,0.83905",
+    "geom:latitude":0.83905,
+    "geom:longitude":33.70463,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"E1",
+    "gn:asciiname":"Nakalokwe",
+    "gn:country_code":"UG",
+    "gn:dem":1127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11430080,
+    "gn:latitude":0.83905,
+    "gn:longitude":33.70463,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Nakalokwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679807,
+        1092069849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11430080
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"fadb0c20aa384039408a34a21a8b406b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069849,
+            "locality_id":1259614391,
+            "region_id":85679807
+        }
+    ],
+    "wof:id":1259614391,
+    "wof:lastmodified":1536670327,
+    "wof:name":"Nakalokwe",
+    "wof:parent_id":1092069849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.70463,
+    0.83905,
+    33.70463,
+    0.83905
+],
+  "geometry": {"coordinates":[33.70463,0.83905],"type":"Point"}
+}

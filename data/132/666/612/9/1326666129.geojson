@@ -1,0 +1,70 @@
+{
+  "id": 1326666129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.66113,1.67479,31.66113,1.67479",
+    "geom:latitude":1.67479,
+    "geom:longitude":31.66113,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"8644149.0",
+    "gn:admin4_code":"8657654.0",
+    "gn:asciiname":"Karujubu",
+    "gn:country_code":"UG",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232179,
+    "gn:latitude":1.67479,
+    "gn:longitude":31.66113,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Karujubu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092069799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232179
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"69e44c1136e09a59d65705834ba0fe0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069799,
+            "locality_id":1326666129,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1326666129,
+    "wof:lastmodified":1536791359,
+    "wof:name":"Karujubu",
+    "wof:parent_id":1092069799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.66113,
+    1.67479,
+    31.66113,
+    1.67479
+],
+  "geometry": {"coordinates":[31.66113,1.67479],"type":"Point"}
+}

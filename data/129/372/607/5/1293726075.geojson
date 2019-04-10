@@ -1,0 +1,76 @@
+{
+  "id": 1293726075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.79611,-0.64444,31.79611,-0.64444",
+    "geom:latitude":-0.64444,
+    "geom:longitude":31.79611,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"G5",
+    "gn:admin3_code":"7910221.0",
+    "gn:admin4_code":"8657534.0",
+    "gn:asciiname":"Diima",
+    "gn:cc2":"UG",
+    "gn:country_code":"UG",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233548,
+    "gn:latitude":-0.64444,
+    "gn:longitude":31.79611,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Diima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Diima Point",
+        "Dumu",
+        "Diima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680031,
+        1092069393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233548
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d2f44aa08a43164fb853be15e0774ee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069393,
+            "locality_id":1293726075,
+            "region_id":85680031
+        }
+    ],
+    "wof:id":1293726075,
+    "wof:lastmodified":1537712095,
+    "wof:name":"Diima",
+    "wof:parent_id":1092069393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.79611,
+    -0.64444,
+    31.79611,
+    -0.64444
+],
+  "geometry": {"coordinates":[31.79611,-0.64444],"type":"Point"}
+}

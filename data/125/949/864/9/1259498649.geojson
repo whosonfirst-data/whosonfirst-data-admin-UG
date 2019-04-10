@@ -1,0 +1,70 @@
+{
+  "id": 1259498649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.02332,3.47791,33.02332,3.47791",
+    "geom:latitude":3.47791,
+    "geom:longitude":33.02332,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"84",
+    "gn:admin3_code":"233642.0",
+    "gn:admin4_code":"8647780.0",
+    "gn:asciiname":"Oruma",
+    "gn:country_code":"UG",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8694004,
+    "gn:latitude":3.47791,
+    "gn:longitude":33.02332,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Oruma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679899,
+        1092070355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8694004
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"34de374da74fa653aa0ebfa00c0d7989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070355,
+            "locality_id":1259498649,
+            "region_id":85679899
+        }
+    ],
+    "wof:id":1259498649,
+    "wof:lastmodified":1536835899,
+    "wof:name":"Oruma",
+    "wof:parent_id":1092070355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.02332,
+    3.47791,
+    33.02332,
+    3.47791
+],
+  "geometry": {"coordinates":[33.02332,3.47791],"type":"Point"}
+}

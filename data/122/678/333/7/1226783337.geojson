@@ -1,0 +1,70 @@
+{
+  "id": 1226783337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.89382,0.38814,32.89382,0.38814",
+    "geom:latitude":0.38814,
+    "geom:longitude":32.89382,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"90",
+    "gn:admin3_code":"7732383.0",
+    "gn:admin4_code":"8658222.0",
+    "gn:asciiname":"Bya",
+    "gn:country_code":"UG",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11376761,
+    "gn:latitude":0.38814,
+    "gn:longitude":32.89382,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Bya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679817,
+        1092073015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11376761
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9eabea30264f20ae222f4edb1c99c429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073015,
+            "locality_id":1226783337,
+            "region_id":85679817
+        }
+    ],
+    "wof:id":1226783337,
+    "wof:lastmodified":1536661448,
+    "wof:name":"Bya",
+    "wof:parent_id":1092073015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.89382,
+    0.38814,
+    32.89382,
+    0.38814
+],
+  "geometry": {"coordinates":[32.89382,0.38814],"type":"Point"}
+}

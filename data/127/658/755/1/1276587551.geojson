@@ -1,0 +1,73 @@
+{
+  "id": 1276587551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.44038,0.42517,33.44038,0.42517",
+    "geom:latitude":0.42517,
+    "geom:longitude":33.44038,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"86",
+    "gn:admin3_code":"8644164.0",
+    "gn:admin4_code":"8658491.0",
+    "gn:asciiname":"Kabuki",
+    "gn:country_code":"UG",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11356417,
+    "gn:latitude":0.42517,
+    "gn:longitude":33.44038,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Kabuki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kabuki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679985,
+        1092069607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11356417
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5e1a39d669e2a1d36f567633d7357514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069607,
+            "locality_id":1276587551,
+            "region_id":85679985
+        }
+    ],
+    "wof:id":1276587551,
+    "wof:lastmodified":1537712131,
+    "wof:name":"Kabuki",
+    "wof:parent_id":1092069607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.44038,
+    0.42517,
+    33.44038,
+    0.42517
+],
+  "geometry": {"coordinates":[33.44038,0.42517],"type":"Point"}
+}

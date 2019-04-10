@@ -1,0 +1,70 @@
+{
+  "id": 1259498515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.78246,2.57533,31.78246,2.57533",
+    "geom:latitude":2.57533,
+    "geom:longitude":31.78246,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"8644126.0",
+    "gn:admin4_code":"8200494.0",
+    "gn:asciiname":"Wianaka",
+    "gn:country_code":"UG",
+    "gn:dem":970,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200514,
+    "gn:latitude":2.57533,
+    "gn:longitude":31.78246,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wianaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680247,
+        1092073225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200514
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3ad6b0d1d006161d6aad51c64b562ce1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073225,
+            "locality_id":1259498515,
+            "region_id":85680247
+        }
+    ],
+    "wof:id":1259498515,
+    "wof:lastmodified":1536836088,
+    "wof:name":"Wianaka",
+    "wof:parent_id":1092073225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.78246,
+    2.57533,
+    31.78246,
+    2.57533
+],
+  "geometry": {"coordinates":[31.78246,2.57533],"type":"Point"}
+}

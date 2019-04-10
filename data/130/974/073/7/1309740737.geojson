@@ -1,0 +1,70 @@
+{
+  "id": 1309740737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.27444,-0.51639,31.27444,-0.51639",
+    "geom:latitude":-0.51639,
+    "geom:longitude":31.27444,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"61",
+    "gn:admin3_code":"8644135.0",
+    "gn:admin4_code":"8658518.0",
+    "gn:asciiname":"Bugona",
+    "gn:country_code":"UG",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234538,
+    "gn:latitude":-0.51639,
+    "gn:longitude":31.27444,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bugona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680025,
+        1092071897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234538
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5578e1d414b881a635390bed9485753b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071897,
+            "locality_id":1309740737,
+            "region_id":85680025
+        }
+    ],
+    "wof:id":1309740737,
+    "wof:lastmodified":1537023956,
+    "wof:name":"Bugona",
+    "wof:parent_id":1092071897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.27444,
+    -0.51639,
+    31.27444,
+    -0.51639
+],
+  "geometry": {"coordinates":[31.27444,-0.51639],"type":"Point"}
+}

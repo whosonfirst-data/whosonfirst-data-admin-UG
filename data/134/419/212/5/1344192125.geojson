@@ -1,0 +1,71 @@
+{
+  "id": 1344192125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.05902,0.9471,34.05902,0.9471",
+    "geom:latitude":0.9471,
+    "geom:longitude":34.05902,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C6",
+    "gn:asciiname":"Kapisa",
+    "gn:country_code":"UG",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433402,
+    "gn:latitude":0.9471,
+    "gn:longitude":34.05902,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Kapisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kapisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679981,
+        1092069677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433402
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ed21ceef01c235d90551c097e000709b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069677,
+            "locality_id":1344192125,
+            "region_id":85679981
+        }
+    ],
+    "wof:id":1344192125,
+    "wof:lastmodified":1537712169,
+    "wof:name":"Kapisa",
+    "wof:parent_id":1092069677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.05902,
+    0.9471,
+    34.05902,
+    0.9471
+],
+  "geometry": {"coordinates":[34.05902,0.9471],"type":"Point"}
+}

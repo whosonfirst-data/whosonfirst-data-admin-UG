@@ -1,0 +1,71 @@
+{
+  "id": 1260014389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2036,0.68651,30.2036,0.68651",
+    "geom:latitude":0.68651,
+    "geom:longitude":30.2036,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"79",
+    "gn:asciiname":"Kikura",
+    "gn:country_code":"UG",
+    "gn:dem":1583,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401718,
+    "gn:latitude":0.68651,
+    "gn:longitude":30.2036,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Kikura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kikura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401718
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2b12171525fec3c34faafa74a0858f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069721,
+            "locality_id":1260014389,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1260014389,
+    "wof:lastmodified":1537712142,
+    "wof:name":"Kikura",
+    "wof:parent_id":1092069721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2036,
+    0.68651,
+    30.2036,
+    0.68651
+],
+  "geometry": {"coordinates":[30.2036,0.68651],"type":"Point"}
+}

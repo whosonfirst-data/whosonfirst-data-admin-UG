@@ -1,0 +1,70 @@
+{
+  "id": 1276695451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3241,1.56198,31.3241,1.56198",
+    "geom:latitude":1.56198,
+    "geom:longitude":31.3241,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"7732256.0",
+    "gn:admin4_code":"8658568.0",
+    "gn:asciiname":"Buhamba",
+    "gn:country_code":"UG",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8080872,
+    "gn:latitude":1.56198,
+    "gn:longitude":31.3241,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Buhamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679933,
+        1092068961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8080872
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"54feb65a5bf0dcfb861fb8fccc3ed1a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068961,
+            "locality_id":1276695451,
+            "region_id":85679933
+        }
+    ],
+    "wof:id":1276695451,
+    "wof:lastmodified":1536790814,
+    "wof:name":"Buhamba",
+    "wof:parent_id":1092068961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3241,
+    1.56198,
+    31.3241,
+    1.56198
+],
+  "geometry": {"coordinates":[31.3241,1.56198],"type":"Point"}
+}

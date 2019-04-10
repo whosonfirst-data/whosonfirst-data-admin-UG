@@ -1,0 +1,74 @@
+{
+  "id": 1259514695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.70022,1.79932,31.70022,1.79932",
+    "geom:latitude":1.79932,
+    "geom:longitude":31.70022,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"8644129.0",
+    "gn:admin4_code":"8657823.0",
+    "gn:asciiname":"Kibanda",
+    "gn:country_code":"UG",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231604,
+    "gn:latitude":1.79932,
+    "gn:longitude":31.70022,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kibanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kibamba",
+        "Kibanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092069799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231604
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4206b0ff328a1a8bb31b530cd4d6b88f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069799,
+            "locality_id":1259514695,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1259514695,
+    "wof:lastmodified":1537712086,
+    "wof:name":"Kibanda",
+    "wof:parent_id":1092069799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.70022,
+    1.79932,
+    31.70022,
+    1.79932
+],
+  "geometry": {"coordinates":[31.70022,1.79932],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1193047121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.47942,0.48762,33.47942,0.48762",
+    "geom:latitude":0.48762,
+    "geom:longitude":33.47942,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"86",
+    "gn:admin3_code":"8644164.0",
+    "gn:admin4_code":"8658694.0",
+    "gn:asciiname":"Ivugunyu",
+    "gn:country_code":"UG",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11356404,
+    "gn:latitude":0.48762,
+    "gn:longitude":33.47942,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Ivugunyu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ivugunyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679985,
+        1092069607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11356404
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"63d11704a7805e81992dba153299fcf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069607,
+            "locality_id":1193047121,
+            "region_id":85679985
+        }
+    ],
+    "wof:id":1193047121,
+    "wof:lastmodified":1537712131,
+    "wof:name":"Ivugunyu",
+    "wof:parent_id":1092069607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.47942,
+    0.48762,
+    33.47942,
+    0.48762
+],
+  "geometry": {"coordinates":[33.47942,0.48762],"type":"Point"}
+}

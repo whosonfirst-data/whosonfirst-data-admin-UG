@@ -1,0 +1,68 @@
+{
+  "id": 1327467657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.34845,0.23708,32.34845,0.23708",
+    "geom:latitude":0.23708,
+    "geom:longitude":32.34845,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:asciiname":"Lungala",
+    "gn:country_code":"UG",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552648,
+    "gn:latitude":0.23708,
+    "gn:longitude":32.34845,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Lungala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679827,
+        1092072705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552648
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"26f9b71b0d634a8d002dfe2642020d5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072705,
+            "locality_id":1327467657,
+            "region_id":85679827
+        }
+    ],
+    "wof:id":1327467657,
+    "wof:lastmodified":1536628171,
+    "wof:name":"Lungala",
+    "wof:parent_id":1092072705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.34845,
+    0.23708,
+    32.34845,
+    0.23708
+],
+  "geometry": {"coordinates":[32.34845,0.23708],"type":"Point"}
+}

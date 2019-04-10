@@ -1,0 +1,73 @@
+{
+  "id": 1309942123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.6196,0.32882,33.6196,0.32882",
+    "geom:latitude":0.32882,
+    "geom:longitude":33.6196,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"86",
+    "gn:admin3_code":"8644164.0",
+    "gn:admin4_code":"8658417.0",
+    "gn:asciiname":"Makoma",
+    "gn:country_code":"UG",
+    "gn:dem":1156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229464,
+    "gn:latitude":0.32882,
+    "gn:longitude":33.6196,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Makoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679985,
+        1092069607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229464
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a178ef5b00a1b05f0c95fd7c3a2731b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069607,
+            "locality_id":1309942123,
+            "region_id":85679985
+        }
+    ],
+    "wof:id":1309942123,
+    "wof:lastmodified":1537712075,
+    "wof:name":"Makoma",
+    "wof:parent_id":1092069607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.6196,
+    0.32882,
+    33.6196,
+    0.32882
+],
+  "geometry": {"coordinates":[33.6196,0.32882],"type":"Point"}
+}

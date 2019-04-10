@@ -1,0 +1,68 @@
+{
+  "id": 1360019419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.38239,0.48113,32.38239,0.48113",
+    "geom:latitude":0.48113,
+    "geom:longitude":32.38239,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:asciiname":"Ddambwe",
+    "gn:country_code":"UG",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552037,
+    "gn:latitude":0.48113,
+    "gn:longitude":32.38239,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Ddambwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552037
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9d5ddf39cccd68603a1d4bca21e4afc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1360019419,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1360019419,
+    "wof:lastmodified":1537038737,
+    "wof:name":"Ddambwe",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.38239,
+    0.48113,
+    32.38239,
+    0.48113
+],
+  "geometry": {"coordinates":[32.38239,0.48113],"type":"Point"}
+}

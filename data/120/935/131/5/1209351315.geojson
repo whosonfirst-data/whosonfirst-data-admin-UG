@@ -1,0 +1,64 @@
+{
+  "id": 1209351315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85,0.88333,30.85,0.88333",
+    "geom:latitude":0.88333,
+    "geom:longitude":30.85,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"I1",
+    "gn:admin3_code":"233860.0",
+    "gn:admin4_code":"8658171.0",
+    "gn:asciiname":"Kijumazi",
+    "gn:country_code":"UG",
+    "gn:dem":1290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231345,
+    "gn:latitude":0.88333,
+    "gn:longitude":30.85,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Kijumazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231345
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b8e8a8444acc50857803c0418f5d04a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209351315
+        }
+    ],
+    "wof:id":1209351315,
+    "wof:lastmodified":1536289732,
+    "wof:name":"Kijumazi",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85,
+    0.88333,
+    30.85,
+    0.88333
+],
+  "geometry": {"coordinates":[30.85,0.88333],"type":"Point"}
+}

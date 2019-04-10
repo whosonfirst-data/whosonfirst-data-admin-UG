@@ -1,0 +1,71 @@
+{
+  "id": 1326664383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.45874,0.74117,30.45874,0.74117",
+    "geom:latitude":0.74117,
+    "geom:longitude":30.45874,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"85",
+    "gn:asciiname":"Lwamahunga",
+    "gn:country_code":"UG",
+    "gn:dem":1523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11402217,
+    "gn:latitude":0.74117,
+    "gn:longitude":30.45874,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Lwamahunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lwamahunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679943,
+        1092072955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11402217
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f6b3b150f530bd9fd802c8734c59d772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072955,
+            "locality_id":1326664383,
+            "region_id":85679943
+        }
+    ],
+    "wof:id":1326664383,
+    "wof:lastmodified":1537712150,
+    "wof:name":"Lwamahunga",
+    "wof:parent_id":1092072955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.45874,
+    0.74117,
+    30.45874,
+    0.74117
+],
+  "geometry": {"coordinates":[30.45874,0.74117],"type":"Point"}
+}

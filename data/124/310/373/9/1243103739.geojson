@@ -1,0 +1,70 @@
+{
+  "id": 1243103739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31667,-0.73333,31.31667,-0.73333",
+    "geom:latitude":-0.73333,
+    "geom:longitude":31.31667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"61",
+    "gn:admin3_code":"8644135.0",
+    "gn:admin4_code":"8658343.0",
+    "gn:asciiname":"Kisomole",
+    "gn:country_code":"UG",
+    "gn:dem":1244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230997,
+    "gn:latitude":-0.73333,
+    "gn:longitude":31.31667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kisomole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680025,
+        1092071897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230997
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"39fde2eb2db6cce94750206d19059439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071897,
+            "locality_id":1243103739,
+            "region_id":85680025
+        }
+    ],
+    "wof:id":1243103739,
+    "wof:lastmodified":1536802384,
+    "wof:name":"Kisomole",
+    "wof:parent_id":1092071897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31667,
+    -0.73333,
+    31.31667,
+    -0.73333
+],
+  "geometry": {"coordinates":[31.31667,-0.73333],"type":"Point"}
+}

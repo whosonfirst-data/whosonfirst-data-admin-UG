@@ -1,0 +1,70 @@
+{
+  "id": 1276803507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.22909,0.3619,32.22909,0.3619",
+    "geom:latitude":0.3619,
+    "geom:longitude":32.22909,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:admin3_code":"8644137.0",
+    "gn:admin4_code":"8658316.0",
+    "gn:asciiname":"Malangala",
+    "gn:country_code":"UG",
+    "gn:dem":1229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229443,
+    "gn:latitude":0.3619,
+    "gn:longitude":32.22909,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Malangala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679891,
+        1092069929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229443
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d4c36b442650dbe12fa61e53a9c7b614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069929,
+            "locality_id":1276803507,
+            "region_id":85679891
+        }
+    ],
+    "wof:id":1276803507,
+    "wof:lastmodified":1536645333,
+    "wof:name":"Malangala",
+    "wof:parent_id":1092069929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.22909,
+    0.3619,
+    32.22909,
+    0.3619
+],
+  "geometry": {"coordinates":[32.22909,0.3619],"type":"Point"}
+}

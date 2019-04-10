@@ -1,0 +1,70 @@
+{
+  "id": 1259614265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.81972,0.67861,31.81972,0.67861",
+    "geom:latitude":0.67861,
+    "geom:longitude":31.81972,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"56",
+    "gn:admin3_code":"8644175.0",
+    "gn:admin4_code":"8658716.0",
+    "gn:asciiname":"Bukuya",
+    "gn:country_code":"UG",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234329,
+    "gn:latitude":0.67861,
+    "gn:longitude":31.81972,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bukuya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679889,
+        1092071357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234329
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e2644c9df87e62a7ab981ed7e674c016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071357,
+            "locality_id":1259614265,
+            "region_id":85679889
+        }
+    ],
+    "wof:id":1259614265,
+    "wof:lastmodified":1536670521,
+    "wof:name":"Bukuya",
+    "wof:parent_id":1092071357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.81972,
+    0.67861,
+    31.81972,
+    0.67861
+],
+  "geometry": {"coordinates":[31.81972,0.67861],"type":"Point"}
+}

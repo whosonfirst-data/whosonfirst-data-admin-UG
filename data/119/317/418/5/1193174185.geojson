@@ -1,0 +1,73 @@
+{
+  "id": 1193174185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.25444,0.49959,30.25444,0.49959",
+    "geom:latitude":0.49959,
+    "geom:longitude":30.25444,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"H8",
+    "gn:admin3_code":"234153.0",
+    "gn:admin4_code":"8658611.0",
+    "gn:asciiname":"Nyakasunsa",
+    "gn:country_code":"UG",
+    "gn:dem":1457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227482,
+    "gn:latitude":0.49959,
+    "gn:longitude":30.25444,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Nyakasunsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyakasunsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227482
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5eb0491ce705121c032edd9d8bf553f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069635,
+            "locality_id":1193174185,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1193174185,
+    "wof:lastmodified":1537712066,
+    "wof:name":"Nyakasunsa",
+    "wof:parent_id":1092069635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.25444,
+    0.49959,
+    30.25444,
+    0.49959
+],
+  "geometry": {"coordinates":[30.25444,0.49959],"type":"Point"}
+}

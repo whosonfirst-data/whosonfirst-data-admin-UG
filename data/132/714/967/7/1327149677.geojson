@@ -1,0 +1,70 @@
+{
+  "id": 1327149677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.62306,1.48694,32.62306,1.48694",
+    "geom:latitude":1.48694,
+    "geom:longitude":32.62306,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B7",
+    "gn:admin3_code":"231170.0",
+    "gn:admin4_code":"8658020.0",
+    "gn:asciiname":"Namasale",
+    "gn:country_code":"UG",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228233,
+    "gn:latitude":1.48694,
+    "gn:longitude":32.62306,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Namasale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679799,
+        1092071719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228233
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"246231715eeb3b6ac8807edb9cd84d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071719,
+            "locality_id":1327149677,
+            "region_id":85679799
+        }
+    ],
+    "wof:id":1327149677,
+    "wof:lastmodified":1537085767,
+    "wof:name":"Namasale",
+    "wof:parent_id":1092071719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.62306,
+    1.48694,
+    32.62306,
+    1.48694
+],
+  "geometry": {"coordinates":[32.62306,1.48694],"type":"Point"}
+}

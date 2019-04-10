@@ -1,0 +1,64 @@
+{
+  "id": 1209329745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.00104,3.82039,33.00104,3.82039",
+    "geom:latitude":3.82039,
+    "geom:longitude":33.00104,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"G3",
+    "gn:admin3_code":"230209.0",
+    "gn:admin4_code":"8645940.0",
+    "gn:asciiname":"Palucire",
+    "gn:country_code":"UG",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8646190,
+    "gn:latitude":3.82039,
+    "gn:longitude":33.00104,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Palucire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646190
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b6b21cb9b73dc16242e4d18cf47eb851",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209329745
+        }
+    ],
+    "wof:id":1209329745,
+    "wof:lastmodified":1536290410,
+    "wof:name":"Palucire",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.00104,
+    3.82039,
+    33.00104,
+    3.82039
+],
+  "geometry": {"coordinates":[33.00104,3.82039],"type":"Point"}
+}

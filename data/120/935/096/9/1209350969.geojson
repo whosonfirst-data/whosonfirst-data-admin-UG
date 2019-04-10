@@ -1,0 +1,65 @@
+{
+  "id": 1209350969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.00726,0.92444,34.00726,0.92444",
+    "geom:latitude":0.92444,
+    "geom:longitude":34.00726,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C6",
+    "gn:asciiname":"Doho",
+    "gn:country_code":"UG",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433663,
+    "gn:latitude":0.92444,
+    "gn:longitude":34.00726,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Doho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Doho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433663
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"13990bbf47d3c2197f879c934d3af95b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209350969
+        }
+    ],
+    "wof:id":1209350969,
+    "wof:lastmodified":1537712173,
+    "wof:name":"Doho",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.00726,
+    0.92444,
+    34.00726,
+    0.92444
+],
+  "geometry": {"coordinates":[34.00726,0.92444],"type":"Point"}
+}

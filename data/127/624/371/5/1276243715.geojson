@@ -1,0 +1,70 @@
+{
+  "id": 1276243715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.5,2.4,33.5,2.4",
+    "geom:latitude":2.4,
+    "geom:longitude":33.5,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"8644128.0",
+    "gn:admin4_code":"8657913.0",
+    "gn:asciiname":"Olilim",
+    "gn:country_code":"UG",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227097,
+    "gn:latitude":2.4,
+    "gn:longitude":33.5,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Olilim",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680165,
+        1092073413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227097
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"03ebf350add88cacfea5f23cf58b5f35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073413,
+            "locality_id":1276243715,
+            "region_id":85680165
+        }
+    ],
+    "wof:id":1276243715,
+    "wof:lastmodified":1536898659,
+    "wof:name":"Olilim",
+    "wof:parent_id":1092073413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.5,
+    2.4,
+    33.5,
+    2.4
+],
+  "geometry": {"coordinates":[33.5,2.4],"type":"Point"}
+}

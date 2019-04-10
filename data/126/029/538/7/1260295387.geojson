@@ -1,0 +1,74 @@
+{
+  "id": 1260295387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93366,2.94706,30.93366,2.94706",
+    "geom:latitude":2.94706,
+    "geom:longitude":30.93366,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"226029.0",
+    "gn:admin4_code":"8657975.0",
+    "gn:asciiname":"Kuluva",
+    "gn:country_code":"UG",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230590,
+    "gn:latitude":2.94706,
+    "gn:longitude":30.93366,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kuluva",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuluva Leper Settlement",
+        "Kuluva"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679837,
+        1092074259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230590
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9f3b03d008c0f339d06185daa5431ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074259,
+            "locality_id":1260295387,
+            "region_id":85679837
+        }
+    ],
+    "wof:id":1260295387,
+    "wof:lastmodified":1537712081,
+    "wof:name":"Kuluva",
+    "wof:parent_id":1092074259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93366,
+    2.94706,
+    30.93366,
+    2.94706
+],
+  "geometry": {"coordinates":[30.93366,2.94706],"type":"Point"}
+}

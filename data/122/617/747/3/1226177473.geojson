@@ -1,0 +1,68 @@
+{
+  "id": 1226177473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.21285,0.46511,32.21285,0.46511",
+    "geom:latitude":0.46511,
+    "geom:longitude":32.21285,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:asciiname":"Kikoko",
+    "gn:country_code":"UG",
+    "gn:dem":1156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11551815,
+    "gn:latitude":0.46511,
+    "gn:longitude":32.21285,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kikoko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11551815
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2e93245ca25490129d3494176b6dde3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1226177473,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1226177473,
+    "wof:lastmodified":1537030618,
+    "wof:name":"Kikoko",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.21285,
+    0.46511,
+    32.21285,
+    0.46511
+],
+  "geometry": {"coordinates":[32.21285,0.46511],"type":"Point"}
+}

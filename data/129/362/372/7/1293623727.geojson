@@ -1,0 +1,74 @@
+{
+  "id": 1293623727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.21904,0.93209,34.21904,0.93209",
+    "geom:latitude":0.93209,
+    "geom:longitude":34.21904,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"87",
+    "gn:admin3_code":"7732903.0",
+    "gn:admin4_code":"8658050.0",
+    "gn:asciiname":"Lukhonge",
+    "gn:country_code":"UG",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229868,
+    "gn:latitude":0.93209,
+    "gn:longitude":34.21904,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Lukhonge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lukonge",
+        "Lukhonge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679965,
+        1092069563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229868
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"63526a3459c915be9a1ce3215addbdac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069563,
+            "locality_id":1293623727,
+            "region_id":85679965
+        }
+    ],
+    "wof:id":1293623727,
+    "wof:lastmodified":1537712078,
+    "wof:name":"Lukhonge",
+    "wof:parent_id":1092069563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.21904,
+    0.93209,
+    34.21904,
+    0.93209
+],
+  "geometry": {"coordinates":[34.21904,0.93209],"type":"Point"}
+}

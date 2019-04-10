@@ -1,0 +1,70 @@
+{
+  "id": 1309748757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8575,-1.05722,29.8575,-1.05722",
+    "geom:latitude":-1.05722,
+    "geom:longitude":29.8575,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"82",
+    "gn:admin3_code":"7732525.0",
+    "gn:admin4_code":"8657786.0",
+    "gn:asciiname":"Rutenga",
+    "gn:country_code":"UG",
+    "gn:dem":1943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226560,
+    "gn:latitude":-1.05722,
+    "gn:longitude":29.8575,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rutenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680073,
+        1092073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226560
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"098697bf30e0b8ea8276a9dbd81b9d45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073673,
+            "locality_id":1309748757,
+            "region_id":85680073
+        }
+    ],
+    "wof:id":1309748757,
+    "wof:lastmodified":1537012587,
+    "wof:name":"Rutenga",
+    "wof:parent_id":1092073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8575,
+    -1.05722,
+    29.8575,
+    -1.05722
+],
+  "geometry": {"coordinates":[29.8575,-1.05722],"type":"Point"}
+}

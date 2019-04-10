@@ -1,0 +1,70 @@
+{
+  "id": 1293031673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.56056,0.75583,32.56056,0.75583",
+    "geom:latitude":0.75583,
+    "geom:longitude":32.56056,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"8644176.0",
+    "gn:admin4_code":"8657634.0",
+    "gn:asciiname":"Luwube",
+    "gn:country_code":"UG",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229744,
+    "gn:latitude":0.75583,
+    "gn:longitude":32.56056,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Luwube",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679881,
+        1092071399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229744
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"47d5a75998a081dec17a70587e32a2ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071399,
+            "locality_id":1293031673,
+            "region_id":85679881
+        }
+    ],
+    "wof:id":1293031673,
+    "wof:lastmodified":1536947665,
+    "wof:name":"Luwube",
+    "wof:parent_id":1092071399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.56056,
+    0.75583,
+    32.56056,
+    0.75583
+],
+  "geometry": {"coordinates":[32.56056,0.75583],"type":"Point"}
+}

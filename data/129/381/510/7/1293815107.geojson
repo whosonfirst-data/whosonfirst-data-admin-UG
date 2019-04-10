@@ -1,0 +1,68 @@
+{
+  "id": 1293815107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.94067,0.52262,33.94067,0.52262",
+    "geom:latitude":0.52262,
+    "geom:longitude":33.94067,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"67",
+    "gn:asciiname":"Nawanga",
+    "gn:country_code":"UG",
+    "gn:dem":1156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429497,
+    "gn:latitude":0.52262,
+    "gn:longitude":33.94067,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Nawanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679979,
+        1092073897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429497
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8a5c52da8a99e9ed0a9c3f4660d94435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073897,
+            "locality_id":1293815107,
+            "region_id":85679979
+        }
+    ],
+    "wof:id":1293815107,
+    "wof:lastmodified":1536811380,
+    "wof:name":"Nawanga",
+    "wof:parent_id":1092073897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.94067,
+    0.52262,
+    33.94067,
+    0.52262
+],
+  "geometry": {"coordinates":[33.94067,0.52262],"type":"Point"}
+}

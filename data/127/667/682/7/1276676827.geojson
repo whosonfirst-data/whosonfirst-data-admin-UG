@@ -1,0 +1,73 @@
+{
+  "id": 1276676827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.80517,3.48388,31.80517,3.48388",
+    "geom:latitude":3.48388,
+    "geom:longitude":31.80517,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"8644133.0",
+    "gn:admin4_code":"8657987.0",
+    "gn:asciiname":"Nyeu",
+    "gn:country_code":"UG",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448347,
+    "gn:latitude":3.48388,
+    "gn:longitude":31.80517,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nyeu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679833,
+        1092070471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448347
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"da3d9d91f93e5f93be1ba2a4cf4a4a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070471,
+            "locality_id":1276676827,
+            "region_id":85679833
+        }
+    ],
+    "wof:id":1276676827,
+    "wof:lastmodified":1537712114,
+    "wof:name":"Nyeu",
+    "wof:parent_id":1092070471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.80517,
+    3.48388,
+    31.80517,
+    3.48388
+],
+  "geometry": {"coordinates":[31.80517,3.48388],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343780825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.80185,2.11515,34.80185,2.11515",
+    "geom:latitude":2.11515,
+    "geom:longitude":34.80185,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"E5",
+    "gn:admin3_code":"8644147.0",
+    "gn:admin4_code":"8657656.0",
+    "gn:asciiname":"Achorchor",
+    "gn:country_code":"UG",
+    "gn:dem":1303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237540,
+    "gn:latitude":2.11515,
+    "gn:longitude":34.80185,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Achorchor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680209,
+        1092073601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237540
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6def0c29bf3fc9fe63be79e022257490",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073601,
+            "locality_id":1343780825,
+            "region_id":85680209
+        }
+    ],
+    "wof:id":1343780825,
+    "wof:lastmodified":1536782098,
+    "wof:name":"Achorchor",
+    "wof:parent_id":1092073601,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.80185,
+    2.11515,
+    34.80185,
+    2.11515
+],
+  "geometry": {"coordinates":[34.80185,2.11515],"type":"Point"}
+}

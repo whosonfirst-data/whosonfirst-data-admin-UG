@@ -1,0 +1,73 @@
+{
+  "id": 1277012819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.11453,0.75666,30.11453,0.75666",
+    "geom:latitude":0.75666,
+    "geom:longitude":30.11453,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"8644162.0",
+    "gn:admin4_code":"8657616.0",
+    "gn:asciiname":"Buyayu",
+    "gn:country_code":"UG",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233847,
+    "gn:latitude":0.75666,
+    "gn:longitude":30.11453,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Buyayu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buyayu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092074383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233847
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"db70bc0eab82dbf50e7ab2e9fa00e0c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074383,
+            "locality_id":1277012819,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1277012819,
+    "wof:lastmodified":1537712096,
+    "wof:name":"Buyayu",
+    "wof:parent_id":1092074383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.11453,
+    0.75666,
+    30.11453,
+    0.75666
+],
+  "geometry": {"coordinates":[30.11453,0.75666],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343497101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.56674,1.77479,33.56674,1.77479",
+    "geom:latitude":1.77479,
+    "geom:longitude":33.56674,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"95",
+    "gn:asciiname":"Obityo",
+    "gn:country_code":"UG",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11497914,
+    "gn:latitude":1.77479,
+    "gn:longitude":33.56674,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Obityo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679813,
+        1092074055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11497914
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"98d2d4274b75f3e5bccdc17bc4b96940",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074055,
+            "locality_id":1343497101,
+            "region_id":85679813
+        }
+    ],
+    "wof:id":1343497101,
+    "wof:lastmodified":1536693461,
+    "wof:name":"Obityo",
+    "wof:parent_id":1092074055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.56674,
+    1.77479,
+    33.56674,
+    1.77479
+],
+  "geometry": {"coordinates":[33.56674,1.77479],"type":"Point"}
+}

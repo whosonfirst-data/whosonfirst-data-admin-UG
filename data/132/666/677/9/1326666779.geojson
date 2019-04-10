@@ -1,0 +1,74 @@
+{
+  "id": 1326666779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.25,1.46667,33.25,1.46667",
+    "geom:latitude":1.46667,
+    "geom:longitude":33.25,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"H5",
+    "gn:admin3_code":"8644174.0",
+    "gn:admin4_code":"8658240.0",
+    "gn:asciiname":"Laboli",
+    "gn:country_code":"UG",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230251,
+    "gn:latitude":1.46667,
+    "gn:longitude":33.25,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Laboli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Labori",
+        "Laboli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680119,
+        1092071333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230251
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"14318d417bfa12b4c3ae2781a032792b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071333,
+            "locality_id":1326666779,
+            "region_id":85680119
+        }
+    ],
+    "wof:id":1326666779,
+    "wof:lastmodified":1537712079,
+    "wof:name":"Laboli",
+    "wof:parent_id":1092071333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.25,
+    1.46667,
+    33.25,
+    1.46667
+],
+  "geometry": {"coordinates":[33.25,1.46667],"type":"Point"}
+}

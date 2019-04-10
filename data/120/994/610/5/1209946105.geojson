@@ -1,0 +1,68 @@
+{
+  "id": 1209946105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.02224,0.81309,33.02224,0.81309",
+    "geom:latitude":0.81309,
+    "geom:longitude":33.02224,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"83",
+    "gn:asciiname":"Nabuganyi",
+    "gn:country_code":"UG",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552975,
+    "gn:latitude":0.81309,
+    "gn:longitude":33.02224,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Nabuganyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679787,
+        1092073141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552975
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ccd7da610badca3e59f4a4376b42fabb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073141,
+            "locality_id":1209946105,
+            "region_id":85679787
+        }
+    ],
+    "wof:id":1209946105,
+    "wof:lastmodified":1536386306,
+    "wof:name":"Nabuganyi",
+    "wof:parent_id":1092073141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.02224,
+    0.81309,
+    33.02224,
+    0.81309
+],
+  "geometry": {"coordinates":[33.02224,0.81309],"type":"Point"}
+}

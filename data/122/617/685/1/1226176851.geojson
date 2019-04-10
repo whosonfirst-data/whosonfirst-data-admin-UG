@@ -1,0 +1,70 @@
+{
+  "id": 1226176851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2875,0.60472,30.2875,0.60472",
+    "geom:latitude":0.60472,
+    "geom:longitude":30.2875,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"79",
+    "gn:admin3_code":"7732254.0",
+    "gn:admin4_code":"8657967.0",
+    "gn:asciiname":"Kigarama",
+    "gn:country_code":"UG",
+    "gn:dem":1503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231458,
+    "gn:latitude":0.60472,
+    "gn:longitude":30.2875,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kigarama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231458
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e9fff917a1e3c35b2e1f6b4d72bf37c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069721,
+            "locality_id":1226176851,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1226176851,
+    "wof:lastmodified":1537031490,
+    "wof:name":"Kigarama",
+    "wof:parent_id":1092069721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2875,
+    0.60472,
+    30.2875,
+    0.60472
+],
+  "geometry": {"coordinates":[30.2875,0.60472],"type":"Point"}
+}

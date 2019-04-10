@@ -1,0 +1,70 @@
+{
+  "id": 1243473173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.01635,2.45003,31.01635,2.45003",
+    "geom:latitude":2.45003,
+    "geom:longitude":31.01635,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"H7",
+    "gn:admin3_code":"227147.0",
+    "gn:admin4_code":"8261565.0",
+    "gn:asciiname":"Chana",
+    "gn:country_code":"UG",
+    "gn:dem":1366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8080330,
+    "gn:latitude":2.45003,
+    "gn:longitude":31.01635,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680085,
+        1092073339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8080330
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d1d7e04b4ea05ed34b42e9656ca81827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073339,
+            "locality_id":1243473173,
+            "region_id":85680085
+        }
+    ],
+    "wof:id":1243473173,
+    "wof:lastmodified":1536767437,
+    "wof:name":"Chana",
+    "wof:parent_id":1092073339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.01635,
+    2.45003,
+    31.01635,
+    2.45003
+],
+  "geometry": {"coordinates":[31.01635,2.45003],"type":"Point"}
+}

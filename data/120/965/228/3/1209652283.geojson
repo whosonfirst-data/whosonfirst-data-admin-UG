@@ -1,0 +1,64 @@
+{
+  "id": 1209652283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.76387,1.78192,31.76387,1.78192",
+    "geom:latitude":1.78192,
+    "geom:longitude":31.76387,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"8644129.0",
+    "gn:admin4_code":"8657823.0",
+    "gn:asciiname":"Katugo",
+    "gn:country_code":"UG",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8080197,
+    "gn:latitude":1.78192,
+    "gn:longitude":31.76387,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Katugo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8080197
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9d621e8577445eea5b47c34a115e3e5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209652283
+        }
+    ],
+    "wof:id":1209652283,
+    "wof:lastmodified":1536280542,
+    "wof:name":"Katugo",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.76387,
+    1.7819200000000002,
+    31.76387,
+    1.7819200000000002
+],
+  "geometry": {"coordinates":[31.76387,1.78192],"type":"Point"}
+}

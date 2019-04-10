@@ -1,0 +1,70 @@
+{
+  "id": 1259518499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.90874,0.98505,32.90874,0.98505",
+    "geom:latitude":0.98505,
+    "geom:longitude":32.90874,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"83",
+    "gn:admin3_code":"8644158.0",
+    "gn:admin4_code":"8657767.0",
+    "gn:asciiname":"Kanywero",
+    "gn:country_code":"UG",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11280095,
+    "gn:latitude":0.98505,
+    "gn:longitude":32.90874,
+    "gn:modification_date":"2016-10-14",
+    "gn:name":"Kanywero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679787,
+        1092068673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11280095
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"adb3305781f8fc6793e0175e3d794644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068673,
+            "locality_id":1259518499,
+            "region_id":85679787
+        }
+    ],
+    "wof:id":1259518499,
+    "wof:lastmodified":1536808146,
+    "wof:name":"Kanywero",
+    "wof:parent_id":1092068673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.90874,
+    0.98505,
+    32.90874,
+    0.98505
+],
+  "geometry": {"coordinates":[32.90874,0.98505],"type":"Point"}
+}

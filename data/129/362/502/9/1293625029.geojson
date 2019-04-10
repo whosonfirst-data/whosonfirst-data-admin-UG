@@ -1,0 +1,68 @@
+{
+  "id": 1293625029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.59794,0.68167,33.59794,0.68167",
+    "geom:latitude":0.68167,
+    "geom:longitude":33.59794,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"78",
+    "gn:asciiname":"Kiwanyi",
+    "gn:country_code":"UG",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429513,
+    "gn:latitude":0.68167,
+    "gn:longitude":33.59794,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Kiwanyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679789,
+        1092069033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429513
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4e2100dc6b885e7cc976d44a2f8aecb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069033,
+            "locality_id":1293625029,
+            "region_id":85679789
+        }
+    ],
+    "wof:id":1293625029,
+    "wof:lastmodified":1537082699,
+    "wof:name":"Kiwanyi",
+    "wof:parent_id":1092069033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.59794,
+    0.68167,
+    33.59794,
+    0.68167
+],
+  "geometry": {"coordinates":[33.59794,0.68167],"type":"Point"}
+}

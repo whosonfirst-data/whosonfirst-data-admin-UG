@@ -1,0 +1,70 @@
+{
+  "id": 1193046675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8,0.9,31.8,0.9",
+    "geom:latitude":0.9,
+    "geom:longitude":31.8,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"8644178.0",
+    "gn:admin4_code":"8658443.0",
+    "gn:asciiname":"Kagobe",
+    "gn:country_code":"UG",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232803,
+    "gn:latitude":0.9,
+    "gn:longitude":31.8,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kagobe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        1108808409,
+        1092071543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232803
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ad1b331a37a3c595333388478ccc31e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071543,
+            "locality_id":1193046675,
+            "region_id":1108808409
+        }
+    ],
+    "wof:id":1193046675,
+    "wof:lastmodified":1536370174,
+    "wof:name":"Kagobe",
+    "wof:parent_id":1092071543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8,
+    0.9,
+    31.8,
+    0.9
+],
+  "geometry": {"coordinates":[31.8,0.9],"type":"Point"}
+}

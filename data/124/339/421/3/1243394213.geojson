@@ -1,0 +1,71 @@
+{
+  "id": 1243394213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.43037,0.87004,30.43037,0.87004",
+    "geom:latitude":0.87004,
+    "geom:longitude":30.43037,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"79",
+    "gn:asciiname":"Kyaruhiga",
+    "gn:country_code":"UG",
+    "gn:dem":1487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401576,
+    "gn:latitude":0.87004,
+    "gn:longitude":30.43037,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Kyaruhiga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kyaruhiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401576
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f84cebd9dcb9f9cc04e33cd3ce7b7f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069721,
+            "locality_id":1243394213,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1243394213,
+    "wof:lastmodified":1537712140,
+    "wof:name":"Kyaruhiga",
+    "wof:parent_id":1092069721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.43037,
+    0.87004,
+    30.43037,
+    0.87004
+],
+  "geometry": {"coordinates":[30.43037,0.87004],"type":"Point"}
+}

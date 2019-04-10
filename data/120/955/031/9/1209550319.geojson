@@ -1,0 +1,64 @@
+{
+  "id": 1209550319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.71667,-0.26667,30.71667,-0.26667",
+    "geom:latitude":-0.26667,
+    "geom:longitude":30.71667,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"D3",
+    "gn:admin3_code":"7870011.0",
+    "gn:admin4_code":"8658586.0",
+    "gn:asciiname":"Kagando",
+    "gn:country_code":"UG",
+    "gn:dem":1324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232823,
+    "gn:latitude":-0.26667,
+    "gn:longitude":30.71667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kagando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232823
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"100c2d43314909a3386dea4f30078b21",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209550319
+        }
+    ],
+    "wof:id":1209550319,
+    "wof:lastmodified":1536283716,
+    "wof:name":"Kagando",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.71667,
+    -0.26667,
+    30.71667,
+    -0.26667
+],
+  "geometry": {"coordinates":[30.71667,-0.26667],"type":"Point"}
+}

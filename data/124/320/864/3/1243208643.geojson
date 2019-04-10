@@ -1,0 +1,70 @@
+{
+  "id": 1243208643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.56667,-0.11667,30.56667,-0.11667",
+    "geom:latitude":-0.11667,
+    "geom:longitude":30.56667,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"C8",
+    "gn:admin3_code":"7732900.0",
+    "gn:admin4_code":"8642900.0",
+    "gn:asciiname":"Rwomuhoro",
+    "gn:country_code":"UG",
+    "gn:dem":1311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226439,
+    "gn:latitude":-0.11667,
+    "gn:longitude":30.56667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rwomuhoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680047,
+        1092070677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226439
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e1b88a385ed70c468aabf1fa2760bca6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070677,
+            "locality_id":1243208643,
+            "region_id":85680047
+        }
+    ],
+    "wof:id":1243208643,
+    "wof:lastmodified":1536651231,
+    "wof:name":"Rwomuhoro",
+    "wof:parent_id":1092070677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.56667,
+    -0.11667,
+    30.56667,
+    -0.11667
+],
+  "geometry": {"coordinates":[30.56667,-0.11667],"type":"Point"}
+}

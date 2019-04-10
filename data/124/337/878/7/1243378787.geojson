@@ -1,0 +1,76 @@
+{
+  "id": 1243378787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.78855,1.7135,32.78855,1.7135",
+    "geom:latitude":1.7135,
+    "geom:longitude":32.78855,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B7",
+    "gn:admin3_code":"231170.0",
+    "gn:admin4_code":"8658553.0",
+    "gn:asciiname":"Akongmit",
+    "gn:country_code":"UG",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":235336,
+    "gn:latitude":1.7135,
+    "gn:longitude":32.78855,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Akongmit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Akongmit"
+    ],
+    "name:und_x_variant":[
+        "Akongomit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679799,
+        1092071719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235336
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e627d2917a9ee2ad34b9d56a7dd625ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071719,
+            "locality_id":1243378787,
+            "region_id":85679799
+        }
+    ],
+    "wof:id":1243378787,
+    "wof:lastmodified":1537712110,
+    "wof:name":"Akongmit",
+    "wof:parent_id":1092071719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.78855,
+    1.7135,
+    32.78855,
+    1.7135
+],
+  "geometry": {"coordinates":[32.78855,1.7135],"type":"Point"}
+}

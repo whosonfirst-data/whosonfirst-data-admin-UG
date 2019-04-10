@@ -1,0 +1,70 @@
+{
+  "id": 1260321629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.72711,1.6922,33.72711,1.6922",
+    "geom:latitude":1.6922,
+    "geom:longitude":33.72711,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"95",
+    "gn:admin3_code":"226232.0",
+    "gn:admin4_code":"8658004.0",
+    "gn:asciiname":"Aberete",
+    "gn:country_code":"UG",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235583,
+    "gn:latitude":1.6922,
+    "gn:longitude":33.72711,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Aberete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679813,
+        1092074055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235583
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"789cc0992bfa99cf63db3d698a6a0a45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074055,
+            "locality_id":1260321629,
+            "region_id":85679813
+        }
+    ],
+    "wof:id":1260321629,
+    "wof:lastmodified":1536660756,
+    "wof:name":"Aberete",
+    "wof:parent_id":1092074055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.72711,
+    1.6922,
+    33.72711,
+    1.6922
+],
+  "geometry": {"coordinates":[33.72711,1.6922],"type":"Point"}
+}

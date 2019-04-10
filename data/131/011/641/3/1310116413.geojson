@@ -1,0 +1,70 @@
+{
+  "id": 1310116413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1436,3.00196,32.1436,3.00196",
+    "geom:latitude":3.00196,
+    "geom:longitude":32.1436,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B9",
+    "gn:admin3_code":"231253.0",
+    "gn:admin4_code":"8629919.0",
+    "gn:asciiname":"Pabo",
+    "gn:country_code":"UG",
+    "gn:dem":1040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226872,
+    "gn:latitude":3.00196,
+    "gn:longitude":32.1436,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680139,
+        1092071643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226872
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"56ee871945c03b5ba1b087ba199e36fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071643,
+            "locality_id":1310116413,
+            "region_id":85680139
+        }
+    ],
+    "wof:id":1310116413,
+    "wof:lastmodified":1536979991,
+    "wof:name":"Pabo",
+    "wof:parent_id":1092071643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1436,
+    3.00196,
+    32.1436,
+    3.00196
+],
+  "geometry": {"coordinates":[32.1436,3.00196],"type":"Point"}
+}

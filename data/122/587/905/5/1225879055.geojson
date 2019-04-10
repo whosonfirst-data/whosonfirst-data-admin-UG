@@ -1,0 +1,68 @@
+{
+  "id": 1225879055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.68018,1.96469,33.68018,1.96469",
+    "geom:latitude":1.96469,
+    "geom:longitude":33.68018,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"B8",
+    "gn:asciiname":"Atiriri",
+    "gn:country_code":"UG",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11497902,
+    "gn:latitude":1.96469,
+    "gn:longitude":33.68018,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Atiriri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680003,
+        1092068395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11497902
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"95be76c991e05496e26b4e5c2d54a291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068395,
+            "locality_id":1225879055,
+            "region_id":85680003
+        }
+    ],
+    "wof:id":1225879055,
+    "wof:lastmodified":1536965434,
+    "wof:name":"Atiriri",
+    "wof:parent_id":1092068395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.68018,
+    1.96469,
+    33.68018,
+    1.96469
+],
+  "geometry": {"coordinates":[33.68018,1.96469],"type":"Point"}
+}

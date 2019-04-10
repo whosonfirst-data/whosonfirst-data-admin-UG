@@ -1,0 +1,73 @@
+{
+  "id": 1242708761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.99618,0.32594,33.99618,0.32594",
+    "geom:latitude":0.32594,
+    "geom:longitude":33.99618,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"67",
+    "gn:admin3_code":"8644151.0",
+    "gn:admin4_code":"8658207.0",
+    "gn:asciiname":"Lumino",
+    "gn:country_code":"UG",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229815,
+    "gn:latitude":0.32594,
+    "gn:longitude":33.99618,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Lumino",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lumino"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679979,
+        1092073897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229815
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b4d8dcbd36238e5e3fe14daa053e2511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073897,
+            "locality_id":1242708761,
+            "region_id":85679979
+        }
+    ],
+    "wof:id":1242708761,
+    "wof:lastmodified":1537712077,
+    "wof:name":"Lumino",
+    "wof:parent_id":1092073897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.99618,
+    0.32594,
+    33.99618,
+    0.32594
+],
+  "geometry": {"coordinates":[33.99618,0.32594],"type":"Point"}
+}

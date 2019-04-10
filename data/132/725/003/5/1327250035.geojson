@@ -1,0 +1,70 @@
+{
+  "id": 1327250035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.25158,2.7657,32.25158,2.7657",
+    "geom:latitude":2.7657,
+    "geom:longitude":32.25158,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"7732227.0",
+    "gn:admin4_code":"8658160.0",
+    "gn:asciiname":"Katikati",
+    "gn:country_code":"UG",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8196485,
+    "gn:latitude":2.7657,
+    "gn:longitude":32.25158,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Katikati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679905,
+        1092070633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8196485
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a07cb2ca79adccec73507f57cef97dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070633,
+            "locality_id":1327250035,
+            "region_id":85679905
+        }
+    ],
+    "wof:id":1327250035,
+    "wof:lastmodified":1536944552,
+    "wof:name":"Katikati",
+    "wof:parent_id":1092070633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.25158,
+    2.7657,
+    32.25158,
+    2.7657
+],
+  "geometry": {"coordinates":[32.25158,2.7657],"type":"Point"}
+}

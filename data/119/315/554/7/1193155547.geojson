@@ -1,0 +1,70 @@
+{
+  "id": 1193155547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.18254,2.442,31.18254,2.442",
+    "geom:latitude":2.442,
+    "geom:longitude":31.18254,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"8080237.0",
+    "gn:admin4_code":"8261562.0",
+    "gn:asciiname":"Ageno",
+    "gn:country_code":"UG",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8080254,
+    "gn:latitude":2.442,
+    "gn:longitude":31.18254,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ageno",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679849,
+        1092073489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8080254
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"13ee8a86838e4c518094776397916e7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073489,
+            "locality_id":1193155547,
+            "region_id":85679849
+        }
+    ],
+    "wof:id":1193155547,
+    "wof:lastmodified":1536373628,
+    "wof:name":"Ageno",
+    "wof:parent_id":1092073489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.18254,
+    2.442,
+    31.18254,
+    2.442
+],
+  "geometry": {"coordinates":[31.18254,2.442],"type":"Point"}
+}

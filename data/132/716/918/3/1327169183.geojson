@@ -1,0 +1,70 @@
+{
+  "id": 1327169183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76986,0.98975,30.76986,0.98975",
+    "geom:latitude":0.98975,
+    "geom:longitude":30.76986,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"I1",
+    "gn:admin3_code":"233860.0",
+    "gn:admin4_code":"8658340.0",
+    "gn:asciiname":"Galiboleka",
+    "gn:country_code":"UG",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204071,
+    "gn:latitude":0.98975,
+    "gn:longitude":30.76986,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Galiboleka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679947,
+        1092070183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204071
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"cca326ddcaee56caf325295a9d87297b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070183,
+            "locality_id":1327169183,
+            "region_id":85679947
+        }
+    ],
+    "wof:id":1327169183,
+    "wof:lastmodified":1537058331,
+    "wof:name":"Galiboleka",
+    "wof:parent_id":1092070183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76986,
+    0.98975,
+    30.76986,
+    0.98975
+],
+  "geometry": {"coordinates":[30.76986,0.98975],"type":"Point"}
+}

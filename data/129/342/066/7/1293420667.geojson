@@ -1,0 +1,73 @@
+{
+  "id": 1293420667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1168,0.24838,33.1168,0.24838",
+    "geom:latitude":0.24838,
+    "geom:longitude":33.1168,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E7",
+    "gn:admin3_code":"7732075.0",
+    "gn:admin4_code":"8658507.0",
+    "gn:asciiname":"Kafumbi Forest Reserve",
+    "gn:country_code":"UG",
+    "gn:dem":1175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11356783,
+    "gn:latitude":0.24838,
+    "gn:longitude":33.1168,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Kafumbi Forest Reserve",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kafumbi Forest Reserve"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680121,
+        1092069145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11356783
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"44c4fd5677ecaa7ccadb7127bf421cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069145,
+            "locality_id":1293420667,
+            "region_id":85680121
+        }
+    ],
+    "wof:id":1293420667,
+    "wof:lastmodified":1537712138,
+    "wof:name":"Kafumbi Forest Reserve",
+    "wof:parent_id":1092069145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1168,
+    0.24838,
+    33.1168,
+    0.24838
+],
+  "geometry": {"coordinates":[33.1168,0.24838],"type":"Point"}
+}

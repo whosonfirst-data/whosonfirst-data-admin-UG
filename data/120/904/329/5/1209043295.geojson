@@ -1,0 +1,64 @@
+{
+  "id": 1209043295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.05,1.6,34.05,1.6",
+    "geom:latitude":1.6,
+    "geom:longitude":34.05,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"7732907.0",
+    "gn:admin4_code":"8658068.0",
+    "gn:asciiname":"Kide",
+    "gn:country_code":"UG",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231498,
+    "gn:latitude":1.6,
+    "gn:longitude":34.05,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kide",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231498
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"df894569084d481149182e50e4554cda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209043295
+        }
+    ],
+    "wof:id":1209043295,
+    "wof:lastmodified":1536299475,
+    "wof:name":"Kide",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.05,
+    1.6,
+    34.05,
+    1.6
+],
+  "geometry": {"coordinates":[34.05,1.6],"type":"Point"}
+}

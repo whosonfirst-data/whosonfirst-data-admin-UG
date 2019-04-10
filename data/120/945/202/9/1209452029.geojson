@@ -1,0 +1,64 @@
+{
+  "id": 1209452029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.586,0.205,30.586,0.205",
+    "geom:latitude":0.205,
+    "geom:longitude":30.586,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"81",
+    "gn:admin3_code":"231608.0",
+    "gn:admin4_code":"8657565.0",
+    "gn:asciiname":"Rwamwanja Refugee Settlement",
+    "gn:country_code":"UG",
+    "gn:dem":1252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11189150,
+    "gn:latitude":0.205,
+    "gn:longitude":30.586,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Rwamwanja Refugee Settlement",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189150
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8d1c1aa5b27619a489bee2ab70de1d08",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209452029
+        }
+    ],
+    "wof:id":1209452029,
+    "wof:lastmodified":1536286643,
+    "wof:name":"Rwamwanja Refugee Settlement",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.586,
+    0.205,
+    30.586,
+    0.205
+],
+  "geometry": {"coordinates":[30.586,0.205],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1193054089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.92638,0.22728,32.92638,0.22728",
+    "geom:latitude":0.22728,
+    "geom:longitude":32.92638,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E7",
+    "gn:admin3_code":"7732075.0",
+    "gn:admin4_code":"8658514.0",
+    "gn:asciiname":"Nsube",
+    "gn:country_code":"UG",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11357599,
+    "gn:latitude":0.22728,
+    "gn:longitude":32.92638,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Nsube",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680121,
+        1092069145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11357599
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ff232e62907e70b88c3b03c00e665a53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069145,
+            "locality_id":1193054089,
+            "region_id":85680121
+        }
+    ],
+    "wof:id":1193054089,
+    "wof:lastmodified":1536363924,
+    "wof:name":"Nsube",
+    "wof:parent_id":1092069145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.92638,
+    0.22728,
+    32.92638,
+    0.22728
+],
+  "geometry": {"coordinates":[32.92638,0.22728],"type":"Point"}
+}

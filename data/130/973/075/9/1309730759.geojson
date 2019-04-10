@@ -1,0 +1,73 @@
+{
+  "id": 1309730759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.09898,3.06394,31.09898,3.06394",
+    "geom:latitude":3.06394,
+    "geom:longitude":31.09898,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"226158.0",
+    "gn:admin4_code":"8658459.0",
+    "gn:asciiname":"Wanica",
+    "gn:country_code":"UG",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":225921,
+    "gn:latitude":3.06394,
+    "gn:longitude":31.09898,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wanica",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wandica"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679861,
+        1092074097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":225921
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1b8ebf3913f501d5e6b7d2d1cf10af18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074097,
+            "locality_id":1309730759,
+            "region_id":85679861
+        }
+    ],
+    "wof:id":1309730759,
+    "wof:lastmodified":1537712052,
+    "wof:name":"Wanica",
+    "wof:parent_id":1092074097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.09898,
+    3.06394,
+    31.09898,
+    3.06394
+],
+  "geometry": {"coordinates":[31.09898,3.06394],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209346003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4,-0.05,30.4,-0.05",
+    "geom:latitude":-0.05,
+    "geom:longitude":30.4,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"81",
+    "gn:admin3_code":"7732901.0",
+    "gn:admin4_code":"8657792.0",
+    "gn:asciiname":"Rumbaire",
+    "gn:country_code":"UG",
+    "gn:dem":1409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226597,
+    "gn:latitude":-0.05,
+    "gn:longitude":30.4,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rumbaire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226597
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"cc3b600131562bfa41d19585bfcad11a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209346003
+        }
+    ],
+    "wof:id":1209346003,
+    "wof:lastmodified":1536289910,
+    "wof:name":"Rumbaire",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4,
+    -0.05,
+    30.4,
+    -0.05
+],
+  "geometry": {"coordinates":[30.4,-0.05],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293031711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8553,0.95897,31.8553,0.95897",
+    "geom:latitude":0.95897,
+    "geom:longitude":31.8553,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"8644178.0",
+    "gn:admin4_code":"8658443.0",
+    "gn:asciiname":"Kapeke",
+    "gn:country_code":"UG",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629162,
+    "gn:latitude":0.95897,
+    "gn:longitude":31.8553,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kapeke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        1108808409,
+        1092071543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629162
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2bf717752f7b7c4748e79087c825bba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071543,
+            "locality_id":1293031711,
+            "region_id":1108808409
+        }
+    ],
+    "wof:id":1293031711,
+    "wof:lastmodified":1536947612,
+    "wof:name":"Kapeke",
+    "wof:parent_id":1092071543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8553,
+    0.95897,
+    31.8553,
+    0.95897
+],
+  "geometry": {"coordinates":[31.8553,0.95897],"type":"Point"}
+}

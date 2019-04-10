@@ -1,0 +1,70 @@
+{
+  "id": 1326648845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.10704,1.70166,32.10704,1.70166",
+    "geom:latitude":1.70166,
+    "geom:longitude":32.10704,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"26",
+    "gn:admin3_code":"229387.0",
+    "gn:admin4_code":"8261612.0",
+    "gn:asciiname":"Maiyuge",
+    "gn:country_code":"UG",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229484,
+    "gn:latitude":1.70166,
+    "gn:longitude":32.10704,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Maiyuge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680151,
+        1092072551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229484
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ee9a0639d1833ae8747720229c10d901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072551,
+            "locality_id":1326648845,
+            "region_id":85680151
+        }
+    ],
+    "wof:id":1326648845,
+    "wof:lastmodified":1536815159,
+    "wof:name":"Maiyuge",
+    "wof:parent_id":1092072551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.10704,
+    1.70166,
+    32.10704,
+    1.70166
+],
+  "geometry": {"coordinates":[32.10704,1.70166],"type":"Point"}
+}

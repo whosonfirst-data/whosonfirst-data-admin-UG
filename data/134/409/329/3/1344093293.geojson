@@ -1,0 +1,70 @@
+{
+  "id": 1344093293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86667,1.23333,30.86667,1.23333",
+    "geom:latitude":1.23333,
+    "geom:longitude":30.86667,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"8644163.0",
+    "gn:admin4_code":"8657663.0",
+    "gn:asciiname":"Ngogole",
+    "gn:country_code":"UG",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227870,
+    "gn:latitude":1.23333,
+    "gn:longitude":30.86667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ngogole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679933,
+        1092069075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227870
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d374b5eec5476268f4ddb66227f9b7b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069075,
+            "locality_id":1344093293,
+            "region_id":85679933
+        }
+    ],
+    "wof:id":1344093293,
+    "wof:lastmodified":1536827241,
+    "wof:name":"Ngogole",
+    "wof:parent_id":1092069075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86667000000001,
+    1.23333,
+    30.86667000000001,
+    1.23333
+],
+  "geometry": {"coordinates":[30.86667000000001,1.23333],"type":"Point"}
+}

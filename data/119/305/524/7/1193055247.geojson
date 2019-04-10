@@ -1,0 +1,73 @@
+{
+  "id": 1193055247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.23713,0.78996,30.23713,0.78996",
+    "geom:latitude":0.78996,
+    "geom:longitude":30.23713,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"H1",
+    "gn:admin3_code":"8644154.0",
+    "gn:admin4_code":"8657653.0",
+    "gn:asciiname":"Nyabusokoma",
+    "gn:country_code":"UG",
+    "gn:dem":1005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227537,
+    "gn:latitude":0.78996,
+    "gn:longitude":30.23713,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Nyabusokoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyabusokoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680179,
+        1092073179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227537
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"431164a903d3cce30cead299d55207c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073179,
+            "locality_id":1193055247,
+            "region_id":85680179
+        }
+    ],
+    "wof:id":1193055247,
+    "wof:lastmodified":1537712066,
+    "wof:name":"Nyabusokoma",
+    "wof:parent_id":1092073179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.23713,
+    0.78996,
+    30.23713,
+    0.78996
+],
+  "geometry": {"coordinates":[30.23713,0.78996],"type":"Point"}
+}

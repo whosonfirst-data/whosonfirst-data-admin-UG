@@ -1,0 +1,64 @@
+{
+  "id": 1209137287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.55,1.31667,32.55,1.31667",
+    "geom:latitude":1.31667,
+    "geom:longitude":32.55,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"73",
+    "gn:admin3_code":"234123.0",
+    "gn:admin4_code":"8657605.0",
+    "gn:asciiname":"Mbalye",
+    "gn:country_code":"UG",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229272,
+    "gn:latitude":1.31667,
+    "gn:longitude":32.55,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mbalye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229272
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"23e224765d097945548eb3a2e844cc43",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209137287
+        }
+    ],
+    "wof:id":1209137287,
+    "wof:lastmodified":1536296620,
+    "wof:name":"Mbalye",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.55,
+    1.31667,
+    32.55,
+    1.31667
+],
+  "geometry": {"coordinates":[32.55,1.31667],"type":"Point"}
+}

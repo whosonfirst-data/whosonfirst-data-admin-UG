@@ -1,0 +1,84 @@
+{
+  "id": 421187509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.53639,0.3775,32.53639,0.3775",
+    "geom:latitude":0.3775,
+    "geom:longitude":32.53639,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Kawanda"
+    ],
+    "name:lug_x_preferred":[
+        "Kawanda"
+    ],
+    "qs:gn_country":"UG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":231767,
+    "qs:gn_pop":0,
+    "qs:name":"Kawanda",
+    "qs:name_adm0":"Uganda",
+    "qs:name_adm1":"Wakiso",
+    "qs:photos":360,
+    "qs:photos_1k":73,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":360,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083599,
+    "qs:woe_adm0":23424974,
+    "qs:woe_id":1452346,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":327,
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679879,
+        1092072041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231767,
+        "gp:id":1452346,
+        "qs:id":1083599,
+        "wd:id":"Q24054209"
+    },
+    "wof:country":"UG",
+    "wof:created":1459009515,
+    "wof:geomhash":"72f57597ab0bf0937de8932a818834fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072041,
+            "locality_id":421187509,
+            "region_id":85679879
+        }
+    ],
+    "wof:id":421187509,
+    "wof:lastmodified":1527716249,
+    "wof:name":"Kawanda",
+    "wof:parent_id":1092072041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.53639,
+    0.3775,
+    32.53639,
+    0.3775
+],
+  "geometry": {"coordinates":[32.53639,0.3775],"type":"Point"}
+}

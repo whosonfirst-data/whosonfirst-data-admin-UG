@@ -1,0 +1,70 @@
+{
+  "id": 1276581063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.74659,1.62338,31.74659,1.62338",
+    "geom:latitude":1.62338,
+    "geom:longitude":31.74659,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"8644149.0",
+    "gn:admin4_code":"8657640.0",
+    "gn:asciiname":"Kyembwe",
+    "gn:country_code":"UG",
+    "gn:dem":1139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077885,
+    "gn:latitude":1.62338,
+    "gn:longitude":31.74659,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyembwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092069799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077885
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2642a9f0585cb1c130ef0cd81eb95296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069799,
+            "locality_id":1276581063,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1276581063,
+    "wof:lastmodified":1536944957,
+    "wof:name":"Kyembwe",
+    "wof:parent_id":1092069799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.74659,
+    1.62338,
+    31.74659,
+    1.62338
+],
+  "geometry": {"coordinates":[31.74659,1.62338],"type":"Point"}
+}

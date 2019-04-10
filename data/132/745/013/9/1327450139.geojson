@@ -1,0 +1,70 @@
+{
+  "id": 1327450139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.75677,3.22313,32.75677,3.22313",
+    "geom:latitude":3.22313,
+    "geom:longitude":32.75677,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"84",
+    "gn:admin3_code":"233642.0",
+    "gn:admin4_code":"8647776.0",
+    "gn:asciiname":"Tumangu",
+    "gn:country_code":"UG",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11102596,
+    "gn:latitude":3.22313,
+    "gn:longitude":32.75677,
+    "gn:modification_date":"2016-03-24",
+    "gn:name":"Tumangu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679899,
+        1092070355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11102596
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"60f97df77d52777890d85780a3faa71e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070355,
+            "locality_id":1327450139,
+            "region_id":85679899
+        }
+    ],
+    "wof:id":1327450139,
+    "wof:lastmodified":1536655147,
+    "wof:name":"Tumangu",
+    "wof:parent_id":1092070355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.75677,
+    3.22313,
+    32.75677,
+    3.22313
+],
+  "geometry": {"coordinates":[32.75677,3.22313],"type":"Point"}
+}

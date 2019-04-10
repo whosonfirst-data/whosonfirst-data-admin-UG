@@ -1,0 +1,70 @@
+{
+  "id": 1344090975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1251,0.608,33.1251,0.608",
+    "geom:latitude":0.608,
+    "geom:longitude":33.1251,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"33",
+    "gn:admin3_code":"8644143.0",
+    "gn:admin4_code":"8658475.0",
+    "gn:asciiname":"Mabira",
+    "gn:country_code":"UG",
+    "gn:dem":1151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229574,
+    "gn:latitude":0.608,
+    "gn:longitude":33.1251,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Mabira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679773,
+        1092071019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229574
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e4594735126d6a5b82ac0709cebb107b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071019,
+            "locality_id":1344090975,
+            "region_id":85679773
+        }
+    ],
+    "wof:id":1344090975,
+    "wof:lastmodified":1536830632,
+    "wof:name":"Mabira",
+    "wof:parent_id":1092071019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1251,
+    0.608,
+    33.1251,
+    0.608
+],
+  "geometry": {"coordinates":[33.1251,0.608],"type":"Point"}
+}

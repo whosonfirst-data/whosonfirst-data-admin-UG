@@ -1,0 +1,73 @@
+{
+  "id": 1193171291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.12609,0.43076,33.12609,0.43076",
+    "geom:latitude":0.43076,
+    "geom:longitude":33.12609,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E7",
+    "gn:admin3_code":"7732075.0",
+    "gn:admin4_code":"8658239.0",
+    "gn:asciiname":"Bulamagi",
+    "gn:country_code":"UG",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234312,
+    "gn:latitude":0.43076,
+    "gn:longitude":33.12609,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Bulamagi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bulamagi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680121,
+        1092069145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234312
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e2d7ea5b8c132e09ff057c305b35eea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069145,
+            "locality_id":1193171291,
+            "region_id":85680121
+        }
+    ],
+    "wof:id":1193171291,
+    "wof:lastmodified":1537712100,
+    "wof:name":"Bulamagi",
+    "wof:parent_id":1092069145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.12609,
+    0.43076,
+    33.12609,
+    0.43076
+],
+  "geometry": {"coordinates":[33.12609,0.43076],"type":"Point"}
+}

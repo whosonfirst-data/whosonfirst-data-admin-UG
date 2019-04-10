@@ -1,0 +1,70 @@
+{
+  "id": 1343780755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.06457,3.07733,31.06457,3.07733",
+    "geom:latitude":3.07733,
+    "geom:longitude":31.06457,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"226158.0",
+    "gn:admin4_code":"8658459.0",
+    "gn:asciiname":"Ocodri",
+    "gn:country_code":"UG",
+    "gn:dem":949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227247,
+    "gn:latitude":3.07733,
+    "gn:longitude":31.06457,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ocodri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679861,
+        1092074097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227247
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c418aedc21821ebaf47fc8ff26ed1114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074097,
+            "locality_id":1343780755,
+            "region_id":85679861
+        }
+    ],
+    "wof:id":1343780755,
+    "wof:lastmodified":1536782197,
+    "wof:name":"Ocodri",
+    "wof:parent_id":1092074097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.06457,
+    3.07733,
+    31.06457,
+    3.07733
+],
+  "geometry": {"coordinates":[31.06457,3.07733],"type":"Point"}
+}

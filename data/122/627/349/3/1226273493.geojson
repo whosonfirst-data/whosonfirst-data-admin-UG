@@ -1,0 +1,73 @@
+{
+  "id": 1226273493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.29313,0.17148,33.29313,0.17148",
+    "geom:latitude":0.17148,
+    "geom:longitude":33.29313,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F2",
+    "gn:admin3_code":"233919.0",
+    "gn:admin4_code":"8658503.0",
+    "gn:asciiname":"Magyo",
+    "gn:country_code":"UG",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229503,
+    "gn:latitude":0.17148,
+    "gn:longitude":33.29313,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Magyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Magyo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680125,
+        1092070099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229503
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"cabeff88fa8e4ae04ad40c24471c7886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070099,
+            "locality_id":1226273493,
+            "region_id":85680125
+        }
+    ],
+    "wof:id":1226273493,
+    "wof:lastmodified":1537712076,
+    "wof:name":"Magyo",
+    "wof:parent_id":1092070099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.29313,
+    0.17148,
+    33.29313,
+    0.17148
+],
+  "geometry": {"coordinates":[33.29313,0.17148],"type":"Point"}
+}

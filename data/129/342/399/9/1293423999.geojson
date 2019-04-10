@@ -1,0 +1,70 @@
+{
+  "id": 1293423999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.53333,0.15,31.53333,0.15",
+    "geom:latitude":0.15,
+    "geom:longitude":31.53333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F4",
+    "gn:admin3_code":"233383.0",
+    "gn:admin4_code":"8657834.0",
+    "gn:asciiname":"Lwemo",
+    "gn:country_code":"UG",
+    "gn:dem":1206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229635,
+    "gn:latitude":0.15,
+    "gn:longitude":31.53333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lwemo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680133,
+        1092070589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229635
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5eb05cb55d2f44f60c1799c6576aeb96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070589,
+            "locality_id":1293423999,
+            "region_id":85680133
+        }
+    ],
+    "wof:id":1293423999,
+    "wof:lastmodified":1536877795,
+    "wof:name":"Lwemo",
+    "wof:parent_id":1092070589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.53333,
+    0.15,
+    31.53333,
+    0.15
+],
+  "geometry": {"coordinates":[31.53333,0.15],"type":"Point"}
+}

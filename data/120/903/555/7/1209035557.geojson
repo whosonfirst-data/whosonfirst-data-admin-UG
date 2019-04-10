@@ -1,0 +1,67 @@
+{
+  "id": 1209035557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.10019,0.62276,34.10019,0.62276",
+    "geom:latitude":0.62276,
+    "geom:longitude":34.10019,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"76",
+    "gn:admin3_code":"8644131.0",
+    "gn:admin4_code":"8657740.0",
+    "gn:asciiname":"Osia",
+    "gn:country_code":"UG",
+    "gn:dem":1141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226928,
+    "gn:latitude":0.62276,
+    "gn:longitude":34.10019,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Osia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Osia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226928
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"77bde5c24039513a0f3a48cf61470a28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209035557
+        }
+    ],
+    "wof:id":1209035557,
+    "wof:lastmodified":1537712060,
+    "wof:name":"Osia",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.10019,
+    0.62276,
+    34.10019,
+    0.62276
+],
+  "geometry": {"coordinates":[34.10019,0.62276],"type":"Point"}
+}

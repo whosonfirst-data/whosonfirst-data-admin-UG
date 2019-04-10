@@ -1,0 +1,70 @@
+{
+  "id": 1327270915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.10308,0.38533,32.10308,0.38533",
+    "geom:latitude":0.38533,
+    "geom:longitude":32.10308,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:admin3_code":"8644152.0",
+    "gn:admin4_code":"8657790.0",
+    "gn:asciiname":"Tamu",
+    "gn:country_code":"UG",
+    "gn:dem":1240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226187,
+    "gn:latitude":0.38533,
+    "gn:longitude":32.10308,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Tamu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679891,
+        1092072811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226187
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c3c8093374a2fb343b3d51dfd3e71272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072811,
+            "locality_id":1327270915,
+            "region_id":85679891
+        }
+    ],
+    "wof:id":1327270915,
+    "wof:lastmodified":1536914349,
+    "wof:name":"Tamu",
+    "wof:parent_id":1092072811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.10308,
+    0.38533,
+    32.10308,
+    0.38533
+],
+  "geometry": {"coordinates":[32.10308,0.38533],"type":"Point"}
+}

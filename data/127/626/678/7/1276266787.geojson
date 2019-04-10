@@ -1,0 +1,70 @@
+{
+  "id": 1276266787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.82323,0.32266,32.82323,0.32266",
+    "geom:latitude":0.32266,
+    "geom:longitude":32.82323,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"90",
+    "gn:admin3_code":"7732384.0",
+    "gn:admin4_code":"8658156.0",
+    "gn:asciiname":"Makata",
+    "gn:country_code":"UG",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11357324,
+    "gn:latitude":0.32266,
+    "gn:longitude":32.82323,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Makata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679817,
+        1092072911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11357324
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7d7360f30e0b6a0b5f6ba583b6ef2363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072911,
+            "locality_id":1276266787,
+            "region_id":85679817
+        }
+    ],
+    "wof:id":1276266787,
+    "wof:lastmodified":1536866449,
+    "wof:name":"Makata",
+    "wof:parent_id":1092072911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.82323,
+    0.32266,
+    32.82323,
+    0.32266
+],
+  "geometry": {"coordinates":[32.82323,0.32266],"type":"Point"}
+}

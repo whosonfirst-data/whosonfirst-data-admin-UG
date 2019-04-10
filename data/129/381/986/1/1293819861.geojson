@@ -1,0 +1,68 @@
+{
+  "id": 1293819861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.58437,0.58794,33.58437,0.58794",
+    "geom:latitude":0.58794,
+    "geom:longitude":33.58437,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"78",
+    "gn:asciiname":"Busolera",
+    "gn:country_code":"UG",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429922,
+    "gn:latitude":0.58794,
+    "gn:longitude":33.58437,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Busolera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679789,
+        1092069033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429922
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4d785d4e0c5f17c3ac92380e351e15d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069033,
+            "locality_id":1293819861,
+            "region_id":85679789
+        }
+    ],
+    "wof:id":1293819861,
+    "wof:lastmodified":1536804819,
+    "wof:name":"Busolera",
+    "wof:parent_id":1092069033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.58437,
+    0.58794,
+    33.58437,
+    0.58794
+],
+  "geometry": {"coordinates":[33.58437,0.58794],"type":"Point"}
+}

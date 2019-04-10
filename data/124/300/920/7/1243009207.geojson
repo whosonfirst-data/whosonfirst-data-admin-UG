@@ -1,0 +1,68 @@
+{
+  "id": 1243009207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.52288,1.75445,33.52288,1.75445",
+    "geom:latitude":1.75445,
+    "geom:longitude":33.52288,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"95",
+    "gn:asciiname":"Mukora",
+    "gn:country_code":"UG",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11497960,
+    "gn:latitude":1.75445,
+    "gn:longitude":33.52288,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Mukora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679813,
+        1092074055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11497960
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d78276c53a4e1dfdffcdd229bf23a9c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074055,
+            "locality_id":1243009207,
+            "region_id":85679813
+        }
+    ],
+    "wof:id":1243009207,
+    "wof:lastmodified":1536939603,
+    "wof:name":"Mukora",
+    "wof:parent_id":1092074055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.52288,
+    1.75445,
+    33.52288,
+    1.75445
+],
+  "geometry": {"coordinates":[33.52288,1.75445],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310534985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.31667,0.53333,32.31667,0.53333",
+    "geom:latitude":0.53333,
+    "geom:longitude":32.31667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"234053.0",
+    "gn:admin4_code":"8658698.0",
+    "gn:asciiname":"Seganga",
+    "gn:country_code":"UG",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226370,
+    "gn:latitude":0.53333,
+    "gn:longitude":32.31667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Seganga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226370
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c1fe4f81ca1330767e9de221a99b2a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1310534985,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1310534985,
+    "wof:lastmodified":1536873461,
+    "wof:name":"Seganga",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.31667,
+    0.53333,
+    32.31667,
+    0.53333
+],
+  "geometry": {"coordinates":[32.31667,0.53333],"type":"Point"}
+}

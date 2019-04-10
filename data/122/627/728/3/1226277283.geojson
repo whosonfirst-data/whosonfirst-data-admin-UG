@@ -1,0 +1,68 @@
+{
+  "id": 1226277283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.60194,0.56075,33.60194,0.56075",
+    "geom:latitude":0.56075,
+    "geom:longitude":33.60194,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"78",
+    "gn:asciiname":"Kabugweri",
+    "gn:country_code":"UG",
+    "gn:dem":1136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429925,
+    "gn:latitude":0.56075,
+    "gn:longitude":33.60194,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Kabugweri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679789,
+        1092069033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429925
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"498162bc3871b3b5d96f3998a949eb63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069033,
+            "locality_id":1226277283,
+            "region_id":85679789
+        }
+    ],
+    "wof:id":1226277283,
+    "wof:lastmodified":1536887724,
+    "wof:name":"Kabugweri",
+    "wof:parent_id":1092069033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.60194,
+    0.56075,
+    33.60194,
+    0.56075
+],
+  "geometry": {"coordinates":[33.60194,0.56075],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 890453987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.40639,-0.7425,31.40639,-0.7425",
+    "geom:latitude":-0.7425,
+    "geom:longitude":31.40639,
+    "gn:country":"UG",
+    "gn:fcode":"PPL",
+    "gn:pop":7608,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kyakabanda"
+    ],
+    "qs:name":"Byakabanda",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680025,
+        1092071897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233725,
+        "gp:id":1455121,
+        "qs:id":123622
+    },
+    "wof:country":"UG",
+    "wof:created":1469052881,
+    "wof:geomhash":"546969834c8593fb235f7db82e6e94f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071897,
+            "locality_id":890453987,
+            "region_id":85680025
+        }
+    ],
+    "wof:id":890453987,
+    "wof:lastmodified":1505343654,
+    "wof:name":"Byakabanda",
+    "wof:parent_id":1092071897,
+    "wof:placetype":"locality",
+    "wof:population":7608,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.40639,
+    -0.7425,
+    31.40639,
+    -0.7425
+],
+  "geometry": {"coordinates":[31.40639,-0.7425],"type":"Point"}
+}

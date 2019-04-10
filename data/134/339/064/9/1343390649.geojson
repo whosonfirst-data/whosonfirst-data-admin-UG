@@ -1,0 +1,70 @@
+{
+  "id": 1343390649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.49778,-0.20833,31.49778,-0.20833",
+    "geom:latitude":-0.20833,
+    "geom:longitude":31.49778,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"74",
+    "gn:admin3_code":"229304.0",
+    "gn:admin4_code":"8657816.0",
+    "gn:asciiname":"Kabulasoke",
+    "gn:country_code":"UG",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232953,
+    "gn:latitude":-0.20833,
+    "gn:longitude":31.49778,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kabulasoke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679823,
+        1092072661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232953
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"fbb70a48d5e74d5be66f5457dfcf3b71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072661,
+            "locality_id":1343390649,
+            "region_id":85679823
+        }
+    ],
+    "wof:id":1343390649,
+    "wof:lastmodified":1536845916,
+    "wof:name":"Kabulasoke",
+    "wof:parent_id":1092072661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.49778,
+    -0.20833,
+    31.49778,
+    -0.20833
+],
+  "geometry": {"coordinates":[31.49778,-0.20833],"type":"Point"}
+}

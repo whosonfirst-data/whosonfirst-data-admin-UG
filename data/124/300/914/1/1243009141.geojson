@@ -1,0 +1,70 @@
+{
+  "id": 1243009141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.73333,0.78333,32.73333,0.78333",
+    "geom:latitude":0.78333,
+    "geom:longitude":32.73333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"8644157.0",
+    "gn:admin4_code":"8658490.0",
+    "gn:asciiname":"Tongo",
+    "gn:country_code":"UG",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226119,
+    "gn:latitude":0.78333,
+    "gn:longitude":32.73333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Tongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679881,
+        1092068633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226119
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"66d4ea6691974ceb045d249df52ee3af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068633,
+            "locality_id":1243009141,
+            "region_id":85679881
+        }
+    ],
+    "wof:id":1243009141,
+    "wof:lastmodified":1536939695,
+    "wof:name":"Tongo",
+    "wof:parent_id":1092068633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.73333,
+    0.78333,
+    32.73333,
+    0.78333
+],
+  "geometry": {"coordinates":[32.73333,0.78333],"type":"Point"}
+}

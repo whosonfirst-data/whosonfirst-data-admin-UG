@@ -1,0 +1,70 @@
+{
+  "id": 1226572183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.55897,0.84768,33.55897,0.84768",
+    "geom:latitude":0.84768,
+    "geom:longitude":33.55897,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"E1",
+    "gn:admin3_code":"8644136.0",
+    "gn:admin4_code":"8658118.0",
+    "gn:asciiname":"Kavule",
+    "gn:country_code":"UG",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231777,
+    "gn:latitude":0.84768,
+    "gn:longitude":33.55897,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kavule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679807,
+        1092069849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231777
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"082ac036a1a103250be6d56f03a5f527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069849,
+            "locality_id":1226572183,
+            "region_id":85679807
+        }
+    ],
+    "wof:id":1226572183,
+    "wof:lastmodified":1536961011,
+    "wof:name":"Kavule",
+    "wof:parent_id":1092069849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.55897,
+    0.84768,
+    33.55897,
+    0.84768
+],
+  "geometry": {"coordinates":[33.55897,0.84768],"type":"Point"}
+}

@@ -1,0 +1,201 @@
+{
+  "id": 1092072775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003673,
+    "geom:area_square_m":45414840.8805,
+    "geom:bbox":"30.6128798551,-0.640160469549,30.6990239162,-0.580160910451",
+    "geom:latitude":-0.609025,
+    "geom:longitude":30.655504,
+    "iso:country":"UG",
+    "lbl:latitude":-0.610106,
+    "lbl:longitude":30.652014,
+    "meso:admin_1":"MBARARA",
+    "meso:admin_1r":"SOUTH WESTERN",
+    "meso:dissme":"MBARARA MUNICIPALITYMBARARASOUTH WESTERN",
+    "meso:gadm_admin":"Mbarara",
+    "meso:gadm_hasc2":"UG.RR.MA",
+    "meso:gaul_admin":"Mbarara Municipality",
+    "meso:mps_x":30.652014,
+    "meso:mps_y":-0.610106,
+    "meso:name_en":"MBARARA MUNICIPALITY",
+    "meso:source":"AOTM",
+    "mps:latitude":-0.610106,
+    "mps:longitude":30.652014,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0628\u0627\u0631\u0627\u0631\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09ae\u09ac\u09be\u09b0\u09be\u09b0\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u59c6\u5df4\u62c9\u62c9\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Mbarara District"
+    ],
+    "name:dut_x_preferred":[
+        "Mbarara"
+    ],
+    "name:eng_x_preferred":[
+        "Mbarara Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Mbarara Municipality",
+        "Mbarara",
+        "Mbarara District",
+        "MBARARA MUNICIPALITY"
+    ],
+    "name:fin_x_preferred":[
+        "Mbararan kaupunginosa"
+    ],
+    "name:fre_x_preferred":[
+        "Mbarara"
+    ],
+    "name:ger_x_preferred":[
+        "Distrikt Mbarara"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03b1\u03c1\u03ac\u03c1\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0aae\u0acd\u0aac\u0abe\u0ab0\u0abe\u0ab0\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0930\u093e\u0930\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Mbarara"
+    ],
+    "name:ita_x_preferred":[
+        "Mbarara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30d0\u30e9\u30e9\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cac\u0cb0\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc74c\ubc14\ub77c\ub77c \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Mbararas distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Mbararos sritis"
+    ],
+    "name:lug_x_preferred":[
+        "Mbarara"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0941\u092c\u093e\u0930\u093e\u0930\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Mbarara District"
+    ],
+    "name:nob_x_preferred":[
+        "Mbarara"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Mbarara"
+    ],
+    "name:por_x_preferred":[
+        "Distrito de Mbarara"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Mbarara"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0431\u0430\u0440\u0430\u0440\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d91\u0db8\u0dca\u0db6\u0dbb\u0dbb\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Mbarara"
+    ],
+    "name:swa_x_preferred":[
+        "Wilaya ya Mbarara"
+    ],
+    "name:swe_x_preferred":[
+        "Mbarara dirstriktet"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bcd\u0baa\u0bb1\u0bbe\u0bb0\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c02\u0c2c\u0c30\u0c3e\u0c30\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e21\u0e1a\u0e32\u0e23\u0e32\u0e23\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Mbarara District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u041c\u0431\u0430\u0440\u0430\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0628\u0627\u0631\u0627\u0631\u0627 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Mbarara"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"UG",
+    "statoids:hasc":"UG.RR",
+    "statoids:name":"Mbarara",
+    "statoids:population":"",
+    "statoids:statoid":"UG.RR.MA",
+    "statoids:timezone":"3",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680069
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"UG.RR.MA",
+        "wd:id":"Q1091595"
+    },
+    "wof:country":"UG",
+    "wof:created":1473899422,
+    "wof:geomhash":"bf8f0d08583e5dcd15cd5aee325ac3d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072775,
+            "region_id":85680069
+        }
+    ],
+    "wof:id":1092072775,
+    "wof:lastmodified":1544032787,
+    "wof:name":"Mbarara Municipality",
+    "wof:parent_id":85680069,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:shortcode":"MA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.61287985508428,
+    -0.64016046954915,
+    30.69902391615456,
+    -0.58016091045079
+],
+  "geometry": {"coordinates":[[[30.61342930084142,-0.61379596648056],[30.61596293652741,-0.60689934407027],[30.61659395623939,-0.6061727094108],[30.61773795721362,-0.60175212274653],[30.61882805994886,-0.60024220622755],[30.61994638628548,-0.59529611819413],[30.62005548214454,-0.59517317818403],[30.62185591399909,-0.58933158464274],[30.62819857207022,-0.58679400067408],[30.63064227780988,-0.58730146094281],[30.63249999999928,-0.58677016111953],[30.64219011232425,-0.5875],[30.64359851986149,-0.5875],[30.64386648876203,-0.58699215475372],[30.65412636493568,-0.58353095871255],[30.6606202035489,-0.58688736788743],[30.6606592512684,-0.58688502107225],[30.66466994971169,-0.58830207680411],[30.66749999999927,-0.58833068791812],[30.67052844730577,-0.58723025775533],[30.67361654093455,-0.5836006088465],[30.6745101079222,-0.58349663069238],[30.67999999999927,-0.58166666666669],[30.68534261029357,-0.58344753676479],[30.69296839427484,-0.58016091045079],[30.69693402093386,-0.58360980561478],[30.69902391615456,-0.59],[30.69749999999926,-0.59380852628142],[30.69749999999927,-0.59522499075998],[30.6974534276776,-0.59572355737745],[30.69696741532102,-0.5975],[30.69704065203575,-0.59844368401624],[30.69648416360457,-0.6025],[30.6974250545598,-0.60648873571137],[30.69803176566911,-0.60788031138631],[30.69600675196171,-0.61069895399302],[30.6939140808739,-0.61662555708434],[30.69289660253048,-0.61789660253124],[30.69272775939411,-0.61796763721729],[30.68684657682772,-0.61893607245421],[30.68484342931849,-0.62119322546421],[30.68410746822952,-0.62239549349755],[30.68208681493647,-0.6244374274695],[30.68064163844472,-0.62696672914593],[30.68024424122193,-0.62732196320849],[30.67798858467758,-0.62798858467833],[30.6730379417402,-0.63228498686006],[30.67134313812135,-0.63462383155236],[30.67115969599841,-0.63473828109201],[30.66603747420683,-0.63457711459572],[30.65937606122259,-0.63994727739959],[30.6592594261896,-0.64000473260763],[30.65648248463074,-0.64016046954915],[30.65391114665134,-0.63836379902957],[30.65320289323738,-0.63703070258856],[30.64799388025382,-0.63200611974548],[30.64746927531632,-0.63186608240217],[30.64162238401982,-0.6317483958894],[30.63764174169063,-0.63322781109425],[30.63706408061519,-0.63387509405359],[30.63401347947937,-0.63338028357626],[30.625542635467,-0.63364656170958],[30.62327088498089,-0.63499214263779],[30.61816745217437,-0.63516650540212],[30.61354858693284,-0.63198526544034],[30.61344772612884,-0.63115108911123],[30.61287985508428,-0.62833243099485],[30.61667615343598,-0.61957010107356],[30.61652626350504,-0.61795635174412],[30.61342930084142,-0.61379596648056]]],"type":"Polygon"}
+}

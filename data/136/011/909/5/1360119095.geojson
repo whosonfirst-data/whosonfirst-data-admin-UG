@@ -1,0 +1,71 @@
+{
+  "id": 1360119095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.59525,0.37218,32.59525,0.37218",
+    "geom:latitude":0.37218,
+    "geom:longitude":32.59525,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"8644170.0",
+    "gn:admin4_code":"7732388.0",
+    "gn:asciiname":"Kisaasi",
+    "gn:country_code":"UG",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231074,
+    "gn:latitude":0.37218,
+    "gn:longitude":32.59525,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kisaasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679867,
+        1092071203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231074,
+        "wk:page":"Kisaasi"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1665a7270eab513b574c5ff2f397a23c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071203,
+            "locality_id":1360119095,
+            "region_id":85679867
+        }
+    ],
+    "wof:id":1360119095,
+    "wof:lastmodified":1537575042,
+    "wof:name":"Kisaasi",
+    "wof:parent_id":1092071203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.59525,
+    0.37218,
+    32.59525,
+    0.37218
+],
+  "geometry": {"coordinates":[32.59525,0.37218],"type":"Point"}
+}

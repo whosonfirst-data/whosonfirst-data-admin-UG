@@ -1,0 +1,71 @@
+{
+  "id": 1343698153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.36015,0.98085,34.36015,0.98085",
+    "geom:latitude":0.98085,
+    "geom:longitude":34.36015,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C2",
+    "gn:asciiname":"Buwangalwa",
+    "gn:country_code":"UG",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433078,
+    "gn:latitude":0.98085,
+    "gn:longitude":34.36015,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Buwangalwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buwangalwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680251,
+        1092072481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433078
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"660f3fa194cd0f79c94728a8f943eed8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072481,
+            "locality_id":1343698153,
+            "region_id":85680251
+        }
+    ],
+    "wof:id":1343698153,
+    "wof:lastmodified":1537712161,
+    "wof:name":"Buwangalwa",
+    "wof:parent_id":1092072481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.36015,
+    0.98085,
+    34.36015,
+    0.98085
+],
+  "geometry": {"coordinates":[34.36015,0.98085],"type":"Point"}
+}

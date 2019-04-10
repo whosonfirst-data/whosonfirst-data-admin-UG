@@ -1,0 +1,70 @@
+{
+  "id": 1293031517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.48425,1.85896,33.48425,1.85896",
+    "geom:latitude":1.85896,
+    "geom:longitude":33.48425,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"95",
+    "gn:admin3_code":"226232.0",
+    "gn:admin4_code":"8657809.0",
+    "gn:asciiname":"Katine",
+    "gn:country_code":"UG",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231864,
+    "gn:latitude":1.85896,
+    "gn:longitude":33.48425,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Katine",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679813,
+        1092074055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231864
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"40533cd527b7f54471d4a52c51b0e0ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074055,
+            "locality_id":1293031517,
+            "region_id":85679813
+        }
+    ],
+    "wof:id":1293031517,
+    "wof:lastmodified":1536947882,
+    "wof:name":"Katine",
+    "wof:parent_id":1092074055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.48425,
+    1.85896,
+    33.48425,
+    1.85896
+],
+  "geometry": {"coordinates":[33.48425,1.85896],"type":"Point"}
+}

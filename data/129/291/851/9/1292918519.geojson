@@ -1,0 +1,70 @@
+{
+  "id": 1292918519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.88333,3.11667,32.88333,3.11667",
+    "geom:latitude":3.11667,
+    "geom:longitude":32.88333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"92",
+    "gn:admin3_code":"8644156.0",
+    "gn:admin4_code":"8647785.0",
+    "gn:asciiname":"Nadiang",
+    "gn:country_code":"UG",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228514,
+    "gn:latitude":3.11667,
+    "gn:longitude":32.88333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nadiang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679917,
+        1092068503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228514
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"286ddb0f5868d75b469788f1b25bb964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068503,
+            "locality_id":1292918519,
+            "region_id":85679917
+        }
+    ],
+    "wof:id":1292918519,
+    "wof:lastmodified":1536610510,
+    "wof:name":"Nadiang",
+    "wof:parent_id":1092068503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.88333,
+    3.11667,
+    32.88333,
+    3.11667
+],
+  "geometry": {"coordinates":[32.88333,3.11667],"type":"Point"}
+}

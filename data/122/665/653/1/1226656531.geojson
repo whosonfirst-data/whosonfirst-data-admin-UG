@@ -1,0 +1,70 @@
+{
+  "id": 1226656531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.95,2.88333,33.95,2.88333",
+    "geom:latitude":2.88333,
+    "geom:longitude":33.95,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"45",
+    "gn:admin3_code":"233117.0",
+    "gn:admin4_code":"8657781.0",
+    "gn:asciiname":"Chuchu",
+    "gn:country_code":"UG",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233641,
+    "gn:latitude":2.88333,
+    "gn:longitude":33.95,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chuchu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679999,
+        1092070781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233641
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"02d261c52ae64c07314ff8653b9a8797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070781,
+            "locality_id":1226656531,
+            "region_id":85679999
+        }
+    ],
+    "wof:id":1226656531,
+    "wof:lastmodified":1536842751,
+    "wof:name":"Chuchu",
+    "wof:parent_id":1092070781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.95,
+    2.88333,
+    33.95,
+    2.88333
+],
+  "geometry": {"coordinates":[33.95,2.88333],"type":"Point"}
+}

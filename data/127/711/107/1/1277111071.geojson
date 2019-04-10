@@ -1,0 +1,70 @@
+{
+  "id": 1277111071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.88333,1.28333,32.88333,1.28333",
+    "geom:latitude":1.28333,
+    "geom:longitude":32.88333,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"F3",
+    "gn:admin3_code":"8644160.0",
+    "gn:admin4_code":"8657608.0",
+    "gn:asciiname":"Kiryola",
+    "gn:country_code":"UG",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231076,
+    "gn:latitude":1.28333,
+    "gn:longitude":32.88333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kiryola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680103,
+        1092068855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231076
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"155d9764eb23e134e73e6d5dce79f7a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068855,
+            "locality_id":1277111071,
+            "region_id":85680103
+        }
+    ],
+    "wof:id":1277111071,
+    "wof:lastmodified":1536727174,
+    "wof:name":"Kiryola",
+    "wof:parent_id":1092068855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.88333,
+    1.28333,
+    32.88333,
+    1.28333
+],
+  "geometry": {"coordinates":[32.88333,1.28333],"type":"Point"}
+}

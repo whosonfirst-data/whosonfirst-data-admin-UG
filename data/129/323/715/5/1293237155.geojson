@@ -1,0 +1,74 @@
+{
+  "id": 1293237155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.71667,1.05,32.71667,1.05",
+    "geom:latitude":1.05,
+    "geom:longitude":32.71667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"8644157.0",
+    "gn:admin4_code":"8658273.0",
+    "gn:asciiname":"Kabunyata",
+    "gn:country_code":"UG",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232939,
+    "gn:latitude":1.05,
+    "gn:longitude":32.71667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kabunyata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabanyata",
+        "Kabunyata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679881,
+        1092068633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232939
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e1348e04e78fab46994afe397550e0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068633,
+            "locality_id":1293237155,
+            "region_id":85679881
+        }
+    ],
+    "wof:id":1293237155,
+    "wof:lastmodified":1537712092,
+    "wof:name":"Kabunyata",
+    "wof:parent_id":1092068633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.71667,
+    1.05,
+    32.71667,
+    1.05
+],
+  "geometry": {"coordinates":[32.71667,1.05],"type":"Point"}
+}

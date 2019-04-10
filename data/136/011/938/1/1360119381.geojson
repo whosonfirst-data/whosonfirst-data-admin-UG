@@ -1,0 +1,70 @@
+{
+  "id": 1360119381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.46572,1.74301,33.46572,1.74301",
+    "geom:latitude":1.74301,
+    "geom:longitude":33.46572,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"95",
+    "gn:admin3_code":"226232.0",
+    "gn:admin4_code":"8658303.0",
+    "gn:asciiname":"Aboket",
+    "gn:country_code":"UG",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":235568,
+    "gn:latitude":1.74301,
+    "gn:longitude":33.46572,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Aboket",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679813,
+        1092074055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235568
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0c75fd069ecf734a8e01db63c64a6af1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074055,
+            "locality_id":1360119381,
+            "region_id":85679813
+        }
+    ],
+    "wof:id":1360119381,
+    "wof:lastmodified":1536895976,
+    "wof:name":"Aboket",
+    "wof:parent_id":1092074055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.46572,
+    1.74301,
+    33.46572,
+    1.74301
+],
+  "geometry": {"coordinates":[33.46572,1.74301],"type":"Point"}
+}

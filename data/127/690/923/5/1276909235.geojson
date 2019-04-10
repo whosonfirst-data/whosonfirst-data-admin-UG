@@ -1,0 +1,73 @@
+{
+  "id": 1276909235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.82481,1.40204,31.82481,1.40204",
+    "geom:latitude":1.40204,
+    "geom:longitude":31.82481,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"8644129.0",
+    "gn:admin4_code":"8657772.0",
+    "gn:asciiname":"Miduuma",
+    "gn:country_code":"UG",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229206,
+    "gn:latitude":1.40204,
+    "gn:longitude":31.82481,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Miduuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miduma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092069799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229206
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8c0412932311c4963c51f46135888576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069799,
+            "locality_id":1276909235,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1276909235,
+    "wof:lastmodified":1537712074,
+    "wof:name":"Miduuma",
+    "wof:parent_id":1092069799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.82481,
+    1.40204,
+    31.82481,
+    1.40204
+],
+  "geometry": {"coordinates":[31.82481,1.40204],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243590931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.46269,0.46966,33.46269,0.46966",
+    "geom:latitude":0.46966,
+    "geom:longitude":33.46269,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"86",
+    "gn:admin3_code":"8644164.0",
+    "gn:admin4_code":"8657878.0",
+    "gn:asciiname":"Luwanula",
+    "gn:country_code":"UG",
+    "gn:dem":1194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11356392,
+    "gn:latitude":0.46966,
+    "gn:longitude":33.46269,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Luwanula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Luwanula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679985,
+        1092069607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11356392
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e3fef4eb6b40a0a5074c08b451b97994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069607,
+            "locality_id":1243590931,
+            "region_id":85679985
+        }
+    ],
+    "wof:id":1243590931,
+    "wof:lastmodified":1537712131,
+    "wof:name":"Luwanula",
+    "wof:parent_id":1092069607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.46269,
+    0.46966,
+    33.46269,
+    0.46966
+],
+  "geometry": {"coordinates":[33.46269,0.46966],"type":"Point"}
+}

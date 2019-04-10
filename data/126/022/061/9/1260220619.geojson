@@ -1,0 +1,70 @@
+{
+  "id": 1260220619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2969,0.21929,32.2969,0.21929",
+    "geom:latitude":0.21929,
+    "geom:longitude":32.2969,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:admin3_code":"7910214.0",
+    "gn:admin4_code":"8657607.0",
+    "gn:asciiname":"Lwanga",
+    "gn:country_code":"UG",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229669,
+    "gn:latitude":0.21929,
+    "gn:longitude":32.2969,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Lwanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679827,
+        1092072705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229669
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"09f680a38a8e30013539ed2cd8525c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072705,
+            "locality_id":1260220619,
+            "region_id":85679827
+        }
+    ],
+    "wof:id":1260220619,
+    "wof:lastmodified":1536797441,
+    "wof:name":"Lwanga",
+    "wof:parent_id":1092072705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2969,
+    0.21929,
+    32.2969,
+    0.21929
+],
+  "geometry": {"coordinates":[32.2969,0.21929],"type":"Point"}
+}

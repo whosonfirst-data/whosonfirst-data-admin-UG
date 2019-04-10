@@ -1,0 +1,70 @@
+{
+  "id": 1259520059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.11594,1.5527,31.11594,1.5527",
+    "geom:latitude":1.5527,
+    "geom:longitude":31.11594,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"7732256.0",
+    "gn:admin4_code":"8581634.0",
+    "gn:asciiname":"Lungujja",
+    "gn:country_code":"UG",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8629644,
+    "gn:latitude":1.5527,
+    "gn:longitude":31.11594,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lungujja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679933,
+        1092068961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629644
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5ab5395db05263b330ec2d20124ca091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068961,
+            "locality_id":1259520059,
+            "region_id":85679933
+        }
+    ],
+    "wof:id":1259520059,
+    "wof:lastmodified":1536805966,
+    "wof:name":"Lungujja",
+    "wof:parent_id":1092068961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.11594,
+    1.5527,
+    31.11594,
+    1.5527
+],
+  "geometry": {"coordinates":[31.11594,1.5527],"type":"Point"}
+}

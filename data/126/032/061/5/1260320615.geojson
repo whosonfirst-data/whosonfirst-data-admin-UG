@@ -1,0 +1,70 @@
+{
+  "id": 1260320615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.98333,-0.58333,29.98333,-0.58333",
+    "geom:latitude":-0.58333,
+    "geom:longitude":29.98333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"G6",
+    "gn:admin3_code":"7869954.0",
+    "gn:admin4_code":"8658552.0",
+    "gn:asciiname":"Kyanyaruhango",
+    "gn:country_code":"UG",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230377,
+    "gn:latitude":-0.58333,
+    "gn:longitude":29.98333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyanyaruhango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680233,
+        1092073753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230377
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3d5732b7c9b1e754b49fbb73f2b49d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073753,
+            "locality_id":1260320615,
+            "region_id":85680233
+        }
+    ],
+    "wof:id":1260320615,
+    "wof:lastmodified":1536662163,
+    "wof:name":"Kyanyaruhango",
+    "wof:parent_id":1092073753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.98333,
+    -0.58333,
+    29.98333,
+    -0.58333
+],
+  "geometry": {"coordinates":[29.98333,-0.58333],"type":"Point"}
+}

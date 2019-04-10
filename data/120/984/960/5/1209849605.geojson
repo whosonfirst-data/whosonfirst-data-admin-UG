@@ -1,0 +1,68 @@
+{
+  "id": 1209849605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.24439,0.45388,32.24439,0.45388",
+    "geom:latitude":0.45388,
+    "geom:longitude":32.24439,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:asciiname":"Kyasa",
+    "gn:country_code":"UG",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11551768,
+    "gn:latitude":0.45388,
+    "gn:longitude":32.24439,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kyasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11551768
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"02066686704c5bcc9ef42243137dc530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1209849605,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1209849605,
+    "wof:lastmodified":1536389069,
+    "wof:name":"Kyasa",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.24439,
+    0.45388,
+    32.24439,
+    0.45388
+],
+  "geometry": {"coordinates":[32.24439,0.45388],"type":"Point"}
+}

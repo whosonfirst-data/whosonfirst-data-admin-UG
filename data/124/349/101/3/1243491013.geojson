@@ -1,0 +1,74 @@
+{
+  "id": 1243491013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.43488,1.75609,33.43488,1.75609",
+    "geom:latitude":1.75609,
+    "geom:longitude":33.43488,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"95",
+    "gn:admin3_code":"226232.0",
+    "gn:admin4_code":"8657809.0",
+    "gn:asciiname":"Abari",
+    "gn:country_code":"UG",
+    "gn:dem":1043,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235598,
+    "gn:latitude":1.75609,
+    "gn:longitude":33.43488,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Abari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabale",
+        "Abari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679813,
+        1092074055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235598
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b91bcea58b6df32910bda495b734912f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074055,
+            "locality_id":1243491013,
+            "region_id":85679813
+        }
+    ],
+    "wof:id":1243491013,
+    "wof:lastmodified":1537712113,
+    "wof:name":"Abari",
+    "wof:parent_id":1092074055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.43488,
+    1.75609,
+    33.43488,
+    1.75609
+],
+  "geometry": {"coordinates":[33.43488,1.75609],"type":"Point"}
+}

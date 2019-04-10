@@ -1,0 +1,70 @@
+{
+  "id": 1193026479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23244,2.87572,31.23244,2.87572",
+    "geom:latitude":2.87572,
+    "geom:longitude":31.23244,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"8644146.0",
+    "gn:admin4_code":"8261591.0",
+    "gn:asciiname":"Inde",
+    "gn:country_code":"UG",
+    "gn:dem":671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233230,
+    "gn:latitude":2.87572,
+    "gn:longitude":31.23244,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Inde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092074425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233230
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8433989834ad1471f885396edc6e9737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074425,
+            "locality_id":1193026479,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1193026479,
+    "wof:lastmodified":1536367356,
+    "wof:name":"Inde",
+    "wof:parent_id":1092074425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23244,
+    2.87572,
+    31.23244,
+    2.87572
+],
+  "geometry": {"coordinates":[31.23244,2.87572],"type":"Point"}
+}

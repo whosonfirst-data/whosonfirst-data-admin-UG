@@ -1,0 +1,68 @@
+{
+  "id": 1343989237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.04668,0.69464,33.04668,0.69464",
+    "geom:latitude":0.69464,
+    "geom:longitude":33.04668,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"83",
+    "gn:asciiname":"Kasege",
+    "gn:country_code":"UG",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553289,
+    "gn:latitude":0.69464,
+    "gn:longitude":33.04668,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kasege",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679787,
+        1092073141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553289
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"11c5e8fcf362e058e92e9b5d59573a27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073141,
+            "locality_id":1343989237,
+            "region_id":85679787
+        }
+    ],
+    "wof:id":1343989237,
+    "wof:lastmodified":1536977938,
+    "wof:name":"Kasege",
+    "wof:parent_id":1092073141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.04668,
+    0.69464,
+    33.04668,
+    0.69464
+],
+  "geometry": {"coordinates":[33.04668,0.69464],"type":"Point"}
+}

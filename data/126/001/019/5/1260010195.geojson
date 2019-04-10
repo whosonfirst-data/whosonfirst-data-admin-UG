@@ -1,0 +1,70 @@
+{
+  "id": 1260010195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.88333,1.35,33.88333,1.35",
+    "geom:latitude":1.35,
+    "geom:longitude":33.88333,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"7732907.0",
+    "gn:admin4_code":"8658102.0",
+    "gn:asciiname":"Kolimai",
+    "gn:country_code":"UG",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230680,
+    "gn:latitude":1.35,
+    "gn:longitude":33.88333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kolimai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679777,
+        1092071937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230680
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1b40df468cecd44bf17c3ddf67cb8e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071937,
+            "locality_id":1260010195,
+            "region_id":85679777
+        }
+    ],
+    "wof:id":1260010195,
+    "wof:lastmodified":1537090376,
+    "wof:name":"Kolimai",
+    "wof:parent_id":1092071937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.88333,
+    1.35,
+    33.88333,
+    1.35
+],
+  "geometry": {"coordinates":[33.88333,1.35],"type":"Point"}
+}

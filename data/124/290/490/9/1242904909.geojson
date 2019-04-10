@@ -1,0 +1,68 @@
+{
+  "id": 1242904909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65533,0.84055,33.65533,0.84055",
+    "geom:latitude":0.84055,
+    "geom:longitude":33.65533,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"E1",
+    "gn:asciiname":"Nabikonge",
+    "gn:country_code":"UG",
+    "gn:dem":1121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11430107,
+    "gn:latitude":0.84055,
+    "gn:longitude":33.65533,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Nabikonge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679807,
+        1092069849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11430107
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1ad206c8060a9a21519edc2bc1e81448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069849,
+            "locality_id":1242904909,
+            "region_id":85679807
+        }
+    ],
+    "wof:id":1242904909,
+    "wof:lastmodified":1537086137,
+    "wof:name":"Nabikonge",
+    "wof:parent_id":1092069849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65533,
+    0.84055,
+    33.65533,
+    0.84055
+],
+  "geometry": {"coordinates":[33.65533,0.84055],"type":"Point"}
+}

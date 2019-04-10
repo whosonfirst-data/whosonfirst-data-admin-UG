@@ -1,0 +1,70 @@
+{
+  "id": 1243300151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.90364,0.0125,32.90364,0.0125",
+    "geom:latitude":0.0125,
+    "geom:longitude":32.90364,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F2",
+    "gn:admin3_code":"233919.0",
+    "gn:admin4_code":"8658076.0",
+    "gn:asciiname":"Lulere",
+    "gn:country_code":"UG",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11357741,
+    "gn:latitude":0.0125,
+    "gn:longitude":32.90364,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Lulere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680125,
+        1092070099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11357741
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"33f92a6c8caa55d5a246a8848c105e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070099,
+            "locality_id":1243300151,
+            "region_id":85680125
+        }
+    ],
+    "wof:id":1243300151,
+    "wof:lastmodified":1537015597,
+    "wof:name":"Lulere",
+    "wof:parent_id":1092070099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.90364,
+    0.0125,
+    32.90364,
+    0.0125
+],
+  "geometry": {"coordinates":[32.90364,0.0125],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226778341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.92299,0.26805,33.92299,0.26805",
+    "geom:latitude":0.26805,
+    "geom:longitude":33.92299,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"67",
+    "gn:admin3_code":"8644151.0",
+    "gn:admin4_code":"8657692.0",
+    "gn:asciiname":"Masebe",
+    "gn:country_code":"UG",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259414,
+    "gn:latitude":0.26805,
+    "gn:longitude":33.92299,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Masebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Masebe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679979,
+        1092073897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259414
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d9a1bef88885580b5e39a4f6a2bebc60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073897,
+            "locality_id":1226778341,
+            "region_id":85679979
+        }
+    ],
+    "wof:id":1226778341,
+    "wof:lastmodified":1537712128,
+    "wof:name":"Masebe",
+    "wof:parent_id":1092073897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.92299000000001,
+    0.26805,
+    33.92299000000001,
+    0.26805
+],
+  "geometry": {"coordinates":[33.92299000000001,0.26805],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242808777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.67972,-1.31361,29.67972,-1.31361",
+    "geom:latitude":-1.31361,
+    "geom:longitude":29.67972,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"43",
+    "gn:admin3_code":"7874701.0",
+    "gn:admin4_code":"8657853.0",
+    "gn:asciiname":"Nyarusiza",
+    "gn:country_code":"UG",
+    "gn:dem":1994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227345,
+    "gn:latitude":-1.31361,
+    "gn:longitude":29.67972,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nyarusiza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680075,
+        1092068877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227345
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a5a13e696c64871fe0f2ac22ae154b46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068877,
+            "locality_id":1242808777,
+            "region_id":85680075
+        }
+    ],
+    "wof:id":1242808777,
+    "wof:lastmodified":1536731107,
+    "wof:name":"Nyarusiza",
+    "wof:parent_id":1092068877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.67972,
+    -1.31361,
+    29.67972,
+    -1.31361
+],
+  "geometry": {"coordinates":[29.67972,-1.31361],"type":"Point"}
+}

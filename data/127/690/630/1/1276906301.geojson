@@ -1,0 +1,70 @@
+{
+  "id": 1276906301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.32389,-0.67083,30.32389,-0.67083",
+    "geom:latitude":-0.67083,
+    "geom:longitude":30.32389,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"H6",
+    "gn:admin3_code":"7732263.0",
+    "gn:admin4_code":"8658282.0",
+    "gn:asciiname":"Shuku",
+    "gn:country_code":"UG",
+    "gn:dem":1505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226309,
+    "gn:latitude":-0.67083,
+    "gn:longitude":30.32389,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Shuku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680237,
+        1092073983
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226309
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5b54f8a31043beade3819184e00eb9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073983,
+            "locality_id":1276906301,
+            "region_id":85680237
+        }
+    ],
+    "wof:id":1276906301,
+    "wof:lastmodified":1537005181,
+    "wof:name":"Shuku",
+    "wof:parent_id":1092073983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.32389,
+    -0.67083,
+    30.32389,
+    -0.67083
+],
+  "geometry": {"coordinates":[30.32389,-0.67083],"type":"Point"}
+}

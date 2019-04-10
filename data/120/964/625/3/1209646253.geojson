@@ -1,0 +1,67 @@
+{
+  "id": 1209646253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.91874,0.33795,33.91874,0.33795",
+    "geom:latitude":0.33795,
+    "geom:longitude":33.91874,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"67",
+    "gn:admin3_code":"8644151.0",
+    "gn:admin4_code":"8658208.0",
+    "gn:asciiname":"Busitabulo",
+    "gn:country_code":"UG",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259363,
+    "gn:latitude":0.33795,
+    "gn:longitude":33.91874,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Busitabulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Busitabulo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259363
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8be2e3dcb36547f26b1c2f52df2b6f71",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209646253
+        }
+    ],
+    "wof:id":1209646253,
+    "wof:lastmodified":1537712126,
+    "wof:name":"Busitabulo",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.91874,
+    0.33795,
+    33.91874,
+    0.33795
+],
+  "geometry": {"coordinates":[33.91874,0.33795],"type":"Point"}
+}

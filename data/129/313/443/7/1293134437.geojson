@@ -1,0 +1,70 @@
+{
+  "id": 1293134437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.9003,1.79726,31.9003,1.79726",
+    "geom:latitude":1.79726,
+    "geom:longitude":31.9003,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"F7",
+    "gn:admin3_code":"231597.0",
+    "gn:admin4_code":"8658610.0",
+    "gn:asciiname":"Kizibu",
+    "gn:country_code":"UG",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448271,
+    "gn:latitude":1.79726,
+    "gn:longitude":31.9003,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kizibu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680175,
+        1092071513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448271
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d627425d32c99b8f220db4f56332eea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071513,
+            "locality_id":1293134437,
+            "region_id":85680175
+        }
+    ],
+    "wof:id":1293134437,
+    "wof:lastmodified":1536799207,
+    "wof:name":"Kizibu",
+    "wof:parent_id":1092071513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.9003,
+    1.79726,
+    31.9003,
+    1.79726
+],
+  "geometry": {"coordinates":[31.9003,1.79726],"type":"Point"}
+}

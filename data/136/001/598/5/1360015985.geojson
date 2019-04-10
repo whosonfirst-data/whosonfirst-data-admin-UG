@@ -1,0 +1,68 @@
+{
+  "id": 1360015985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.00249,0.31478,32.00249,0.31478",
+    "geom:latitude":0.31478,
+    "geom:longitude":32.00249,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:asciiname":"Kajoji",
+    "gn:country_code":"UG",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11551788,
+    "gn:latitude":0.31478,
+    "gn:longitude":32.00249,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kajoji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679891,
+        1092069929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11551788
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f5066c50f0dbef2b8357441172c4b2b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069929,
+            "locality_id":1360015985,
+            "region_id":85679891
+        }
+    ],
+    "wof:id":1360015985,
+    "wof:lastmodified":1537043658,
+    "wof:name":"Kajoji",
+    "wof:parent_id":1092069929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.00249,
+    0.31478,
+    32.00249,
+    0.31478
+],
+  "geometry": {"coordinates":[32.00249,0.31478],"type":"Point"}
+}

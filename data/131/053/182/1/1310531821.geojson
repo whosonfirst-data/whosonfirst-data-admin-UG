@@ -1,0 +1,73 @@
+{
+  "id": 1310531821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.14745,0.27655,33.14745,0.27655",
+    "geom:latitude":0.27655,
+    "geom:longitude":33.14745,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E7",
+    "gn:admin3_code":"7732075.0",
+    "gn:admin4_code":"8658507.0",
+    "gn:asciiname":"Kiyindi",
+    "gn:country_code":"UG",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11356757,
+    "gn:latitude":0.27655,
+    "gn:longitude":33.14745,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Kiyindi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kiyindi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680121,
+        1092069145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11356757
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9c0d1631faddc224a61937917bdddce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069145,
+            "locality_id":1310531821,
+            "region_id":85680121
+        }
+    ],
+    "wof:id":1310531821,
+    "wof:lastmodified":1537712138,
+    "wof:name":"Kiyindi",
+    "wof:parent_id":1092069145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.14745,
+    0.27655,
+    33.14745,
+    0.27655
+],
+  "geometry": {"coordinates":[33.14745,0.27655],"type":"Point"}
+}

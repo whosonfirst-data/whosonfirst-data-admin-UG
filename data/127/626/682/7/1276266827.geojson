@@ -1,0 +1,71 @@
+{
+  "id": 1276266827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.21388,0.50426,30.21388,0.50426",
+    "geom:latitude":0.50426,
+    "geom:longitude":30.21388,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"79",
+    "gn:asciiname":"Lyamabwa",
+    "gn:country_code":"UG",
+    "gn:dem":1496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11402043,
+    "gn:latitude":0.50426,
+    "gn:longitude":30.21388,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Lyamabwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lyamabwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11402043
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f4d9674f2b7091b260fb0a0f37562b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069635,
+            "locality_id":1276266827,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1276266827,
+    "wof:lastmodified":1537712148,
+    "wof:name":"Lyamabwa",
+    "wof:parent_id":1092069635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21388,
+    0.50426,
+    30.21388,
+    0.50426
+],
+  "geometry": {"coordinates":[30.21388,0.50426],"type":"Point"}
+}

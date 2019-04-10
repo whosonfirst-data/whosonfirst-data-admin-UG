@@ -1,0 +1,71 @@
+{
+  "id": 1260323549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.02889,1.70919,32.02889,1.70919",
+    "geom:latitude":1.70919,
+    "geom:longitude":32.02889,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"F7",
+    "gn:admin3_code":"231597.0",
+    "gn:admin4_code":"8658200.0",
+    "gn:asciiname":"Rwekunye",
+    "gn:country_code":"UG",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226481,
+    "gn:latitude":1.70919,
+    "gn:longitude":32.02889,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rwekunye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680175,
+        1092071513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226481,
+        "wk:page":"Rwekunye"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c0d1c869fb83e8ad0ec0e5bcebf48aba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071513,
+            "locality_id":1260323549,
+            "region_id":85680175
+        }
+    ],
+    "wof:id":1260323549,
+    "wof:lastmodified":1537575037,
+    "wof:name":"Rwekunye",
+    "wof:parent_id":1092071513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.02889,
+    1.70919,
+    32.02889,
+    1.70919
+],
+  "geometry": {"coordinates":[32.02889,1.70919],"type":"Point"}
+}

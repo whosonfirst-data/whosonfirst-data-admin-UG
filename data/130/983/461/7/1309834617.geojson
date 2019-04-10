@@ -1,0 +1,68 @@
+{
+  "id": 1309834617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.54019,0.6614,33.54019,0.6614",
+    "geom:latitude":0.6614,
+    "geom:longitude":33.54019,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"78",
+    "gn:asciiname":"Namukuna",
+    "gn:country_code":"UG",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429624,
+    "gn:latitude":0.6614,
+    "gn:longitude":33.54019,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Namukuna",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679789,
+        1092071603
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429624
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ed66f510f2f28470e1bbc7feaac6b90e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071603,
+            "locality_id":1309834617,
+            "region_id":85679789
+        }
+    ],
+    "wof:id":1309834617,
+    "wof:lastmodified":1536889317,
+    "wof:name":"Namukuna",
+    "wof:parent_id":1092071603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.54019,
+    0.6614,
+    33.54019,
+    0.6614
+],
+  "geometry": {"coordinates":[33.54019,0.6614],"type":"Point"}
+}

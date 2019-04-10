@@ -1,0 +1,67 @@
+{
+  "id": 1209248653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.82246,0.32946,33.82246,0.32946",
+    "geom:latitude":0.32946,
+    "geom:longitude":33.82246,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G7",
+    "gn:admin3_code":"8644167.0",
+    "gn:admin4_code":"8658688.0",
+    "gn:asciiname":"Butaja",
+    "gn:country_code":"UG",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259352,
+    "gn:latitude":0.32946,
+    "gn:longitude":33.82246,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Butaja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Butaja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259352
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"791a92e8d572eb3765c177d6ded4b614",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209248653
+        }
+    ],
+    "wof:id":1209248653,
+    "wof:lastmodified":1537712126,
+    "wof:name":"Butaja",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.82246,
+    0.32946,
+    33.82246,
+    0.32946
+],
+  "geometry": {"coordinates":[33.82246,0.32946],"type":"Point"}
+}

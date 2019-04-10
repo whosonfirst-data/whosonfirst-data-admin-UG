@@ -1,0 +1,67 @@
+{
+  "id": 1209248575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.18639,0.91056,34.18639,0.91056",
+    "geom:latitude":0.91056,
+    "geom:longitude":34.18639,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"87",
+    "gn:admin3_code":"7732903.0",
+    "gn:admin4_code":"8657945.0",
+    "gn:asciiname":"Musese",
+    "gn:country_code":"UG",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228741,
+    "gn:latitude":0.91056,
+    "gn:longitude":34.18639,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Musese",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Musese"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228741
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a7286859bd655169f9097341544acabd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209248575
+        }
+    ],
+    "wof:id":1209248575,
+    "wof:lastmodified":1537712072,
+    "wof:name":"Musese",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.18639,
+    0.91056,
+    34.18639,
+    0.91056
+],
+  "geometry": {"coordinates":[34.18639,0.91056],"type":"Point"}
+}

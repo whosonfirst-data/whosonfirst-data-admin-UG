@@ -1,0 +1,68 @@
+{
+  "id": 1276695613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.8154,0.92762,33.8154,0.92762",
+    "geom:latitude":0.92762,
+    "geom:longitude":33.8154,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C6",
+    "gn:asciiname":"Nawetaka",
+    "gn:country_code":"UG",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429825,
+    "gn:latitude":0.92762,
+    "gn:longitude":33.8154,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Nawetaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679981,
+        1092069677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429825
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"433746c61b0e1660e688e0b9e3cec04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069677,
+            "locality_id":1276695613,
+            "region_id":85679981
+        }
+    ],
+    "wof:id":1276695613,
+    "wof:lastmodified":1536790604,
+    "wof:name":"Nawetaka",
+    "wof:parent_id":1092069677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.8154,
+    0.92762,
+    33.8154,
+    0.92762
+],
+  "geometry": {"coordinates":[33.8154,0.92762],"type":"Point"}
+}

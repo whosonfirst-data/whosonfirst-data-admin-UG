@@ -1,0 +1,70 @@
+{
+  "id": 1293523539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.92821,0.83957,33.92821,0.83957",
+    "geom:latitude":0.83957,
+    "geom:longitude":33.92821,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C6",
+    "gn:admin3_code":"234147.0",
+    "gn:admin4_code":"8657691.0",
+    "gn:asciiname":"Buslowe",
+    "gn:country_code":"UG",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8629898,
+    "gn:latitude":0.83957,
+    "gn:longitude":33.92821,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Buslowe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679981,
+        1092069677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629898
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c8844d48a89fef9213bb61638bf1b3e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069677,
+            "locality_id":1293523539,
+            "region_id":85679981
+        }
+    ],
+    "wof:id":1293523539,
+    "wof:lastmodified":1536735223,
+    "wof:name":"Buslowe",
+    "wof:parent_id":1092069677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.92821,
+    0.83957,
+    33.92821,
+    0.83957
+],
+  "geometry": {"coordinates":[33.92821,0.83957],"type":"Point"}
+}

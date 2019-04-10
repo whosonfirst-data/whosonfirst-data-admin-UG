@@ -1,0 +1,67 @@
+{
+  "id": 1209225147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.23938,2.68093,32.23938,2.68093",
+    "geom:latitude":2.68093,
+    "geom:longitude":32.23938,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"I5",
+    "gn:admin3_code":"227037.0",
+    "gn:admin4_code":"7732533.0",
+    "gn:asciiname":"Ongako",
+    "gn:country_code":"UG",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227001,
+    "gn:latitude":2.68093,
+    "gn:longitude":32.23938,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Ongako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ongoko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227001
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"60afab42cea534b423534ed21a231b6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209225147
+        }
+    ],
+    "wof:id":1209225147,
+    "wof:lastmodified":1537712061,
+    "wof:name":"Ongako",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.23938,
+    2.68093,
+    32.23938,
+    2.68093
+],
+  "geometry": {"coordinates":[32.23938,2.68093],"type":"Point"}
+}

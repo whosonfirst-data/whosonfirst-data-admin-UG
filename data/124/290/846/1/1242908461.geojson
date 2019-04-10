@@ -1,0 +1,68 @@
+{
+  "id": 1242908461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.28026,0.84268,33.28026,0.84268",
+    "geom:latitude":0.84268,
+    "geom:longitude":33.28026,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Buwande",
+    "gn:country_code":"UG",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553190,
+    "gn:latitude":0.84268,
+    "gn:longitude":33.28026,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Buwande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092068917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553190
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"df83806af4b69be035e7c65b4106690b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068917,
+            "locality_id":1242908461,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":1242908461,
+    "wof:lastmodified":1537080982,
+    "wof:name":"Buwande",
+    "wof:parent_id":1092068917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.28026,
+    0.84268,
+    33.28026,
+    0.84268
+],
+  "geometry": {"coordinates":[33.28026,0.84268],"type":"Point"}
+}

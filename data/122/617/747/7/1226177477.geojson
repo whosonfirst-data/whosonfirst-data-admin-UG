@@ -1,0 +1,70 @@
+{
+  "id": 1226177477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.95378,0.96456,33.95378,0.96456",
+    "geom:latitude":0.96456,
+    "geom:longitude":33.95378,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C1",
+    "gn:admin3_code":"8644159.0",
+    "gn:admin4_code":"8658152.0",
+    "gn:asciiname":"Irabi",
+    "gn:country_code":"UG",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233222,
+    "gn:latitude":0.96456,
+    "gn:longitude":33.95378,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Irabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680107,
+        1092068817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233222
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ff2cefd3efe53e98a686138d5fa504cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068817,
+            "locality_id":1226177477,
+            "region_id":85680107
+        }
+    ],
+    "wof:id":1226177477,
+    "wof:lastmodified":1537030611,
+    "wof:name":"Irabi",
+    "wof:parent_id":1092068817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.95378,
+    0.96456,
+    33.95378,
+    0.96456
+],
+  "geometry": {"coordinates":[33.95378,0.96456],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1293624061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.39453,0.46228,32.39453,0.46228",
+    "geom:latitude":0.46228,
+    "geom:longitude":32.39453,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:asciiname":"Kyabalamba",
+    "gn:country_code":"UG",
+    "gn:dem":1154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552044,
+    "gn:latitude":0.46228,
+    "gn:longitude":32.39453,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kyabalamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552044
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"147580697e6fee70b7005f1c9f2f8988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1293624061,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1293624061,
+    "wof:lastmodified":1537084140,
+    "wof:name":"Kyabalamba",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.39453,
+    0.46228,
+    32.39453,
+    0.46228
+],
+  "geometry": {"coordinates":[32.39453,0.46228],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243300279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.06613,0.52658,34.06613,0.52658",
+    "geom:latitude":0.52658,
+    "geom:longitude":34.06613,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"67",
+    "gn:admin3_code":"8644151.0",
+    "gn:admin4_code":"8658155.0",
+    "gn:asciiname":"Makina",
+    "gn:country_code":"UG",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229475,
+    "gn:latitude":0.52658,
+    "gn:longitude":34.06613,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Makina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Makina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679979,
+        1092073897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229475
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8da316e332c06af96c201d52cfc978cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073897,
+            "locality_id":1243300279,
+            "region_id":85679979
+        }
+    ],
+    "wof:id":1243300279,
+    "wof:lastmodified":1537712075,
+    "wof:name":"Makina",
+    "wof:parent_id":1092073897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.06613,
+    0.52658,
+    34.06613,
+    0.52658
+],
+  "geometry": {"coordinates":[34.06613,0.52658],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327060487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.27222,0.48056,30.27222,0.48056",
+    "geom:latitude":0.48056,
+    "geom:longitude":30.27222,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"H8",
+    "gn:admin3_code":"234153.0",
+    "gn:admin4_code":"8658611.0",
+    "gn:asciiname":"Kasenda",
+    "gn:country_code":"UG",
+    "gn:dem":1379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232080,
+    "gn:latitude":0.48056,
+    "gn:longitude":30.27222,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Kasenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232080
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"95a7f2a78103b9826825d9946385fd1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069721,
+            "locality_id":1327060487,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1327060487,
+    "wof:lastmodified":1536720373,
+    "wof:name":"Kasenda",
+    "wof:parent_id":1092069721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.27222,
+    0.48056,
+    30.27222,
+    0.48056
+],
+  "geometry": {"coordinates":[30.27222,0.48056],"type":"Point"}
+}

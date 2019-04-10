@@ -1,0 +1,71 @@
+{
+  "id": 1276586265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.13268,0.96924,34.13268,0.96924",
+    "geom:latitude":0.96924,
+    "geom:longitude":34.13268,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"87",
+    "gn:asciiname":"Bushiende",
+    "gn:country_code":"UG",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433414,
+    "gn:latitude":0.96924,
+    "gn:longitude":34.13268,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bushiende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bushiende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679965,
+        1092069563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433414
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"aabd798ea6a85e26cefd9775090c7c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069563,
+            "locality_id":1276586265,
+            "region_id":85679965
+        }
+    ],
+    "wof:id":1276586265,
+    "wof:lastmodified":1537712169,
+    "wof:name":"Bushiende",
+    "wof:parent_id":1092069563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.13268,
+    0.96924,
+    34.13268,
+    0.96924
+],
+  "geometry": {"coordinates":[34.13268,0.96924],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209746705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.63636,-1.29817,29.63636,-1.29817",
+    "geom:latitude":-1.29817,
+    "geom:longitude":29.63636,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"43",
+    "gn:admin3_code":"7874701.0",
+    "gn:admin4_code":"8658603.0",
+    "gn:asciiname":"Muramba",
+    "gn:country_code":"UG",
+    "gn:dem":1948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8643297,
+    "gn:latitude":-1.29817,
+    "gn:longitude":29.63636,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Muramba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680075,
+        1092068877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643297
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f3b4fc1ec95288d89afd703bf7d1d15c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068877,
+            "locality_id":1209746705,
+            "region_id":85680075
+        }
+    ],
+    "wof:id":1209746705,
+    "wof:lastmodified":1536394649,
+    "wof:name":"Muramba",
+    "wof:parent_id":1092068877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.63636,
+    -1.29817,
+    29.63636,
+    -1.29817
+],
+  "geometry": {"coordinates":[29.63636,-1.29817],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209952609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.36629,0.86783,34.36629,0.86783",
+    "geom:latitude":0.86783,
+    "geom:longitude":34.36629,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"I4",
+    "gn:admin3_code":"11887622.0",
+    "gn:admin4_code":"8658044.0",
+    "gn:asciiname":"Magale",
+    "gn:country_code":"UG",
+    "gn:dem":1563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229531,
+    "gn:latitude":0.86783,
+    "gn:longitude":34.36629,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Magale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magala",
+        "Magale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679969,
+        1092068753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229531
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"17c76eb75db342076d43d80a7037eb71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068753,
+            "locality_id":1209952609,
+            "region_id":85679969
+        }
+    ],
+    "wof:id":1209952609,
+    "wof:lastmodified":1537712076,
+    "wof:name":"Magale",
+    "wof:parent_id":1092068753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.36629,
+    0.86783,
+    34.36629,
+    0.86783
+],
+  "geometry": {"coordinates":[34.36629,0.86783],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1327048779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.58676,2.50628,31.58676,2.50628",
+    "geom:latitude":2.50628,
+    "geom:longitude":31.58676,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"8644126.0",
+    "gn:admin4_code":"8200494.0",
+    "gn:asciiname":"Te-Okot",
+    "gn:country_code":"UG",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226159,
+    "gn:latitude":2.50628,
+    "gn:longitude":31.58676,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Te-Okot",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Te Okuto",
+        "Te\u2019okoto",
+        "Te-Okot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680247,
+        1092073225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226159
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b0ba560e12d582b861172d94fa000708",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073225,
+            "locality_id":1327048779,
+            "region_id":85680247
+        }
+    ],
+    "wof:id":1327048779,
+    "wof:lastmodified":1537712054,
+    "wof:name":"Te-Okot",
+    "wof:parent_id":1092073225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.58676,
+    2.50628,
+    31.58676,
+    2.50628
+],
+  "geometry": {"coordinates":[31.58676,2.50628],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1309746369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.49733,0.15901,32.49733,0.15901",
+    "geom:latitude":0.15901,
+    "geom:longitude":32.49733,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:asciiname":"Namuzzi",
+    "gn:country_code":"UG",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552542,
+    "gn:latitude":0.15901,
+    "gn:longitude":32.49733,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Namuzzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552542
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"eb16b6c2a4ddcc11b091489e0822f8d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1309746369,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1309746369,
+    "wof:lastmodified":1537016147,
+    "wof:name":"Namuzzi",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.49733,
+    0.15901,
+    32.49733,
+    0.15901
+],
+  "geometry": {"coordinates":[32.49733,0.15901],"type":"Point"}
+}

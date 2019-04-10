@@ -1,0 +1,76 @@
+{
+  "id": 1243208489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.14333,-0.89306,30.14333,-0.89306",
+    "geom:latitude":-0.89306,
+    "geom:longitude":30.14333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"7732262.0",
+    "gn:admin4_code":"8657865.0",
+    "gn:asciiname":"Rwashamaire",
+    "gn:cc2":"UG",
+    "gn:country_code":"UG",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226491,
+    "gn:latitude":-0.89306,
+    "gn:longitude":30.14333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rwashamaire",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lwasamaire",
+        "Lwasamarie",
+        "Rwashamaire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680059,
+        1092071063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226491
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c3ba6a8a03e6a6d94453a3ed4c6ef1bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071063,
+            "locality_id":1243208489,
+            "region_id":85680059
+        }
+    ],
+    "wof:id":1243208489,
+    "wof:lastmodified":1537712056,
+    "wof:name":"Rwashamaire",
+    "wof:parent_id":1092071063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.14333,
+    -0.89306,
+    30.14333,
+    -0.89306
+],
+  "geometry": {"coordinates":[30.14333,-0.89306],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310236043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.38333,-0.36667,31.38333,-0.36667",
+    "geom:latitude":-0.36667,
+    "geom:longitude":31.38333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"G5",
+    "gn:admin3_code":"7910221.0",
+    "gn:admin4_code":"8658165.0",
+    "gn:asciiname":"Bugonzi",
+    "gn:country_code":"UG",
+    "gn:dem":1272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234527,
+    "gn:latitude":-0.36667,
+    "gn:longitude":31.38333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bugonzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680031,
+        1092069393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234527
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"342bbecf7d4ea4f8913f38f77e9619b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069393,
+            "locality_id":1310236043,
+            "region_id":85680031
+        }
+    ],
+    "wof:id":1310236043,
+    "wof:lastmodified":1536807914,
+    "wof:name":"Bugonzi",
+    "wof:parent_id":1092069393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.38333,
+    -0.36667,
+    31.38333,
+    -0.36667
+],
+  "geometry": {"coordinates":[31.38333,-0.36667],"type":"Point"}
+}

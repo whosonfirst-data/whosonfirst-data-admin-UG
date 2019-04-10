@@ -1,0 +1,74 @@
+{
+  "id": 1310016277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.94347,3.04986,30.94347,3.04986",
+    "geom:latitude":3.04986,
+    "geom:longitude":30.94347,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"234911.0",
+    "gn:admin4_code":"8657558.0",
+    "gn:asciiname":"Ombachi",
+    "gn:country_code":"UG",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227062,
+    "gn:latitude":3.04986,
+    "gn:longitude":30.94347,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ombachi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ombache",
+        "Ombachi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679837,
+        1092068591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227062
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"84b96c929755cbceabf97e2386bf1095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068591,
+            "locality_id":1310016277,
+            "region_id":85679837
+        }
+    ],
+    "wof:id":1310016277,
+    "wof:lastmodified":1537712062,
+    "wof:name":"Ombachi",
+    "wof:parent_id":1092068591,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.94347,
+    3.04986,
+    30.94347,
+    3.04986
+],
+  "geometry": {"coordinates":[30.94347,3.04986],"type":"Point"}
+}

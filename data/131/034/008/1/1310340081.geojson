@@ -1,0 +1,70 @@
+{
+  "id": 1310340081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.69516,-0.56925,29.69516,-0.56925",
+    "geom:latitude":-0.56925,
+    "geom:longitude":29.69516,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"82",
+    "gn:admin3_code":"7732525.0",
+    "gn:admin4_code":"8657710.0",
+    "gn:asciiname":"Kihihi",
+    "gn:country_code":"UG",
+    "gn:dem":943,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA4",
+    "gn:geonameid":11189130,
+    "gn:latitude":-0.56925,
+    "gn:longitude":29.69516,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Kihihi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680079,
+        1092071685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11189130
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5bc5084156049837fa5e100d74a555a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071685,
+            "locality_id":1310340081,
+            "region_id":85680079
+        }
+    ],
+    "wof:id":1310340081,
+    "wof:lastmodified":1536658170,
+    "wof:name":"Kihihi",
+    "wof:parent_id":1092071685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.69516,
+    -0.56925,
+    29.69516,
+    -0.56925
+],
+  "geometry": {"coordinates":[29.69516,-0.56925],"type":"Point"}
+}

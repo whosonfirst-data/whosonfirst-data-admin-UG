@@ -1,0 +1,70 @@
+{
+  "id": 1276266635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.11667,1.03333,32.11667,1.03333",
+    "geom:latitude":1.03333,
+    "geom:longitude":32.11667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D9",
+    "gn:admin3_code":"8644153.0",
+    "gn:admin4_code":"8658601.0",
+    "gn:asciiname":"Kyabagoye",
+    "gn:country_code":"UG",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230549,
+    "gn:latitude":1.03333,
+    "gn:longitude":32.11667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyabagoye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679895,
+        1092072985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230549
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f1e84e670e358ac59fa0aedff09118ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072985,
+            "locality_id":1276266635,
+            "region_id":85679895
+        }
+    ],
+    "wof:id":1276266635,
+    "wof:lastmodified":1536866675,
+    "wof:name":"Kyabagoye",
+    "wof:parent_id":1092072985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.11667,
+    1.03333,
+    32.11667,
+    1.03333
+],
+  "geometry": {"coordinates":[32.11667,1.03333],"type":"Point"}
+}

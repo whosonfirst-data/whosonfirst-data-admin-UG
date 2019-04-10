@@ -1,0 +1,70 @@
+{
+  "id": 1343968557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.55753,3.49721,31.55753,3.49721",
+    "geom:latitude":3.49721,
+    "geom:longitude":31.55753,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"72",
+    "gn:admin3_code":"8644127.0",
+    "gn:admin4_code":"8657844.0",
+    "gn:asciiname":"Lereje",
+    "gn:country_code":"UG",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8140808,
+    "gn:latitude":3.49721,
+    "gn:longitude":31.55753,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lereje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679853,
+        1092073299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8140808
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8c9bec0a10f52ecf415b5a8297048a9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073299,
+            "locality_id":1343968557,
+            "region_id":85679853
+        }
+    ],
+    "wof:id":1343968557,
+    "wof:lastmodified":1537007481,
+    "wof:name":"Lereje",
+    "wof:parent_id":1092073299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.55753,
+    3.49721,
+    31.55753,
+    3.49721
+],
+  "geometry": {"coordinates":[31.55753,3.49721],"type":"Point"}
+}

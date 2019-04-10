@@ -1,0 +1,70 @@
+{
+  "id": 1327270251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.86349,1.70249,31.86349,1.70249",
+    "geom:latitude":1.70249,
+    "geom:longitude":31.86349,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"8644129.0",
+    "gn:admin4_code":"8657798.0",
+    "gn:asciiname":"Kinumi",
+    "gn:country_code":"UG",
+    "gn:dem":1103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8079462,
+    "gn:latitude":1.70249,
+    "gn:longitude":31.86349,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kinumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092069799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8079462
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0927a6fc5bb2cf74a66a159d189ddd0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069799,
+            "locality_id":1327270251,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1327270251,
+    "wof:lastmodified":1536915395,
+    "wof:name":"Kinumi",
+    "wof:parent_id":1092069799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.86349,
+    1.70249,
+    31.86349,
+    1.70249
+],
+  "geometry": {"coordinates":[31.86349,1.70249],"type":"Point"}
+}

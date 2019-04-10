@@ -1,0 +1,70 @@
+{
+  "id": 1360103707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.41181,2.28578,31.41181,2.28578",
+    "geom:latitude":2.28578,
+    "geom:longitude":31.41181,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"8644126.0",
+    "gn:admin4_code":"8200494.0",
+    "gn:asciiname":"Wandera",
+    "gn:country_code":"UG",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200491,
+    "gn:latitude":2.28578,
+    "gn:longitude":31.41181,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wandera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680247,
+        1092073225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200491
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9e9cb671ea01da6a1ba5a33bd7545e0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073225,
+            "locality_id":1360103707,
+            "region_id":85680247
+        }
+    ],
+    "wof:id":1360103707,
+    "wof:lastmodified":1536919360,
+    "wof:name":"Wandera",
+    "wof:parent_id":1092073225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.41181,
+    2.28578,
+    31.41181,
+    2.28578
+],
+  "geometry": {"coordinates":[31.41181,2.28578],"type":"Point"}
+}

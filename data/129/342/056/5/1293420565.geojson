@@ -1,0 +1,74 @@
+{
+  "id": 1293420565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.40111,-0.32639,30.40111,-0.32639",
+    "geom:latitude":-0.32639,
+    "geom:longitude":30.40111,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"E6",
+    "gn:admin3_code":"234484.0",
+    "gn:admin4_code":"8657648.0",
+    "gn:asciiname":"Butale",
+    "gn:country_code":"UG",
+    "gn:dem":1851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234008,
+    "gn:latitude":-0.32639,
+    "gn:longitude":30.40111,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Butale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Butare",
+        "Butale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680241,
+        1092069121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234008
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ab6e2f05b8781e1a5922b8258091bed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069121,
+            "locality_id":1293420565,
+            "region_id":85680241
+        }
+    ],
+    "wof:id":1293420565,
+    "wof:lastmodified":1537712098,
+    "wof:name":"Butale",
+    "wof:parent_id":1092069121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.40111,
+    -0.32639,
+    30.40111,
+    -0.32639
+],
+  "geometry": {"coordinates":[30.40111,-0.32639],"type":"Point"}
+}

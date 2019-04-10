@@ -1,0 +1,62 @@
+{
+  "id": 1209651285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.61928,0.61107,33.61928,0.61107",
+    "geom:latitude":0.61107,
+    "geom:longitude":33.61928,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"78",
+    "gn:asciiname":"Mufumi",
+    "gn:country_code":"UG",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429756,
+    "gn:latitude":0.61107,
+    "gn:longitude":33.61928,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Mufumi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429756
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f138500804be191e518df76bea332c5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209651285
+        }
+    ],
+    "wof:id":1209651285,
+    "wof:lastmodified":1536280572,
+    "wof:name":"Mufumi",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.61928,
+    0.61107,
+    33.61928,
+    0.61107
+],
+  "geometry": {"coordinates":[33.61928,0.61107],"type":"Point"}
+}

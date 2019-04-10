@@ -1,0 +1,70 @@
+{
+  "id": 1343394743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.06667,0.55,32.06667,0.55",
+    "geom:latitude":0.55,
+    "geom:longitude":32.06667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:admin3_code":"8644152.0",
+    "gn:admin4_code":"8658702.0",
+    "gn:asciiname":"Kitemu",
+    "gn:country_code":"UG",
+    "gn:dem":1366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230910,
+    "gn:latitude":0.55,
+    "gn:longitude":32.06667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kitemu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679891,
+        1092072811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230910
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"99a5bac110863849b641b5d84c2f4211",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072811,
+            "locality_id":1343394743,
+            "region_id":85679891
+        }
+    ],
+    "wof:id":1343394743,
+    "wof:lastmodified":1536840064,
+    "wof:name":"Kitemu",
+    "wof:parent_id":1092072811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.06667,
+    0.55,
+    32.06667,
+    0.55
+],
+  "geometry": {"coordinates":[32.06667,0.55],"type":"Point"}
+}

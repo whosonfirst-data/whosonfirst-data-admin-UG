@@ -1,0 +1,64 @@
+{
+  "id": 1209139811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.94112,1.01271,30.94112,1.01271",
+    "geom:latitude":1.01271,
+    "geom:longitude":30.94112,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"I1",
+    "gn:admin3_code":"233860.0",
+    "gn:admin4_code":"8657817.0",
+    "gn:asciiname":"Nyabutanzi",
+    "gn:country_code":"UG",
+    "gn:dem":1196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11204209,
+    "gn:latitude":1.01271,
+    "gn:longitude":30.94112,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Nyabutanzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11204209
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"03e3882624034636d146150de2f89dfa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209139811
+        }
+    ],
+    "wof:id":1209139811,
+    "wof:lastmodified":1536296541,
+    "wof:name":"Nyabutanzi",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.94112,
+    1.01271,
+    30.94112,
+    1.01271
+],
+  "geometry": {"coordinates":[30.94112,1.01271],"type":"Point"}
+}

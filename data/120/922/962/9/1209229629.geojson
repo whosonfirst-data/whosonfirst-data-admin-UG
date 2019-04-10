@@ -1,0 +1,64 @@
+{
+  "id": 1209229629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1586,2.30247,31.1586,2.30247",
+    "geom:latitude":2.30247,
+    "geom:longitude":31.1586,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"8080237.0",
+    "gn:admin4_code":"8261561.0",
+    "gn:asciiname":"Uduk",
+    "gn:country_code":"UG",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8080274,
+    "gn:latitude":2.30247,
+    "gn:longitude":31.1586,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Uduk",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8080274
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7001c3bc1d22c3020c97c06f42845896",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209229629
+        }
+    ],
+    "wof:id":1209229629,
+    "wof:lastmodified":1536293679,
+    "wof:name":"Uduk",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1586,
+    2.30247,
+    31.1586,
+    2.30247
+],
+  "geometry": {"coordinates":[31.1586,2.30247],"type":"Point"}
+}

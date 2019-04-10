@@ -1,0 +1,68 @@
+{
+  "id": 1343696817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.41364,0.4768,32.41364,0.4768",
+    "geom:latitude":0.4768,
+    "geom:longitude":32.41364,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:asciiname":"Kongojje",
+    "gn:country_code":"UG",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552041,
+    "gn:latitude":0.4768,
+    "gn:longitude":32.41364,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kongojje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552041
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ec261328d98ef615d3896439a43ffae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1343696817,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1343696817,
+    "wof:lastmodified":1536902737,
+    "wof:name":"Kongojje",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.41364,
+    0.4768,
+    32.41364,
+    0.4768
+],
+  "geometry": {"coordinates":[32.41364,0.4768],"type":"Point"}
+}

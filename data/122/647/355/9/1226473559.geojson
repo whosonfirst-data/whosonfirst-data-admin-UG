@@ -1,0 +1,70 @@
+{
+  "id": 1226473559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95611,-0.69833,30.95611,-0.69833",
+    "geom:latitude":-0.69833,
+    "geom:longitude":30.95611,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"D3",
+    "gn:admin3_code":"7870011.0",
+    "gn:admin4_code":"8657568.0",
+    "gn:asciiname":"Mweza",
+    "gn:country_code":"UG",
+    "gn:dem":1244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228632,
+    "gn:latitude":-0.69833,
+    "gn:longitude":30.95611,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mweza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        1108808411,
+        1092073255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228632
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1c5fb0427debb842567d38881769b29b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073255,
+            "locality_id":1226473559,
+            "region_id":1108808411
+        }
+    ],
+    "wof:id":1226473559,
+    "wof:lastmodified":1536602310,
+    "wof:name":"Mweza",
+    "wof:parent_id":1092073255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95611,
+    -0.69833,
+    30.95611,
+    -0.69833
+],
+  "geometry": {"coordinates":[30.95611,-0.69833],"type":"Point"}
+}

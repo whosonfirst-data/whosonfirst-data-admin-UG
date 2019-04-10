@@ -1,0 +1,70 @@
+{
+  "id": 1242907793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.56669,0.14359,32.56669,0.14359",
+    "geom:latitude":0.14359,
+    "geom:longitude":32.56669,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"234053.0",
+    "gn:admin4_code":"8658284.0",
+    "gn:asciiname":"Bwerenga",
+    "gn:country_code":"UG",
+    "gn:dem":1152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233750,
+    "gn:latitude":0.14359,
+    "gn:longitude":32.56669,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Bwerenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233750
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d847681583e313c66613980d88182f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1242907793,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1242907793,
+    "wof:lastmodified":1537081958,
+    "wof:name":"Bwerenga",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.56669,
+    0.14359,
+    32.56669,
+    0.14359
+],
+  "geometry": {"coordinates":[32.56669,0.14359],"type":"Point"}
+}

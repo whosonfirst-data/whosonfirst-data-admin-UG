@@ -1,0 +1,74 @@
+{
+  "id": 1360116245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.7,1.1,33.7,1.1",
+    "geom:latitude":1.1,
+    "geom:longitude":33.7,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"F6",
+    "gn:admin3_code":"8644179.0",
+    "gn:admin4_code":"8658071.0",
+    "gn:asciiname":"Nankodo",
+    "gn:country_code":"UG",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228056,
+    "gn:latitude":1.1,
+    "gn:longitude":33.7,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nankodo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nankondo",
+        "Nankodo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680111,
+        1092071585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228056
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3aa07c4545e92553a2e364c7e86b620f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071585,
+            "locality_id":1360116245,
+            "region_id":85680111
+        }
+    ],
+    "wof:id":1360116245,
+    "wof:lastmodified":1537712068,
+    "wof:name":"Nankodo",
+    "wof:parent_id":1092071585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.7,
+    1.1,
+    33.7,
+    1.1
+],
+  "geometry": {"coordinates":[33.7,1.1],"type":"Point"}
+}

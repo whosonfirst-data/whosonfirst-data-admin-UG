@@ -1,0 +1,75 @@
+{
+  "id": 1327462423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8,-0.76667,29.8,-0.76667",
+    "geom:latitude":-0.76667,
+    "geom:longitude":29.8,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"82",
+    "gn:admin3_code":"7732525.0",
+    "gn:admin4_code":"8657963.0",
+    "gn:asciiname":"Bugonje",
+    "gn:country_code":"UG",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234530,
+    "gn:latitude":-0.76667,
+    "gn:longitude":29.8,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bugonje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bugonio",
+        "Bugonge",
+        "Bugonje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680079,
+        1092071685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234530
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0414182654ce9f94d69188db148c0470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071685,
+            "locality_id":1327462423,
+            "region_id":85680079
+        }
+    ],
+    "wof:id":1327462423,
+    "wof:lastmodified":1537712102,
+    "wof:name":"Bugonje",
+    "wof:parent_id":1092071685,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8,
+    -0.76667,
+    29.8,
+    -0.76667
+],
+  "geometry": {"coordinates":[29.8,-0.76667],"type":"Point"}
+}

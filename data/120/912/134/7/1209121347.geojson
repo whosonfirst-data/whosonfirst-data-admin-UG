@@ -1,0 +1,64 @@
+{
+  "id": 1209121347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.18141,3.36729,33.18141,3.36729",
+    "geom:latitude":3.36729,
+    "geom:longitude":33.18141,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"84",
+    "gn:admin3_code":"233642.0",
+    "gn:admin4_code":"8658113.0",
+    "gn:asciiname":"Latuturu",
+    "gn:country_code":"UG",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8694017,
+    "gn:latitude":3.36729,
+    "gn:longitude":33.18141,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Latuturu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8694017
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"747f1ff103eea12474d1bbf848ff1320",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209121347
+        }
+    ],
+    "wof:id":1209121347,
+    "wof:lastmodified":1536297088,
+    "wof:name":"Latuturu",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.18141,
+    3.36729,
+    33.18141,
+    3.36729
+],
+  "geometry": {"coordinates":[33.18141,3.36729],"type":"Point"}
+}

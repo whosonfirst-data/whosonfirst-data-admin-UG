@@ -1,0 +1,74 @@
+{
+  "id": 1293717743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.60182,0.59428,33.60182,0.59428",
+    "geom:latitude":0.59428,
+    "geom:longitude":33.60182,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"78",
+    "gn:admin3_code":"234502.0",
+    "gn:admin4_code":"8643428.0",
+    "gn:asciiname":"Ibulanku",
+    "gn:country_code":"UG",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233284,
+    "gn:latitude":0.59428,
+    "gn:longitude":33.60182,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Ibulanku",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bulanku",
+        "Ibulanku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679789,
+        1092069033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233284
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f402d4c467fe4d8c9efe75ba4a2e7c79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069033,
+            "locality_id":1293717743,
+            "region_id":85679789
+        }
+    ],
+    "wof:id":1293717743,
+    "wof:lastmodified":1537712094,
+    "wof:name":"Ibulanku",
+    "wof:parent_id":1092069033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.60182,
+    0.59428,
+    33.60182,
+    0.59428
+],
+  "geometry": {"coordinates":[33.60182,0.59428],"type":"Point"}
+}

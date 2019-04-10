@@ -1,0 +1,70 @@
+{
+  "id": 1209546443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.62139,-0.53639,31.62139,-0.53639",
+    "geom:latitude":-0.53639,
+    "geom:longitude":31.62139,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"I3",
+    "gn:admin3_code":"8644144.0",
+    "gn:admin4_code":"8658686.0",
+    "gn:asciiname":"Kalisizo",
+    "gn:cc2":"UG",
+    "gn:country_code":"UG",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232522,
+    "gn:latitude":-0.53639,
+    "gn:longitude":31.62139,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Kalisizo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katisizo",
+        "Kalisizo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232522,
+        "wk:page":"Kalisizo"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"30deda6489f3d5623ca931605c8dd00c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209546443
+        }
+    ],
+    "wof:id":1209546443,
+    "wof:lastmodified":1537712090,
+    "wof:name":"Kalisizo",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.62139,
+    -0.53639,
+    31.62139,
+    -0.53639
+],
+  "geometry": {"coordinates":[31.62139,-0.53639],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1225879251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.39681,0.86072,34.39681,0.86072",
+    "geom:latitude":0.86072,
+    "geom:longitude":34.39681,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"I4",
+    "gn:admin3_code":"11887622.0",
+    "gn:admin4_code":"8658183.0",
+    "gn:asciiname":"Bumbo",
+    "gn:country_code":"UG",
+    "gn:dem":1539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234201,
+    "gn:latitude":0.86072,
+    "gn:longitude":34.39681,
+    "gn:modification_date":"2018-06-24",
+    "gn:name":"Bumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bumbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679969,
+        1092068753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234201
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f5da234eabbfed6f6f4ac7df00a656c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068753,
+            "locality_id":1225879251,
+            "region_id":85679969
+        }
+    ],
+    "wof:id":1225879251,
+    "wof:lastmodified":1537712099,
+    "wof:name":"Bumbo",
+    "wof:parent_id":1092068753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.39681,
+    0.86072,
+    34.39681,
+    0.86072
+],
+  "geometry": {"coordinates":[34.39681,0.86072],"type":"Point"}
+}

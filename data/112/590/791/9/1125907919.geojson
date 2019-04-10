@@ -1,0 +1,88 @@
+{
+  "id": 1125907919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.08608,1.69606,32.08608,1.69606",
+    "geom:latitude":1.69606,
+    "geom:longitude":32.08608,
+    "gn:gn_country":"UG",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":7828,
+    "gn:population":7828,
+    "iso:country":"UG",
+    "lbl:latitude":1.69606,
+    "lbl:longitude":32.08608,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Masindi Port"
+    ],
+    "name:eng_x_preferred":[
+        "Masindi Port"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0633\u06cc\u0646\u062f\u06cc \u067e\u0648\u0631\u0679"
+    ],
+    "qs_pg:aaroncc":"UG",
+    "qs_pg:gn_country":"UG",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":229361,
+    "qs_pg:gn_pop":7828,
+    "qs_pg:name":"Masindi Port",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":5,
+    "qs_pg:qs_id":1298896,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680175,
+        1092071513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229361,
+        "qs_pg:id":1298896,
+        "wd:id":"Q6783287"
+    },
+    "wof:country":"UG",
+    "wof:created":1497296047,
+    "wof:geomhash":"87fa112951f5fec72f091cd318c1519b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071513,
+            "locality_id":1125907919,
+            "region_id":85680175
+        }
+    ],
+    "wof:id":1125907919,
+    "wof:lastmodified":1514511055,
+    "wof:name":"Masindi Port",
+    "wof:parent_id":1092071513,
+    "wof:placetype":"locality",
+    "wof:population":7828,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.08608,
+    1.69606,
+    32.08608,
+    1.69606
+],
+  "geometry": {"coordinates":[32.08608,1.69606],"type":"Point"}
+}

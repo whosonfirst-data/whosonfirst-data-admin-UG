@@ -1,0 +1,70 @@
+{
+  "id": 1293626113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.33333,0.21667,32.33333,0.21667",
+    "geom:latitude":0.21667,
+    "geom:longitude":32.33333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:admin3_code":"7910214.0",
+    "gn:admin4_code":"8657607.0",
+    "gn:asciiname":"Mpami",
+    "gn:country_code":"UG",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229046,
+    "gn:latitude":0.21667,
+    "gn:longitude":32.33333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mpami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679827,
+        1092072705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229046
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3245cf2b454ab4005baa6823e17f0d09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072705,
+            "locality_id":1293626113,
+            "region_id":85679827
+        }
+    ],
+    "wof:id":1293626113,
+    "wof:lastmodified":1537081109,
+    "wof:name":"Mpami",
+    "wof:parent_id":1092072705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.33333,
+    0.21667,
+    32.33333,
+    0.21667
+],
+  "geometry": {"coordinates":[32.33333,0.21667],"type":"Point"}
+}

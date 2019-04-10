@@ -1,0 +1,71 @@
+{
+  "id": 1326863651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.66667,0.45,32.66667,0.45",
+    "geom:latitude":0.45,
+    "geom:longitude":32.66667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"90",
+    "gn:admin3_code":"8644169.0",
+    "gn:admin4_code":"8658070.0",
+    "gn:asciiname":"Kitukutwe",
+    "gn:country_code":"UG",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230850,
+    "gn:latitude":0.45,
+    "gn:longitude":32.66667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kitukutwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679817,
+        1092072911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230850,
+        "wk:page":"Kitukutwe"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"aa4854da6f7a203cb30b4fe3cae4c3f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072911,
+            "locality_id":1326863651,
+            "region_id":85679817
+        }
+    ],
+    "wof:id":1326863651,
+    "wof:lastmodified":1537575042,
+    "wof:name":"Kitukutwe",
+    "wof:parent_id":1092072911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.66667,
+    0.45,
+    32.66667,
+    0.45
+],
+  "geometry": {"coordinates":[32.66667,0.45],"type":"Point"}
+}

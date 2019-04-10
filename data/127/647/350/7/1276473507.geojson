@@ -1,0 +1,70 @@
+{
+  "id": 1276473507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1282,0.44546,30.1282,0.44546",
+    "geom:latitude":0.44546,
+    "geom:longitude":30.1282,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"40",
+    "gn:admin3_code":"234040.0",
+    "gn:admin4_code":"8657759.0",
+    "gn:asciiname":"Bwesumbu",
+    "gn:country_code":"UG",
+    "gn:dem":1763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8581608,
+    "gn:latitude":0.44546,
+    "gn:longitude":30.1282,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bwesumbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680037,
+        1092069895
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8581608
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a913aea38495a20c91ca72150c2424d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069895,
+            "locality_id":1276473507,
+            "region_id":85680037
+        }
+    ],
+    "wof:id":1276473507,
+    "wof:lastmodified":1537085151,
+    "wof:name":"Bwesumbu",
+    "wof:parent_id":1092069895,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1282,
+    0.44546,
+    30.1282,
+    0.44546
+],
+  "geometry": {"coordinates":[30.1282,0.44546],"type":"Point"}
+}

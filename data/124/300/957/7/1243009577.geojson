@@ -1,0 +1,70 @@
+{
+  "id": 1243009577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.83333,0.86667,32.83333,0.86667",
+    "geom:latitude":0.86667,
+    "geom:longitude":32.83333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"83",
+    "gn:admin3_code":"8644158.0",
+    "gn:admin4_code":"8657767.0",
+    "gn:asciiname":"Kamusabi",
+    "gn:country_code":"UG",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232391,
+    "gn:latitude":0.86667,
+    "gn:longitude":32.83333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kamusabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679787,
+        1092068673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232391
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"30ae870eb13608b390b8e938d353ab25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068673,
+            "locality_id":1243009577,
+            "region_id":85679787
+        }
+    ],
+    "wof:id":1243009577,
+    "wof:lastmodified":1536939077,
+    "wof:name":"Kamusabi",
+    "wof:parent_id":1092068673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.83333,
+    0.86667,
+    32.83333,
+    0.86667
+],
+  "geometry": {"coordinates":[32.83333,0.86667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1344087731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.08425,0.60164,34.08425,0.60164",
+    "geom:latitude":0.60164,
+    "geom:longitude":34.08425,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Pakamalungi",
+    "gn:country_code":"UG",
+    "gn:dem":1123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11432929,
+    "gn:latitude":0.60164,
+    "gn:longitude":34.08425,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Pakamalungi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pakamalungi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679989,
+        1092074289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11432929
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0c6a859de9f1bf663274aaca6b419394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074289,
+            "locality_id":1344087731,
+            "region_id":85679989
+        }
+    ],
+    "wof:id":1344087731,
+    "wof:lastmodified":1537712158,
+    "wof:name":"Pakamalungi",
+    "wof:parent_id":1092074289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.08425,
+    0.60164,
+    34.08425,
+    0.60164
+],
+  "geometry": {"coordinates":[34.08425,0.60164],"type":"Point"}
+}

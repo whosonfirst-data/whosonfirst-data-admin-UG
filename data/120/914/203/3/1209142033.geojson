@@ -1,0 +1,64 @@
+{
+  "id": 1209142033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.81667,-0.06667,31.81667,-0.06667",
+    "geom:latitude":-0.06667,
+    "geom:longitude":31.81667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F5",
+    "gn:admin3_code":"7910220.0",
+    "gn:admin4_code":"8658356.0",
+    "gn:asciiname":"Lwannunda",
+    "gn:country_code":"UG",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229659,
+    "gn:latitude":-0.06667,
+    "gn:longitude":31.81667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lwannunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229659
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0d1048bae8ff21388ac172941f7c47f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209142033
+        }
+    ],
+    "wof:id":1209142033,
+    "wof:lastmodified":1536296472,
+    "wof:name":"Lwannunda",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.81667,
+    -0.06667000000000001,
+    31.81667,
+    -0.06667000000000001
+],
+  "geometry": {"coordinates":[31.81667,-0.06667],"type":"Point"}
+}

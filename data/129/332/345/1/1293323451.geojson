@@ -1,0 +1,70 @@
+{
+  "id": 1293323451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.55435,0.46012,32.55435,0.46012",
+    "geom:latitude":0.46012,
+    "geom:longitude":32.55435,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"7732385.0",
+    "gn:admin4_code":"8657924.0",
+    "gn:asciiname":"Kiti",
+    "gn:country_code":"UG",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11356826,
+    "gn:latitude":0.46012,
+    "gn:longitude":32.55435,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Kiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679879,
+        1092072041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11356826
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9628b0cb8dccb3e683eb886bdc648081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072041,
+            "locality_id":1293323451,
+            "region_id":85679879
+        }
+    ],
+    "wof:id":1293323451,
+    "wof:lastmodified":1537022634,
+    "wof:name":"Kiti",
+    "wof:parent_id":1092072041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.55435,
+    0.46012,
+    32.55435,
+    0.46012
+],
+  "geometry": {"coordinates":[32.55435,0.46012],"type":"Point"}
+}

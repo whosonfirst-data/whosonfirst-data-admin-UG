@@ -1,0 +1,68 @@
+{
+  "id": 1226082379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.2219,0.84794,33.2219,0.84794",
+    "geom:latitude":0.84794,
+    "geom:longitude":33.2219,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Mpakitoni",
+    "gn:country_code":"UG",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552985,
+    "gn:latitude":0.84794,
+    "gn:longitude":33.2219,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Mpakitoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092068917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552985
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"421d662421daf98d129f248e3f2be7c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068917,
+            "locality_id":1226082379,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":1226082379,
+    "wof:lastmodified":1536672201,
+    "wof:name":"Mpakitoni",
+    "wof:parent_id":1092068917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.2219,
+    0.84794,
+    33.2219,
+    0.84794
+],
+  "geometry": {"coordinates":[33.2219,0.84794],"type":"Point"}
+}

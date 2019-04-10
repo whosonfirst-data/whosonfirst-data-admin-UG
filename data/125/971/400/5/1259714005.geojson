@@ -1,0 +1,70 @@
+{
+  "id": 1259714005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.45,-0.15,30.45,-0.15",
+    "geom:latitude":-0.15,
+    "geom:longitude":30.45,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"81",
+    "gn:admin3_code":"7732901.0",
+    "gn:admin4_code":"8657792.0",
+    "gn:asciiname":"Bwera",
+    "gn:country_code":"UG",
+    "gn:dem":1423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233754,
+    "gn:latitude":-0.15,
+    "gn:longitude":30.45,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bwera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680041,
+        1092071759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233754
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b2910272ea44f7744d823a88dfd7a313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071759,
+            "locality_id":1259714005,
+            "region_id":85680041
+        }
+    ],
+    "wof:id":1259714005,
+    "wof:lastmodified":1537022233,
+    "wof:name":"Bwera",
+    "wof:parent_id":1092071759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.45,
+    -0.15,
+    30.45,
+    -0.15
+],
+  "geometry": {"coordinates":[30.45,-0.15],"type":"Point"}
+}

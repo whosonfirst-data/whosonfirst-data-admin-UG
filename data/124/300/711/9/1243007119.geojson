@@ -1,0 +1,70 @@
+{
+  "id": 1243007119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.07804,0.33787,32.07804,0.33787",
+    "geom:latitude":0.33787,
+    "geom:longitude":32.07804,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:admin3_code":"8644152.0",
+    "gn:admin4_code":"8657790.0",
+    "gn:asciiname":"Lubira",
+    "gn:country_code":"UG",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229944,
+    "gn:latitude":0.33787,
+    "gn:longitude":32.07804,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Lubira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679891,
+        1092072811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229944
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"76386bb7d1e8fd60aaeaaabdfa7a1c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072811,
+            "locality_id":1243007119,
+            "region_id":85679891
+        }
+    ],
+    "wof:id":1243007119,
+    "wof:lastmodified":1536942542,
+    "wof:name":"Lubira",
+    "wof:parent_id":1092072811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.07804,
+    0.33787,
+    32.07804,
+    0.33787
+],
+  "geometry": {"coordinates":[32.07804,0.33787],"type":"Point"}
+}

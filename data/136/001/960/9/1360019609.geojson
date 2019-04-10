@@ -1,0 +1,70 @@
+{
+  "id": 1360019609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.0,2.11667,34.0,2.11667",
+    "geom:latitude":2.11667,
+    "geom:longitude":34.0,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"69",
+    "gn:admin3_code":"8644130.0",
+    "gn:admin4_code":"8658607.0",
+    "gn:asciiname":"Obulingorok",
+    "gn:country_code":"UG",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227284,
+    "gn:latitude":2.11667,
+    "gn:longitude":34.0,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Obulingorok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679995,
+        1092074245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227284
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7ddc326456449d97589366b3a14b5108",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074245,
+            "locality_id":1360019609,
+            "region_id":85679995
+        }
+    ],
+    "wof:id":1360019609,
+    "wof:lastmodified":1537038457,
+    "wof:name":"Obulingorok",
+    "wof:parent_id":1092074245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.0,
+    2.11667,
+    34.0,
+    2.11667
+],
+  "geometry": {"coordinates":[34.0,2.11667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226376151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.06608,0.63796,33.06608,0.63796",
+    "geom:latitude":0.63796,
+    "geom:longitude":33.06608,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"33",
+    "gn:admin3_code":"8644143.0",
+    "gn:admin4_code":"8658175.0",
+    "gn:asciiname":"Lumuli",
+    "gn:country_code":"UG",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229812,
+    "gn:latitude":0.63796,
+    "gn:longitude":33.06608,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Lumuli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679773,
+        1092071019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229812
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"87d5f0082bd259c78df464fb7f1f0dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071019,
+            "locality_id":1226376151,
+            "region_id":85679773
+        }
+    ],
+    "wof:id":1226376151,
+    "wof:lastmodified":1536745517,
+    "wof:name":"Lumuli",
+    "wof:parent_id":1092071019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.06608,
+    0.63796,
+    33.06608,
+    0.63796
+],
+  "geometry": {"coordinates":[33.06608,0.63796],"type":"Point"}
+}

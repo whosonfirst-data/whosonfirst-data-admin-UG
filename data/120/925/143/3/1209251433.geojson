@@ -1,0 +1,67 @@
+{
+  "id": 1209251433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.99167,0.49598,33.99167,0.49598",
+    "geom:latitude":0.49598,
+    "geom:longitude":33.99167,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"67",
+    "gn:admin3_code":"8644151.0",
+    "gn:admin4_code":"8658309.0",
+    "gn:asciiname":"Bukabi",
+    "gn:country_code":"UG",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259214,
+    "gn:latitude":0.49598,
+    "gn:longitude":33.99167,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Bukabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bukabi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259214
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"315502fd4d2a38144584ed37ddd5a7fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209251433
+        }
+    ],
+    "wof:id":1209251433,
+    "wof:lastmodified":1537712122,
+    "wof:name":"Bukabi",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.99167,
+    0.49598,
+    33.99167,
+    0.49598
+],
+  "geometry": {"coordinates":[33.99167,0.49598],"type":"Point"}
+}

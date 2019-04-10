@@ -1,0 +1,68 @@
+{
+  "id": 1242712021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.97607,1.52748,33.97607,1.52748",
+    "geom:latitude":1.52748,
+    "geom:longitude":33.97607,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"46",
+    "gn:asciiname":"Achaboi",
+    "gn:country_code":"UG",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11498097,
+    "gn:latitude":1.52748,
+    "gn:longitude":33.97607,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Achaboi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679777,
+        1092071937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11498097
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6d1160dd62fef64bbe6a93fb9babedb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071937,
+            "locality_id":1242712021,
+            "region_id":85679777
+        }
+    ],
+    "wof:id":1242712021,
+    "wof:lastmodified":1536869025,
+    "wof:name":"Achaboi",
+    "wof:parent_id":1092071937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.97607,
+    1.52748,
+    33.97607,
+    1.52748
+],
+  "geometry": {"coordinates":[33.97607,1.52748],"type":"Point"}
+}

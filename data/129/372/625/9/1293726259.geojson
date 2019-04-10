@@ -1,0 +1,73 @@
+{
+  "id": 1293726259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.02399,0.21815,33.02399,0.21815",
+    "geom:latitude":0.21815,
+    "geom:longitude":33.02399,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E7",
+    "gn:admin3_code":"7732075.0",
+    "gn:admin4_code":"8658514.0",
+    "gn:asciiname":"Bwabiye",
+    "gn:country_code":"UG",
+    "gn:dem":1223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11356245,
+    "gn:latitude":0.21815,
+    "gn:longitude":33.02399,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Bwabiye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bwabiye"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680121,
+        1092069145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11356245
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b3a798fe3e9772cee5ac3c70cc96c435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069145,
+            "locality_id":1293726259,
+            "region_id":85680121
+        }
+    ],
+    "wof:id":1293726259,
+    "wof:lastmodified":1537712129,
+    "wof:name":"Bwabiye",
+    "wof:parent_id":1092069145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.02399,
+    0.21815,
+    33.02399,
+    0.21815
+],
+  "geometry": {"coordinates":[33.02399,0.21815],"type":"Point"}
+}

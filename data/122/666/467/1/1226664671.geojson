@@ -1,0 +1,74 @@
+{
+  "id": 1226664671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3,2.7,34.3,2.7",
+    "geom:latitude":2.7,
+    "geom:longitude":34.3,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"G8",
+    "gn:admin3_code":"234720.0",
+    "gn:admin4_code":"8657720.0",
+    "gn:asciiname":"Sinyu",
+    "gn:country_code":"UG",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226276,
+    "gn:latitude":2.7,
+    "gn:longitude":34.3,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Sinyu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinyo",
+        "Sinyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680201,
+        1092068715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226276
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c1e117542f012ab397d580f7debe4112",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068715,
+            "locality_id":1226664671,
+            "region_id":85680201
+        }
+    ],
+    "wof:id":1226664671,
+    "wof:lastmodified":1537712055,
+    "wof:name":"Sinyu",
+    "wof:parent_id":1092068715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3,
+    2.7,
+    34.3,
+    2.7
+],
+  "geometry": {"coordinates":[34.3,2.7],"type":"Point"}
+}

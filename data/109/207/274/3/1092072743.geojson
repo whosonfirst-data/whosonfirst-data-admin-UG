@@ -1,0 +1,193 @@
+{
+  "id": 1092072743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00197,
+    "geom:area_square_m":24354604.329041,
+    "geom:bbox":"34.1480295861,1.0527466703,34.2064218446,1.11145206243",
+    "geom:latitude":1.07979,
+    "geom:longitude":34.177163,
+    "iso:country":"UG",
+    "lbl:latitude":1.079135,
+    "lbl:longitude":34.174727,
+    "meso:admin_1":"MBALE",
+    "meso:admin_1r":"ELGON",
+    "meso:dissme":"MBALE MUNICIPALITYMBALEELGON",
+    "meso:gadm_admin":"Mbale",
+    "meso:gadm_hasc2":"UG.ME.MA",
+    "meso:gaul_admin":"Mbale Municipality",
+    "meso:mps_x":34.174727,
+    "meso:mps_y":1.079135,
+    "meso:name_en":"MBALE MUNICIPALITY",
+    "meso:source":"AOTM",
+    "mps:latitude":1.079135,
+    "mps:longitude":34.174727,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0628\u0627\u0644\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09ae\u09cd\u09ac\u09c7\u09b2 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u59c6\u5df4\u840a\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Mbale District"
+    ],
+    "name:dut_x_preferred":[
+        "Mbale"
+    ],
+    "name:eng_x_preferred":[
+        "Mbale Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Mbale Municipality",
+        "Mbale",
+        "MBALE MUNICIPALITY",
+        "Mbale District"
+    ],
+    "name:fin_x_preferred":[
+        "Mbalen kaupunginosa"
+    ],
+    "name:fre_x_preferred":[
+        "Mbale"
+    ],
+    "name:ger_x_preferred":[
+        "Distrikt Mbale"
+    ],
+    "name:glg_x_preferred":[
+        "Distrito Mbale"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03c0\u03ac\u03bb\u03b5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a8f\u0aae\u0acd\u0aac\u0ab2\u0ac7 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u093e\u0932\u0947 \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Mbale"
+    ],
+    "name:ita_x_preferred":[
+        "Mbale"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30d0\u30ec\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c8e\u0c82\u0cac\u0cb2\u0cc7 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc74c\ubc1c\ub808 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Mbales distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Mbal\u0117s apskritis"
+    ],
+    "name:lug_x_preferred":[
+        "Mbale"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u094d\u092c\u0932\u0947  \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Mbale District"
+    ],
+    "name:nob_x_preferred":[
+        "Mbale"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Mbale"
+    ],
+    "name:por_x_preferred":[
+        "Mbale"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Mbale"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0431\u0430\u043b\u0435"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d91\u0db8\u0dca\u0db6\u0dbd\u0dda \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Mbale"
+    ],
+    "name:swa_x_preferred":[
+        "Wilaya ya Mbale"
+    ],
+    "name:swe_x_preferred":[
+        "Mbaledistriktet"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bcd\u0baa\u0bb2\u0bc7  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c0e\u0c02\u0c2c\u0c47\u0c32\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e21\u0e40\u0e1a\u0e25\u0e25\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Mbale District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u041c\u0431\u0430\u043b\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0628\u0627\u0644\u06d2 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Mbale"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"UG.ME.MA",
+        "wd:id":"Q581822"
+    },
+    "wof:country":"UG",
+    "wof:created":1473899420,
+    "wof:geomhash":"4fea5848620487c4aefc7e5f2cb0bd85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072743,
+            "region_id":85679965
+        }
+    ],
+    "wof:id":1092072743,
+    "wof:lastmodified":1543954408,
+    "wof:name":"Mbale Municipality",
+    "wof:parent_id":85679965,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:shortcode":"MA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.14802958605112,
+    1.05274667030276,
+    34.20642184457751,
+    1.11145206243378
+],
+  "geometry": {"coordinates":[[[34.14833027921089,1.07841229309443],[34.14802958605112,1.07996975586643],[34.14842664776319,1.0812572607852],[34.15192396976362,1.08550997610203],[34.1539172225537,1.08678370194427],[34.15394175256996,1.08679450171321],[34.15577969589947,1.08801979726622],[34.15705026804904,1.09010954992879],[34.15782562640496,1.09207724220603],[34.15876678487705,1.09301277251745],[34.16189950072744,1.09598143468412],[34.16206426685677,1.09634900608134],[34.16250000000011,1.0999573918798],[34.16250000000011,1.1025],[34.16270865347337,1.10312596041976],[34.16681341938646,1.1065858760851],[34.16810239085901,1.10702351710758],[34.17236790422216,1.11145206243378],[34.1799486194608,1.10976831344897],[34.18178334831539,1.10800735175038],[34.18253152049054,1.10706875922863],[34.18278025555094,1.10638633728819],[34.18813176235899,1.10348128743397],[34.19015787400136,1.0994284458738],[34.18849330546091,1.09382756330977],[34.1878281553607,1.092765915098],[34.18719789581315,1.09182283114474],[34.18733324670264,1.08999035476769],[34.19024121103011,1.08522917784558],[34.19268575668823,1.08397952414932],[34.19589258111512,1.08350154604442],[34.19789235773514,1.08236921408831],[34.1979929028908,1.08233569903642],[34.20187253824823,1.07938238525568],[34.20300117654112,1.07599647037701],[34.20301461039075,1.07451767002385],[34.20585783502233,1.07022584999154],[34.20642184457751,1.06763660439003],[34.20618045713005,1.06452378197003],[34.20549652852834,1.06250097645884],[34.20446257356696,1.06102784136847],[34.20302085133637,1.0597846792634],[34.19623390137786,1.0601208984754],[34.19607899762349,1.06002631765992],[34.19235096558227,1.05745032186069],[34.19058338524228,1.05686112841403],[34.18846613047851,1.05642968873425],[34.18587499927813,1.05350997614314],[34.18533370847604,1.05335655455829],[34.18062391053709,1.05274667030276],[34.17773668953214,1.05333338066541],[34.17610120929016,1.05430240016356],[34.1733360325743,1.06165901054574],[34.17258292480877,1.06258292480863],[34.17250000000011,1.06261961200447],[34.16750000000011,1.06307044715823],[34.16551885163416,1.06255122553823],[34.16324118393081,1.06287933619602],[34.1591663028152,1.06493350170986],[34.15844990677297,1.06568580744834],[34.15582097492183,1.06705539261179],[34.15581975417198,1.06705758535212],[34.15135049571187,1.07140021021084],[34.14858548507326,1.07798607779113],[34.14835902711923,1.0783206839851],[34.14833027921089,1.07841229309443]]],"type":"Polygon"}
+}

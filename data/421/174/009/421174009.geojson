@@ -1,0 +1,347 @@
+{
+  "id": 421174009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00317,
+    "geom:area_square_m":39197619.412806,
+    "geom:bbox":"30.2516559007,0.618321167803,30.3210650025,0.701112403746",
+    "geom:latitude":0.655574,
+    "geom:longitude":30.281449,
+    "iso:country":"UG",
+    "lbl:latitude":0.651091,
+    "lbl:longitude":30.28485,
+    "meso:admin_1":"KABAROLE",
+    "meso:admin_1r":"WESTERN",
+    "meso:dissme":"FORT PORTAL MUNICIPALITYKABAROLEWESTERN",
+    "meso:gadm_admin":"Fort Portal",
+    "meso:gadm_hasc2":"UG.BR.FR",
+    "meso:gaul_admin":"Fort Portal Municipality",
+    "meso:mps_x":30.28485,
+    "meso:mps_y":0.651091,
+    "meso:name_en":"FORT PORTAL MUNICIPALITY",
+    "meso:source":"AOTM",
+    "mps:latitude":0.651091,
+    "mps:longitude":30.28485,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":7.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0627\u0628\u0627\u0631\u0648\u0644"
+    ],
+    "name:ast_x_preferred":[
+        "Distritu de Kabarole"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09ac\u09be\u09b0\u09cb\u09b2\u09c7 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u5df4\u7f85\u840a\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Fort Portal"
+    ],
+    "name:deu_x_preferred":[
+        "Fort Portal"
+    ],
+    "name:dut_x_preferred":[
+        "Kabarole"
+    ],
+    "name:eng_x_preferred":[
+        "Fort Portal Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Fort Portal Municipality",
+        "Fort Portal",
+        "Kabarole District",
+        "FORT PORTAL MUNICIPALITY"
+    ],
+    "name:fin_x_preferred":[
+        "Kabarolen kaupunginosa"
+    ],
+    "name:fra_x_preferred":[
+        "Fort Portal"
+    ],
+    "name:fre_x_preferred":[
+        "Kabarole"
+    ],
+    "name:ger_x_preferred":[
+        "Distrikt Kabarole"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03bc\u03c0\u03b1\u03c1\u03cc\u03bb\u03b5"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0abe\u0aac\u0ac7\u0ab0\u0acb\u0ab2 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u092c\u0930\u094b\u0932 \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Fort Portal"
+    ],
+    "name:ind_x_preferred":[
+        "Fort Portal"
+    ],
+    "name:ita_x_preferred":[
+        "Fort Portal"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d5\u30a9\u30fc\u30c8\u30fb\u30dd\u30fc\u30bf\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cac\u0cb0\u0ccb\u0cb2\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ud3ec\ud2b8\ud3ec\ud138"
+    ],
+    "name:lav_x_preferred":[
+        "Kabaroles distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Fort Portalas"
+    ],
+    "name:lug_x_preferred":[
+        "Fort Portal"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u093e\u092c\u0930\u094b\u0932 \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Kabarole District"
+    ],
+    "name:nds_x_preferred":[
+        "Fort Portal"
+    ],
+    "name:nld_x_preferred":[
+        "Fort Portal"
+    ],
+    "name:nob_x_preferred":[
+        "Kabarole"
+    ],
+    "name:pol_x_preferred":[
+        "Fort Portal"
+    ],
+    "name:por_x_preferred":[
+        "Fort Portal"
+    ],
+    "name:ron_x_preferred":[
+        "Fort Portal"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Kabarole"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u043e\u0440\u0442-\u041f\u043e\u0440\u0442\u0430\u043b"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0db6\u0dbb\u0ddd\u0dbd\u0dda \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Kabarole"
+    ],
+    "name:swa_x_preferred":[
+        "Fort Portal"
+    ],
+    "name:swe_x_preferred":[
+        "Kabarole"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0baa\u0bb0\u0bcb\u0bb2\u0bc7 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c3e\u0c2c\u0c30\u0c4b\u0c32\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e04\u0e32\u0e1a\u0e32\u0e42\u0e23\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Kabarole District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u041a\u0430\u0431\u0430\u0440\u043e\u043b\u0435"
+    ],
+    "name:unk_x_variant":[
+        "Kabarole"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0648\u0631\u0679 \u067e\u0648\u0631\u0679\u0644"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Kabarole"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Uganda",
+    "ne:ADM0_A3":"UGA",
+    "ne:ADM1NAME":"Kabarole",
+    "ne:ADMIN1_COD":79,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":0,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Added missing admin-1 capital. Changed feature to Admin-0 region capital. Population from GeoNames.",
+    "ne:ELEVATION":0.0,
+    "ne:FEATURECLA":"Admin-1 region capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPLA",
+    "ne:GEONAMEID":233476,
+    "ne:GEONAMESNO":"Geonames ascii name + lat.d + long.d matching.",
+    "ne:GN_ASCII":"Fort Portal",
+    "ne:GN_POP":42670,
+    "ne:GTOPO30":1535.0,
+    "ne:ISO_A2":"UG",
+    "ne:LABELRANK":5,
+    "ne:LATITUDE":0.671004,
+    "ne:LONGITUDE":30.275002,
+    "ne:LS_MATCH":0,
+    "ne:LS_NAME":null,
+    "ne:MAX_AREAKM":0.0,
+    "ne:MAX_AREAMI":0.0,
+    "ne:MAX_BBXMAX":0.0,
+    "ne:MAX_BBXMIN":0.0,
+    "ne:MAX_BBYMAX":0.0,
+    "ne:MAX_BBYMIN":0.0,
+    "ne:MAX_NATSCA":0.0,
+    "ne:MAX_PERKM":0.0,
+    "ne:MAX_PERMI":0.0,
+    "ne:MAX_POP10":0,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":0.0,
+    "ne:MEAN_BBYC":0.0,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":0.0,
+    "ne:MIN_AREAMI":0.0,
+    "ne:MIN_BBXMAX":0.0,
+    "ne:MIN_BBXMIN":0.0,
+    "ne:MIN_BBYMAX":0.0,
+    "ne:MIN_BBYMIN":0.0,
+    "ne:MIN_PERKM":0.0,
+    "ne:MIN_PERMI":0.0,
+    "ne:NAME":"Fort Portal",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Fort Portal",
+    "ne:NAMEDIFF":1,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":1,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":42670,
+    "ne:POP_MIN":42670,
+    "ne:POP_OTHER":0,
+    "ne:RANK_MAX":7,
+    "ne:RANK_MIN":7,
+    "ne:SCALERANK":10,
+    "ne:SOV0NAME":"Uganda",
+    "ne:SOV_A3":"UGA",
+    "ne:TIMEZONE":"Africa/Kampala",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "qs:gn_country":"UG",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":233476,
+    "qs:gn_pop":42670,
+    "qs:name":"Fort Portal",
+    "qs:name_adm0":"Uganda",
+    "qs:name_adm1":"Kabarole",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":559,
+    "qs:photos_sr":0,
+    "qs:placetype":"County",
+    "qs:pop_sr":"7",
+    "qs:qs_id":658467,
+    "qs:woe_adm0":23424974,
+    "qs:woe_id":56190242,
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"UG",
+    "statoids:hasc":"UG.BR",
+    "statoids:name":"Fort Portal",
+    "statoids:population":"",
+    "statoids:statoid":"UG.BR.FR",
+    "statoids:timezone":"3",
+    "statoids:type":"municipality",
+    "wd:wordcount":417,
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233476,
+        "gp:id":56190242,
+        "hasc:id":"UG.BR.FR",
+        "qs:id":658467,
+        "wd:id":"Q1229910",
+        "wk:page":"Fort Portal"
+    },
+    "wof:country":"UG",
+    "wof:created":1459009017,
+    "wof:geomhash":"1aa55fed2b5d17bc8b5bdb853a872239",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":421174009,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":421174009,
+    "wof:lastmodified":1553816364,
+    "wof:name":"Fort Portal Municipality",
+    "wof:parent_id":85679939,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:population":42670,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:shortcode":"FR",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.25165590070551,
+    0.61832116780254,
+    30.32106500251415,
+    0.70111240374601
+],
+  "geometry": {"coordinates":[[[30.25386939328751,0.68082103335134],[30.25165590070551,0.68699041828719],[30.25244134467433,0.68941483784188],[30.25536753654432,0.69235742792988],[30.25806886425802,0.69306886425865],[30.26107735209208,0.69607735209271],[30.26201596330869,0.69798403669064],[30.26647960127602,0.70108884506408],[30.26753774955143,0.70111240374601],[30.27283439984404,0.69894774310899],[30.27455277413346,0.69566957748495],[30.27464647211551,0.69511500993836],[30.27568805180332,0.69310202501591],[30.27676911674614,0.68820362128521],[30.27782923229168,0.686762704233],[30.28354099991398,0.68354099991462],[30.28704961038711,0.68311371675338],[30.28961038854123,0.67961038854186],[30.29106145995091,0.67861446409994],[30.2920928415282,0.67568385405198],[30.29848304488746,0.6682282531191],[30.29937250322272,0.668065409945],[30.30618049796203,0.66967839219769],[30.31403591910287,0.66062356439661],[30.31369614093841,0.65743987455009],[30.31972375616755,0.65178720273469],[30.32099712309564,0.64794910251628],[30.32106500251415,0.6475],[30.32047202405801,0.64269598759118],[30.31840931748475,0.64031732268554],[30.31706503997901,0.63930680224256],[30.31102384194146,0.63818256129472],[30.31050767294395,0.63783844862972],[30.30621034782044,0.6378072107678],[30.30001098155174,0.6352543384462],[30.29557888320791,0.63049120051365],[30.29486946305878,0.6303024123457],[30.29227264025765,0.62486525684398],[30.28494556292967,0.62194944743823],[30.28325634329195,0.6219827906326],[30.28116036190666,0.6224204652247],[30.28110495289605,0.6224119070754],[30.27861002497985,0.62149836433482],[30.27706432879211,0.62144917989469],[30.27340511553296,0.62317252896843],[30.27335509830525,0.62318751486859],[30.27185376097793,0.62416426860012],[30.27037324969092,0.62507558144329],[30.2688212721096,0.62548232849963],[30.26544315579016,0.62478537629121],[30.2596714068506,0.61838971696027],[30.25832149375999,0.61832116780254],[30.25463746015164,0.61958441819431],[30.2530581225774,0.62132841260889],[30.25249755632046,0.6225],[30.25224293313591,0.62453582404922],[30.25362351644073,0.63272740166954],[30.25760697248695,0.6354818373228],[30.25999999999935,0.63977341213609],[30.25999999999935,0.6425],[30.25997630703621,0.64259477185253],[30.26219455574446,0.6475],[30.26305885900548,0.655],[30.25845924879807,0.6632323871435],[30.2616671687742,0.6670635036824],[30.26197427363201,0.66751584269458],[30.26202423925482,0.66764480125471],[30.26150867867914,0.67650867867977],[30.25681253636637,0.67939735869681],[30.25386939328751,0.68082103335134]]],"type":"Polygon"}
+}

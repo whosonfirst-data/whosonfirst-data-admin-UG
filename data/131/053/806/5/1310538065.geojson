@@ -1,0 +1,71 @@
+{
+  "id": 1310538065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.69271,-0.78063,30.69271,-0.78063",
+    "geom:latitude":-0.78063,
+    "geom:longitude":30.69271,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"C9",
+    "gn:admin3_code":"233175.0",
+    "gn:admin4_code":"8658581.0",
+    "gn:asciiname":"Nyamuyanja",
+    "gn:country_code":"UG",
+    "gn:dem":1424,
+    "gn:elevation":"1441.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8714213,
+    "gn:latitude":-0.78063,
+    "gn:longitude":30.69271,
+    "gn:modification_date":"2014-02-17",
+    "gn:name":"Nyamuyanja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680051,
+        1092070741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8714213
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b7152c6cd0cf7a1cf1dcb98348d1c24d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070741,
+            "locality_id":1310538065,
+            "region_id":85680051
+        }
+    ],
+    "wof:id":1310538065,
+    "wof:lastmodified":1536868704,
+    "wof:name":"Nyamuyanja",
+    "wof:parent_id":1092070741,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.69271,
+    -0.78063,
+    30.69271,
+    -0.78063
+],
+  "geometry": {"coordinates":[30.69271,-0.78063],"type":"Point"}
+}

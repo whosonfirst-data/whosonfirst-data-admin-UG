@@ -1,0 +1,70 @@
+{
+  "id": 1293011207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4504,3.04645,33.4504,3.04645",
+    "geom:latitude":3.04645,
+    "geom:longitude":33.4504,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"E3",
+    "gn:admin3_code":"235459.0",
+    "gn:admin4_code":"8658597.0",
+    "gn:asciiname":"Lokapel",
+    "gn:country_code":"UG",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8693937,
+    "gn:latitude":3.04645,
+    "gn:longitude":33.4504,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lokapel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680169,
+        1092068365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8693937
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0ec32b8f0d4cbae1c6053cb2f585f6db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068365,
+            "locality_id":1293011207,
+            "region_id":85680169
+        }
+    ],
+    "wof:id":1293011207,
+    "wof:lastmodified":1536976010,
+    "wof:name":"Lokapel",
+    "wof:parent_id":1092068365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4504,
+    3.04645,
+    33.4504,
+    3.04645
+],
+  "geometry": {"coordinates":[33.4504,3.04645],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260214459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.46698,1.56134,33.46698,1.56134",
+    "geom:latitude":1.56134,
+    "geom:longitude":33.46698,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"H5",
+    "gn:admin3_code":"226329.0",
+    "gn:admin4_code":"8658732.0",
+    "gn:asciiname":"Okulenya",
+    "gn:country_code":"UG",
+    "gn:dem":1067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227140,
+    "gn:latitude":1.56134,
+    "gn:longitude":33.46698,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Okulenya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680119,
+        1092073939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227140
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"daed93de5f5afb3e282241d9defcb017",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073939,
+            "locality_id":1260214459,
+            "region_id":85680119
+        }
+    ],
+    "wof:id":1260214459,
+    "wof:lastmodified":1536805550,
+    "wof:name":"Okulenya",
+    "wof:parent_id":1092073939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.46698,
+    1.56134,
+    33.46698,
+    1.56134
+],
+  "geometry": {"coordinates":[33.46698,1.56134],"type":"Point"}
+}

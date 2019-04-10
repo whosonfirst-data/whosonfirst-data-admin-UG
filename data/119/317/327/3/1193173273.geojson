@@ -1,0 +1,70 @@
+{
+  "id": 1193173273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.4021,0.19816,32.4021,0.19816",
+    "geom:latitude":0.19816,
+    "geom:longitude":32.4021,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"234053.0",
+    "gn:admin4_code":"8658010.0",
+    "gn:asciiname":"Sokolo",
+    "gn:country_code":"UG",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226247,
+    "gn:latitude":0.19816,
+    "gn:longitude":32.4021,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Sokolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226247
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"56b3e00ee29f41f9a13c6e914b1e798a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1193173273,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1193173273,
+    "wof:lastmodified":1536378031,
+    "wof:name":"Sokolo",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.4021,
+    0.19816,
+    32.4021,
+    0.19816
+],
+  "geometry": {"coordinates":[32.4021,0.19816],"type":"Point"}
+}

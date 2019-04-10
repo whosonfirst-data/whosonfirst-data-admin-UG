@@ -1,0 +1,64 @@
+{
+  "id": 1209649269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.18333,0.66667,32.18333,0.66667",
+    "geom:latitude":0.66667,
+    "geom:longitude":32.18333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D9",
+    "gn:admin3_code":"8644153.0",
+    "gn:admin4_code":"8658308.0",
+    "gn:asciiname":"Kisimula",
+    "gn:country_code":"UG",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231022,
+    "gn:latitude":0.66667,
+    "gn:longitude":32.18333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kisimula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231022
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d830656b599e7d8a321b97db5ef4bc0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209649269
+        }
+    ],
+    "wof:id":1209649269,
+    "wof:lastmodified":1536280633,
+    "wof:name":"Kisimula",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.18333,
+    0.66667,
+    32.18333,
+    0.66667
+],
+  "geometry": {"coordinates":[32.18333,0.66667],"type":"Point"}
+}

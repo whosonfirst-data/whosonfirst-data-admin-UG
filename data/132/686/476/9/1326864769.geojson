@@ -1,0 +1,70 @@
+{
+  "id": 1326864769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.81667,-0.61667,29.81667,-0.61667",
+    "geom:latitude":-0.61667,
+    "geom:longitude":29.81667,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"93",
+    "gn:admin3_code":"8644165.0",
+    "gn:admin4_code":"7732515.0",
+    "gn:asciiname":"Kinyamatozho",
+    "gn:country_code":"UG",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231184,
+    "gn:latitude":-0.61667,
+    "gn:longitude":29.81667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kinyamatozho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680061,
+        1092069223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231184
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"bec39ed46521ce994af741e804fcda87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069223,
+            "locality_id":1326864769,
+            "region_id":85680061
+        }
+    ],
+    "wof:id":1326864769,
+    "wof:lastmodified":1537001108,
+    "wof:name":"Kinyamatozho",
+    "wof:parent_id":1092069223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.81667,
+    -0.61667,
+    29.81667,
+    -0.61667
+],
+  "geometry": {"coordinates":[29.81667,-0.61667],"type":"Point"}
+}

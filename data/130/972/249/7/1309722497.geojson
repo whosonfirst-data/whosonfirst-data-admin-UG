@@ -1,0 +1,75 @@
+{
+  "id": 1309722497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.35787,2.97523,31.35787,2.97523",
+    "geom:latitude":2.97523,
+    "geom:longitude":31.35787,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"8644146.0",
+    "gn:admin4_code":"8261592.0",
+    "gn:asciiname":"Curumu",
+    "gn:country_code":"UG",
+    "gn:dem":682,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233338,
+    "gn:latitude":2.97523,
+    "gn:longitude":31.35787,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Curumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cunumu",
+        "Gurumu",
+        "Curumu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092074425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233338
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f6f5c75bd7c4de9ee5a4938f45f3bbc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074425,
+            "locality_id":1309722497,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1309722497,
+    "wof:lastmodified":1537712094,
+    "wof:name":"Curumu",
+    "wof:parent_id":1092074425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35787,
+    2.97523,
+    31.35787,
+    2.97523
+],
+  "geometry": {"coordinates":[31.35787,2.97523],"type":"Point"}
+}

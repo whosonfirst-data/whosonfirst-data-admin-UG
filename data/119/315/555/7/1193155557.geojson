@@ -1,0 +1,73 @@
+{
+  "id": 1193155557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.86727,1.57975,32.86727,1.57975",
+    "geom:latitude":1.57975,
+    "geom:longitude":32.86727,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B7",
+    "gn:admin3_code":"231170.0",
+    "gn:admin4_code":"8658492.0",
+    "gn:asciiname":"Kibugo",
+    "gn:country_code":"UG",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":231534,
+    "gn:latitude":1.57975,
+    "gn:longitude":32.86727,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Kibugo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kibugo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679799,
+        1092071719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231534
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f29c7850b206d3c3a77b00da4df30ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071719,
+            "locality_id":1193155557,
+            "region_id":85679799
+        }
+    ],
+    "wof:id":1193155557,
+    "wof:lastmodified":1537712085,
+    "wof:name":"Kibugo",
+    "wof:parent_id":1092071719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.86727,
+    1.57975,
+    32.86727,
+    1.57975
+],
+  "geometry": {"coordinates":[32.86727,1.57975],"type":"Point"}
+}

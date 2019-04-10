@@ -1,0 +1,68 @@
+{
+  "id": 1310636757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.06351,0.2788,32.06351,0.2788",
+    "geom:latitude":0.2788,
+    "geom:longitude":32.06351,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:asciiname":"Kigwa",
+    "gn:country_code":"UG",
+    "gn:dem":1220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11551862,
+    "gn:latitude":0.2788,
+    "gn:longitude":32.06351,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kigwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679891,
+        1092069929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11551862
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"706813c072d6b0a1a5e6a1252215ee20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069929,
+            "locality_id":1310636757,
+            "region_id":85679891
+        }
+    ],
+    "wof:id":1310636757,
+    "wof:lastmodified":1536727894,
+    "wof:name":"Kigwa",
+    "wof:parent_id":1092069929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.06351,
+    0.2788,
+    32.06351,
+    0.2788
+],
+  "geometry": {"coordinates":[32.06351,0.2788],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259794291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.40301,2.96666,32.40301,2.96666",
+    "geom:latitude":2.96666,
+    "geom:longitude":32.40301,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"30",
+    "gn:admin3_code":"235009.0",
+    "gn:admin4_code":"8645279.0",
+    "gn:asciiname":"Awac",
+    "gn:country_code":"UG",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538933,
+    "gn:latitude":2.96666,
+    "gn:longitude":32.40301,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Awac",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679905,
+        1092068547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538933
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9e31a42cbba321a38c365fbd00ba0195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068547,
+            "locality_id":1259794291,
+            "region_id":85679905
+        }
+    ],
+    "wof:id":1259794291,
+    "wof:lastmodified":1536907785,
+    "wof:name":"Awac",
+    "wof:parent_id":1092068547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.40300999999999,
+    2.96666,
+    32.40300999999999,
+    2.96666
+],
+  "geometry": {"coordinates":[32.40300999999999,2.96666],"type":"Point"}
+}

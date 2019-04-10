@@ -1,0 +1,70 @@
+{
+  "id": 1327450171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.19935,3.02431,31.19935,3.02431",
+    "geom:latitude":3.02431,
+    "geom:longitude":31.19935,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"8644146.0",
+    "gn:admin4_code":"8261592.0",
+    "gn:asciiname":"Curu",
+    "gn:country_code":"UG",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233632,
+    "gn:latitude":3.02431,
+    "gn:longitude":31.19935,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Curu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092074425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233632
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ae51e951e9f1232c3d77246138f54ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074425,
+            "locality_id":1327450171,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1327450171,
+    "wof:lastmodified":1536655102,
+    "wof:name":"Curu",
+    "wof:parent_id":1092074425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.19935,
+    3.02431,
+    31.19935,
+    3.02431
+],
+  "geometry": {"coordinates":[31.19935,3.02431],"type":"Point"}
+}

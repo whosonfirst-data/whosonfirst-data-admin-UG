@@ -1,0 +1,70 @@
+{
+  "id": 1327450313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.12706,3.65866,33.12706,3.65866",
+    "geom:latitude":3.65866,
+    "geom:longitude":33.12706,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"G3",
+    "gn:admin3_code":"230209.0",
+    "gn:admin4_code":"8647187.0",
+    "gn:asciiname":"Iyereko",
+    "gn:country_code":"UG",
+    "gn:dem":1048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8694176,
+    "gn:latitude":3.65866,
+    "gn:longitude":33.12706,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Iyereko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680147,
+        1092072341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8694176
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3e0c53863de4e93a272279d56ea69834",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072341,
+            "locality_id":1327450313,
+            "region_id":85680147
+        }
+    ],
+    "wof:id":1327450313,
+    "wof:lastmodified":1536654890,
+    "wof:name":"Iyereko",
+    "wof:parent_id":1092072341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.12706,
+    3.65866,
+    33.12706,
+    3.65866
+],
+  "geometry": {"coordinates":[33.12706,3.65866],"type":"Point"}
+}

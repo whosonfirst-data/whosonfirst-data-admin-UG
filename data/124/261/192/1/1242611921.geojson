@@ -1,0 +1,73 @@
+{
+  "id": 1242611921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.97924,0.32063,33.97924,0.32063",
+    "geom:latitude":0.32063,
+    "geom:longitude":33.97924,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"67",
+    "gn:admin3_code":"8644151.0",
+    "gn:admin4_code":"8658207.0",
+    "gn:asciiname":"Mudoma",
+    "gn:country_code":"UG",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259386,
+    "gn:latitude":0.32063,
+    "gn:longitude":33.97924,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Mudoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mudoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679979,
+        1092073897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259386
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"89af74567d0a6b265a5632c929257fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073897,
+            "locality_id":1242611921,
+            "region_id":85679979
+        }
+    ],
+    "wof:id":1242611921,
+    "wof:lastmodified":1537712127,
+    "wof:name":"Mudoma",
+    "wof:parent_id":1092073897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.97924,
+    0.32063,
+    33.97924,
+    0.32063
+],
+  "geometry": {"coordinates":[33.97924,0.32063],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259916833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.20214,0.50154,33.20214,0.50154",
+    "geom:latitude":0.50154,
+    "geom:longitude":33.20214,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"33",
+    "gn:admin3_code":"8644138.0",
+    "gn:admin4_code":"8658512.0",
+    "gn:asciiname":"Wabulenga",
+    "gn:country_code":"UG",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226008,
+    "gn:latitude":0.50154,
+    "gn:longitude":33.20214,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Wabulenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wabulenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679773,
+        1092070051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226008
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0a26ea6c9db3008b5a7e0020859915c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070051,
+            "locality_id":1259916833,
+            "region_id":85679773
+        }
+    ],
+    "wof:id":1259916833,
+    "wof:lastmodified":1537712053,
+    "wof:name":"Wabulenga",
+    "wof:parent_id":1092070051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.20214,
+    0.50154,
+    33.20214,
+    0.50154
+],
+  "geometry": {"coordinates":[33.20214,0.50154],"type":"Point"}
+}

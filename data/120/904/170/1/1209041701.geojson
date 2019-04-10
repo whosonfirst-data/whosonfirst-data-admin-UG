@@ -1,0 +1,65 @@
+{
+  "id": 1209041701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.04139,0.50222,31.04139,0.50222",
+    "geom:latitude":0.50222,
+    "geom:longitude":31.04139,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"G2",
+    "gn:admin3_code":"230499.0",
+    "gn:admin4_code":"8658725.0",
+    "gn:asciiname":"Kyegegwa",
+    "gn:country_code":"UG",
+    "gn:dem":1411,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":230331,
+    "gn:latitude":0.50222,
+    "gn:longitude":31.04139,
+    "gn:modification_date":"2018-03-17",
+    "gn:name":"Kyegegwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230331,
+        "wk:page":"Kyegegwa"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3214b520ae820c4f21b2797e4764e92a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209041701
+        }
+    ],
+    "wof:id":1209041701,
+    "wof:lastmodified":1537575041,
+    "wof:name":"Kyegegwa",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.04139,
+    0.50222,
+    31.04139,
+    0.50222
+],
+  "geometry": {"coordinates":[31.04139,0.50222],"type":"Point"}
+}

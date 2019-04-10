@@ -1,0 +1,70 @@
+{
+  "id": 1310436307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9,0.16667,30.9,0.16667",
+    "geom:latitude":0.16667,
+    "geom:longitude":30.9,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"D3",
+    "gn:admin3_code":"8644177.0",
+    "gn:admin4_code":"8657551.0",
+    "gn:asciiname":"Gabichunchu",
+    "gn:country_code":"UG",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233464,
+    "gn:latitude":0.16667,
+    "gn:longitude":30.9,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Gabichunchu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        1108808411,
+        1092071473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233464
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"fa0972641de6cd78892596812a3cc453",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071473,
+            "locality_id":1310436307,
+            "region_id":1108808411
+        }
+    ],
+    "wof:id":1310436307,
+    "wof:lastmodified":1537016173,
+    "wof:name":"Gabichunchu",
+    "wof:parent_id":1092071473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9,
+    0.16667,
+    30.9,
+    0.16667
+],
+  "geometry": {"coordinates":[30.9,0.16667],"type":"Point"}
+}

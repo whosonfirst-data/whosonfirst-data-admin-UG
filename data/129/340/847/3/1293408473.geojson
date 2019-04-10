@@ -1,0 +1,70 @@
+{
+  "id": 1293408473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.13938,2.61067,33.13938,2.61067",
+    "geom:latitude":2.61067,
+    "geom:longitude":33.13938,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"8644128.0",
+    "gn:admin4_code":"8657702.0",
+    "gn:asciiname":"Okwang",
+    "gn:country_code":"UG",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8644073,
+    "gn:latitude":2.61067,
+    "gn:longitude":33.13938,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Okwang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680165,
+        1092073413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8644073
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e03782ff3566c96917472545ab5d25cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073413,
+            "locality_id":1293408473,
+            "region_id":85680165
+        }
+    ],
+    "wof:id":1293408473,
+    "wof:lastmodified":1536901016,
+    "wof:name":"Okwang",
+    "wof:parent_id":1092073413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.13938,
+    2.61067,
+    33.13938,
+    2.61067
+],
+  "geometry": {"coordinates":[33.13938,2.61067],"type":"Point"}
+}

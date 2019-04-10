@@ -1,0 +1,66 @@
+{
+  "id": 1209042409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.54018,0.28232,32.54018,0.28232",
+    "geom:latitude":0.28232,
+    "geom:longitude":32.54018,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"8644170.0",
+    "gn:admin4_code":"7732390.0",
+    "gn:asciiname":"Mutundwe",
+    "gn:country_code":"UG",
+    "gn:dem":1204,
+    "gn:elevation":"1204.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7647981,
+    "gn:latitude":0.28232,
+    "gn:longitude":32.54018,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mutundwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7647981,
+        "wk:page":"Mutundwe"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8ffb20da6a20a26f48ead913a5bd95c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209042409
+        }
+    ],
+    "wof:id":1209042409,
+    "wof:lastmodified":1537575049,
+    "wof:name":"Mutundwe",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.54018,
+    0.28232,
+    32.54018,
+    0.28232
+],
+  "geometry": {"coordinates":[32.54018,0.28232],"type":"Point"}
+}

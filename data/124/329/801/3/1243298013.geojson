@@ -1,0 +1,68 @@
+{
+  "id": 1243298013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.9534,0.92533,33.9534,0.92533",
+    "geom:latitude":0.92533,
+    "geom:longitude":33.9534,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C6",
+    "gn:asciiname":"Khisega",
+    "gn:country_code":"UG",
+    "gn:dem":1081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429876,
+    "gn:latitude":0.92533,
+    "gn:longitude":33.9534,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Khisega",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679981,
+        1092069677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429876
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ce41a27ef3e5abb4a7f57a93aa94fcd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069677,
+            "locality_id":1243298013,
+            "region_id":85679981
+        }
+    ],
+    "wof:id":1243298013,
+    "wof:lastmodified":1537018682,
+    "wof:name":"Khisega",
+    "wof:parent_id":1092069677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.9534,
+    0.92533,
+    33.9534,
+    0.92533
+],
+  "geometry": {"coordinates":[33.9534,0.92533],"type":"Point"}
+}

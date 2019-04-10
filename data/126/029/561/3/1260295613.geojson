@@ -1,0 +1,71 @@
+{
+  "id": 1260295613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.70129,1.97893,32.70129,1.97893",
+    "geom:latitude":1.97893,
+    "geom:longitude":32.70129,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Aboko",
+    "gn:country_code":"UG",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11525211,
+    "gn:latitude":1.97893,
+    "gn:longitude":32.70129,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Aboko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aboko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680151,
+        1092071971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11525211
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2d3e72321f9fbef610ed1ff2ac98843f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071971,
+            "locality_id":1260295613,
+            "region_id":85680151
+        }
+    ],
+    "wof:id":1260295613,
+    "wof:lastmodified":1537712179,
+    "wof:name":"Aboko",
+    "wof:parent_id":1092071971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.70129,
+    1.97893,
+    32.70129,
+    1.97893
+],
+  "geometry": {"coordinates":[32.70129,1.97893],"type":"Point"}
+}

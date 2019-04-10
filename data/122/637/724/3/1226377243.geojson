@@ -1,0 +1,70 @@
+{
+  "id": 1226377243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.06667,0.8,31.06667,0.8",
+    "geom:latitude":0.8,
+    "geom:longitude":31.06667,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"41",
+    "gn:admin3_code":"8644139.0",
+    "gn:admin4_code":"8658061.0",
+    "gn:asciiname":"Bwamulamira",
+    "gn:country_code":"UG",
+    "gn:dem":1367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233785,
+    "gn:latitude":0.8,
+    "gn:longitude":31.06667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bwamulamira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679947,
+        1092070207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233785
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"bd0fe60ea3fde11251935ee35617362a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070207,
+            "locality_id":1226377243,
+            "region_id":85679947
+        }
+    ],
+    "wof:id":1226377243,
+    "wof:lastmodified":1536743865,
+    "wof:name":"Bwamulamira",
+    "wof:parent_id":1092070207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.06667,
+    0.8,
+    31.06667,
+    0.8
+],
+  "geometry": {"coordinates":[31.06667,0.8],"type":"Point"}
+}

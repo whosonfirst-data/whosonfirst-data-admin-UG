@@ -1,0 +1,74 @@
+{
+  "id": 1276908547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.33333,2.01667,33.33333,2.01667",
+    "geom:latitude":2.01667,
+    "geom:longitude":33.33333,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"80",
+    "gn:admin3_code":"7732909.0",
+    "gn:admin4_code":"8658265.0",
+    "gn:asciiname":"Oloroi",
+    "gn:country_code":"UG",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227088,
+    "gn:latitude":2.01667,
+    "gn:longitude":33.33333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Oloroi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aloloi",
+        "Oloroi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679783,
+        1092071127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227088
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1395d82780a9c7b21e468b35f2e6dce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071127,
+            "locality_id":1276908547,
+            "region_id":85679783
+        }
+    ],
+    "wof:id":1276908547,
+    "wof:lastmodified":1537712062,
+    "wof:name":"Oloroi",
+    "wof:parent_id":1092071127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.33333,
+    2.01667,
+    33.33333,
+    2.01667
+],
+  "geometry": {"coordinates":[33.33333,2.01667],"type":"Point"}
+}

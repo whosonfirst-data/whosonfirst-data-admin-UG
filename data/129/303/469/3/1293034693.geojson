@@ -1,0 +1,70 @@
+{
+  "id": 1293034693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6,-0.1,31.6,-0.1",
+    "geom:latitude":-0.1,
+    "geom:longitude":31.6,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E8",
+    "gn:admin3_code":"7910224.0",
+    "gn:admin4_code":"8657560.0",
+    "gn:asciiname":"Kaganda",
+    "gn:country_code":"UG",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232826,
+    "gn:latitude":-0.1,
+    "gn:longitude":31.6,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kaganda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680219,
+        1092069329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232826
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"42cd6879c564427da8d7f4e0f5b85fbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069329,
+            "locality_id":1293034693,
+            "region_id":85680219
+        }
+    ],
+    "wof:id":1293034693,
+    "wof:lastmodified":1536943478,
+    "wof:name":"Kaganda",
+    "wof:parent_id":1092069329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6,
+    -0.1,
+    31.6,
+    -0.1
+],
+  "geometry": {"coordinates":[31.6,-0.1],"type":"Point"}
+}

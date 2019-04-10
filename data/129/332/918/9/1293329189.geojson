@@ -1,0 +1,68 @@
+{
+  "id": 1293329189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.13976,0.55755,33.13976,0.55755",
+    "geom:latitude":0.55755,
+    "geom:longitude":33.13976,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"33",
+    "gn:asciiname":"Nakanyonyi",
+    "gn:country_code":"UG",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553379,
+    "gn:latitude":0.55755,
+    "gn:longitude":33.13976,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Nakanyonyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679773,
+        1092071019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553379
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2abf987f27c9080bc0f5aa39e3ae76fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071019,
+            "locality_id":1293329189,
+            "region_id":85679773
+        }
+    ],
+    "wof:id":1293329189,
+    "wof:lastmodified":1537014498,
+    "wof:name":"Nakanyonyi",
+    "wof:parent_id":1092071019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.13976,
+    0.55755,
+    33.13976,
+    0.55755
+],
+  "geometry": {"coordinates":[33.13976,0.55755],"type":"Point"}
+}

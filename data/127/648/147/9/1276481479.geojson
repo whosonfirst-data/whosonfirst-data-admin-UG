@@ -1,0 +1,75 @@
+{
+  "id": 1276481479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.19972,1.34056,31.19972,1.34056",
+    "geom:latitude":1.34056,
+    "geom:longitude":31.19972,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"8644163.0",
+    "gn:admin4_code":"8658625.0",
+    "gn:asciiname":"Kiziranfumbi",
+    "gn:cc2":"UG",
+    "gn:country_code":"UG",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230735,
+    "gn:latitude":1.34056,
+    "gn:longitude":31.19972,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kiziranfumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiziranfambi",
+        "Kiziranfumbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679933,
+        1092069075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230735
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e474deaf8738189c7ca7071d317572e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069075,
+            "locality_id":1276481479,
+            "region_id":85679933
+        }
+    ],
+    "wof:id":1276481479,
+    "wof:lastmodified":1537712082,
+    "wof:name":"Kiziranfumbi",
+    "wof:parent_id":1092069075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.19972000000001,
+    1.34056,
+    31.19972000000001,
+    1.34056
+],
+  "geometry": {"coordinates":[31.19972000000001,1.34056],"type":"Point"}
+}

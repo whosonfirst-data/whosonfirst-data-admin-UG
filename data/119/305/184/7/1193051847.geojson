@@ -1,0 +1,71 @@
+{
+  "id": 1193051847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.21091,0.97013,34.21091,0.97013",
+    "geom:latitude":0.97013,
+    "geom:longitude":34.21091,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"87",
+    "gn:asciiname":"Bumukhama",
+    "gn:country_code":"UG",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433451,
+    "gn:latitude":0.97013,
+    "gn:longitude":34.21091,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bumukhama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bumukhama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679965,
+        1092069563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433451
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c6c71278568a9a76774d6c4650a667f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069563,
+            "locality_id":1193051847,
+            "region_id":85679965
+        }
+    ],
+    "wof:id":1193051847,
+    "wof:lastmodified":1537712171,
+    "wof:name":"Bumukhama",
+    "wof:parent_id":1092069563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.21091,
+    0.97013,
+    34.21091,
+    0.97013
+],
+  "geometry": {"coordinates":[34.21091,0.97013],"type":"Point"}
+}

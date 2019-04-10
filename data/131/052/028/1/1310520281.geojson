@@ -1,0 +1,70 @@
+{
+  "id": 1310520281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.32511,2.55277,31.32511,2.55277",
+    "geom:latitude":2.55277,
+    "geom:longitude":31.32511,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"I6",
+    "gn:admin3_code":"233111.0",
+    "gn:admin4_code":"8657650.0",
+    "gn:asciiname":"Jupulega",
+    "gn:country_code":"UG",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8081042,
+    "gn:latitude":2.55277,
+    "gn:longitude":31.32511,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Jupulega",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679849,
+        1092070857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8081042
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9d9f503539e0fa79cab748946f5bd4fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070857,
+            "locality_id":1310520281,
+            "region_id":85679849
+        }
+    ],
+    "wof:id":1310520281,
+    "wof:lastmodified":1536895355,
+    "wof:name":"Jupulega",
+    "wof:parent_id":1092070857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.32511,
+    2.55277,
+    31.32511,
+    2.55277
+],
+  "geometry": {"coordinates":[31.32511,2.55277],"type":"Point"}
+}

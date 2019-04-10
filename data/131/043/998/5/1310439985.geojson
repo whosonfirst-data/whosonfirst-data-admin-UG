@@ -1,0 +1,70 @@
+{
+  "id": 1310439985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.15374,-0.79425,30.15374,-0.79425",
+    "geom:latitude":-0.79425,
+    "geom:longitude":30.15374,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"7732262.0",
+    "gn:admin4_code":"8657602.0",
+    "gn:asciiname":"Nombe",
+    "gn:country_code":"UG",
+    "gn:dem":1506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227731,
+    "gn:latitude":-0.79425,
+    "gn:longitude":30.15374,
+    "gn:modification_date":"2014-09-08",
+    "gn:name":"Nombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680059,
+        1092071063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227731
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"84f828348572d8f6bb64230126c2bb71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071063,
+            "locality_id":1310439985,
+            "region_id":85680059
+        }
+    ],
+    "wof:id":1310439985,
+    "wof:lastmodified":1537010801,
+    "wof:name":"Nombe",
+    "wof:parent_id":1092071063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.15374000000001,
+    -0.79425,
+    30.15374000000001,
+    -0.79425
+],
+  "geometry": {"coordinates":[30.15374000000001,-0.79425],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209651131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.543,1.61609,31.543,1.61609",
+    "geom:latitude":1.61609,
+    "geom:longitude":31.543,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"234463.0",
+    "gn:admin4_code":"8657903.0",
+    "gn:asciiname":"Nyakazinga",
+    "gn:country_code":"UG",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8077581,
+    "gn:latitude":1.61609,
+    "gn:longitude":31.543,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nyakazinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8077581
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8b1cc83ff2beb958bc7632a8a7dbead3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209651131
+        }
+    ],
+    "wof:id":1209651131,
+    "wof:lastmodified":1536280577,
+    "wof:name":"Nyakazinga",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.543000000000006,
+    1.61609,
+    31.543000000000006,
+    1.61609
+],
+  "geometry": {"coordinates":[31.54300000000001,1.61609],"type":"Point"}
+}

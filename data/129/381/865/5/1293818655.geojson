@@ -1,0 +1,74 @@
+{
+  "id": 1293818655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.55752,1.56591,33.55752,1.56591",
+    "geom:latitude":1.56591,
+    "geom:longitude":33.55752,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"H5",
+    "gn:admin3_code":"226329.0",
+    "gn:admin4_code":"8658181.0",
+    "gn:asciiname":"Asiranyi",
+    "gn:country_code":"UG",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235018,
+    "gn:latitude":1.56591,
+    "gn:longitude":33.55752,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Asiranyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasiranye",
+        "Asiranyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680119,
+        1092073939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235018
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"559d7e5d01641bc2cc64e807d9bda8a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073939,
+            "locality_id":1293818655,
+            "region_id":85680119
+        }
+    ],
+    "wof:id":1293818655,
+    "wof:lastmodified":1537712106,
+    "wof:name":"Asiranyi",
+    "wof:parent_id":1092073939,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.55752,
+    1.56591,
+    33.55752,
+    1.56591
+],
+  "geometry": {"coordinates":[33.55752,1.56591],"type":"Point"}
+}

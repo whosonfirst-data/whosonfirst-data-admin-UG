@@ -1,0 +1,73 @@
+{
+  "id": 1259717131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.51499,0.45805,33.51499,0.45805",
+    "geom:latitude":0.45805,
+    "geom:longitude":33.51499,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"86",
+    "gn:admin3_code":"8644164.0",
+    "gn:admin4_code":"8658348.0",
+    "gn:asciiname":"Maina",
+    "gn:country_code":"UG",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259035,
+    "gn:latitude":0.45805,
+    "gn:longitude":33.51499,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Maina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679985,
+        1092069607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259035
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"81993795a44f212076be285fb70a5b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069607,
+            "locality_id":1259717131,
+            "region_id":85679985
+        }
+    ],
+    "wof:id":1259717131,
+    "wof:lastmodified":1537712117,
+    "wof:name":"Maina",
+    "wof:parent_id":1092069607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.51499,
+    0.45805,
+    33.51499,
+    0.45805
+],
+  "geometry": {"coordinates":[33.51499,0.45805],"type":"Point"}
+}

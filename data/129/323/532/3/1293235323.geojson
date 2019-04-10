@@ -1,0 +1,72 @@
+{
+  "id": 1293235323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.65,-0.56667,29.65,-0.56667",
+    "geom:latitude":-0.56667,
+    "geom:longitude":29.65,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"82",
+    "gn:asciiname":"Nyakisanju",
+    "gn:country_code":"UG",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227455,
+    "gn:latitude":-0.56667,
+    "gn:longitude":29.65,
+    "gn:modification_date":"2012-04-28",
+    "gn:name":"Nyakisanju",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyakisamve",
+        "Nyakisanju"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227455
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1f6e01cf7d9b0268d69d4e3b51f6c8a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1293235323,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1293235323,
+    "wof:lastmodified":1537712065,
+    "wof:name":"Nyakisanju",
+    "wof:parent_id":1091679863,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.65,
+    -0.56667,
+    29.65,
+    -0.56667
+],
+  "geometry": {"coordinates":[29.65,-0.56667],"type":"Point"}
+}

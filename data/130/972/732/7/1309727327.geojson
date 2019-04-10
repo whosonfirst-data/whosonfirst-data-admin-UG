@@ -1,0 +1,73 @@
+{
+  "id": 1309727327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.64702,1.62534,32.64702,1.62534",
+    "geom:latitude":1.62534,
+    "geom:longitude":32.64702,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B7",
+    "gn:admin3_code":"231170.0",
+    "gn:admin4_code":"8657992.0",
+    "gn:asciiname":"Namabere",
+    "gn:country_code":"UG",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":228283,
+    "gn:latitude":1.62534,
+    "gn:longitude":32.64702,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Namabere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Namabere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679799,
+        1092071719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228283
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a36baa22c5a0a137763f63d53d42ec61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071719,
+            "locality_id":1309727327,
+            "region_id":85679799
+        }
+    ],
+    "wof:id":1309727327,
+    "wof:lastmodified":1537712069,
+    "wof:name":"Namabere",
+    "wof:parent_id":1092071719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.64702,
+    1.62534,
+    32.64702,
+    1.62534
+],
+  "geometry": {"coordinates":[32.64702,1.62534],"type":"Point"}
+}

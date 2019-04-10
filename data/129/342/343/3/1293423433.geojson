@@ -1,0 +1,74 @@
+{
+  "id": 1293423433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.64472,0.22222,31.64472,0.22222",
+    "geom:latitude":0.22222,
+    "geom:longitude":31.64472,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F4",
+    "gn:admin3_code":"233383.0",
+    "gn:admin4_code":"8657834.0",
+    "gn:asciiname":"Maddu",
+    "gn:country_code":"UG",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229553,
+    "gn:latitude":0.22222,
+    "gn:longitude":31.64472,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Maddu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madu",
+        "Maddu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680133,
+        1092070589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229553
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c2559d2eaad0019a60ce519f57645982",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070589,
+            "locality_id":1293423433,
+            "region_id":85680133
+        }
+    ],
+    "wof:id":1293423433,
+    "wof:lastmodified":1537712076,
+    "wof:name":"Maddu",
+    "wof:parent_id":1092070589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.64472,
+    0.22222,
+    31.64472,
+    0.22222
+],
+  "geometry": {"coordinates":[31.64472,0.22222],"type":"Point"}
+}

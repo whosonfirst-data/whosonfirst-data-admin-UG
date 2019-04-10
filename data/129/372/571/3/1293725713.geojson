@@ -1,0 +1,68 @@
+{
+  "id": 1293725713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.99771,0.93639,33.99771,0.93639",
+    "geom:latitude":0.93639,
+    "geom:longitude":33.99771,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C6",
+    "gn:asciiname":"Dohokibira",
+    "gn:country_code":"UG",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429561,
+    "gn:latitude":0.93639,
+    "gn:longitude":33.99771,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Dohokibira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679981,
+        1092069677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429561
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f05f4186532a9dd69a5e06bd204ed8b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069677,
+            "locality_id":1293725713,
+            "region_id":85679981
+        }
+    ],
+    "wof:id":1293725713,
+    "wof:lastmodified":1536941502,
+    "wof:name":"Dohokibira",
+    "wof:parent_id":1092069677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.99771,
+    0.93639,
+    33.99771,
+    0.93639
+],
+  "geometry": {"coordinates":[33.99771,0.93639],"type":"Point"}
+}

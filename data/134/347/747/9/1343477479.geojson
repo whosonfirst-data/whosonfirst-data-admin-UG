@@ -1,0 +1,74 @@
+{
+  "id": 1343477479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85217,2.75723,30.85217,2.75723",
+    "geom:latitude":2.75723,
+    "geom:longitude":30.85217,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"226029.0",
+    "gn:admin4_code":"8657886.0",
+    "gn:asciiname":"Logiri",
+    "gn:country_code":"UG",
+    "gn:dem":1494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230131,
+    "gn:latitude":2.75723,
+    "gn:longitude":30.85217,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Logiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Logeri",
+        "Logiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679837,
+        1092074259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230131
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"fc6d34635cb4537c703ae46efa46960c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074259,
+            "locality_id":1343477479,
+            "region_id":85679837
+        }
+    ],
+    "wof:id":1343477479,
+    "wof:lastmodified":1537712078,
+    "wof:name":"Logiri",
+    "wof:parent_id":1092074259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85217,
+    2.75723,
+    30.85217,
+    2.75723
+],
+  "geometry": {"coordinates":[30.85217,2.75723],"type":"Point"}
+}

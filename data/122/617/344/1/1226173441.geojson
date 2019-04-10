@@ -1,0 +1,71 @@
+{
+  "id": 1226173441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.99079,0.63179,29.99079,0.63179",
+    "geom:latitude":0.63179,
+    "geom:longitude":29.99079,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:asciiname":"Bunseru",
+    "gn:country_code":"UG",
+    "gn:dem":968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401948,
+    "gn:latitude":0.63179,
+    "gn:longitude":29.99079,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Bunseru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bunseru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092074383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401948
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b5f4b11f8ce0759c26c48ef4fb8e61e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074383,
+            "locality_id":1226173441,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1226173441,
+    "wof:lastmodified":1537712146,
+    "wof:name":"Bunseru",
+    "wof:parent_id":1092074383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.99079,
+    0.63179,
+    29.99079,
+    0.63179
+],
+  "geometry": {"coordinates":[29.99079,0.63179],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242981381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.05664,3.32809,33.05664,3.32809",
+    "geom:latitude":3.32809,
+    "geom:longitude":33.05664,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"84",
+    "gn:admin3_code":"233642.0",
+    "gn:admin4_code":"8645294.0",
+    "gn:asciiname":"Obyen",
+    "gn:country_code":"UG",
+    "gn:dem":1025,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8693993,
+    "gn:latitude":3.32809,
+    "gn:longitude":33.05664,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Obyen",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679899,
+        1092070355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8693993
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"47fdf45f8e1bf471ed49ac51ba2153b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070355,
+            "locality_id":1242981381,
+            "region_id":85679899
+        }
+    ],
+    "wof:id":1242981381,
+    "wof:lastmodified":1536978355,
+    "wof:name":"Obyen",
+    "wof:parent_id":1092070355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.05664,
+    3.32809,
+    33.05664,
+    3.32809
+],
+  "geometry": {"coordinates":[33.05664,3.32809],"type":"Point"}
+}

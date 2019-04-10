@@ -1,0 +1,74 @@
+{
+  "id": 1242892573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.15668,2.895,32.15668,2.895",
+    "geom:latitude":2.895,
+    "geom:longitude":32.15668,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B9",
+    "gn:admin3_code":"231253.0",
+    "gn:admin4_code":"8630017.0",
+    "gn:asciiname":"Parabongo",
+    "gn:country_code":"UG",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226798,
+    "gn:latitude":2.895,
+    "gn:longitude":32.15668,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Parabongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parabong",
+        "Parabongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680139,
+        1092071643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226798
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"509a2799166c1ad6276897713664f107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071643,
+            "locality_id":1242892573,
+            "region_id":85680139
+        }
+    ],
+    "wof:id":1242892573,
+    "wof:lastmodified":1537712059,
+    "wof:name":"Parabongo",
+    "wof:parent_id":1092071643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.15668,
+    2.895,
+    32.15668,
+    2.895
+],
+  "geometry": {"coordinates":[32.15668,2.895],"type":"Point"}
+}

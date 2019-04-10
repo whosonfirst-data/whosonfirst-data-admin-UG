@@ -1,0 +1,70 @@
+{
+  "id": 1209929567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.99853,2.58263,30.99853,2.58263",
+    "geom:latitude":2.58263,
+    "geom:longitude":30.99853,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"H7",
+    "gn:admin3_code":"227147.0",
+    "gn:admin4_code":"8657782.0",
+    "gn:asciiname":"Onyola",
+    "gn:country_code":"UG",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8081147,
+    "gn:latitude":2.58263,
+    "gn:longitude":30.99853,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Onyola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680085,
+        1092073339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8081147
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ba8f309a26fbf13d09dab0f5b6e94271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073339,
+            "locality_id":1209929567,
+            "region_id":85680085
+        }
+    ],
+    "wof:id":1209929567,
+    "wof:lastmodified":1536393335,
+    "wof:name":"Onyola",
+    "wof:parent_id":1092073339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.99853,
+    2.58263,
+    30.99853,
+    2.58263
+],
+  "geometry": {"coordinates":[30.99853,2.58263],"type":"Point"}
+}

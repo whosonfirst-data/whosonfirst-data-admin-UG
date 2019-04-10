@@ -1,0 +1,70 @@
+{
+  "id": 1243182623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.86101,2.67784,30.86101,2.67784",
+    "geom:latitude":2.67784,
+    "geom:longitude":30.86101,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"226029.0",
+    "gn:admin4_code":"8657886.0",
+    "gn:asciiname":"Anyavu",
+    "gn:country_code":"UG",
+    "gn:dem":1397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235141,
+    "gn:latitude":2.67784,
+    "gn:longitude":30.86101,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Anyavu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679837,
+        1092074259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235141
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e6d8d72e354a339461f9cba503a65690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074259,
+            "locality_id":1243182623,
+            "region_id":85679837
+        }
+    ],
+    "wof:id":1243182623,
+    "wof:lastmodified":1536688909,
+    "wof:name":"Anyavu",
+    "wof:parent_id":1092074259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.86101,
+    2.67784,
+    30.86101,
+    2.67784
+],
+  "geometry": {"coordinates":[30.86101,2.67784],"type":"Point"}
+}

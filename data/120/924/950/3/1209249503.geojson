@@ -1,0 +1,64 @@
+{
+  "id": 1209249503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.73333,-1.16667,29.73333,-1.16667",
+    "geom:latitude":-1.16667,
+    "geom:longitude":29.73333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"43",
+    "gn:admin3_code":"7874701.0",
+    "gn:admin4_code":"8658592.0",
+    "gn:asciiname":"Ikamiro",
+    "gn:country_code":"UG",
+    "gn:dem":1874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233250,
+    "gn:latitude":-1.16667,
+    "gn:longitude":29.73333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ikamiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233250
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c04f72d2a799ffc73b7ce3ba253c20b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209249503
+        }
+    ],
+    "wof:id":1209249503,
+    "wof:lastmodified":1536293051,
+    "wof:name":"Ikamiro",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.73333,
+    -1.16667,
+    29.73333,
+    -1.16667
+],
+  "geometry": {"coordinates":[29.73333,-1.16667],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326459527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.31667,-0.06667,30.31667,-0.06667",
+    "geom:latitude":-0.06667,
+    "geom:longitude":30.31667,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"81",
+    "gn:admin3_code":"7732901.0",
+    "gn:admin4_code":"8657867.0",
+    "gn:asciiname":"Ryangabi",
+    "gn:country_code":"UG",
+    "gn:dem":1223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226433,
+    "gn:latitude":-0.06667,
+    "gn:longitude":30.31667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ryangabi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680041,
+        1092071759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226433
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a1d21fd1f89d8bb8e8fe7af58bb52a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071759,
+            "locality_id":1326459527,
+            "region_id":85680041
+        }
+    ],
+    "wof:id":1326459527,
+    "wof:lastmodified":1537085666,
+    "wof:name":"Ryangabi",
+    "wof:parent_id":1092071759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.31667,
+    -0.06667,
+    30.31667,
+    -0.06667
+],
+  "geometry": {"coordinates":[30.31667,-0.06667],"type":"Point"}
+}

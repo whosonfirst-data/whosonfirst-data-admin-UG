@@ -1,0 +1,71 @@
+{
+  "id": 1276906277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.21491,0.56619,30.21491,0.56619",
+    "geom:latitude":0.56619,
+    "geom:longitude":30.21491,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"79",
+    "gn:asciiname":"Rwentonzi",
+    "gn:country_code":"UG",
+    "gn:dem":1582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11402005,
+    "gn:latitude":0.56619,
+    "gn:longitude":30.21491,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Rwentonzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rwentonzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11402005
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"011c246e254a78a22a94b52db8d605d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069635,
+            "locality_id":1276906277,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1276906277,
+    "wof:lastmodified":1537712147,
+    "wof:name":"Rwentonzi",
+    "wof:parent_id":1092069635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21491,
+    0.56619,
+    30.21491,
+    0.56619
+],
+  "geometry": {"coordinates":[30.21491,0.56619],"type":"Point"}
+}

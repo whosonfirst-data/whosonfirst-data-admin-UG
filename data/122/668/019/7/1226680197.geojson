@@ -1,0 +1,71 @@
+{
+  "id": 1226680197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.61511,0.44952,32.61511,0.44952",
+    "geom:latitude":0.44952,
+    "geom:longitude":32.61511,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"7732385.0",
+    "gn:admin4_code":"8657924.0",
+    "gn:asciiname":"Gayaza",
+    "gn:country_code":"UG",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233421,
+    "gn:latitude":0.44952,
+    "gn:longitude":32.61511,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Gayaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679879,
+        1092072041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233421,
+        "wk:page":"Gayaza"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f8776299d38d3c173d0361aeb2024f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072041,
+            "locality_id":1226680197,
+            "region_id":85679879
+        }
+    ],
+    "wof:id":1226680197,
+    "wof:lastmodified":1537575044,
+    "wof:name":"Gayaza",
+    "wof:parent_id":1092072041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.61510999999999,
+    0.44952,
+    32.61510999999999,
+    0.44952
+],
+  "geometry": {"coordinates":[32.61510999999999,0.44952],"type":"Point"}
+}

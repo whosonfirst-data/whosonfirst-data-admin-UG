@@ -1,0 +1,67 @@
+{
+  "id": 1209348481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.96326,0.41858,33.96326,0.41858",
+    "geom:latitude":0.41858,
+    "geom:longitude":33.96326,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"67",
+    "gn:admin3_code":"8644151.0",
+    "gn:admin4_code":"8658193.0",
+    "gn:asciiname":"Bukia",
+    "gn:country_code":"UG",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259286,
+    "gn:latitude":0.41858,
+    "gn:longitude":33.96326,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Bukia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bukia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259286
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b9465af36b56a37e81337ad7dba66566",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209348481
+        }
+    ],
+    "wof:id":1209348481,
+    "wof:lastmodified":1537712124,
+    "wof:name":"Bukia",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.96326,
+    0.41858,
+    33.96326,
+    0.41858
+],
+  "geometry": {"coordinates":[33.96326,0.41858],"type":"Point"}
+}

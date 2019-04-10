@@ -1,0 +1,70 @@
+{
+  "id": 1243208823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.01315,0.33694,32.01315,0.33694",
+    "geom:latitude":0.33694,
+    "geom:longitude":32.01315,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:admin3_code":"8644152.0",
+    "gn:admin4_code":"8657790.0",
+    "gn:asciiname":"Nakibanga",
+    "gn:country_code":"UG",
+    "gn:dem":1220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228379,
+    "gn:latitude":0.33694,
+    "gn:longitude":32.01315,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Nakibanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679891,
+        1092072811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228379
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e493c13c7ab0830b909fe0cf26d58fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072811,
+            "locality_id":1243208823,
+            "region_id":85679891
+        }
+    ],
+    "wof:id":1243208823,
+    "wof:lastmodified":1536650956,
+    "wof:name":"Nakibanga",
+    "wof:parent_id":1092072811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.01315,
+    0.33694,
+    32.01315,
+    0.33694
+],
+  "geometry": {"coordinates":[32.01315,0.33694],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243569421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.91839,1.73626,32.91839,1.73626",
+    "geom:latitude":1.73626,
+    "geom:longitude":32.91839,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B7",
+    "gn:asciiname":"Acengryeny",
+    "gn:country_code":"UG",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11525282,
+    "gn:latitude":1.73626,
+    "gn:longitude":32.91839,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Acengryeny",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Acengryeny"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679799,
+        1092071719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11525282
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"52356c53feacf33b60b46255e1b9f574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071719,
+            "locality_id":1243569421,
+            "region_id":85679799
+        }
+    ],
+    "wof:id":1243569421,
+    "wof:lastmodified":1537712179,
+    "wof:name":"Acengryeny",
+    "wof:parent_id":1092071719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.91839,
+    1.73626,
+    32.91839,
+    1.73626
+],
+  "geometry": {"coordinates":[32.91839,1.73626],"type":"Point"}
+}

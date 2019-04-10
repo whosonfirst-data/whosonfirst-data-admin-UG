@@ -1,0 +1,74 @@
+{
+  "id": 1293920139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.05281,0.73963,30.05281,0.73963",
+    "geom:latitude":0.73963,
+    "geom:longitude":30.05281,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"7732250.0",
+    "gn:admin4_code":"8658204.0",
+    "gn:asciiname":"Kanyamwerina",
+    "gn:country_code":"UG",
+    "gn:dem":818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232275,
+    "gn:latitude":0.73963,
+    "gn:longitude":30.05281,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kanyamwerina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanyamwerima",
+        "Kanyamwerina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092070289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232275
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c7ce016087b31486d4c9bdf8ab13cca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070289,
+            "locality_id":1293920139,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1293920139,
+    "wof:lastmodified":1537712089,
+    "wof:name":"Kanyamwerina",
+    "wof:parent_id":1092070289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.05281,
+    0.73963,
+    30.05281,
+    0.73963
+],
+  "geometry": {"coordinates":[30.05281,0.73963],"type":"Point"}
+}

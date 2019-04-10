@@ -1,0 +1,71 @@
+{
+  "id": 1343389701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.31667,0.81667,31.31667,0.81667",
+    "geom:latitude":0.81667,
+    "geom:longitude":31.31667,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"I2",
+    "gn:admin3_code":"8644161.0",
+    "gn:admin4_code":"8657770.0",
+    "gn:asciiname":"Munsa",
+    "gn:country_code":"UG",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228797,
+    "gn:latitude":0.81667,
+    "gn:longitude":31.31667,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Munsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679947,
+        1092068999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228797,
+        "wk:page":"Munsa"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ab25d2f44e6bb0f05b5f054b7278e911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068999,
+            "locality_id":1343389701,
+            "region_id":85679947
+        }
+    ],
+    "wof:id":1343389701,
+    "wof:lastmodified":1537575040,
+    "wof:name":"Munsa",
+    "wof:parent_id":1092068999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.31667,
+    0.81667,
+    31.31667,
+    0.81667
+],
+  "geometry": {"coordinates":[31.31667,0.81667],"type":"Point"}
+}

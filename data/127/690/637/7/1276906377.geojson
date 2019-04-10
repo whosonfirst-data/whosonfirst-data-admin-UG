@@ -1,0 +1,70 @@
+{
+  "id": 1276906377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.59083,0.42668,32.59083,0.42668",
+    "geom:latitude":0.42668,
+    "geom:longitude":32.59083,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"7732385.0",
+    "gn:admin4_code":"8657924.0",
+    "gn:asciiname":"Masooli",
+    "gn:country_code":"UG",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229352,
+    "gn:latitude":0.42668,
+    "gn:longitude":32.59083,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Masooli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679879,
+        1092072041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229352
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7b9991e5af623305430784bf11128ea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072041,
+            "locality_id":1276906377,
+            "region_id":85679879
+        }
+    ],
+    "wof:id":1276906377,
+    "wof:lastmodified":1537005083,
+    "wof:name":"Masooli",
+    "wof:parent_id":1092072041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.59083,
+    0.42668,
+    32.59083,
+    0.42668
+],
+  "geometry": {"coordinates":[32.59083,0.42668],"type":"Point"}
+}

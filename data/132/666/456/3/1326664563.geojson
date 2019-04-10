@@ -1,0 +1,68 @@
+{
+  "id": 1326664563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.82829,0.50688,33.82829,0.50688",
+    "geom:latitude":0.50688,
+    "geom:longitude":33.82829,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"66",
+    "gn:asciiname":"Nakonkolo-Nakabale",
+    "gn:country_code":"UG",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429491,
+    "gn:latitude":0.50688,
+    "gn:longitude":33.82829,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Nakonkolo-Nakabale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429491
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0f93257afb47eb62809e606815dbf698",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1326664563,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1326664563,
+    "wof:lastmodified":1536793579,
+    "wof:name":"Nakonkolo-Nakabale",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.82829,
+    0.50688,
+    33.82829,
+    0.50688
+],
+  "geometry": {"coordinates":[33.82829,0.50688],"type":"Point"}
+}

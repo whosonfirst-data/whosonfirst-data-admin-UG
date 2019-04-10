@@ -1,0 +1,71 @@
+{
+  "id": 1276796521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.46964,0.64665,30.46964,0.64665",
+    "geom:latitude":0.64665,
+    "geom:longitude":30.46964,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"85",
+    "gn:asciiname":"Kasamba",
+    "gn:country_code":"UG",
+    "gn:dem":1511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11402351,
+    "gn:latitude":0.64665,
+    "gn:longitude":30.46964,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Kasamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kasamba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679943,
+        1092072955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11402351
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d243bf02138faa4c5da1794735b65195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072955,
+            "locality_id":1276796521,
+            "region_id":85679943
+        }
+    ],
+    "wof:id":1276796521,
+    "wof:lastmodified":1537712151,
+    "wof:name":"Kasamba",
+    "wof:parent_id":1092072955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.46964,
+    0.64665,
+    30.46964,
+    0.64665
+],
+  "geometry": {"coordinates":[30.46964,0.64665],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309839881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85,0.55,30.85,0.55",
+    "geom:latitude":0.55,
+    "geom:longitude":30.85,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"85",
+    "gn:admin3_code":"228643.0",
+    "gn:admin4_code":"8657529.0",
+    "gn:asciiname":"Lwebali",
+    "gn:country_code":"UG",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229647,
+    "gn:latitude":0.55,
+    "gn:longitude":30.85,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lwebali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679943,
+        1092072955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229647
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"06ed6dedb3f00bf6e9b7a40cc67c39da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072955,
+            "locality_id":1309839881,
+            "region_id":85679943
+        }
+    ],
+    "wof:id":1309839881,
+    "wof:lastmodified":1536881327,
+    "wof:name":"Lwebali",
+    "wof:parent_id":1092072955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85,
+    0.55,
+    30.85,
+    0.55
+],
+  "geometry": {"coordinates":[30.85,0.55],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343989379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.68333,1.05,30.68333,1.05",
+    "geom:latitude":1.05,
+    "geom:longitude":30.68333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"I1",
+    "gn:admin3_code":"233860.0",
+    "gn:admin4_code":"8657563.0",
+    "gn:asciiname":"Kyambogo",
+    "gn:country_code":"UG",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230462,
+    "gn:latitude":1.05,
+    "gn:longitude":30.68333,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Kyambogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679947,
+        1092070183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230462
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b643542f7a83c4ca2cdc9ec963deca14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070183,
+            "locality_id":1343989379,
+            "region_id":85679947
+        }
+    ],
+    "wof:id":1343989379,
+    "wof:lastmodified":1536977725,
+    "wof:name":"Kyambogo",
+    "wof:parent_id":1092070183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.68333,
+    1.05,
+    30.68333,
+    1.05
+],
+  "geometry": {"coordinates":[30.68333,1.05],"type":"Point"}
+}

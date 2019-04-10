@@ -1,0 +1,64 @@
+{
+  "id": 1209116719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.59957,3.3994,31.59957,3.3994",
+    "geom:latitude":3.3994,
+    "geom:longitude":31.59957,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"72",
+    "gn:admin3_code":"8644127.0",
+    "gn:admin4_code":"8657844.0",
+    "gn:asciiname":"Dembele",
+    "gn:country_code":"UG",
+    "gn:dem":641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8141068,
+    "gn:latitude":3.3994,
+    "gn:longitude":31.59957,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dembele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8141068
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8569dfad5935c4db48e1bd88c3dd8e39",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209116719
+        }
+    ],
+    "wof:id":1209116719,
+    "wof:lastmodified":1536297229,
+    "wof:name":"Dembele",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.59957,
+    3.3994,
+    31.59957,
+    3.3994
+],
+  "geometry": {"coordinates":[31.59957,3.3994],"type":"Point"}
+}

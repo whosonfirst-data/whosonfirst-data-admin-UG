@@ -1,0 +1,74 @@
+{
+  "id": 1343494923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.47722,-0.34222,30.47722,-0.34222",
+    "geom:latitude":-0.34222,
+    "geom:longitude":30.47722,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"E6",
+    "gn:admin3_code":"234484.0",
+    "gn:admin4_code":"8658658.0",
+    "gn:asciiname":"Karungu",
+    "gn:country_code":"UG",
+    "gn:dem":1739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232174,
+    "gn:latitude":-0.34222,
+    "gn:longitude":30.47722,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Karungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karungo",
+        "Karungu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680241,
+        1092069121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232174
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1644c2b46fc3e76dd994987b3000dffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069121,
+            "locality_id":1343494923,
+            "region_id":85680241
+        }
+    ],
+    "wof:id":1343494923,
+    "wof:lastmodified":1537712088,
+    "wof:name":"Karungu",
+    "wof:parent_id":1092069121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.47722000000001,
+    -0.34222,
+    30.47722000000001,
+    -0.34222
+],
+  "geometry": {"coordinates":[30.47722000000001,-0.34222],"type":"Point"}
+}

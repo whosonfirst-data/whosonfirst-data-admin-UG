@@ -1,0 +1,74 @@
+{
+  "id": 1226279181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.03333,-0.66667,30.03333,-0.66667",
+    "geom:latitude":-0.66667,
+    "geom:longitude":30.03333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"G6",
+    "gn:admin3_code":"7869954.0",
+    "gn:admin4_code":"8658550.0",
+    "gn:asciiname":"Kyalugaba",
+    "gn:country_code":"UG",
+    "gn:dem":1640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230484,
+    "gn:latitude":-0.66667,
+    "gn:longitude":30.03333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyalugaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyalugabe",
+        "Kyalugaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680233,
+        1092073753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230484
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8e3b7c95af196fa5196934526345de4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073753,
+            "locality_id":1226279181,
+            "region_id":85680233
+        }
+    ],
+    "wof:id":1226279181,
+    "wof:lastmodified":1537712080,
+    "wof:name":"Kyalugaba",
+    "wof:parent_id":1092073753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.03333,
+    -0.66667,
+    30.03333,
+    -0.66667
+],
+  "geometry": {"coordinates":[30.03333,-0.66667],"type":"Point"}
+}

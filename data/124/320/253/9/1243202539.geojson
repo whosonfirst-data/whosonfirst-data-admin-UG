@@ -1,0 +1,70 @@
+{
+  "id": 1243202539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.8,0.4,33.8,0.4",
+    "geom:latitude":0.4,
+    "geom:longitude":33.8,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G7",
+    "gn:admin3_code":"8644167.0",
+    "gn:admin4_code":"8657689.0",
+    "gn:asciiname":"Mayugi",
+    "gn:country_code":"UG",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229291,
+    "gn:latitude":0.4,
+    "gn:longitude":33.8,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mayugi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229291
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2ba04a17af3048144ceeba1490fa3b65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1243202539,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1243202539,
+    "wof:lastmodified":1536660424,
+    "wof:name":"Mayugi",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.8,
+    0.4,
+    33.8,
+    0.4
+],
+  "geometry": {"coordinates":[33.8,0.4],"type":"Point"}
+}

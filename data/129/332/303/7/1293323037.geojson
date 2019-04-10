@@ -1,0 +1,70 @@
+{
+  "id": 1293323037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.05469,1.59575,32.05469,1.59575",
+    "geom:latitude":1.59575,
+    "geom:longitude":32.05469,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"8644129.0",
+    "gn:admin4_code":"8657772.0",
+    "gn:asciiname":"Kayera",
+    "gn:country_code":"UG",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231720,
+    "gn:latitude":1.59575,
+    "gn:longitude":32.05469,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kayera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092069799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231720
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f9384a434c51d3ed4ca3b7a3305910bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069799,
+            "locality_id":1293323037,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1293323037,
+    "wof:lastmodified":1537023212,
+    "wof:name":"Kayera",
+    "wof:parent_id":1092069799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.05469,
+    1.59575,
+    32.05469,
+    1.59575
+],
+  "geometry": {"coordinates":[32.05469,1.59575],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1360316539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.00759,0.3968,33.00759,0.3968",
+    "geom:latitude":0.3968,
+    "geom:longitude":33.00759,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E7",
+    "gn:admin3_code":"7732075.0",
+    "gn:admin4_code":"8658159.0",
+    "gn:asciiname":"Najjembe",
+    "gn:country_code":"UG",
+    "gn:dem":1245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228480,
+    "gn:latitude":0.3968,
+    "gn:longitude":33.00759,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Najjembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Najjembe"
+    ],
+    "name:eng_x_variant":[
+        "Najembe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680121,
+        1092069145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228480
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7c5ef9f642f0f8911386fa10ad12a0ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069145,
+            "locality_id":1360316539,
+            "region_id":85680121
+        }
+    ],
+    "wof:id":1360316539,
+    "wof:lastmodified":1537712070,
+    "wof:name":"Najjembe",
+    "wof:parent_id":1092069145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.00759,
+    0.3968,
+    33.00759,
+    0.3968
+],
+  "geometry": {"coordinates":[33.00759,0.3968],"type":"Point"}
+}

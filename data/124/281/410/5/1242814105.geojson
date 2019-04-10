@@ -1,0 +1,71 @@
+{
+  "id": 1242814105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.44361,-0.61917,30.44361,-0.61917",
+    "geom:latitude":-0.61917,
+    "geom:longitude":30.44361,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"52",
+    "gn:admin3_code":"232055.0",
+    "gn:admin4_code":"8658292.0",
+    "gn:asciiname":"Kabwohe",
+    "gn:country_code":"UG",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232915,
+    "gn:latitude":-0.61917,
+    "gn:longitude":30.44361,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kabwohe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680069,
+        1092071287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232915,
+        "wk:page":"Kabwohe"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a30ef646224be39ba051d25e7b198371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071287,
+            "locality_id":1242814105,
+            "region_id":85680069
+        }
+    ],
+    "wof:id":1242814105,
+    "wof:lastmodified":1537575044,
+    "wof:name":"Kabwohe",
+    "wof:parent_id":1092071287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.44361,
+    -0.61917,
+    30.44361,
+    -0.61917
+],
+  "geometry": {"coordinates":[30.44361,-0.61917],"type":"Point"}
+}

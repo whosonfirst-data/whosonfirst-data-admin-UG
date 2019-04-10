@@ -1,0 +1,68 @@
+{
+  "id": 1277017379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.01458,0.02166,32.01458,0.02166",
+    "geom:latitude":0.02166,
+    "geom:longitude":32.01458,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:asciiname":"Kalagala-Gayaza",
+    "gn:country_code":"UG",
+    "gn:dem":1212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552338,
+    "gn:latitude":0.02166,
+    "gn:longitude":32.01458,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kalagala-Gayaza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679827,
+        1092072705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552338
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e45105608298aa9457eb3dd81fb30667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072705,
+            "locality_id":1277017379,
+            "region_id":85679827
+        }
+    ],
+    "wof:id":1277017379,
+    "wof:lastmodified":1536855595,
+    "wof:name":"Kalagala-Gayaza",
+    "wof:parent_id":1092072705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.01458,
+    0.02166,
+    32.01458,
+    0.02166
+],
+  "geometry": {"coordinates":[32.01458,0.02166],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293724183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.05889,1.09444,31.05889,1.09444",
+    "geom:latitude":1.09444,
+    "geom:longitude":31.05889,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"I1",
+    "gn:admin3_code":"233860.0",
+    "gn:admin4_code":"8658559.0",
+    "gn:asciiname":"Kiryanga",
+    "gn:cc2":"UG",
+    "gn:country_code":"UG",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231082,
+    "gn:latitude":1.09444,
+    "gn:longitude":31.05889,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Kiryanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luhunga",
+        "Kiryanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679947,
+        1092070183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231082
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c8571609de82e8aeee2928f3295df136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070183,
+            "locality_id":1293724183,
+            "region_id":85679947
+        }
+    ],
+    "wof:id":1293724183,
+    "wof:lastmodified":1537712084,
+    "wof:name":"Kiryanga",
+    "wof:parent_id":1092070183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.05889,
+    1.09444,
+    31.05889,
+    1.09444
+],
+  "geometry": {"coordinates":[31.05889,1.09444],"type":"Point"}
+}

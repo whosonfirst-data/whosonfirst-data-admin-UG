@@ -1,0 +1,68 @@
+{
+  "id": 1226081987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.70061,1.72386,33.70061,1.72386",
+    "geom:latitude":1.72386,
+    "geom:longitude":33.70061,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"95",
+    "gn:asciiname":"Dokolo",
+    "gn:country_code":"UG",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11498035,
+    "gn:latitude":1.72386,
+    "gn:longitude":33.70061,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Dokolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679813,
+        1092074055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11498035
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"93dd20211ed5dd1521341b9faf638083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074055,
+            "locality_id":1226081987,
+            "region_id":85679813
+        }
+    ],
+    "wof:id":1226081987,
+    "wof:lastmodified":1536672781,
+    "wof:name":"Dokolo",
+    "wof:parent_id":1092074055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.70061,
+    1.72386,
+    33.70061,
+    1.72386
+],
+  "geometry": {"coordinates":[33.70061,1.72386],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1309730719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5297,3.242,31.5297,3.242",
+    "geom:latitude":3.242,
+    "geom:longitude":31.5297,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"72",
+    "gn:admin3_code":"8644127.0",
+    "gn:admin4_code":"8658016.0",
+    "gn:asciiname":"Odonga",
+    "gn:country_code":"UG",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142210,
+    "gn:latitude":3.242,
+    "gn:longitude":31.5297,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Odonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679853,
+        1092073299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142210
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2121ff38925b1ebb1def69a4a3ce5303",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073299,
+            "locality_id":1309730719,
+            "region_id":85679853
+        }
+    ],
+    "wof:id":1309730719,
+    "wof:lastmodified":1537037700,
+    "wof:name":"Odonga",
+    "wof:parent_id":1092073299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5297,
+    3.242,
+    31.5297,
+    3.242
+],
+  "geometry": {"coordinates":[31.5297,3.242],"type":"Point"}
+}

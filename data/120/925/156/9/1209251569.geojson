@@ -1,0 +1,64 @@
+{
+  "id": 1209251569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.62461,0.36718,32.62461,0.36718",
+    "geom:latitude":0.36718,
+    "geom:longitude":32.62461,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"8644170.0",
+    "gn:admin4_code":"7732387.0",
+    "gn:asciiname":"Kiwatule",
+    "gn:country_code":"UG",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11357005,
+    "gn:latitude":0.36718,
+    "gn:longitude":32.62461,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Kiwatule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11357005
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ff716012f745854ee6824f89d389e011",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209251569
+        }
+    ],
+    "wof:id":1209251569,
+    "wof:lastmodified":1536292988,
+    "wof:name":"Kiwatule",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.62461,
+    0.36718,
+    32.62461,
+    0.36718
+],
+  "geometry": {"coordinates":[32.62461,0.36718],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260114477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.90453,0.38152,33.90453,0.38152",
+    "geom:latitude":0.38152,
+    "geom:longitude":33.90453,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G7",
+    "gn:admin3_code":"8644167.0",
+    "gn:admin4_code":"8658689.0",
+    "gn:asciiname":"Bulio",
+    "gn:country_code":"UG",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259329,
+    "gn:latitude":0.38152,
+    "gn:longitude":33.90453,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Bulio",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bulio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259329
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"22e10d0484b5b7c06164c1f19b84063c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1260114477,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1260114477,
+    "wof:lastmodified":1537712126,
+    "wof:name":"Bulio",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.90453,
+    0.38152,
+    33.90453,
+    0.38152
+],
+  "geometry": {"coordinates":[33.90453,0.38152],"type":"Point"}
+}

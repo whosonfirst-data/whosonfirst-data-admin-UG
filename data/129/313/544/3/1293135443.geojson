@@ -1,0 +1,75 @@
+{
+  "id": 1293135443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.91389,1.36111,33.91389,1.36111",
+    "geom:latitude":1.36111,
+    "geom:longitude":33.91389,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"7732907.0",
+    "gn:admin4_code":"8658102.0",
+    "gn:asciiname":"Kanyum",
+    "gn:cc2":"UG",
+    "gn:country_code":"UG",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232246,
+    "gn:latitude":1.36111,
+    "gn:longitude":33.91389,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kanyum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanyumu",
+        "Kanyum"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679777,
+        1092071937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232246
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4cb714ba92881e83e512f57c0c518a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071937,
+            "locality_id":1293135443,
+            "region_id":85679777
+        }
+    ],
+    "wof:id":1293135443,
+    "wof:lastmodified":1537712089,
+    "wof:name":"Kanyum",
+    "wof:parent_id":1092071937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.91389,
+    1.36111,
+    33.91389,
+    1.36111
+],
+  "geometry": {"coordinates":[33.91389,1.36111],"type":"Point"}
+}

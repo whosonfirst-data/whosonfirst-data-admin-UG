@@ -1,0 +1,70 @@
+{
+  "id": 1243490533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.70267,0.48282,32.70267,0.48282",
+    "geom:latitude":0.48282,
+    "geom:longitude":32.70267,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"90",
+    "gn:admin3_code":"7732384.0",
+    "gn:admin4_code":"8658027.0",
+    "gn:asciiname":"Buntaba",
+    "gn:country_code":"UG",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11356884,
+    "gn:latitude":0.48282,
+    "gn:longitude":32.70267,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Buntaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679817,
+        1092072911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11356884
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"39d7b6ab742a561595fca2ba00ce084b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072911,
+            "locality_id":1243490533,
+            "region_id":85679817
+        }
+    ],
+    "wof:id":1243490533,
+    "wof:lastmodified":1536741675,
+    "wof:name":"Buntaba",
+    "wof:parent_id":1092072911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.70267,
+    0.48282,
+    32.70267,
+    0.48282
+],
+  "geometry": {"coordinates":[32.70267,0.48282],"type":"Point"}
+}

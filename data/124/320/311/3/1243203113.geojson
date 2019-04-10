@@ -1,0 +1,70 @@
+{
+  "id": 1243203113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.21667,-0.05,31.21667,-0.05",
+    "geom:latitude":-0.05,
+    "geom:longitude":31.21667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"74",
+    "gn:admin3_code":"8644145.0",
+    "gn:admin4_code":"8658539.0",
+    "gn:asciiname":"Mujulugo",
+    "gn:country_code":"UG",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228887,
+    "gn:latitude":-0.05,
+    "gn:longitude":31.21667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mujulugo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679823,
+        1092072439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228887
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"dbf23f91a05e0d8add71a884d9a25f14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072439,
+            "locality_id":1243203113,
+            "region_id":85679823
+        }
+    ],
+    "wof:id":1243203113,
+    "wof:lastmodified":1536659562,
+    "wof:name":"Mujulugo",
+    "wof:parent_id":1092072439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.21667,
+    -0.05,
+    31.21667,
+    -0.05
+],
+  "geometry": {"coordinates":[31.21667,-0.05],"type":"Point"}
+}

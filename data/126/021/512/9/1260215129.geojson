@@ -1,0 +1,74 @@
+{
+  "id": 1260215129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.13968,0.20156,32.13968,0.20156",
+    "geom:latitude":0.20156,
+    "geom:longitude":32.13968,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F1",
+    "gn:admin3_code":"234000.0",
+    "gn:admin4_code":"8658354.0",
+    "gn:asciiname":"Senene",
+    "gn:country_code":"UG",
+    "gn:dem":1226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226342,
+    "gn:latitude":0.20156,
+    "gn:longitude":32.13968,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Senene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seenene",
+        "Senene"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680131,
+        1092069969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226342
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c1231313508935f4967d5668783be83a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069969,
+            "locality_id":1260215129,
+            "region_id":85680131
+        }
+    ],
+    "wof:id":1260215129,
+    "wof:lastmodified":1537712055,
+    "wof:name":"Senene",
+    "wof:parent_id":1092069969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.13968,
+    0.20156,
+    32.13968,
+    0.20156
+],
+  "geometry": {"coordinates":[32.13968,0.20156],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1277089553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.76667,2.68333,33.76667,2.68333",
+    "geom:latitude":2.68333,
+    "geom:longitude":33.76667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B6",
+    "gn:admin3_code":"230247.0",
+    "gn:admin4_code":"8658730.0",
+    "gn:asciiname":"Kem",
+    "gn:country_code":"UG",
+    "gn:dem":1185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231653,
+    "gn:latitude":2.68333,
+    "gn:longitude":33.76667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kem",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keni",
+        "Kem"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680013,
+        1092072215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231653
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"19560adaa5fa40988670427378e16781",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072215,
+            "locality_id":1277089553,
+            "region_id":85680013
+        }
+    ],
+    "wof:id":1277089553,
+    "wof:lastmodified":1537712086,
+    "wof:name":"Kem",
+    "wof:parent_id":1092072215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.76667,
+    2.68333,
+    33.76667,
+    2.68333
+],
+  "geometry": {"coordinates":[33.76667,2.68333],"type":"Point"}
+}

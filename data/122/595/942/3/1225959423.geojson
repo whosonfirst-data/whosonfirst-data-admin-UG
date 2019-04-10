@@ -1,0 +1,70 @@
+{
+  "id": 1225959423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.34996,3.09691,31.34996,3.09691",
+    "geom:latitude":3.09691,
+    "geom:longitude":31.34996,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"8644146.0",
+    "gn:admin4_code":"8658638.0",
+    "gn:asciiname":"Wanyange Settlement",
+    "gn:country_code":"UG",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8079581,
+    "gn:latitude":3.09691,
+    "gn:longitude":31.34996,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wanyange Settlement",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092074425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8079581
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"257519b263b81b83ed6365f3804439c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074425,
+            "locality_id":1225959423,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1225959423,
+    "wof:lastmodified":1536848403,
+    "wof:name":"Wanyange Settlement",
+    "wof:parent_id":1092074425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.34996,
+    3.09691,
+    31.34996,
+    3.09691
+],
+  "geometry": {"coordinates":[31.34996,3.09691],"type":"Point"}
+}

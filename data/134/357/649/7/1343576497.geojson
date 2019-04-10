@@ -1,0 +1,75 @@
+{
+  "id": 1343576497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.01611,2.09833,33.01611,2.09833",
+    "geom:latitude":2.09833,
+    "geom:longitude":33.01611,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"233491.0",
+    "gn:admin4_code":"8630010.0",
+    "gn:asciiname":"Amach",
+    "gn:cc2":"UG",
+    "gn:country_code":"UG",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235235,
+    "gn:latitude":2.09833,
+    "gn:longitude":33.01611,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Amach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Amaich",
+        "Amach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679909,
+        1092070567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235235
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b46de416a2e34989d4fa0b6ec64895de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070567,
+            "locality_id":1343576497,
+            "region_id":85679909
+        }
+    ],
+    "wof:id":1343576497,
+    "wof:lastmodified":1537712109,
+    "wof:name":"Amach",
+    "wof:parent_id":1092070567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.01611,
+    2.09833,
+    33.01611,
+    2.09833
+],
+  "geometry": {"coordinates":[33.01611,2.09833],"type":"Point"}
+}

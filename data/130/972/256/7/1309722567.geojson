@@ -1,0 +1,71 @@
+{
+  "id": 1309722567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.06732,3.47435,32.06732,3.47435",
+    "geom:latitude":3.47435,
+    "geom:longitude":32.06732,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B9",
+    "gn:admin3_code":"231253.0",
+    "gn:admin4_code":"8630008.0",
+    "gn:asciiname":"Bibia",
+    "gn:country_code":"UG",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8190332,
+    "gn:latitude":3.47435,
+    "gn:longitude":32.06732,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bibia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680139,
+        1092071643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8190332,
+        "wk:page":"Bibia"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a37f063d0fa9040abd9b7c788a47eebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071643,
+            "locality_id":1309722567,
+            "region_id":85680139
+        }
+    ],
+    "wof:id":1309722567,
+    "wof:lastmodified":1537575050,
+    "wof:name":"Bibia",
+    "wof:parent_id":1092071643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.06732,
+    3.47435,
+    32.06732,
+    3.47435
+],
+  "geometry": {"coordinates":[32.06732,3.47435],"type":"Point"}
+}

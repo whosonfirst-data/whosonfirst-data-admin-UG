@@ -1,0 +1,70 @@
+{
+  "id": 1327270533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.4685,1.42345,34.4685,1.42345",
+    "geom:latitude":1.42345,
+    "geom:longitude":34.4685,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"39",
+    "gn:admin3_code":"7870033.0",
+    "gn:admin4_code":"8657771.0",
+    "gn:asciiname":"Kaptanya",
+    "gn:country_code":"UG",
+    "gn:dem":1721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629172,
+    "gn:latitude":1.42345,
+    "gn:longitude":34.4685,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kaptanya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679951,
+        1092074137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629172
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"273b5dbbaadd9dd837a9d80819860550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074137,
+            "locality_id":1327270533,
+            "region_id":85679951
+        }
+    ],
+    "wof:id":1327270533,
+    "wof:lastmodified":1536914953,
+    "wof:name":"Kaptanya",
+    "wof:parent_id":1092074137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.4685,
+    1.42345,
+    34.4685,
+    1.42345
+],
+  "geometry": {"coordinates":[34.4685,1.42345],"type":"Point"}
+}

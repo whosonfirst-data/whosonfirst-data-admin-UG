@@ -1,0 +1,115 @@
+{
+  "id": 421187511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.65972,0.29111,32.65972,0.29111",
+    "geom:latitude":0.29111,
+    "geom:longitude":32.65972,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Port Bell"
+    ],
+    "name:dut_x_preferred":[
+        "Port Bell"
+    ],
+    "name:eng_x_preferred":[
+        "Port Bell"
+    ],
+    "name:fra_x_preferred":[
+        "Port Bell"
+    ],
+    "name:fre_x_preferred":[
+        "Port Bell"
+    ],
+    "name:ger_x_preferred":[
+        "Port Bell"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e8\u05d8 \u05d1\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "Port Bell"
+    ],
+    "name:ita_x_preferred":[
+        "Port Bell"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30dd\u30fc\u30c8\u30fb\u30d9\u30eb"
+    ],
+    "name:nds_x_preferred":[
+        "Port Bell"
+    ],
+    "name:swa_x_preferred":[
+        "Port Bell"
+    ],
+    "qs:gn_country":"UG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":226744,
+    "qs:gn_pop":0,
+    "qs:name":"Port Bell",
+    "qs:name_adm0":"Uganda",
+    "qs:name_adm1":"Kampala",
+    "qs:photos":564,
+    "qs:photos_1k":114,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":564,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083602,
+    "qs:woe_adm0":23424974,
+    "qs:woe_id":1455114,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":540,
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679867,
+        1092071203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226744,
+        "gp:id":1455114,
+        "qs:id":1083602,
+        "wd:id":"Q492275",
+        "wk:page":"Port Bell"
+    },
+    "wof:country":"UG",
+    "wof:created":1459009515,
+    "wof:geomhash":"d29a5f7f2e815afc2dc996c81c271125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071203,
+            "locality_id":421187511,
+            "region_id":85679867
+        }
+    ],
+    "wof:id":421187511,
+    "wof:lastmodified":1527716248,
+    "wof:name":"Port Bell",
+    "wof:parent_id":1092071203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.65972,
+    0.29111,
+    32.65972,
+    0.29111
+],
+  "geometry": {"coordinates":[32.65972,0.29111],"type":"Point"}
+}

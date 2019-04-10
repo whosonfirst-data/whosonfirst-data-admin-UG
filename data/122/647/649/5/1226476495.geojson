@@ -1,0 +1,68 @@
+{
+  "id": 1226476495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.19546,0.15679,32.19546,0.15679",
+    "geom:latitude":0.15679,
+    "geom:longitude":32.19546,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F1",
+    "gn:asciiname":"Kyetotogolo",
+    "gn:country_code":"UG",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552415,
+    "gn:latitude":0.15679,
+    "gn:longitude":32.19546,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kyetotogolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680131,
+        1092069969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552415
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"83ec2b290fddb4d1f99bea9641ebd4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069969,
+            "locality_id":1226476495,
+            "region_id":85680131
+        }
+    ],
+    "wof:id":1226476495,
+    "wof:lastmodified":1537094611,
+    "wof:name":"Kyetotogolo",
+    "wof:parent_id":1092069969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.19546,
+    0.15679,
+    32.19546,
+    0.15679
+],
+  "geometry": {"coordinates":[32.19546,0.15679],"type":"Point"}
+}

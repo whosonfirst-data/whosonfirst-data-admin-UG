@@ -1,0 +1,67 @@
+{
+  "id": 1209351533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.38787,0.41579,33.38787,0.41579",
+    "geom:latitude":0.41579,
+    "geom:longitude":33.38787,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"86",
+    "gn:admin3_code":"8644164.0",
+    "gn:admin4_code":"8658491.0",
+    "gn:asciiname":"Kashari",
+    "gn:country_code":"UG",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11356422,
+    "gn:latitude":0.41579,
+    "gn:longitude":33.38787,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Kashari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kashari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11356422
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f76a5cd6681d4d2b5f9527a6c8e48763",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209351533
+        }
+    ],
+    "wof:id":1209351533,
+    "wof:lastmodified":1537712131,
+    "wof:name":"Kashari",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.38787,
+    0.41579,
+    33.38787,
+    0.41579
+],
+  "geometry": {"coordinates":[33.38787,0.41579],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209945935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.78333,1.31667,33.78333,1.31667",
+    "geom:latitude":1.31667,
+    "geom:longitude":33.78333,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"226822.0",
+    "gn:admin4_code":"8658639.0",
+    "gn:asciiname":"Omotoi",
+    "gn:country_code":"UG",
+    "gn:dem":1041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227036,
+    "gn:latitude":1.31667,
+    "gn:longitude":33.78333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Omotoi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Motoi",
+        "Omotoi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679819,
+        1092073523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227036
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"55272d714aa943944d4a62491bda1281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073523,
+            "locality_id":1209945935,
+            "region_id":85679819
+        }
+    ],
+    "wof:id":1209945935,
+    "wof:lastmodified":1537712061,
+    "wof:name":"Omotoi",
+    "wof:parent_id":1092073523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.78333,
+    1.31667,
+    33.78333,
+    1.31667
+],
+  "geometry": {"coordinates":[33.78333,1.31667],"type":"Point"}
+}

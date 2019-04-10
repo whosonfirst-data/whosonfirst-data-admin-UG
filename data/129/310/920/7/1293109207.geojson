@@ -1,0 +1,70 @@
+{
+  "id": 1293109207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56512,3.48082,31.56512,3.48082",
+    "geom:latitude":3.48082,
+    "geom:longitude":31.56512,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"72",
+    "gn:admin3_code":"8644127.0",
+    "gn:admin4_code":"8657844.0",
+    "gn:asciiname":"Kali Settlement",
+    "gn:country_code":"UG",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8538479,
+    "gn:latitude":3.48082,
+    "gn:longitude":31.56512,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kali Settlement",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679853,
+        1092073299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8538479
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"95d6975d156d6ce66a2828c300526fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073299,
+            "locality_id":1293109207,
+            "region_id":85679853
+        }
+    ],
+    "wof:id":1293109207,
+    "wof:lastmodified":1536834328,
+    "wof:name":"Kali Settlement",
+    "wof:parent_id":1092073299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56512,
+    3.48082,
+    31.56512,
+    3.48082
+],
+  "geometry": {"coordinates":[31.56512,3.48082],"type":"Point"}
+}

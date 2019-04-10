@@ -1,0 +1,70 @@
+{
+  "id": 1310139791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.55006,0.48876,32.55006,0.48876",
+    "geom:latitude":0.48876,
+    "geom:longitude":32.55006,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"7732385.0",
+    "gn:admin4_code":"8658439.0",
+    "gn:asciiname":"Buwambo",
+    "gn:country_code":"UG",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233909,
+    "gn:latitude":0.48876,
+    "gn:longitude":32.55006,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Buwambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679879,
+        1092072041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233909
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"fbe8ca9bbb731562ab698ed8258398df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072041,
+            "locality_id":1310139791,
+            "region_id":85679879
+        }
+    ],
+    "wof:id":1310139791,
+    "wof:lastmodified":1536947440,
+    "wof:name":"Buwambo",
+    "wof:parent_id":1092072041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.55005999999999,
+    0.48876,
+    32.55005999999999,
+    0.48876
+],
+  "geometry": {"coordinates":[32.55005999999999,0.48876],"type":"Point"}
+}

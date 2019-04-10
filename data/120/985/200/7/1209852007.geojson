@@ -1,0 +1,73 @@
+{
+  "id": 1209852007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.26644,0.19807,33.26644,0.19807",
+    "geom:latitude":0.19807,
+    "geom:longitude":33.26644,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F2",
+    "gn:admin3_code":"233919.0",
+    "gn:admin4_code":"8658641.0",
+    "gn:asciiname":"Kitamiro",
+    "gn:country_code":"UG",
+    "gn:dem":1147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230940,
+    "gn:latitude":0.19807,
+    "gn:longitude":33.26644,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kitamiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katamiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680125,
+        1092070099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230940
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6daa1cda99dd72427732c625894643a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070099,
+            "locality_id":1209852007,
+            "region_id":85680125
+        }
+    ],
+    "wof:id":1209852007,
+    "wof:lastmodified":1537712083,
+    "wof:name":"Kitamiro",
+    "wof:parent_id":1092070099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.26644,
+    0.19807,
+    33.26644,
+    0.19807
+],
+  "geometry": {"coordinates":[33.26644,0.19807],"type":"Point"}
+}

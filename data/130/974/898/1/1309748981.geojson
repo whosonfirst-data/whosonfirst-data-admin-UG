@@ -1,0 +1,70 @@
+{
+  "id": 1309748981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.23715,1.47952,32.23715,1.47952",
+    "geom:latitude":1.47952,
+    "geom:longitude":32.23715,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"73",
+    "gn:admin3_code":"234123.0",
+    "gn:admin4_code":"8657970.0",
+    "gn:asciiname":"Nakatoma",
+    "gn:country_code":"UG",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228400,
+    "gn:latitude":1.47952,
+    "gn:longitude":32.23715,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nakatoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679875,
+        1092069759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228400
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ea694355859c0524e753c339d80396a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069759,
+            "locality_id":1309748981,
+            "region_id":85679875
+        }
+    ],
+    "wof:id":1309748981,
+    "wof:lastmodified":1537012243,
+    "wof:name":"Nakatoma",
+    "wof:parent_id":1092069759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.23715,
+    1.47952,
+    32.23715,
+    1.47952
+],
+  "geometry": {"coordinates":[32.23715,1.47952],"type":"Point"}
+}

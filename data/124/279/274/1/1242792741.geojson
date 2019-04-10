@@ -1,0 +1,70 @@
+{
+  "id": 1242792741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.03272,2.75966,31.03272,2.75966",
+    "geom:latitude":2.75966,
+    "geom:longitude":31.03272,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"8644146.0",
+    "gn:admin4_code":"8658425.0",
+    "gn:asciiname":"Eba",
+    "gn:country_code":"UG",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233532,
+    "gn:latitude":2.75966,
+    "gn:longitude":31.03272,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Eba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092074425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233532
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"70a755a25ac5153b11adc995fd229ae6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074425,
+            "locality_id":1242792741,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1242792741,
+    "wof:lastmodified":1536753668,
+    "wof:name":"Eba",
+    "wof:parent_id":1092074425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.03272,
+    2.75966,
+    31.03272,
+    2.75966
+],
+  "geometry": {"coordinates":[31.03272,2.75966],"type":"Point"}
+}

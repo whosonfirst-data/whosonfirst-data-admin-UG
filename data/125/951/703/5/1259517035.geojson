@@ -1,0 +1,70 @@
+{
+  "id": 1259517035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.69215,0.45413,32.69215,0.45413",
+    "geom:latitude":0.45413,
+    "geom:longitude":32.69215,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"90",
+    "gn:admin3_code":"8644169.0",
+    "gn:admin4_code":"8658070.0",
+    "gn:asciiname":"Mawangala",
+    "gn:country_code":"UG",
+    "gn:dem":1144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11356873,
+    "gn:latitude":0.45413,
+    "gn:longitude":32.69215,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Mawangala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679817,
+        1092072911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11356873
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"90480cf692bf0b046f2411b4fa52ce2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072911,
+            "locality_id":1259517035,
+            "region_id":85679817
+        }
+    ],
+    "wof:id":1259517035,
+    "wof:lastmodified":1536810203,
+    "wof:name":"Mawangala",
+    "wof:parent_id":1092072911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.69215,
+    0.45413,
+    32.69215,
+    0.45413
+],
+  "geometry": {"coordinates":[32.69215,0.45413],"type":"Point"}
+}

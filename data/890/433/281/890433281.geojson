@@ -1,0 +1,93 @@
+{
+  "id": 890433281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.45667,-0.07722,31.45667,-0.07722",
+    "geom:latitude":-0.07722,
+    "geom:longitude":31.45667,
+    "gn:country":"UG",
+    "gn:fcode":"PPLA2",
+    "gn:pop":4320,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Sembabule"
+    ],
+    "name:eng_x_preferred":[
+        "Sembabule"
+    ],
+    "name:fre_x_preferred":[
+        "Sembabule"
+    ],
+    "name:ita_x_preferred":[
+        "Sembabule"
+    ],
+    "name:nob_x_preferred":[
+        "Sembabule"
+    ],
+    "name:rum_x_preferred":[
+        "Sembabule"
+    ],
+    "name:swa_x_preferred":[
+        "Sembabule"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0645\u0628\u0627\u0628\u0648\u0644\u06d2"
+    ],
+    "qs:name":"Sembabule",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":252,
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679823,
+        1092072661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226361,
+        "gp:id":1455302,
+        "qs:id":123589,
+        "wd:id":"Q1820455",
+        "wk:page":"Sembabule"
+    },
+    "wof:country":"UG",
+    "wof:created":1469051974,
+    "wof:geomhash":"f9e87b0673714e8b755f488a92f56f03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072661,
+            "locality_id":890433281,
+            "region_id":85679823
+        }
+    ],
+    "wof:id":890433281,
+    "wof:lastmodified":1527792952,
+    "wof:name":"Sembabule",
+    "wof:parent_id":1092072661,
+    "wof:placetype":"locality",
+    "wof:population":4320,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.45667,
+    -0.07722,
+    31.45667,
+    -0.07722
+],
+  "geometry": {"coordinates":[31.45667,-0.07722],"type":"Point"}
+}

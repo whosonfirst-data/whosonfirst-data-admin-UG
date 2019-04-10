@@ -1,0 +1,70 @@
+{
+  "id": 1343394761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.51667,0.66667,31.51667,0.66667",
+    "geom:latitude":0.66667,
+    "geom:longitude":31.51667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"56",
+    "gn:admin3_code":"233891.0",
+    "gn:admin4_code":"8658584.0",
+    "gn:asciiname":"Kijaguzo",
+    "gn:country_code":"UG",
+    "gn:dem":1286,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231367,
+    "gn:latitude":0.66667,
+    "gn:longitude":31.51667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kijaguzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679889,
+        1092070137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231367
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"46d437a5afb251f3cc510667a6554f69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070137,
+            "locality_id":1343394761,
+            "region_id":85679889
+        }
+    ],
+    "wof:id":1343394761,
+    "wof:lastmodified":1536840039,
+    "wof:name":"Kijaguzo",
+    "wof:parent_id":1092070137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.51667,
+    0.66667,
+    31.51667,
+    0.66667
+],
+  "geometry": {"coordinates":[31.51667,0.66667],"type":"Point"}
+}

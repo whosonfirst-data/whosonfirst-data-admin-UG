@@ -1,0 +1,71 @@
+{
+  "id": 1259517217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.23573,0.67764,30.23573,0.67764",
+    "geom:latitude":0.67764,
+    "geom:longitude":30.23573,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"79",
+    "gn:asciiname":"Kangolya",
+    "gn:country_code":"UG",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401714,
+    "gn:latitude":0.67764,
+    "gn:longitude":30.23573,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Kangolya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kangolya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401714
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"573d812befa3e3118726f4470d0fa8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069721,
+            "locality_id":1259517217,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1259517217,
+    "wof:lastmodified":1537712141,
+    "wof:name":"Kangolya",
+    "wof:parent_id":1092069721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.23573,
+    0.67764,
+    30.23573,
+    0.67764
+],
+  "geometry": {"coordinates":[30.23573,0.67764],"type":"Point"}
+}

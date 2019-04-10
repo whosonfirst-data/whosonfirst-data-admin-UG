@@ -1,0 +1,70 @@
+{
+  "id": 1277110551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.03333,0.96667,32.03333,0.96667",
+    "geom:latitude":0.96667,
+    "geom:longitude":32.03333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D9",
+    "gn:admin3_code":"8644153.0",
+    "gn:admin4_code":"8658601.0",
+    "gn:asciiname":"Kisendwe",
+    "gn:country_code":"UG",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231041,
+    "gn:latitude":0.96667,
+    "gn:longitude":32.03333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kisendwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679895,
+        1092072985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231041
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5515d1016dc4f0d06bd57f2c80c8611a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072985,
+            "locality_id":1277110551,
+            "region_id":85679895
+        }
+    ],
+    "wof:id":1277110551,
+    "wof:lastmodified":1536727945,
+    "wof:name":"Kisendwe",
+    "wof:parent_id":1092072985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.03333,
+    0.96667,
+    32.03333,
+    0.96667
+],
+  "geometry": {"coordinates":[32.03333,0.96667],"type":"Point"}
+}

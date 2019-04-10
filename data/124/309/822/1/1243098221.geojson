@@ -1,0 +1,68 @@
+{
+  "id": 1243098221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.88728,0.97195,33.88728,0.97195",
+    "geom:latitude":0.97195,
+    "geom:longitude":33.88728,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C1",
+    "gn:asciiname":"Idudi",
+    "gn:country_code":"UG",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429548,
+    "gn:latitude":0.97195,
+    "gn:longitude":33.88728,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Idudi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680107,
+        1092068817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429548
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8f101f35af28afaf85076e2947bb2329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068817,
+            "locality_id":1243098221,
+            "region_id":85680107
+        }
+    ],
+    "wof:id":1243098221,
+    "wof:lastmodified":1536810076,
+    "wof:name":"Idudi",
+    "wof:parent_id":1092068817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.88728,
+    0.97195,
+    33.88728,
+    0.97195
+],
+  "geometry": {"coordinates":[33.88728,0.97195],"type":"Point"}
+}

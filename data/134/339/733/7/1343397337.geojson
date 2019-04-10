@@ -1,0 +1,74 @@
+{
+  "id": 1343397337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.02522,0.9025,33.02522,0.9025",
+    "geom:latitude":0.9025,
+    "geom:longitude":33.02522,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"38",
+    "gn:admin3_code":"234617.0",
+    "gn:admin4_code":"8657775.0",
+    "gn:asciiname":"Bugeyuwa",
+    "gn:country_code":"UG",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234569,
+    "gn:latitude":0.9025,
+    "gn:longitude":33.02522,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Bugeyuwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bugayuwa",
+        "Bugeyuwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092068917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234569
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d82eb45f96c91e1000064ccf4f1f5fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068917,
+            "locality_id":1343397337,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":1343397337,
+    "wof:lastmodified":1537712103,
+    "wof:name":"Bugeyuwa",
+    "wof:parent_id":1092068917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.02522,
+    0.9025,
+    33.02522,
+    0.9025
+],
+  "geometry": {"coordinates":[33.02522,0.9025],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226173121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.76139,-0.07972,32.76139,-0.07972",
+    "geom:latitude":-0.07972,
+    "geom:longitude":32.76139,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"90",
+    "gn:admin3_code":"7732384.0",
+    "gn:admin4_code":"7732528.0",
+    "gn:asciiname":"Bugombe",
+    "gn:cc2":"UG",
+    "gn:country_code":"UG",
+    "gn:dem":1169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234544,
+    "gn:latitude":-0.07972,
+    "gn:longitude":32.76139,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bugombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bugombo Mission",
+        "Bugombe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679817,
+        1092072911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234544
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a3798454a0c4c615700da6878ef13f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072911,
+            "locality_id":1226173121,
+            "region_id":85679817
+        }
+    ],
+    "wof:id":1226173121,
+    "wof:lastmodified":1537712103,
+    "wof:name":"Bugombe",
+    "wof:parent_id":1092072911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.76139000000001,
+    -0.07972,
+    32.76139000000001,
+    -0.07972
+],
+  "geometry": {"coordinates":[32.76139000000001,-0.07972],"type":"Point"}
+}

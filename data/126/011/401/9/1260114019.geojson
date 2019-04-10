@@ -1,0 +1,70 @@
+{
+  "id": 1260114019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.48333,-0.01667,31.48333,-0.01667",
+    "geom:latitude":-0.01667,
+    "geom:longitude":31.48333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"74",
+    "gn:admin3_code":"229304.0",
+    "gn:admin4_code":"8658057.0",
+    "gn:asciiname":"Kawanda",
+    "gn:country_code":"UG",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231768,
+    "gn:latitude":-0.01667,
+    "gn:longitude":31.48333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kawanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679823,
+        1092072661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231768
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"07cc2f024d323f2a5ad5be76f16a7df3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072661,
+            "locality_id":1260114019,
+            "region_id":85679823
+        }
+    ],
+    "wof:id":1260114019,
+    "wof:lastmodified":1536944608,
+    "wof:name":"Kawanda",
+    "wof:parent_id":1092072661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.48333,
+    -0.01667,
+    31.48333,
+    -0.01667
+],
+  "geometry": {"coordinates":[31.48333,-0.01667],"type":"Point"}
+}

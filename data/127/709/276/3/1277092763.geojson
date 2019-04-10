@@ -1,0 +1,73 @@
+{
+  "id": 1277092763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.82259,1.77427,32.82259,1.77427",
+    "geom:latitude":1.77427,
+    "geom:longitude":32.82259,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B7",
+    "gn:admin3_code":"231170.0",
+    "gn:admin4_code":"8658119.0",
+    "gn:asciiname":"Abeja",
+    "gn:country_code":"UG",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":235589,
+    "gn:latitude":1.77427,
+    "gn:longitude":32.82259,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Abeja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Abeja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679799,
+        1092071719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235589
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6baa7a2d97b1372a927c70c6847c35da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071719,
+            "locality_id":1277092763,
+            "region_id":85679799
+        }
+    ],
+    "wof:id":1277092763,
+    "wof:lastmodified":1537712113,
+    "wof:name":"Abeja",
+    "wof:parent_id":1092071719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.82259000000001,
+    1.77427,
+    32.82259000000001,
+    1.77427
+],
+  "geometry": {"coordinates":[32.82259000000001,1.77427],"type":"Point"}
+}

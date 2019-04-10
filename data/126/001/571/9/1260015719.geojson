@@ -1,0 +1,71 @@
+{
+  "id": 1260015719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.22923,0.91928,34.22923,0.91928",
+    "geom:latitude":0.91928,
+    "geom:longitude":34.22923,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D6",
+    "gn:asciiname":"Bumasari",
+    "gn:country_code":"UG",
+    "gn:dem":1218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433475,
+    "gn:latitude":0.91928,
+    "gn:longitude":34.22923,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bumasari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bumasari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679969,
+        1092068753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433475
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"76f6faad0bd04670b3568a9697fa396d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068753,
+            "locality_id":1260015719,
+            "region_id":85679969
+        }
+    ],
+    "wof:id":1260015719,
+    "wof:lastmodified":1537712171,
+    "wof:name":"Bumasari",
+    "wof:parent_id":1092068753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.22923,
+    0.91928,
+    34.22923,
+    0.91928
+],
+  "geometry": {"coordinates":[34.22923,0.91928],"type":"Point"}
+}

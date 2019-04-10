@@ -1,0 +1,70 @@
+{
+  "id": 1327149629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.53024,2.36523,34.53024,2.36523",
+    "geom:latitude":2.36523,
+    "geom:longitude":34.53024,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"91",
+    "gn:admin3_code":"226767.0",
+    "gn:admin4_code":"8658585.0",
+    "gn:asciiname":"Lotome",
+    "gn:country_code":"UG",
+    "gn:dem":1235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229976,
+    "gn:latitude":2.36523,
+    "gn:longitude":34.53024,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Lotome",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680201,
+        1092068715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229976
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f097b69465b13702ffeb4c71b072b31d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068715,
+            "locality_id":1327149629,
+            "region_id":85680201
+        }
+    ],
+    "wof:id":1327149629,
+    "wof:lastmodified":1537085836,
+    "wof:name":"Lotome",
+    "wof:parent_id":1092068715,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.53024,
+    2.36523,
+    34.53024,
+    2.36523
+],
+  "geometry": {"coordinates":[34.53024,2.36523],"type":"Point"}
+}

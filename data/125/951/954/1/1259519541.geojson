@@ -1,0 +1,73 @@
+{
+  "id": 1259519541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.94125,0.49245,33.94125,0.49245",
+    "geom:latitude":0.49245,
+    "geom:longitude":33.94125,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"67",
+    "gn:admin3_code":"8644151.0",
+    "gn:admin4_code":"8657980.0",
+    "gn:asciiname":"Bubolwa",
+    "gn:country_code":"UG",
+    "gn:dem":1133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259207,
+    "gn:latitude":0.49245,
+    "gn:longitude":33.94125,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Bubolwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bubolwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679979,
+        1092073897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259207
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"398a8da3e544ae100048fe77d6b4c21f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073897,
+            "locality_id":1259519541,
+            "region_id":85679979
+        }
+    ],
+    "wof:id":1259519541,
+    "wof:lastmodified":1537712122,
+    "wof:name":"Bubolwa",
+    "wof:parent_id":1092073897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.94125,
+    0.49245,
+    33.94125,
+    0.49245
+],
+  "geometry": {"coordinates":[33.94125,0.49245],"type":"Point"}
+}

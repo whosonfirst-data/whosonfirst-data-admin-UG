@@ -1,0 +1,70 @@
+{
+  "id": 1226676695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.5713,0.51482,33.5713,0.51482",
+    "geom:latitude":0.51482,
+    "geom:longitude":33.5713,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"78",
+    "gn:admin3_code":"234502.0",
+    "gn:admin4_code":"8643426.0",
+    "gn:asciiname":"Makandwa",
+    "gn:country_code":"UG",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8630096,
+    "gn:latitude":0.51482,
+    "gn:longitude":33.5713,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Makandwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679789,
+        1092069033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8630096
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"fc77ade701581d0a33c59e409d39b76a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069033,
+            "locality_id":1226676695,
+            "region_id":85679789
+        }
+    ],
+    "wof:id":1226676695,
+    "wof:lastmodified":1536814329,
+    "wof:name":"Makandwa",
+    "wof:parent_id":1092069033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.5713,
+    0.51482,
+    33.5713,
+    0.51482
+],
+  "geometry": {"coordinates":[33.5713,0.51482],"type":"Point"}
+}

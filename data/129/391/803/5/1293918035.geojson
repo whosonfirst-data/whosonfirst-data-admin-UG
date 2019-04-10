@@ -1,0 +1,68 @@
+{
+  "id": 1293918035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.29169,0.22788,32.29169,0.22788",
+    "geom:latitude":0.22788,
+    "geom:longitude":32.29169,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:asciiname":"Bulyasi",
+    "gn:country_code":"UG",
+    "gn:dem":1217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552592,
+    "gn:latitude":0.22788,
+    "gn:longitude":32.29169,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bulyasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679827,
+        1092072705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552592
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"74e9f9a0bb92413b8b94626f5200e22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072705,
+            "locality_id":1293918035,
+            "region_id":85679827
+        }
+    ],
+    "wof:id":1293918035,
+    "wof:lastmodified":1536663588,
+    "wof:name":"Bulyasi",
+    "wof:parent_id":1092072705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.29169,
+    0.22788,
+    32.29169,
+    0.22788
+],
+  "geometry": {"coordinates":[32.29169,0.22788],"type":"Point"}
+}

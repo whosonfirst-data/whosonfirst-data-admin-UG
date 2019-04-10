@@ -1,0 +1,78 @@
+{
+  "id": 890428577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.58511,0.20994,32.58511,0.20994",
+    "geom:latitude":0.20994,
+    "geom:longitude":32.58511,
+    "gn:country":"UG",
+    "gn:fcode":"PPL",
+    "gn:pop":1000,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Lweeza"
+    ],
+    "name:eng_x_preferred":[
+        "Lweza"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0432\u0435\u0437\u0430"
+    ],
+    "qs:name":"Lweeza",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":330,
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679879,
+        1092072077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8436310,
+        "gp:id":1451396,
+        "qs:id":771038,
+        "wd:id":"Q15243170",
+        "wk:page":"Lweeza"
+    },
+    "wof:country":"UG",
+    "wof:created":1469051759,
+    "wof:geomhash":"fb8f57147a2de87a156f886dff4406d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072077,
+            "locality_id":890428577,
+            "region_id":85679879
+        }
+    ],
+    "wof:id":890428577,
+    "wof:lastmodified":1527782119,
+    "wof:name":"Lweeza",
+    "wof:parent_id":1092072077,
+    "wof:placetype":"locality",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.58511,
+    0.20994,
+    32.58511,
+    0.20994
+],
+  "geometry": {"coordinates":[32.58511,0.20994],"type":"Point"}
+}

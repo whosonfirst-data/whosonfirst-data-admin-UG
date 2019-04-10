@@ -1,0 +1,73 @@
+{
+  "id": 1276266335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.26481,0.20008,32.26481,0.20008",
+    "geom:latitude":0.20008,
+    "geom:longitude":32.26481,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:admin3_code":"7910214.0",
+    "gn:admin4_code":"8658615.0",
+    "gn:asciiname":"Kajjaga",
+    "gn:country_code":"UG",
+    "gn:dem":1208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232715,
+    "gn:latitude":0.20008,
+    "gn:longitude":32.26481,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Kajjaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kajaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679827,
+        1092072705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232715
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f1b848431aef7a556b917e2b8ca5aa57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072705,
+            "locality_id":1276266335,
+            "region_id":85679827
+        }
+    ],
+    "wof:id":1276266335,
+    "wof:lastmodified":1537712091,
+    "wof:name":"Kajjaga",
+    "wof:parent_id":1092072705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.26481,
+    0.20008,
+    32.26481,
+    0.20008
+],
+  "geometry": {"coordinates":[32.26481,0.20008],"type":"Point"}
+}

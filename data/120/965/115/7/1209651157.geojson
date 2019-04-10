@@ -1,0 +1,65 @@
+{
+  "id": 1209651157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.33869,0.78597,34.33869,0.78597",
+    "geom:latitude":0.78597,
+    "geom:longitude":34.33869,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D6",
+    "gn:asciiname":"Bumululu",
+    "gn:country_code":"UG",
+    "gn:dem":1350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433364,
+    "gn:latitude":0.78597,
+    "gn:longitude":34.33869,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bumululu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bumululu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433364
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ac1fd9769ed836eb1c3dec79f7f77f88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209651157
+        }
+    ],
+    "wof:id":1209651157,
+    "wof:lastmodified":1537712168,
+    "wof:name":"Bumululu",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.33869,
+    0.78597,
+    34.33869,
+    0.78597
+],
+  "geometry": {"coordinates":[34.33869,0.78597],"type":"Point"}
+}

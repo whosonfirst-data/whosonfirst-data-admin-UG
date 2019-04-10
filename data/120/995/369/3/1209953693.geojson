@@ -1,0 +1,68 @@
+{
+  "id": 1209953693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.03621,0.19456,32.03621,0.19456",
+    "geom:latitude":0.19456,
+    "geom:longitude":32.03621,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F4",
+    "gn:asciiname":"Kyanika",
+    "gn:country_code":"UG",
+    "gn:dem":1221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552427,
+    "gn:latitude":0.19456,
+    "gn:longitude":32.03621,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kyanika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680133,
+        1092070589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552427
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a5765964bf4142fc08354b3079e4f8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070589,
+            "locality_id":1209953693,
+            "region_id":85680133
+        }
+    ],
+    "wof:id":1209953693,
+    "wof:lastmodified":1536380788,
+    "wof:name":"Kyanika",
+    "wof:parent_id":1092070589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.03621,
+    0.19456,
+    32.03621,
+    0.19456
+],
+  "geometry": {"coordinates":[32.03621,0.19456],"type":"Point"}
+}

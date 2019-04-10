@@ -1,0 +1,68 @@
+{
+  "id": 1276589063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.66057,1.6565,33.66057,1.6565",
+    "geom:latitude":1.6565,
+    "geom:longitude":33.66057,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"95",
+    "gn:asciiname":"Kyere",
+    "gn:country_code":"UG",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11498044,
+    "gn:latitude":1.6565,
+    "gn:longitude":33.66057,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Kyere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679813,
+        1092074055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11498044
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ffb35beee570b07b7fcf61fe1af32a21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074055,
+            "locality_id":1276589063,
+            "region_id":85679813
+        }
+    ],
+    "wof:id":1276589063,
+    "wof:lastmodified":1536934170,
+    "wof:name":"Kyere",
+    "wof:parent_id":1092074055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.66057,
+    1.6565,
+    33.66057,
+    1.6565
+],
+  "geometry": {"coordinates":[33.66057,1.6565],"type":"Point"}
+}

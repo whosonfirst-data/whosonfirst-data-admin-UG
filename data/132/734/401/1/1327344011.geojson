@@ -1,0 +1,74 @@
+{
+  "id": 1327344011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.63581,2.52481,34.63581,2.52481",
+    "geom:latitude":2.52481,
+    "geom:longitude":34.63581,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"88",
+    "gn:admin3_code":"229332.0",
+    "gn:admin4_code":"8630014.0",
+    "gn:asciiname":"Naitakwai",
+    "gn:country_code":"UG",
+    "gn:dem":1310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228485,
+    "gn:latitude":2.52481,
+    "gn:longitude":34.63581,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Naitakwai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nitakwai",
+        "Naitakwai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680017,
+        1092072625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228485
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2aa05709cf62e4d4cb45fe50091f90aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072625,
+            "locality_id":1327344011,
+            "region_id":85680017
+        }
+    ],
+    "wof:id":1327344011,
+    "wof:lastmodified":1537712070,
+    "wof:name":"Naitakwai",
+    "wof:parent_id":1092072625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.63581,
+    2.52481,
+    34.63581,
+    2.52481
+],
+  "geometry": {"coordinates":[34.63581,2.52481],"type":"Point"}
+}

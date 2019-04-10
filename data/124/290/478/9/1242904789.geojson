@@ -1,0 +1,73 @@
+{
+  "id": 1242904789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.49477,0.17901,32.49477,0.17901",
+    "geom:latitude":0.17901,
+    "geom:longitude":32.49477,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"234053.0",
+    "gn:admin4_code":"8658010.0",
+    "gn:asciiname":"Ssisa",
+    "gn:country_code":"UG",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226265,
+    "gn:latitude":0.17901,
+    "gn:longitude":32.49477,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Ssisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sisa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226265
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3983df46b1b320ed5a2569a1d8d61b0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1242904789,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1242904789,
+    "wof:lastmodified":1537712054,
+    "wof:name":"Ssisa",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.49477,
+    0.17901,
+    32.49477,
+    0.17901
+],
+  "geometry": {"coordinates":[32.49477,0.17901],"type":"Point"}
+}

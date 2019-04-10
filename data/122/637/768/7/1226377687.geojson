@@ -1,0 +1,68 @@
+{
+  "id": 1226377687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.18179,0.50199,33.18179,0.50199",
+    "geom:latitude":0.50199,
+    "geom:longitude":33.18179,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"33",
+    "gn:asciiname":"Kivubuka",
+    "gn:country_code":"UG",
+    "gn:dem":1174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553389,
+    "gn:latitude":0.50199,
+    "gn:longitude":33.18179,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kivubuka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679773,
+        1092071019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553389
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c7dd7b96ebbce58c07efc0d74922257a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071019,
+            "locality_id":1226377687,
+            "region_id":85679773
+        }
+    ],
+    "wof:id":1226377687,
+    "wof:lastmodified":1536743219,
+    "wof:name":"Kivubuka",
+    "wof:parent_id":1092071019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.18179,
+    0.50199,
+    33.18179,
+    0.50199
+],
+  "geometry": {"coordinates":[33.18179,0.50199],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360215143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.33333,1.08333,34.33333,1.08333",
+    "geom:latitude":1.08333,
+    "geom:longitude":34.33333,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"87",
+    "gn:admin3_code":"7732903.0",
+    "gn:admin4_code":"8658237.0",
+    "gn:asciiname":"Bubungi",
+    "gn:country_code":"UG",
+    "gn:dem":1680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234671,
+    "gn:latitude":1.08333,
+    "gn:longitude":34.33333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bubungi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680251,
+        1092072481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234671
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2bfa5c631f1feeac3037fad81e6b47a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072481,
+            "locality_id":1360215143,
+            "region_id":85680251
+        }
+    ],
+    "wof:id":1360215143,
+    "wof:lastmodified":1536758306,
+    "wof:name":"Bubungi",
+    "wof:parent_id":1092072481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.33333,
+    1.08333,
+    34.33333,
+    1.08333
+],
+  "geometry": {"coordinates":[34.33333,1.08333],"type":"Point"}
+}

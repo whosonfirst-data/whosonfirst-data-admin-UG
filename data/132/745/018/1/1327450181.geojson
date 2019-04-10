@@ -1,0 +1,71 @@
+{
+  "id": 1327450181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.69517,1.94714,32.69517,1.94714",
+    "geom:latitude":1.94714,
+    "geom:longitude":32.69517,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"26",
+    "gn:asciiname":"Wigweng",
+    "gn:country_code":"UG",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":11552303,
+    "gn:latitude":1.94714,
+    "gn:longitude":32.69517,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Wigweng",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wigweng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680151,
+        1092071971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552303
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"155b33b75eceabfaae2d237facdf19d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071971,
+            "locality_id":1327450181,
+            "region_id":85680151
+        }
+    ],
+    "wof:id":1327450181,
+    "wof:lastmodified":1537712179,
+    "wof:name":"Wigweng",
+    "wof:parent_id":1092071971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.69517,
+    1.94714,
+    32.69517,
+    1.94714
+],
+  "geometry": {"coordinates":[32.69517,1.94714],"type":"Point"}
+}

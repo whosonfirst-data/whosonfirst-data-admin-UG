@@ -1,0 +1,73 @@
+{
+  "id": 1327040579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.84594,1.66872,32.84594,1.66872",
+    "geom:latitude":1.66872,
+    "geom:longitude":32.84594,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B7",
+    "gn:admin3_code":"231170.0",
+    "gn:admin4_code":"8658119.0",
+    "gn:asciiname":"Kalungu",
+    "gn:country_code":"UG",
+    "gn:dem":1060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":232484,
+    "gn:latitude":1.66872,
+    "gn:longitude":32.84594,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Kalungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kalungu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679799,
+        1092071719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232484
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b0b24a0b3a56943b556b4a902677e6c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071719,
+            "locality_id":1327040579,
+            "region_id":85679799
+        }
+    ],
+    "wof:id":1327040579,
+    "wof:lastmodified":1537712090,
+    "wof:name":"Kalungu",
+    "wof:parent_id":1092071719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.84594,
+    1.66872,
+    32.84594,
+    1.66872
+],
+  "geometry": {"coordinates":[32.84594,1.66872],"type":"Point"}
+}

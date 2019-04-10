@@ -1,0 +1,70 @@
+{
+  "id": 1360304237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.76622,3.74533,32.76622,3.74533",
+    "geom:latitude":3.74533,
+    "geom:longitude":32.76622,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"G3",
+    "gn:admin3_code":"230209.0",
+    "gn:admin4_code":"8645939.0",
+    "gn:asciiname":"Dibolyec",
+    "gn:country_code":"UG",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8646074,
+    "gn:latitude":3.74533,
+    "gn:longitude":32.76622,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Dibolyec",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680147,
+        1092072341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8646074
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3c6f61843ae8af57e8cbe87ce3bf79fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072341,
+            "locality_id":1360304237,
+            "region_id":85680147
+        }
+    ],
+    "wof:id":1360304237,
+    "wof:lastmodified":1536627730,
+    "wof:name":"Dibolyec",
+    "wof:parent_id":1092072341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.76622,
+    3.74533,
+    32.76622,
+    3.74533
+],
+  "geometry": {"coordinates":[32.76622,3.74533],"type":"Point"}
+}

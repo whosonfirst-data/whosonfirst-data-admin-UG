@@ -1,0 +1,68 @@
+{
+  "id": 1343891825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.60867,0.54635,33.60867,0.54635",
+    "geom:latitude":0.54635,
+    "geom:longitude":33.60867,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"78",
+    "gn:asciiname":"Nabivumbi",
+    "gn:country_code":"UG",
+    "gn:dem":1116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11468601,
+    "gn:latitude":0.54635,
+    "gn:longitude":33.60867,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Nabivumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679789,
+        1092069033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11468601
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4bb56fb94273ccc21062b628046c4792",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069033,
+            "locality_id":1343891825,
+            "region_id":85679789
+        }
+    ],
+    "wof:id":1343891825,
+    "wof:lastmodified":1536619227,
+    "wof:name":"Nabivumbi",
+    "wof:parent_id":1092069033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.60867,
+    0.54635,
+    33.60867,
+    0.54635
+],
+  "geometry": {"coordinates":[33.60867,0.54635],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326866685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.03901,0.71462,33.03901,0.71462",
+    "geom:latitude":0.71462,
+    "geom:longitude":33.03901,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"83",
+    "gn:asciiname":"Budooda",
+    "gn:country_code":"UG",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553285,
+    "gn:latitude":0.71462,
+    "gn:longitude":33.03901,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Budooda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679787,
+        1092073141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553285
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2d46fc0a4702ea67ef2ef52b16c10850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073141,
+            "locality_id":1326866685,
+            "region_id":85679787
+        }
+    ],
+    "wof:id":1326866685,
+    "wof:lastmodified":1536998289,
+    "wof:name":"Budooda",
+    "wof:parent_id":1092073141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03901,
+    0.71462,
+    33.03901,
+    0.71462
+],
+  "geometry": {"coordinates":[33.03901,0.71462],"type":"Point"}
+}

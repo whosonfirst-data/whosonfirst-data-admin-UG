@@ -1,0 +1,64 @@
+{
+  "id": 1209534311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.15,2.9,34.15,2.9",
+    "geom:latitude":2.9,
+    "geom:longitude":34.15,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"45",
+    "gn:admin3_code":"233117.0",
+    "gn:admin4_code":"8658473.0",
+    "gn:asciiname":"Napumpum",
+    "gn:country_code":"UG",
+    "gn:dem":1254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228023,
+    "gn:latitude":2.9,
+    "gn:longitude":34.15,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Napumpum",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228023
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d1c57737d5d9c11529a1db5daeda4608",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209534311
+        }
+    ],
+    "wof:id":1209534311,
+    "wof:lastmodified":1536284186,
+    "wof:name":"Napumpum",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.15,
+    2.9,
+    34.15,
+    2.9
+],
+  "geometry": {"coordinates":[34.15,2.9],"type":"Point"}
+}

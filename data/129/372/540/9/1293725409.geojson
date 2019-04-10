@@ -1,0 +1,71 @@
+{
+  "id": 1293725409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.82528,0.6775,32.82528,0.6775",
+    "geom:latitude":0.6775,
+    "geom:longitude":32.82528,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"90",
+    "gn:admin3_code":"7732383.0",
+    "gn:admin4_code":"8657984.0",
+    "gn:asciiname":"Kasawo",
+    "gn:country_code":"UG",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232090,
+    "gn:latitude":0.6775,
+    "gn:longitude":32.82528,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kasawo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679817,
+        1092073015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232090,
+        "wk:page":"Kasawo"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"06cc3cda6afa0eeae0345b72cdad9ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073015,
+            "locality_id":1293725409,
+            "region_id":85679817
+        }
+    ],
+    "wof:id":1293725409,
+    "wof:lastmodified":1537575043,
+    "wof:name":"Kasawo",
+    "wof:parent_id":1092073015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.82528,
+    0.6775,
+    32.82528,
+    0.6775
+],
+  "geometry": {"coordinates":[32.82528,0.6775],"type":"Point"}
+}

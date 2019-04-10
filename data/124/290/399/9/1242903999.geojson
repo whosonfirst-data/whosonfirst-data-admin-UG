@@ -1,0 +1,73 @@
+{
+  "id": 1242903999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.98887,0.83561,29.98887,0.83561",
+    "geom:latitude":0.83561,
+    "geom:longitude":29.98887,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"7732250.0",
+    "gn:admin4_code":"8658204.0",
+    "gn:asciiname":"Bundibundu",
+    "gn:country_code":"UG",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234177,
+    "gn:latitude":0.83561,
+    "gn:longitude":29.98887,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Bundibundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bundibundu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092070289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234177
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"cc62de6396310fdd9233406b616e8895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070289,
+            "locality_id":1242903999,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1242903999,
+    "wof:lastmodified":1537712099,
+    "wof:name":"Bundibundu",
+    "wof:parent_id":1092070289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.98887,
+    0.83561,
+    29.98887,
+    0.83561
+],
+  "geometry": {"coordinates":[29.98887,0.83561],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1343892259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.94117,0.63732,33.94117,0.63732",
+    "geom:latitude":0.63732,
+    "geom:longitude":33.94117,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Patumbu",
+    "gn:country_code":"UG",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429727,
+    "gn:latitude":0.63732,
+    "gn:longitude":33.94117,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Patumbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679989,
+        1092074289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429727
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"00ce82e67f647480c953bc8c0b6f59be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074289,
+            "locality_id":1343892259,
+            "region_id":85679989
+        }
+    ],
+    "wof:id":1343892259,
+    "wof:lastmodified":1536618557,
+    "wof:name":"Patumbu",
+    "wof:parent_id":1092074289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.94117,
+    0.63732,
+    33.94117,
+    0.63732
+],
+  "geometry": {"coordinates":[33.94117,0.63732],"type":"Point"}
+}

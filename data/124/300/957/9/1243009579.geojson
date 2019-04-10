@@ -1,0 +1,68 @@
+{
+  "id": 1243009579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.75362,0.99071,33.75362,0.99071",
+    "geom:latitude":0.99071,
+    "geom:longitude":33.75362,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"F6",
+    "gn:asciiname":"Kitantalo",
+    "gn:country_code":"UG",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429767,
+    "gn:latitude":0.99071,
+    "gn:longitude":33.75362,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Kitantalo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680111,
+        1092071585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429767
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"987cbd2baa61d0ce835d7688ed9a2e8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071585,
+            "locality_id":1243009579,
+            "region_id":85680111
+        }
+    ],
+    "wof:id":1243009579,
+    "wof:lastmodified":1536939074,
+    "wof:name":"Kitantalo",
+    "wof:parent_id":1092071585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.75362,
+    0.99071,
+    33.75362,
+    0.99071
+],
+  "geometry": {"coordinates":[33.75362,0.99071],"type":"Point"}
+}

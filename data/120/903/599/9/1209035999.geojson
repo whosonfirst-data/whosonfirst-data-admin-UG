@@ -1,0 +1,62 @@
+{
+  "id": 1209035999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.66286,0.77673,33.66286,0.77673",
+    "geom:latitude":0.77673,
+    "geom:longitude":33.66286,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"E1",
+    "gn:asciiname":"Ituba-Bulongo",
+    "gn:country_code":"UG",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429899,
+    "gn:latitude":0.77673,
+    "gn:longitude":33.66286,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Ituba-Bulongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429899
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"51d8e45f8fabcbd641ee89f3a1db71b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209035999
+        }
+    ],
+    "wof:id":1209035999,
+    "wof:lastmodified":1536299698,
+    "wof:name":"Ituba-Bulongo",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.662859999999995,
+    0.77673,
+    33.662859999999995,
+    0.77673
+],
+  "geometry": {"coordinates":[33.66285999999999,0.77673],"type":"Point"}
+}

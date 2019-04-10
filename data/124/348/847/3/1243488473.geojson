@@ -1,0 +1,71 @@
+{
+  "id": 1243488473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.27171,0.90847,34.27171,0.90847",
+    "geom:latitude":0.90847,
+    "geom:longitude":34.27171,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D6",
+    "gn:asciiname":"Bukaboole",
+    "gn:country_code":"UG",
+    "gn:dem":1266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433149,
+    "gn:latitude":0.90847,
+    "gn:longitude":34.27171,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bukaboole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bukaboole"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679969,
+        1092068753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433149
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"555c7d4e4357e4e2d49e5c7bac6c0f00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068753,
+            "locality_id":1243488473,
+            "region_id":85679969
+        }
+    ],
+    "wof:id":1243488473,
+    "wof:lastmodified":1537712163,
+    "wof:name":"Bukaboole",
+    "wof:parent_id":1092068753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.27171,
+    0.90847,
+    34.27171,
+    0.90847
+],
+  "geometry": {"coordinates":[34.27171,0.90847],"type":"Point"}
+}

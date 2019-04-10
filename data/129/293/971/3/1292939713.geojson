@@ -1,0 +1,70 @@
+{
+  "id": 1292939713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.33135,1.20906,34.33135,1.20906",
+    "geom:latitude":1.20906,
+    "geom:longitude":34.33135,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"94",
+    "gn:admin3_code":"7869959.0",
+    "gn:admin4_code":"8658618.0",
+    "gn:asciiname":"Bumalimba",
+    "gn:country_code":"UG",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8644076,
+    "gn:latitude":1.20906,
+    "gn:longitude":34.33135,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bumalimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679961,
+        1092068781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8644076
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"679c0acb441f0145736ac2a91feee70c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068781,
+            "locality_id":1292939713,
+            "region_id":85679961
+        }
+    ],
+    "wof:id":1292939713,
+    "wof:lastmodified":1537076695,
+    "wof:name":"Bumalimba",
+    "wof:parent_id":1092068781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.33135,
+    1.20906,
+    34.33135,
+    1.20906
+],
+  "geometry": {"coordinates":[34.33135,1.20906],"type":"Point"}
+}

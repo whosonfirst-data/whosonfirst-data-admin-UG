@@ -1,0 +1,70 @@
+{
+  "id": 1326845351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.905,3.16494,30.905,3.16494",
+    "geom:latitude":3.16494,
+    "geom:longitude":30.905,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"D7",
+    "gn:admin3_code":"229396.0",
+    "gn:admin4_code":"8658621.0",
+    "gn:asciiname":"Kijomoro",
+    "gn:country_code":"UG",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231353,
+    "gn:latitude":3.16494,
+    "gn:longitude":30.905,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kijomoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679861,
+        1092072511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231353
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0d9e5db2b98039f00ca01a92c98ab025",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072511,
+            "locality_id":1326845351,
+            "region_id":85679861
+        }
+    ],
+    "wof:id":1326845351,
+    "wof:lastmodified":1537028555,
+    "wof:name":"Kijomoro",
+    "wof:parent_id":1092072511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.905,
+    3.16494,
+    30.905,
+    3.16494
+],
+  "geometry": {"coordinates":[30.905,3.16494],"type":"Point"}
+}

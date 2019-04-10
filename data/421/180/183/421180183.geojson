@@ -1,0 +1,94 @@
+{
+  "id": 421180183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-03",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.70684,1.794941,34.70684,1.794941",
+    "geom:latitude":1.794941,
+    "geom:longitude":34.70684,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Nakapiripirit"
+    ],
+    "name:hun_x_preferred":[
+        "Nakapiripirit"
+    ],
+    "name:nld_x_preferred":[
+        "Nakapiripirit"
+    ],
+    "name:ron_x_preferred":[
+        "Nakapiripirit"
+    ],
+    "name:swa_x_preferred":[
+        "Nakapiripirit"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u06a9\u0627\u067e\u06cc\u0631\u06cc\u067e\u06cc\u0631\u06cc\u062a"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Nakapiripirit",
+    "qs:name_adm0":"Uganda",
+    "qs:name_adm1":"Nakapiripirit",
+    "qs:photos":57,
+    "qs:photos_1k":12,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":57,
+    "qs:photos_sr":2,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1196798,
+    "qs:woe_adm0":23424974,
+    "qs:woe_id":24550738,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":301,
+    "wof:belongsto":[
+        102191573,
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":24550738,
+        "qs:id":1196798,
+        "wd:id":"Q2658047"
+    },
+    "wof:country":"UG",
+    "wof:created":1459009247,
+    "wof:geomhash":"e12177df3b203c6ab3482a0a435cd8c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "region_id":421180183
+        }
+    ],
+    "wof:id":421180183,
+    "wof:lastmodified":1529541195,
+    "wof:name":"Nakapiripirit",
+    "wof:parent_id":85632625,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.70684,
+    1.794941,
+    34.70684,
+    1.794941
+],
+  "geometry": {"coordinates":[34.70684,1.794941],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1260013649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.73577,0.75694,33.73577,0.75694",
+    "geom:latitude":0.75694,
+    "geom:longitude":33.73577,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"E1",
+    "gn:admin3_code":"8644136.0",
+    "gn:admin4_code":"8658053.0",
+    "gn:asciiname":"Bubutya",
+    "gn:country_code":"UG",
+    "gn:dem":1120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234669,
+    "gn:latitude":0.75694,
+    "gn:longitude":33.73577,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Bubutya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679807,
+        1092069849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234669
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b5173eab7b91257102efcd1bbe5d4f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069849,
+            "locality_id":1260013649,
+            "region_id":85679807
+        }
+    ],
+    "wof:id":1260013649,
+    "wof:lastmodified":1537085362,
+    "wof:name":"Bubutya",
+    "wof:parent_id":1092069849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.73577,
+    0.75694,
+    33.73577,
+    0.75694
+],
+  "geometry": {"coordinates":[33.73577,0.75694],"type":"Point"}
+}

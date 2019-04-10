@@ -1,0 +1,75 @@
+{
+  "id": 1276247467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.25472,2.24472,33.25472,2.24472",
+    "geom:latitude":2.24472,
+    "geom:longitude":33.25472,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"E4",
+    "gn:admin3_code":"229109.0",
+    "gn:admin4_code":"8657777.0",
+    "gn:asciiname":"Alebtong",
+    "gn:country_code":"UG",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":235293,
+    "gn:latitude":2.24472,
+    "gn:longitude":33.25472,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Alebtong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alebtongo",
+        "Alebtong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680161,
+        1092072869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235293,
+        "wk:page":"Alebtong"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"406e3439276e530ec0e0460f09ca43f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072869,
+            "locality_id":1276247467,
+            "region_id":85680161
+        }
+    ],
+    "wof:id":1276247467,
+    "wof:lastmodified":1537712110,
+    "wof:name":"Alebtong",
+    "wof:parent_id":1092072869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.25472,
+    2.24472,
+    33.25472,
+    2.24472
+],
+  "geometry": {"coordinates":[33.25472,2.24472],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1226079127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.16202,-0.81682,30.16202,-0.81682",
+    "geom:latitude":-0.81682,
+    "geom:longitude":30.16202,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"7732262.0",
+    "gn:admin4_code":"8657602.0",
+    "gn:asciiname":"Kagamba",
+    "gn:country_code":"UG",
+    "gn:dem":1608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232827,
+    "gn:latitude":-0.81682,
+    "gn:longitude":30.16202,
+    "gn:modification_date":"2014-09-08",
+    "gn:name":"Kagamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680059,
+        1092071063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232827,
+        "wk:page":"Kagamba"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"684ba572a89ab579f287055e79692fdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071063,
+            "locality_id":1226079127,
+            "region_id":85680059
+        }
+    ],
+    "wof:id":1226079127,
+    "wof:lastmodified":1537575044,
+    "wof:name":"Kagamba",
+    "wof:parent_id":1092071063,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.16202,
+    -0.81682,
+    30.16202,
+    -0.81682
+],
+  "geometry": {"coordinates":[30.16202,-0.81682],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1360121275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.67889,1.92531,33.67889,1.92531",
+    "geom:latitude":1.92531,
+    "geom:longitude":33.67889,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"B8",
+    "gn:admin3_code":"235185.0",
+    "gn:admin4_code":"8658243.0",
+    "gn:asciiname":"Olekai",
+    "gn:country_code":"UG",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227113,
+    "gn:latitude":1.92531,
+    "gn:longitude":33.67889,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Olekai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Oleka",
+        "Olekai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680003,
+        1092068395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227113
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1bbcb26c8cd9e9e9d80ef01b99c5fec9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068395,
+            "locality_id":1360121275,
+            "region_id":85680003
+        }
+    ],
+    "wof:id":1360121275,
+    "wof:lastmodified":1537712062,
+    "wof:name":"Olekai",
+    "wof:parent_id":1092068395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.67889,
+    1.92531,
+    33.67889,
+    1.92531
+],
+  "geometry": {"coordinates":[33.67889,1.92531],"type":"Point"}
+}

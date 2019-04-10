@@ -1,0 +1,73 @@
+{
+  "id": 1259502379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.71109,1.57531,32.71109,1.57531",
+    "geom:latitude":1.57531,
+    "geom:longitude":32.71109,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B7",
+    "gn:admin3_code":"231170.0",
+    "gn:admin4_code":"8657992.0",
+    "gn:asciiname":"Kyarupasi",
+    "gn:country_code":"UG",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230371,
+    "gn:latitude":1.57531,
+    "gn:longitude":32.71109,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Kyarupasi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kyarupasi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679799,
+        1092071719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230371
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"834a318dde3346fc91190eb43e4bcc87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071719,
+            "locality_id":1259502379,
+            "region_id":85679799
+        }
+    ],
+    "wof:id":1259502379,
+    "wof:lastmodified":1537712080,
+    "wof:name":"Kyarupasi",
+    "wof:parent_id":1092071719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.71109000000001,
+    1.57531,
+    32.71109000000001,
+    1.57531
+],
+  "geometry": {"coordinates":[32.71109000000001,1.57531],"type":"Point"}
+}

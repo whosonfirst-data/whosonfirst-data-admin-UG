@@ -1,0 +1,74 @@
+{
+  "id": 1293523879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.51496,1.74826,33.51496,1.74826",
+    "geom:latitude":1.74826,
+    "geom:longitude":33.51496,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"95",
+    "gn:admin3_code":"226232.0",
+    "gn:admin4_code":"8658303.0",
+    "gn:asciiname":"Kamuda",
+    "gn:country_code":"UG",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232416,
+    "gn:latitude":1.74826,
+    "gn:longitude":33.51496,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Kamuda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamoda",
+        "Kamuda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679813,
+        1092074055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232416
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"06bbb43c0a0d550b9d4255fcb5c281d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074055,
+            "locality_id":1293523879,
+            "region_id":85679813
+        }
+    ],
+    "wof:id":1293523879,
+    "wof:lastmodified":1537712090,
+    "wof:name":"Kamuda",
+    "wof:parent_id":1092074055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.51495999999999,
+    1.74826,
+    33.51495999999999,
+    1.74826
+],
+  "geometry": {"coordinates":[33.51495999999999,1.74826],"type":"Point"}
+}

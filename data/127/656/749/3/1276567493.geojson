@@ -1,0 +1,73 @@
+{
+  "id": 1276567493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.85888,3.75153,33.85888,3.75153",
+    "geom:latitude":3.75153,
+    "geom:longitude":33.85888,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"D1",
+    "gn:admin3_code":"233569.0",
+    "gn:admin4_code":"8658384.0",
+    "gn:asciiname":"Lomej",
+    "gn:country_code":"UG",
+    "gn:dem":1444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448334,
+    "gn:latitude":3.75153,
+    "gn:longitude":33.85888,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lomej",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lomei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680007,
+        1092070399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448334
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f894ac6a0a4e9a81bb39a4b2d3d2e451",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070399,
+            "locality_id":1276567493,
+            "region_id":85680007
+        }
+    ],
+    "wof:id":1276567493,
+    "wof:lastmodified":1537712114,
+    "wof:name":"Lomej",
+    "wof:parent_id":1092070399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.85888,
+    3.75153,
+    33.85888,
+    3.75153
+],
+  "geometry": {"coordinates":[33.85888,3.75153],"type":"Point"}
+}

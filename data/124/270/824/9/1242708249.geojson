@@ -1,0 +1,70 @@
+{
+  "id": 1242708249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.88333,0.98333,32.88333,0.98333",
+    "geom:latitude":0.98333,
+    "geom:longitude":32.88333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"83",
+    "gn:admin3_code":"8644158.0",
+    "gn:admin4_code":"8657767.0",
+    "gn:asciiname":"Banagonera",
+    "gn:country_code":"UG",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234861,
+    "gn:latitude":0.98333,
+    "gn:longitude":32.88333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Banagonera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679787,
+        1092068673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234861
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e68b449bde6bed328cde6ad077fe5b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068673,
+            "locality_id":1242708249,
+            "region_id":85679787
+        }
+    ],
+    "wof:id":1242708249,
+    "wof:lastmodified":1536874759,
+    "wof:name":"Banagonera",
+    "wof:parent_id":1092068673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.88333,
+    0.98333,
+    32.88333,
+    0.98333
+],
+  "geometry": {"coordinates":[32.88333,0.98333],"type":"Point"}
+}

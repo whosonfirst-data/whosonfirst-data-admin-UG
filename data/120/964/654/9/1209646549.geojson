@@ -1,0 +1,64 @@
+{
+  "id": 1209646549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.50194,0.77556,32.50194,0.77556",
+    "geom:latitude":0.77556,
+    "geom:longitude":32.50194,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"8644176.0",
+    "gn:admin4_code":"8657634.0",
+    "gn:asciiname":"Katikamu",
+    "gn:country_code":"UG",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231871,
+    "gn:latitude":0.77556,
+    "gn:longitude":32.50194,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Katikamu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231871
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"bfa3780d7f88db3f652bd3a7bc7cb479",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209646549
+        }
+    ],
+    "wof:id":1209646549,
+    "wof:lastmodified":1536280717,
+    "wof:name":"Katikamu",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.501940000000005,
+    0.77556,
+    32.501940000000005,
+    0.77556
+],
+  "geometry": {"coordinates":[32.50194,0.77556],"type":"Point"}
+}

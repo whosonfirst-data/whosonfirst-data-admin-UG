@@ -1,0 +1,70 @@
+{
+  "id": 1193034691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.27542,2.76008,31.27542,2.76008",
+    "geom:latitude":2.76008,
+    "geom:longitude":31.27542,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"8644146.0",
+    "gn:admin4_code":"8261585.0",
+    "gn:asciiname":"Baito",
+    "gn:country_code":"UG",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8081178,
+    "gn:latitude":2.76008,
+    "gn:longitude":31.27542,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Baito",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092074425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8081178
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"11f6fcc2a36bca63290f1ea48460dbc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074425,
+            "locality_id":1193034691,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1193034691,
+    "wof:lastmodified":1536382295,
+    "wof:name":"Baito",
+    "wof:parent_id":1092074425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.27542,
+    2.76008,
+    31.27542,
+    2.76008
+],
+  "geometry": {"coordinates":[31.27542,2.76008],"type":"Point"}
+}

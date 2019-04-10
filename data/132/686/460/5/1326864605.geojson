@@ -1,0 +1,71 @@
+{
+  "id": 1326864605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.34826,0.93677,30.34826,0.93677",
+    "geom:latitude":0.93677,
+    "geom:longitude":30.34826,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"H1",
+    "gn:asciiname":"Ntungama",
+    "gn:country_code":"UG",
+    "gn:dem":723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227595,
+    "gn:latitude":0.93677,
+    "gn:longitude":30.34826,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ntungama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ntungama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680179,
+        1092073179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227595
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5a02add0231a5ef837df4202f3fbff92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073179,
+            "locality_id":1326864605,
+            "region_id":85680179
+        }
+    ],
+    "wof:id":1326864605,
+    "wof:lastmodified":1537712066,
+    "wof:name":"Ntungama",
+    "wof:parent_id":1092073179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.34826,
+    0.93677,
+    30.34826,
+    0.93677
+],
+  "geometry": {"coordinates":[30.34826,0.93677],"type":"Point"}
+}

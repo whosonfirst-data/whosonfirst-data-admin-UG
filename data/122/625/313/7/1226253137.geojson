@@ -1,0 +1,70 @@
+{
+  "id": 1226253137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.91293,3.37175,31.91293,3.37175",
+    "geom:latitude":3.37175,
+    "geom:longitude":31.91293,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"8644133.0",
+    "gn:admin4_code":"8657897.0",
+    "gn:asciiname":"Olia",
+    "gn:country_code":"UG",
+    "gn:dem":703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142037,
+    "gn:latitude":3.37175,
+    "gn:longitude":31.91293,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Olia",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679833,
+        1092070471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142037
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9233064e62cbf3ceec41628abb79c350",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070471,
+            "locality_id":1226253137,
+            "region_id":85679833
+        }
+    ],
+    "wof:id":1226253137,
+    "wof:lastmodified":1536923590,
+    "wof:name":"Olia",
+    "wof:parent_id":1092070471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.91293,
+    3.37175,
+    31.91293,
+    3.37175
+],
+  "geometry": {"coordinates":[31.91293,3.37175],"type":"Point"}
+}

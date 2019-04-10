@@ -1,0 +1,70 @@
+{
+  "id": 1243300019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.88333,2.16667,33.88333,2.16667",
+    "geom:latitude":2.16667,
+    "geom:longitude":33.88333,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"B8",
+    "gn:admin3_code":"8644171.0",
+    "gn:admin4_code":"8658056.0",
+    "gn:asciiname":"Nakulo",
+    "gn:country_code":"UG",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228332,
+    "gn:latitude":2.16667,
+    "gn:longitude":33.88333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nakulo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680003,
+        1092071245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228332
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b466b38233bf7fb80675b1f87c78c3e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071245,
+            "locality_id":1243300019,
+            "region_id":85680003
+        }
+    ],
+    "wof:id":1243300019,
+    "wof:lastmodified":1537015807,
+    "wof:name":"Nakulo",
+    "wof:parent_id":1092071245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.88333,
+    2.16667,
+    33.88333,
+    2.16667
+],
+  "geometry": {"coordinates":[33.88333,2.16667],"type":"Point"}
+}

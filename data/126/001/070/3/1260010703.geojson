@@ -1,0 +1,70 @@
+{
+  "id": 1260010703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.30706,1.58164,33.30706,1.58164",
+    "geom:latitude":1.58164,
+    "geom:longitude":33.30706,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"H5",
+    "gn:admin3_code":"8644174.0",
+    "gn:admin4_code":"8658743.0",
+    "gn:asciiname":"Ogalayi",
+    "gn:country_code":"UG",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227216,
+    "gn:latitude":1.58164,
+    "gn:longitude":33.30706,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Ogalayi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680119,
+        1092071333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227216
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8ed155c6ac80d3ba65520260750b1b6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071333,
+            "locality_id":1260010703,
+            "region_id":85680119
+        }
+    ],
+    "wof:id":1260010703,
+    "wof:lastmodified":1537089620,
+    "wof:name":"Ogalayi",
+    "wof:parent_id":1092071333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.30706,
+    1.58164,
+    33.30706,
+    1.58164
+],
+  "geometry": {"coordinates":[33.30706,1.58164],"type":"Point"}
+}

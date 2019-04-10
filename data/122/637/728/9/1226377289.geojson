@@ -1,0 +1,68 @@
+{
+  "id": 1226377289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.82641,0.85048,33.82641,0.85048",
+    "geom:latitude":0.85048,
+    "geom:longitude":33.82641,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C6",
+    "gn:asciiname":"Nakhalondo",
+    "gn:country_code":"UG",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429885,
+    "gn:latitude":0.85048,
+    "gn:longitude":33.82641,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Nakhalondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679981,
+        1092069677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429885
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"98b856b36b8f57fc5943e1cf31d66f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069677,
+            "locality_id":1226377289,
+            "region_id":85679981
+        }
+    ],
+    "wof:id":1226377289,
+    "wof:lastmodified":1536743797,
+    "wof:name":"Nakhalondo",
+    "wof:parent_id":1092069677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.82641,
+    0.85048,
+    33.82641,
+    0.85048
+],
+  "geometry": {"coordinates":[33.82641,0.85048],"type":"Point"}
+}

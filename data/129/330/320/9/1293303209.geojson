@@ -1,0 +1,75 @@
+{
+  "id": 1293303209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.91363,3.14201,32.91363,3.14201",
+    "geom:latitude":3.14201,
+    "geom:longitude":32.91363,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"92",
+    "gn:admin3_code":"8644156.0",
+    "gn:admin4_code":"8647785.0",
+    "gn:asciiname":"Acholibur",
+    "gn:country_code":"UG",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235528,
+    "gn:latitude":3.14201,
+    "gn:longitude":32.91363,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Acholibur",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Acholibar",
+        "Acholibur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679917,
+        1092068503
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235528,
+        "wk:page":"Acholibur"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8a29802b2fd8f4527bd773125c43f64d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068503,
+            "locality_id":1293303209,
+            "region_id":85679917
+        }
+    ],
+    "wof:id":1293303209,
+    "wof:lastmodified":1537712112,
+    "wof:name":"Acholibur",
+    "wof:parent_id":1092068503,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.91363,
+    3.14201,
+    32.91363,
+    3.14201
+],
+  "geometry": {"coordinates":[32.91363,3.14201],"type":"Point"}
+}

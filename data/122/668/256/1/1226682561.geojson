@@ -1,0 +1,73 @@
+{
+  "id": 1226682561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.99135,0.25198,33.99135,0.25198",
+    "geom:latitude":0.25198,
+    "geom:longitude":33.99135,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"67",
+    "gn:admin3_code":"8644151.0",
+    "gn:admin4_code":"8657985.0",
+    "gn:asciiname":"Madwa",
+    "gn:country_code":"UG",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229544,
+    "gn:latitude":0.25198,
+    "gn:longitude":33.99135,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Madwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Madwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679979,
+        1092073897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229544
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"bdb5cbd363a74221441839ab6c0e6230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073897,
+            "locality_id":1226682561,
+            "region_id":85679979
+        }
+    ],
+    "wof:id":1226682561,
+    "wof:lastmodified":1537712076,
+    "wof:name":"Madwa",
+    "wof:parent_id":1092073897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.99135,
+    0.25198,
+    33.99135,
+    0.25198
+],
+  "geometry": {"coordinates":[33.99135,0.25198],"type":"Point"}
+}

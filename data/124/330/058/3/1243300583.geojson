@@ -1,0 +1,80 @@
+{
+  "id": 1243300583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.58333,-1.13333,29.58333,-1.13333",
+    "geom:latitude":-1.13333,
+    "geom:longitude":29.58333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"43",
+    "gn:admin3_code":"7874701.0",
+    "gn:admin4_code":"8657636.0",
+    "gn:asciiname":"Nyalutembe",
+    "gn:country_code":"UG",
+    "gn:dem":1622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227439,
+    "gn:latitude":-1.13333,
+    "gn:longitude":29.58333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nyalutembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680075,
+        1092068877,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227439
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d5e3d4382fc8f7f254d9ff31a5d6187c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068877,
+            "locality_id":1243300583,
+            "region_id":85680075
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1243300583,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1243300583,
+    "wof:lastmodified":1537014961,
+    "wof:name":"Nyalutembe",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.58333,
+    -1.13333,
+    29.58333,
+    -1.13333
+],
+  "geometry": {"coordinates":[29.58333,-1.13333],"type":"Point"}
+}

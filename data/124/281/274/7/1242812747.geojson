@@ -1,0 +1,71 @@
+{
+  "id": 1242812747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.08761,0.75272,30.08761,0.75272",
+    "geom:latitude":0.75272,
+    "geom:longitude":30.08761,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:asciiname":"Bundisana",
+    "gn:country_code":"UG",
+    "gn:dem":945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401502,
+    "gn:latitude":0.75272,
+    "gn:longitude":30.08761,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Bundisana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bundisana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092070289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401502
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8a802ca505d52effc98478f50b3e0d24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070289,
+            "locality_id":1242812747,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1242812747,
+    "wof:lastmodified":1537712139,
+    "wof:name":"Bundisana",
+    "wof:parent_id":1092070289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.08761,
+    0.75272,
+    30.08761,
+    0.75272
+],
+  "geometry": {"coordinates":[30.08761,0.75272],"type":"Point"}
+}

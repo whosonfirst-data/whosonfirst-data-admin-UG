@@ -1,0 +1,73 @@
+{
+  "id": 1343697585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.13198,0.262,33.13198,0.262",
+    "geom:latitude":0.262,
+    "geom:longitude":33.13198,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E7",
+    "gn:admin3_code":"7732075.0",
+    "gn:admin4_code":"8658507.0",
+    "gn:asciiname":"Buyora",
+    "gn:country_code":"UG",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11356761,
+    "gn:latitude":0.262,
+    "gn:longitude":33.13198,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Buyora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buyora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680121,
+        1092069145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11356761
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"aa1e6c798dee3103033a1ce28f100be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069145,
+            "locality_id":1343697585,
+            "region_id":85680121
+        }
+    ],
+    "wof:id":1343697585,
+    "wof:lastmodified":1537712138,
+    "wof:name":"Buyora",
+    "wof:parent_id":1092069145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.13198,
+    0.262,
+    33.13198,
+    0.262
+],
+  "geometry": {"coordinates":[33.13198,0.262],"type":"Point"}
+}

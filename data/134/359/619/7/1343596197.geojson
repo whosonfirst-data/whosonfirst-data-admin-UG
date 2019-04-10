@@ -1,0 +1,73 @@
+{
+  "id": 1343596197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.14496,0.80011,30.14496,0.80011",
+    "geom:latitude":0.80011,
+    "geom:longitude":30.14496,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"8644162.0",
+    "gn:admin4_code":"8657673.0",
+    "gn:asciiname":"Ntandi",
+    "gn:country_code":"UG",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227627,
+    "gn:latitude":0.80011,
+    "gn:longitude":30.14496,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Ntandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ntandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092074383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227627
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"34b2a03c4e19bb8021b76ecfbdfe76d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074383,
+            "locality_id":1343596197,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1343596197,
+    "wof:lastmodified":1537712066,
+    "wof:name":"Ntandi",
+    "wof:parent_id":1092074383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.14496,
+    0.80011,
+    30.14496,
+    0.80011
+],
+  "geometry": {"coordinates":[30.14496,0.80011],"type":"Point"}
+}

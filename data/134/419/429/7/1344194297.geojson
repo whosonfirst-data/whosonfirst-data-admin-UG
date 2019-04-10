@@ -1,0 +1,70 @@
+{
+  "id": 1344194297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.85,-1.25,29.85,-1.25",
+    "geom:latitude":-1.25,
+    "geom:longitude":29.85,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"I7",
+    "gn:admin3_code":"226689.0",
+    "gn:admin4_code":"8299546.0",
+    "gn:asciiname":"Mukyibara",
+    "gn:country_code":"UG",
+    "gn:dem":2044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228835,
+    "gn:latitude":-1.25,
+    "gn:longitude":29.85,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Mukyibara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680073,
+        1092073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228835
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2f00e5538931da162468fac65159a914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073673,
+            "locality_id":1344194297,
+            "region_id":85680073
+        }
+    ],
+    "wof:id":1344194297,
+    "wof:lastmodified":1536682344,
+    "wof:name":"Mukyibara",
+    "wof:parent_id":1092073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.85,
+    -1.25,
+    29.85,
+    -1.25
+],
+  "geometry": {"coordinates":[29.85,-1.25],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1242909611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.47026,0.09038,32.47026,0.09038",
+    "geom:latitude":0.09038,
+    "geom:longitude":32.47026,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:asciiname":"Busambaga",
+    "gn:country_code":"UG",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552546,
+    "gn:latitude":0.09038,
+    "gn:longitude":32.47026,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Busambaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679879,
+        1092070523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552546
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"37f0b045bcee9007c86d33651cb145aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070523,
+            "locality_id":1242909611,
+            "region_id":85679879
+        }
+    ],
+    "wof:id":1242909611,
+    "wof:lastmodified":1537079293,
+    "wof:name":"Busambaga",
+    "wof:parent_id":1092070523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.47026,
+    0.09038,
+    32.47026,
+    0.09038
+],
+  "geometry": {"coordinates":[32.47026,0.09038],"type":"Point"}
+}

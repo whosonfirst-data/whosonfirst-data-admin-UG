@@ -1,0 +1,73 @@
+{
+  "id": 1326765251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.31475,0.77334,34.31475,0.77334",
+    "geom:latitude":0.77334,
+    "geom:longitude":34.31475,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"I4",
+    "gn:admin3_code":"11887622.0",
+    "gn:admin4_code":"8658039.0",
+    "gn:asciiname":"Namboko",
+    "gn:country_code":"UG",
+    "gn:dem":1305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228192,
+    "gn:latitude":0.77334,
+    "gn:longitude":34.31475,
+    "gn:modification_date":"2018-06-24",
+    "gn:name":"Namboko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Namboko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679969,
+        1092068753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228192
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2162b015b0b4ba1209b78ff2e6c55555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068753,
+            "locality_id":1326765251,
+            "region_id":85679969
+        }
+    ],
+    "wof:id":1326765251,
+    "wof:lastmodified":1537712069,
+    "wof:name":"Namboko",
+    "wof:parent_id":1092068753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.31475,
+    0.77334,
+    34.31475,
+    0.77334
+],
+  "geometry": {"coordinates":[34.31475,0.77334],"type":"Point"}
+}

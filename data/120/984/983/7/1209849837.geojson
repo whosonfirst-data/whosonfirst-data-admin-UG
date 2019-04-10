@@ -1,0 +1,73 @@
+{
+  "id": 1209849837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.77974,0.29962,33.77974,0.29962",
+    "geom:latitude":0.29962,
+    "geom:longitude":33.77974,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G7",
+    "gn:admin3_code":"8644167.0",
+    "gn:admin4_code":"8658448.0",
+    "gn:asciiname":"Nabwere",
+    "gn:country_code":"UG",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228527,
+    "gn:latitude":0.29962,
+    "gn:longitude":33.77974,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Nabwere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nabwere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228527
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d545a5231e456692323f2f0d58595aff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1209849837,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1209849837,
+    "wof:lastmodified":1537712070,
+    "wof:name":"Nabwere",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.77974,
+    0.29962,
+    33.77974,
+    0.29962
+],
+  "geometry": {"coordinates":[33.77974,0.29962],"type":"Point"}
+}

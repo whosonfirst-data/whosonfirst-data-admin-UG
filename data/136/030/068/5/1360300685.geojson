@@ -1,0 +1,70 @@
+{
+  "id": 1360300685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.19944,2.45278,33.19944,2.45278",
+    "geom:latitude":2.45278,
+    "geom:longitude":33.19944,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"8644128.0",
+    "gn:admin4_code":"8658735.0",
+    "gn:asciiname":"Adwari",
+    "gn:country_code":"UG",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235465,
+    "gn:latitude":2.45278,
+    "gn:longitude":33.19944,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Adwari",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680165,
+        1092073413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235465
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"cc971029161979c61ac5c5c13f1e7149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073413,
+            "locality_id":1360300685,
+            "region_id":85680165
+        }
+    ],
+    "wof:id":1360300685,
+    "wof:lastmodified":1536633130,
+    "wof:name":"Adwari",
+    "wof:parent_id":1092073413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.19944,
+    2.45278,
+    33.19944,
+    2.45278
+],
+  "geometry": {"coordinates":[33.19944,2.45278],"type":"Point"}
+}

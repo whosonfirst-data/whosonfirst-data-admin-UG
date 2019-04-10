@@ -1,0 +1,68 @@
+{
+  "id": 1226374099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.11308,0.42815,32.11308,0.42815",
+    "geom:latitude":0.42815,
+    "geom:longitude":32.11308,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:asciiname":"Kamuvobe",
+    "gn:country_code":"UG",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11551822,
+    "gn:latitude":0.42815,
+    "gn:longitude":32.11308,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kamuvobe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679891,
+        1092072811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11551822
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5003cc67b1693bc9f7e7b19742b4199d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072811,
+            "locality_id":1226374099,
+            "region_id":85679891
+        }
+    ],
+    "wof:id":1226374099,
+    "wof:lastmodified":1536748596,
+    "wof:name":"Kamuvobe",
+    "wof:parent_id":1092072811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.11308,
+    0.42815,
+    32.11308,
+    0.42815
+],
+  "geometry": {"coordinates":[32.11308,0.42815],"type":"Point"}
+}

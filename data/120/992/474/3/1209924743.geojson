@@ -1,0 +1,74 @@
+{
+  "id": 1209924743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.11233,1.96015,33.11233,1.96015",
+    "geom:latitude":1.96015,
+    "geom:longitude":33.11233,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"C7",
+    "gn:admin3_code":"233559.0",
+    "gn:admin4_code":"8658382.0",
+    "gn:asciiname":"Akolodong",
+    "gn:country_code":"UG",
+    "gn:dem":1058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235338,
+    "gn:latitude":1.96015,
+    "gn:longitude":33.11233,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Akolodong",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akolodongo",
+        "Akolodong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679913,
+        1092070439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235338
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e108d7379d5bdc0d574cf1e6fc6cf7a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070439,
+            "locality_id":1209924743,
+            "region_id":85679913
+        }
+    ],
+    "wof:id":1209924743,
+    "wof:lastmodified":1537712110,
+    "wof:name":"Akolodong",
+    "wof:parent_id":1092070439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.11233,
+    1.96015,
+    33.11233,
+    1.96015
+],
+  "geometry": {"coordinates":[33.11233,1.96015],"type":"Point"}
+}

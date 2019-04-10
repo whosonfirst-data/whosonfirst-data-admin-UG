@@ -1,0 +1,70 @@
+{
+  "id": 1276366551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.38417,-0.19861,31.38417,-0.19861",
+    "geom:latitude":-0.19861,
+    "geom:longitude":31.38417,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"74",
+    "gn:admin3_code":"229304.0",
+    "gn:admin4_code":"8658566.0",
+    "gn:asciiname":"Kitembo",
+    "gn:country_code":"UG",
+    "gn:dem":1295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230915,
+    "gn:latitude":-0.19861,
+    "gn:longitude":31.38417,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kitembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679823,
+        1092072661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230915
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"863c161de6015197c2ad9630119b4b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072661,
+            "locality_id":1276366551,
+            "region_id":85679823
+        }
+    ],
+    "wof:id":1276366551,
+    "wof:lastmodified":1536734286,
+    "wof:name":"Kitembo",
+    "wof:parent_id":1092072661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.38417,
+    -0.19861,
+    31.38417,
+    -0.19861
+],
+  "geometry": {"coordinates":[31.38417,-0.19861],"type":"Point"}
+}

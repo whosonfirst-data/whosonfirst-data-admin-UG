@@ -1,0 +1,68 @@
+{
+  "id": 1309936387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.93083,1.03833,32.93083,1.03833",
+    "geom:latitude":1.03833,
+    "geom:longitude":32.93083,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"83",
+    "gn:asciiname":"Kasozi",
+    "gn:country_code":"UG",
+    "gn:dem":1036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448270,
+    "gn:latitude":1.03833,
+    "gn:longitude":32.93083,
+    "gn:modification_date":"2012-04-28",
+    "gn:name":"Kasozi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092068917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448270
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"fc50db9e9cf76ecab4db276f1441fd13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068917,
+            "locality_id":1309936387,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":1309936387,
+    "wof:lastmodified":1536742770,
+    "wof:name":"Kasozi",
+    "wof:parent_id":1092068917,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.93083,
+    1.03833,
+    32.93083,
+    1.03833
+],
+  "geometry": {"coordinates":[32.93083,1.03833],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 890455661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5,0.5,31.5,0.5",
+    "geom:latitude":0.5,
+    "geom:longitude":31.5,
+    "gn:country":"UG",
+    "gn:fcode":"ADM2",
+    "gn:pop":660000,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:unk_x_variant":[
+        "Mubende"
+    ],
+    "qs:name":"Mubende District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:wordcount":321,
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443358,
+        "qs:id":548312,
+        "wd:id":"Q891962",
+        "wk:page":"Mubende District"
+    },
+    "wof:country":"UG",
+    "wof:created":1469052971,
+    "wof:geomhash":"2755a434f3db969f25f688ed5a6bb317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":890455661,
+            "region_id":85679889
+        }
+    ],
+    "wof:id":890455661,
+    "wof:lastmodified":1527734193,
+    "wof:name":"Mubende District",
+    "wof:parent_id":85679889,
+    "wof:placetype":"county",
+    "wof:population":660000,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5,
+    0.5,
+    31.5,
+    0.5
+],
+  "geometry": {"coordinates":[31.5,0.5],"type":"Point"}
+}

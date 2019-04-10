@@ -1,0 +1,70 @@
+{
+  "id": 1310634433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.86832,0.07684,29.86832,0.07684",
+    "geom:latitude":0.07684,
+    "geom:longitude":29.86832,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"40",
+    "gn:admin3_code":"7869968.0",
+    "gn:admin4_code":"8657714.0",
+    "gn:asciiname":"Kisinga",
+    "gn:country_code":"UG",
+    "gn:dem":1454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629023,
+    "gn:latitude":0.07684,
+    "gn:longitude":29.86832,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kisinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680037,
+        1092069357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629023
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f6e65436e795cf511ea7f617a2f9ce8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069357,
+            "locality_id":1310634433,
+            "region_id":85680037
+        }
+    ],
+    "wof:id":1310634433,
+    "wof:lastmodified":1536731262,
+    "wof:name":"Kisinga",
+    "wof:parent_id":1092069357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.86832,
+    0.07684,
+    29.86832,
+    0.07684
+],
+  "geometry": {"coordinates":[29.86832,0.07684],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1260111569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2531,0.26061,32.2531,0.26061",
+    "geom:latitude":0.26061,
+    "geom:longitude":32.2531,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F1",
+    "gn:asciiname":"Sseta",
+    "gn:country_code":"UG",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552002,
+    "gn:latitude":0.26061,
+    "gn:longitude":32.2531,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Sseta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680131,
+        1092069969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552002
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ddc390a320538722fc2ca756ec899ed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069969,
+            "locality_id":1260111569,
+            "region_id":85680131
+        }
+    ],
+    "wof:id":1260111569,
+    "wof:lastmodified":1536948005,
+    "wof:name":"Sseta",
+    "wof:parent_id":1092069969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2531,
+    0.26061,
+    32.2531,
+    0.26061
+],
+  "geometry": {"coordinates":[32.2531,0.26061],"type":"Point"}
+}

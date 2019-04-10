@@ -1,0 +1,73 @@
+{
+  "id": 1225954657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.85006,1.91678,32.85006,1.91678",
+    "geom:latitude":1.91678,
+    "geom:longitude":32.85006,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"26",
+    "gn:admin3_code":"230563.0",
+    "gn:admin4_code":"8658105.0",
+    "gn:asciiname":"Ayiroyat",
+    "gn:country_code":"UG",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":234913,
+    "gn:latitude":1.91678,
+    "gn:longitude":32.85006,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Ayiroyat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ayiroyat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680151,
+        1092071971
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234913
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"27b339866305681adb58f59bbed21af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071971,
+            "locality_id":1225954657,
+            "region_id":85680151
+        }
+    ],
+    "wof:id":1225954657,
+    "wof:lastmodified":1537712105,
+    "wof:name":"Ayiroyat",
+    "wof:parent_id":1092071971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.85006,
+    1.91678,
+    32.85006,
+    1.91678
+],
+  "geometry": {"coordinates":[32.85006,1.91678],"type":"Point"}
+}

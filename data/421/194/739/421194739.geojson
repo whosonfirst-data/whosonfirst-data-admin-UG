@@ -1,0 +1,79 @@
+{
+  "id": 421194739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-03",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.382816,0.76962,33.382816,0.76962",
+    "geom:latitude":0.76962,
+    "geom:longitude":33.382816,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Iganga"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Iganga",
+    "qs:name_adm0":"Uganda",
+    "qs:name_adm1":"Iganga",
+    "qs:photos":105,
+    "qs:photos_1k":21,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":286,
+    "qs:photos_sr":3,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "qs:qs_id":902983,
+    "qs:woe_adm0":23424974,
+    "qs:woe_id":20070449,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":454,
+    "wof:belongsto":[
+        102191573,
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070449,
+        "qs:id":902983,
+        "wd:id":"Q1657091"
+    },
+    "wof:country":"UG",
+    "wof:created":1459009818,
+    "wof:geomhash":"9f05e9af8d52751e6a5bc67efa00aba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "region_id":421194739
+        }
+    ],
+    "wof:id":421194739,
+    "wof:lastmodified":1529541197,
+    "wof:name":"Iganga",
+    "wof:parent_id":85632625,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.382816,
+    0.76962,
+    33.382816,
+    0.76962
+],
+  "geometry": {"coordinates":[33.382816,0.76962],"type":"Point"}
+}

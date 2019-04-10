@@ -1,0 +1,74 @@
+{
+  "id": 1242692765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93309,2.5787,30.93309,2.5787",
+    "geom:latitude":2.5787,
+    "geom:longitude":30.93309,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"H7",
+    "gn:admin3_code":"227147.0",
+    "gn:admin4_code":"8657782.0",
+    "gn:asciiname":"Atyak",
+    "gn:country_code":"UG",
+    "gn:dem":1446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234967,
+    "gn:latitude":2.5787,
+    "gn:longitude":30.93309,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Atyak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Attiak",
+        "Atyak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680085,
+        1092073339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234967
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"96b4fc1a0801ed8176348535107806b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073339,
+            "locality_id":1242692765,
+            "region_id":85680085
+        }
+    ],
+    "wof:id":1242692765,
+    "wof:lastmodified":1537712106,
+    "wof:name":"Atyak",
+    "wof:parent_id":1092073339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93309,
+    2.5787,
+    30.93309,
+    2.5787
+],
+  "geometry": {"coordinates":[30.93309,2.5787],"type":"Point"}
+}

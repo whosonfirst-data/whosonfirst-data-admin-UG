@@ -1,0 +1,70 @@
+{
+  "id": 1243590207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.55421,0.42706,32.55421,0.42706",
+    "geom:latitude":0.42706,
+    "geom:longitude":32.55421,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"7732385.0",
+    "gn:admin4_code":"8657924.0",
+    "gn:asciiname":"Namalere",
+    "gn:country_code":"UG",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228254,
+    "gn:latitude":0.42706,
+    "gn:longitude":32.55421,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Namalere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679879,
+        1092072041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228254
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4cdbd0297ce92507ebe61403b3446721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072041,
+            "locality_id":1243590207,
+            "region_id":85679879
+        }
+    ],
+    "wof:id":1243590207,
+    "wof:lastmodified":1537091938,
+    "wof:name":"Namalere",
+    "wof:parent_id":1092072041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.55421,
+    0.42706,
+    32.55421,
+    0.42706
+],
+  "geometry": {"coordinates":[32.55421,0.42706],"type":"Point"}
+}

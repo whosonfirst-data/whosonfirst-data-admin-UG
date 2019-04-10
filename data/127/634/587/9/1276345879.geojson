@@ -1,0 +1,70 @@
+{
+  "id": 1276345879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.81141,3.74453,33.81141,3.74453",
+    "geom:latitude":3.74453,
+    "geom:longitude":33.81141,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"D1",
+    "gn:admin3_code":"233569.0",
+    "gn:admin4_code":"8658487.0",
+    "gn:asciiname":"Lemej",
+    "gn:country_code":"UG",
+    "gn:dem":1410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8695884,
+    "gn:latitude":3.74453,
+    "gn:longitude":33.81141,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lemej",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680007,
+        1092070399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8695884
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"dc4687b6a263c9e3b0132bb24e4cfca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070399,
+            "locality_id":1276345879,
+            "region_id":85680007
+        }
+    ],
+    "wof:id":1276345879,
+    "wof:lastmodified":1536761806,
+    "wof:name":"Lemej",
+    "wof:parent_id":1092070399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.81141,
+    3.74453,
+    33.81141,
+    3.74453
+],
+  "geometry": {"coordinates":[33.81141,3.74453],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259613775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.02056,1.03278,34.02056,1.03278",
+    "geom:latitude":1.03278,
+    "geom:longitude":34.02056,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C1",
+    "gn:admin3_code":"8644159.0",
+    "gn:admin4_code":"8658295.0",
+    "gn:asciiname":"Naboa",
+    "gn:country_code":"UG",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228556,
+    "gn:latitude":1.03278,
+    "gn:longitude":34.02056,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Naboa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680107,
+        1092068817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228556
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7098ecacf604051d7d5f271747954680",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068817,
+            "locality_id":1259613775,
+            "region_id":85680107
+        }
+    ],
+    "wof:id":1259613775,
+    "wof:lastmodified":1536671243,
+    "wof:name":"Naboa",
+    "wof:parent_id":1092068817,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.02056,
+    1.03278,
+    34.02056,
+    1.03278
+],
+  "geometry": {"coordinates":[34.02056,1.03278],"type":"Point"}
+}

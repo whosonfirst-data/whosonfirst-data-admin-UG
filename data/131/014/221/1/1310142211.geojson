@@ -1,0 +1,71 @@
+{
+  "id": 1310142211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.28065,0.8578,34.28065,0.8578",
+    "geom:latitude":0.8578,
+    "geom:longitude":34.28065,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D6",
+    "gn:asciiname":"Busimambo",
+    "gn:country_code":"UG",
+    "gn:dem":1256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433257,
+    "gn:latitude":0.8578,
+    "gn:longitude":34.28065,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Busimambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Busimambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679969,
+        1092068753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433257
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2f58f5276446bb2a07cfd7cc105c828c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068753,
+            "locality_id":1310142211,
+            "region_id":85679969
+        }
+    ],
+    "wof:id":1310142211,
+    "wof:lastmodified":1537712166,
+    "wof:name":"Busimambo",
+    "wof:parent_id":1092068753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.28065,
+    0.8578,
+    34.28065,
+    0.8578
+],
+  "geometry": {"coordinates":[34.28065,0.8578],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293619555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.75,1.08333,33.75,1.08333",
+    "geom:latitude":1.08333,
+    "geom:longitude":33.75,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"F6",
+    "gn:admin3_code":"8644179.0",
+    "gn:admin4_code":"8658399.0",
+    "gn:asciiname":"Buseta",
+    "gn:country_code":"UG",
+    "gn:dem":1078,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234084,
+    "gn:latitude":1.08333,
+    "gn:longitude":33.75,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Buseta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680111,
+        1092071585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234084
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"31d3b5d80e8e097c93af71f6c6d7c842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071585,
+            "locality_id":1293619555,
+            "region_id":85680111
+        }
+    ],
+    "wof:id":1293619555,
+    "wof:lastmodified":1537090744,
+    "wof:name":"Buseta",
+    "wof:parent_id":1092071585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.75,
+    1.08333,
+    33.75,
+    1.08333
+],
+  "geometry": {"coordinates":[33.75,1.08333],"type":"Point"}
+}

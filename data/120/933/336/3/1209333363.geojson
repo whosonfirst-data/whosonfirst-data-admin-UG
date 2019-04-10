@@ -1,0 +1,64 @@
+{
+  "id": 1209333363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.61589,3.26514,31.61589,3.26514",
+    "geom:latitude":3.26514,
+    "geom:longitude":31.61589,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"8644133.0",
+    "gn:admin4_code":"8657753.0",
+    "gn:asciiname":"Maaji",
+    "gn:country_code":"UG",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8141107,
+    "gn:latitude":3.26514,
+    "gn:longitude":31.61589,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Maaji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8141107
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c8345d673766d25c5e9988ab1af2e286",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209333363
+        }
+    ],
+    "wof:id":1209333363,
+    "wof:lastmodified":1536290301,
+    "wof:name":"Maaji",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.615890000000004,
+    3.26514,
+    31.615890000000004,
+    3.26514
+],
+  "geometry": {"coordinates":[31.61589,3.26514],"type":"Point"}
+}

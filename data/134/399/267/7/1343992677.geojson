@@ -1,0 +1,71 @@
+{
+  "id": 1343992677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.37743,0.73772,30.37743,0.73772",
+    "geom:latitude":0.73772,
+    "geom:longitude":30.37743,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"79",
+    "gn:asciiname":"Kyakachali",
+    "gn:country_code":"UG",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11402189,
+    "gn:latitude":0.73772,
+    "gn:longitude":30.37743,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Kyakachali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kyakachali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11402189
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"293f6e15c036ffeca8946ee52c2cee3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069721,
+            "locality_id":1343992677,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1343992677,
+    "wof:lastmodified":1537712149,
+    "wof:name":"Kyakachali",
+    "wof:parent_id":1092069721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.37743,
+    0.73772,
+    30.37743,
+    0.73772
+],
+  "geometry": {"coordinates":[30.37743,0.73772],"type":"Point"}
+}

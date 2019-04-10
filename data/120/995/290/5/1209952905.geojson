@@ -1,0 +1,74 @@
+{
+  "id": 1209952905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.49616,-0.13398,30.49616,-0.13398",
+    "geom:latitude":-0.13398,
+    "geom:longitude":30.49616,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"C8",
+    "gn:admin3_code":"7732900.0",
+    "gn:admin4_code":"8658471.0",
+    "gn:asciiname":"Ibanda",
+    "gn:country_code":"UG",
+    "gn:dem":1439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":233299,
+    "gn:latitude":-0.13398,
+    "gn:longitude":30.49616,
+    "gn:modification_date":"2016-12-01",
+    "gn:name":"Ibanda",
+    "gn:population":31000,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680047,
+        1092070677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233299,
+        "wk:page":"Ibanda"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8f946803dd505e2f98e7c8ca41531446",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070677,
+            "locality_id":1209952905,
+            "region_id":85680047
+        }
+    ],
+    "wof:id":1209952905,
+    "wof:lastmodified":1537575044,
+    "wof:name":"Ibanda",
+    "wof:parent_id":1092070677,
+    "wof:placetype":"locality",
+    "wof:population":31000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.49616,
+    -0.13398,
+    30.49616,
+    -0.13398
+],
+  "geometry": {"coordinates":[30.49616,-0.13398],"type":"Point"}
+}

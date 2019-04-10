@@ -1,0 +1,74 @@
+{
+  "id": 1326663683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.35,0.96667,34.35,0.96667",
+    "geom:latitude":0.96667,
+    "geom:longitude":34.35,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D6",
+    "gn:admin3_code":"7869955.0",
+    "gn:admin4_code":"8658067.0",
+    "gn:asciiname":"Sikunga",
+    "gn:country_code":"UG",
+    "gn:dem":1403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226297,
+    "gn:latitude":0.96667,
+    "gn:longitude":34.35,
+    "gn:modification_date":"2018-06-24",
+    "gn:name":"Sikunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kigunga",
+        "Sikunga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679969,
+        1092068753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226297
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4b8cedc087ac5d1c9a8265de1a0f16dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068753,
+            "locality_id":1326663683,
+            "region_id":85679969
+        }
+    ],
+    "wof:id":1326663683,
+    "wof:lastmodified":1537712055,
+    "wof:name":"Sikunga",
+    "wof:parent_id":1092068753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.35,
+    0.96667,
+    34.35,
+    0.96667
+],
+  "geometry": {"coordinates":[34.35,0.96667],"type":"Point"}
+}

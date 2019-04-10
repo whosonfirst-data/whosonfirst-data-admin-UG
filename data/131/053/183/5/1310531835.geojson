@@ -1,0 +1,70 @@
+{
+  "id": 1310531835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2,-0.31667,32.2,-0.31667",
+    "geom:latitude":-0.31667,
+    "geom:longitude":32.2,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"7910218.0",
+    "gn:admin4_code":"8657876.0",
+    "gn:asciiname":"Kizira",
+    "gn:country_code":"UG",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230736,
+    "gn:latitude":-0.31667,
+    "gn:longitude":32.2,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kizira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679769,
+        1092069185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230736
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"fa9e398e35e58274d6abe26dc9ef2a0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069185,
+            "locality_id":1310531835,
+            "region_id":85679769
+        }
+    ],
+    "wof:id":1310531835,
+    "wof:lastmodified":1536878232,
+    "wof:name":"Kizira",
+    "wof:parent_id":1092069185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2,
+    -0.31667,
+    32.2,
+    -0.31667
+],
+  "geometry": {"coordinates":[32.2,-0.31667],"type":"Point"}
+}

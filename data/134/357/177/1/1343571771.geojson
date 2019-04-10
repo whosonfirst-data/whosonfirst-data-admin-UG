@@ -1,0 +1,70 @@
+{
+  "id": 1343571771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.31109,1.73028,32.31109,1.73028",
+    "geom:latitude":1.73028,
+    "geom:longitude":32.31109,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"26",
+    "gn:admin3_code":"229387.0",
+    "gn:admin4_code":"8657675.0",
+    "gn:asciiname":"Abutokom",
+    "gn:country_code":"UG",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235553,
+    "gn:latitude":1.73028,
+    "gn:longitude":32.31109,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Abutokom",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680151,
+        1092072551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235553
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"67bc0155ea993974c5b22ea28b46ebcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072551,
+            "locality_id":1343571771,
+            "region_id":85680151
+        }
+    ],
+    "wof:id":1343571771,
+    "wof:lastmodified":1537079897,
+    "wof:name":"Abutokom",
+    "wof:parent_id":1092072551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.31109,
+    1.73028,
+    32.31109,
+    1.73028
+],
+  "geometry": {"coordinates":[32.31109,1.73028],"type":"Point"}
+}

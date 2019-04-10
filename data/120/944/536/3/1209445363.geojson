@@ -1,0 +1,64 @@
+{
+  "id": 1209445363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.02669,0.58176,33.02669,0.58176",
+    "geom:latitude":0.58176,
+    "geom:longitude":33.02669,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"83",
+    "gn:admin3_code":"227613.0",
+    "gn:admin4_code":"8658452.0",
+    "gn:asciiname":"Kangulumira",
+    "gn:country_code":"UG",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232323,
+    "gn:latitude":0.58176,
+    "gn:longitude":33.02669,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Kangulumira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232323
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5e1a7898bd855543a782b2f8620de532",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209445363
+        }
+    ],
+    "wof:id":1209445363,
+    "wof:lastmodified":1536286835,
+    "wof:name":"Kangulumira",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.02669,
+    0.58176,
+    33.02669,
+    0.58176
+],
+  "geometry": {"coordinates":[33.02669,0.58176],"type":"Point"}
+}

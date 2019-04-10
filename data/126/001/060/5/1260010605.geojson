@@ -1,0 +1,71 @@
+{
+  "id": 1260010605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.03765,0.69966,34.03765,0.69966",
+    "geom:latitude":0.69966,
+    "geom:longitude":34.03765,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Iyopoki",
+    "gn:country_code":"UG",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11432889,
+    "gn:latitude":0.69966,
+    "gn:longitude":34.03765,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Iyopoki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Iyopoki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679989,
+        1092074289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11432889
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"dee897ea6c1efcc5e48a7670b82404c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074289,
+            "locality_id":1260010605,
+            "region_id":85679989
+        }
+    ],
+    "wof:id":1260010605,
+    "wof:lastmodified":1537712157,
+    "wof:name":"Iyopoki",
+    "wof:parent_id":1092074289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.03765,
+    0.69966,
+    34.03765,
+    0.69966
+],
+  "geometry": {"coordinates":[34.03765,0.69966],"type":"Point"}
+}

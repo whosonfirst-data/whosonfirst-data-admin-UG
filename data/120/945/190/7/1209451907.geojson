@@ -1,0 +1,62 @@
+{
+  "id": 1209451907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.17466,0.05502,32.17466,0.05502",
+    "geom:latitude":0.05502,
+    "geom:longitude":32.17466,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:asciiname":"Mayirikiti",
+    "gn:country_code":"UG",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552383,
+    "gn:latitude":0.05502,
+    "gn:longitude":32.17466,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Mayirikiti",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552383
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"52efac2d67258171a0655a95aa6a2e18",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209451907
+        }
+    ],
+    "wof:id":1209451907,
+    "wof:lastmodified":1536286647,
+    "wof:name":"Mayirikiti",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.17466,
+    0.055020000000000006,
+    32.17466,
+    0.055020000000000006
+],
+  "geometry": {"coordinates":[32.17466,0.05502],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1310042083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.3346,0.18609,32.3346,0.18609",
+    "geom:latitude":0.18609,
+    "geom:longitude":32.3346,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:asciiname":"Bubezi",
+    "gn:country_code":"UG",
+    "gn:dem":1202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552605,
+    "gn:latitude":0.18609,
+    "gn:longitude":32.3346,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bubezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679827,
+        1092072705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552605
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f164a2f69ec6fe35be9b9368a70d426e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072705,
+            "locality_id":1310042083,
+            "region_id":85679827
+        }
+    ],
+    "wof:id":1310042083,
+    "wof:lastmodified":1537084670,
+    "wof:name":"Bubezi",
+    "wof:parent_id":1092072705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.3346,
+    0.18609,
+    32.3346,
+    0.18609
+],
+  "geometry": {"coordinates":[32.3346,0.18609],"type":"Point"}
+}

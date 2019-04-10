@@ -1,0 +1,70 @@
+{
+  "id": 1259593633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.78333,1.91667,34.78333,1.91667",
+    "geom:latitude":1.91667,
+    "geom:longitude":34.78333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"91",
+    "gn:admin3_code":"8644141.0",
+    "gn:admin4_code":"8657805.0",
+    "gn:asciiname":"Nakapiripirit",
+    "gn:country_code":"UG",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":448226,
+    "gn:latitude":1.91667,
+    "gn:longitude":34.78333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nakapiripirit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680021,
+        1092070319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448226
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3804cfcd97fc0ae928b7e5d3bcfa55b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070319,
+            "locality_id":1259593633,
+            "region_id":85680021
+        }
+    ],
+    "wof:id":1259593633,
+    "wof:lastmodified":1536700353,
+    "wof:name":"Nakapiripirit",
+    "wof:parent_id":1092070319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.78333,
+    1.91667,
+    34.78333,
+    1.91667
+],
+  "geometry": {"coordinates":[34.78333,1.91667],"type":"Point"}
+}

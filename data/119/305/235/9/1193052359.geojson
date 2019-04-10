@@ -1,0 +1,68 @@
+{
+  "id": 1193052359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.98441,0.67577,33.98441,0.67577",
+    "geom:latitude":0.67577,
+    "geom:longitude":33.98441,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Lwalap'obona",
+    "gn:country_code":"UG",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429643,
+    "gn:latitude":0.67577,
+    "gn:longitude":33.98441,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Lwalap\u2019obona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679989,
+        1092074289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429643
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4a79eba8b6820fde7db266c7a9147b61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074289,
+            "locality_id":1193052359,
+            "region_id":85679989
+        }
+    ],
+    "wof:id":1193052359,
+    "wof:lastmodified":1536365156,
+    "wof:name":"Lwalap'obona",
+    "wof:parent_id":1092074289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.98441,
+    0.67577,
+    33.98441,
+    0.67577
+],
+  "geometry": {"coordinates":[33.98441,0.67577],"type":"Point"}
+}

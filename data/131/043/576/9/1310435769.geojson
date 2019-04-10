@@ -1,0 +1,73 @@
+{
+  "id": 1310435769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.76197,0.49691,33.76197,0.49691",
+    "geom:latitude":0.49691,
+    "geom:longitude":33.76197,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G7",
+    "gn:admin3_code":"8644167.0",
+    "gn:admin4_code":"8657679.0",
+    "gn:asciiname":"Bukiri",
+    "gn:country_code":"UG",
+    "gn:dem":1201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259194,
+    "gn:latitude":0.49691,
+    "gn:longitude":33.76197,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Bukiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bukiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259194
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0544c5f73b4e1b81d83f4e76fa320e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1310435769,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1310435769,
+    "wof:lastmodified":1537712122,
+    "wof:name":"Bukiri",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.76197,
+    0.49691,
+    33.76197,
+    0.49691
+],
+  "geometry": {"coordinates":[33.76197,0.49691],"type":"Point"}
+}

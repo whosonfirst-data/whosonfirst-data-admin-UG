@@ -1,0 +1,70 @@
+{
+  "id": 1293524347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.83333,0.58333,31.83333,0.58333",
+    "geom:latitude":0.58333,
+    "geom:longitude":31.83333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"56",
+    "gn:admin3_code":"8644175.0",
+    "gn:admin4_code":"8657557.0",
+    "gn:asciiname":"Makonzi",
+    "gn:country_code":"UG",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229457,
+    "gn:latitude":0.58333,
+    "gn:longitude":31.83333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Makonzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679889,
+        1092071357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229457
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"db07cd03531a9ac03f719c3fe047ea38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071357,
+            "locality_id":1293524347,
+            "region_id":85679889
+        }
+    ],
+    "wof:id":1293524347,
+    "wof:lastmodified":1536734081,
+    "wof:name":"Makonzi",
+    "wof:parent_id":1092071357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.83333,
+    0.58333,
+    31.83333,
+    0.58333
+],
+  "geometry": {"coordinates":[31.83333,0.58333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259910655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.32247,1.65404,31.32247,1.65404",
+    "geom:latitude":1.65404,
+    "geom:longitude":31.32247,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"7732256.0",
+    "gn:admin4_code":"8658194.0",
+    "gn:asciiname":"Kiryawanga",
+    "gn:country_code":"UG",
+    "gn:dem":1098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8081049,
+    "gn:latitude":1.65404,
+    "gn:longitude":31.32247,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kiryawanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679933,
+        1092068961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8081049
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5facd4c18c994d24f255e762dfde5cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068961,
+            "locality_id":1259910655,
+            "region_id":85679933
+        }
+    ],
+    "wof:id":1259910655,
+    "wof:lastmodified":1536739963,
+    "wof:name":"Kiryawanga",
+    "wof:parent_id":1092068961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.32247000000001,
+    1.65404,
+    31.32247000000001,
+    1.65404
+],
+  "geometry": {"coordinates":[31.32247000000001,1.65404],"type":"Point"}
+}

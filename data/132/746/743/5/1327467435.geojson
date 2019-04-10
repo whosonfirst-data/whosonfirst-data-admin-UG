@@ -1,0 +1,70 @@
+{
+  "id": 1327467435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1,0.11667,32.1,0.11667",
+    "geom:latitude":0.11667,
+    "geom:longitude":32.1,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:admin3_code":"7910214.0",
+    "gn:admin4_code":"8658563.0",
+    "gn:asciiname":"Nabitete",
+    "gn:country_code":"UG",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228565,
+    "gn:latitude":0.11667,
+    "gn:longitude":32.1,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nabitete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679827,
+        1092072705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228565
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e2f0158d4aa3a9f1eea56081d853f2c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072705,
+            "locality_id":1327467435,
+            "region_id":85679827
+        }
+    ],
+    "wof:id":1327467435,
+    "wof:lastmodified":1536628526,
+    "wof:name":"Nabitete",
+    "wof:parent_id":1092072705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1,
+    0.11667,
+    32.1,
+    0.11667
+],
+  "geometry": {"coordinates":[32.1,0.11667],"type":"Point"}
+}

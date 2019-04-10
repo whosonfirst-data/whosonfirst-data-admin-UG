@@ -1,0 +1,70 @@
+{
+  "id": 1327463159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48236,0.61703,30.48236,0.61703",
+    "geom:latitude":0.61703,
+    "geom:longitude":30.48236,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"85",
+    "gn:admin3_code":"228643.0",
+    "gn:admin4_code":"8657840.0",
+    "gn:asciiname":"Karusandara",
+    "gn:country_code":"UG",
+    "gn:dem":1461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8628983,
+    "gn:latitude":0.61703,
+    "gn:longitude":30.48236,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Karusandara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679943,
+        1092072955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8628983
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"40bff19f8d962400e0b8ad01e002cc5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072955,
+            "locality_id":1327463159,
+            "region_id":85679943
+        }
+    ],
+    "wof:id":1327463159,
+    "wof:lastmodified":1536635177,
+    "wof:name":"Karusandara",
+    "wof:parent_id":1092072955,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48236,
+    0.61703,
+    30.48236,
+    0.61703
+],
+  "geometry": {"coordinates":[30.48236,0.61703],"type":"Point"}
+}

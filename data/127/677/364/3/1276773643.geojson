@@ -1,0 +1,70 @@
+{
+  "id": 1276773643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.81986,2.18293,34.81986,2.18293",
+    "geom:latitude":2.18293,
+    "geom:longitude":34.81986,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"88",
+    "gn:admin3_code":"229332.0",
+    "gn:admin4_code":"8630014.0",
+    "gn:asciiname":"Dali",
+    "gn:country_code":"UG",
+    "gn:dem":1361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11237531,
+    "gn:latitude":2.18293,
+    "gn:longitude":34.81986,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Dali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680017,
+        1092072625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11237531
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0832bb1764fb56b2c3b74487eb0086ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072625,
+            "locality_id":1276773643,
+            "region_id":85680017
+        }
+    ],
+    "wof:id":1276773643,
+    "wof:lastmodified":1536685746,
+    "wof:name":"Dali",
+    "wof:parent_id":1092072625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.81986,
+    2.18293,
+    34.81986,
+    2.18293
+],
+  "geometry": {"coordinates":[34.81986,2.18293],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259617013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.2,0.78333,34.2,0.78333",
+    "geom:latitude":0.78333,
+    "geom:longitude":34.2,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"76",
+    "gn:admin3_code":"226108.0",
+    "gn:admin4_code":"8657744.0",
+    "gn:asciiname":"Kochoge",
+    "gn:country_code":"UG",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230714,
+    "gn:latitude":0.78333,
+    "gn:longitude":34.2,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kochoge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kochoge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679989,
+        1092074213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230714
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3bb9dbec79732d00acf55ae55034dc55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074213,
+            "locality_id":1259617013,
+            "region_id":85679989
+        }
+    ],
+    "wof:id":1259617013,
+    "wof:lastmodified":1537712082,
+    "wof:name":"Kochoge",
+    "wof:parent_id":1092074213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.2,
+    0.78333,
+    34.2,
+    0.78333
+],
+  "geometry": {"coordinates":[34.2,0.78333],"type":"Point"}
+}

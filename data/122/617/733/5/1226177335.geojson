@@ -1,0 +1,68 @@
+{
+  "id": 1226177335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.59526,0.65099,33.59526,0.65099",
+    "geom:latitude":0.65099,
+    "geom:longitude":33.59526,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"78",
+    "gn:asciiname":"Bwirima",
+    "gn:country_code":"UG",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429746,
+    "gn:latitude":0.65099,
+    "gn:longitude":33.59526,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bwirima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679789,
+        1092069033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429746
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0617dd47a3b49767331d08bd67bdb76f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069033,
+            "locality_id":1226177335,
+            "region_id":85679789
+        }
+    ],
+    "wof:id":1226177335,
+    "wof:lastmodified":1537030808,
+    "wof:name":"Bwirima",
+    "wof:parent_id":1092069033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.59526,
+    0.65099,
+    33.59526,
+    0.65099
+],
+  "geometry": {"coordinates":[33.59526,0.65099],"type":"Point"}
+}

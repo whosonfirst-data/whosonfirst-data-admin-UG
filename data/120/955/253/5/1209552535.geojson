@@ -1,0 +1,67 @@
+{
+  "id": 1209552535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65771,0.40216,33.65771,0.40216",
+    "geom:latitude":0.40216,
+    "geom:longitude":33.65771,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"86",
+    "gn:admin3_code":"8644164.0",
+    "gn:admin4_code":"8658417.0",
+    "gn:asciiname":"Namwanzi",
+    "gn:country_code":"UG",
+    "gn:dem":1188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259078,
+    "gn:latitude":0.40216,
+    "gn:longitude":33.65771,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Namwanzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Namwanzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259078
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a2d0d70aff447d10d7d360cc6b60344c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209552535
+        }
+    ],
+    "wof:id":1209552535,
+    "wof:lastmodified":1537712119,
+    "wof:name":"Namwanzi",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65770999999999,
+    0.40216,
+    33.65770999999999,
+    0.40216
+],
+  "geometry": {"coordinates":[33.65770999999999,0.40216],"type":"Point"}
+}

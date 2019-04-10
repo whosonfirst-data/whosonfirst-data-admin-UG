@@ -1,0 +1,125 @@
+{
+  "id": 1125898061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08894,2.47826,31.08894,2.47826",
+    "geom:latitude":2.47826,
+    "geom:longitude":31.08894,
+    "gn:gn_country":"UG",
+    "gn:gn_fcode":"PPLA2",
+    "gn:gn_pop":30354,
+    "gn:population":30354,
+    "iso:country":"UG",
+    "lbl:latitude":2.47826,
+    "lbl:longitude":31.08894,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ara_x_preferred":[
+        "\u062d\u064a \u0646\u064a\u0628\u0649"
+    ],
+    "name:dut_x_preferred":[
+        "Nebbi"
+    ],
+    "name:eng_x_preferred":[
+        "Nebbi"
+    ],
+    "name:fre_x_preferred":[
+        "Nebbi"
+    ],
+    "name:ita_x_preferred":[
+        "Nebbi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cd\u30d3"
+    ],
+    "name:nob_x_preferred":[
+        "Nebbi"
+    ],
+    "name:pol_x_preferred":[
+        "Nebbi"
+    ],
+    "name:por_x_preferred":[
+        "Nebbi"
+    ],
+    "name:rum_x_preferred":[
+        "Nebbi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041d\u0435\u0431\u0431\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Nebbi"
+    ],
+    "name:unk_x_variant":[
+        "Nebi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u06cc\u0628\u06cc"
+    ],
+    "qs_pg:aaroncc":"UG",
+    "qs_pg:gn_country":"UG",
+    "qs_pg:gn_fcode":"PPLA2",
+    "qs_pg:gn_id":227904,
+    "qs_pg:gn_pop":30354,
+    "qs_pg:name":"Nebbi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1026666,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679849,
+        1092073489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227904,
+        "qs_pg:id":1026666,
+        "wd:id":"Q2174978"
+    },
+    "wof:country":"UG",
+    "wof:created":1497295671,
+    "wof:geomhash":"8cc32fa4951bbe2c6bd5b1b83f4f7d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073489,
+            "locality_id":1125898061,
+            "region_id":85679849
+        }
+    ],
+    "wof:id":1125898061,
+    "wof:lastmodified":1534379471,
+    "wof:name":"Nebbi",
+    "wof:parent_id":1092073489,
+    "wof:placetype":"locality",
+    "wof:population":30354,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[
+        1141906019
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08894,
+    2.47826,
+    31.08894,
+    2.47826
+],
+  "geometry": {"coordinates":[31.08894,2.47826],"type":"Point"}
+}

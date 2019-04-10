@@ -1,0 +1,70 @@
+{
+  "id": 1225975147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.03333,-0.35,31.03333,-0.35",
+    "geom:latitude":-0.35,
+    "geom:longitude":31.03333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"D3",
+    "gn:admin3_code":"7870011.0",
+    "gn:admin4_code":"8657791.0",
+    "gn:asciiname":"Mabare",
+    "gn:country_code":"UG",
+    "gn:dem":1366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229581,
+    "gn:latitude":-0.35,
+    "gn:longitude":31.03333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mabare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        1108808411,
+        1092073255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229581
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d5d18b2aa1fd3fbd07ab6a7cb7440c4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073255,
+            "locality_id":1225975147,
+            "region_id":1108808411
+        }
+    ],
+    "wof:id":1225975147,
+    "wof:lastmodified":1536826076,
+    "wof:name":"Mabare",
+    "wof:parent_id":1092073255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.03333,
+    -0.35,
+    31.03333,
+    -0.35
+],
+  "geometry": {"coordinates":[31.03333,-0.35],"type":"Point"}
+}

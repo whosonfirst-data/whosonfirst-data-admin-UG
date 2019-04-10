@@ -1,0 +1,70 @@
+{
+  "id": 1260016411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.64182,1.60454,31.64182,1.60454",
+    "geom:latitude":1.60454,
+    "geom:longitude":31.64182,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"234463.0",
+    "gn:admin4_code":"8658090.0",
+    "gn:asciiname":"Isagara",
+    "gn:country_code":"UG",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8261547,
+    "gn:latitude":1.60454,
+    "gn:longitude":31.64182,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Isagara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092074425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261547
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"212297166f2db7c1b7109fea235fd500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074425,
+            "locality_id":1260016411,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1260016411,
+    "wof:lastmodified":1537081345,
+    "wof:name":"Isagara",
+    "wof:parent_id":1092074425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.64182000000001,
+    1.60454,
+    31.64182000000001,
+    1.60454
+],
+  "geometry": {"coordinates":[31.64182000000001,1.60454],"type":"Point"}
+}

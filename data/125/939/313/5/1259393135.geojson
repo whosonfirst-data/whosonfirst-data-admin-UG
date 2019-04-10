@@ -1,0 +1,71 @@
+{
+  "id": 1259393135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.88516,2.53699,31.88516,2.53699",
+    "geom:latitude":2.53699,
+    "geom:longitude":31.88516,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"H2",
+    "gn:admin3_code":"8644126.0",
+    "gn:admin4_code":"8200494.0",
+    "gn:asciiname":"Olwiyo",
+    "gn:country_code":"UG",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8200505,
+    "gn:latitude":2.53699,
+    "gn:longitude":31.88516,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Olwiyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680247,
+        1092073225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8200505,
+        "wk:page":"Olwiyo"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"fc86f1ae7d57e2f2251ce45b9565ce23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073225,
+            "locality_id":1259393135,
+            "region_id":85680247
+        }
+    ],
+    "wof:id":1259393135,
+    "wof:lastmodified":1537575050,
+    "wof:name":"Olwiyo",
+    "wof:parent_id":1092073225,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.88516,
+    2.53699,
+    31.88516,
+    2.53699
+],
+  "geometry": {"coordinates":[31.88516,2.53699],"type":"Point"}
+}

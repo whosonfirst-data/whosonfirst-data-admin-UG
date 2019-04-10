@@ -1,0 +1,75 @@
+{
+  "id": 1260090673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.35,2.03333,33.35,2.03333",
+    "geom:latitude":2.03333,
+    "geom:longitude":33.35,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"E4",
+    "gn:admin3_code":"229109.0",
+    "gn:admin4_code":"8658369.0",
+    "gn:asciiname":"Omid",
+    "gn:cc2":"UG",
+    "gn:country_code":"UG",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227057,
+    "gn:latitude":2.03333,
+    "gn:longitude":33.35,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Omid",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Omidi",
+        "Omid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680161,
+        1092072869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227057
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f2c5d588ef775b3b08579c518eb021c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072869,
+            "locality_id":1260090673,
+            "region_id":85680161
+        }
+    ],
+    "wof:id":1260090673,
+    "wof:lastmodified":1537712062,
+    "wof:name":"Omid",
+    "wof:parent_id":1092072869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.35,
+    2.03333,
+    33.35,
+    2.03333
+],
+  "geometry": {"coordinates":[33.35,2.03333],"type":"Point"}
+}

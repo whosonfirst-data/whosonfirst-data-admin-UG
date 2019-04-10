@@ -1,0 +1,70 @@
+{
+  "id": 1243584435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.74583,-0.70639,31.74583,-0.70639",
+    "geom:latitude":-0.70639,
+    "geom:longitude":31.74583,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"G5",
+    "gn:admin3_code":"7910221.0",
+    "gn:admin4_code":"8657534.0",
+    "gn:asciiname":"Malembo",
+    "gn:country_code":"UG",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229439,
+    "gn:latitude":-0.70639,
+    "gn:longitude":31.74583,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Malembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680031,
+        1092069393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229439
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d98216526a4dd67b4259dcbbeaf80255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069393,
+            "locality_id":1243584435,
+            "region_id":85680031
+        }
+    ],
+    "wof:id":1243584435,
+    "wof:lastmodified":1536603777,
+    "wof:name":"Malembo",
+    "wof:parent_id":1092069393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.74583,
+    -0.70639,
+    31.74583,
+    -0.70639
+],
+  "geometry": {"coordinates":[31.74583,-0.70639],"type":"Point"}
+}

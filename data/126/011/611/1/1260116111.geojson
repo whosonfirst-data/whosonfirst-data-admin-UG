@@ -1,0 +1,71 @@
+{
+  "id": 1260116111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.08123,0.92212,34.08123,0.92212",
+    "geom:latitude":0.92212,
+    "geom:longitude":34.08123,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C6",
+    "gn:asciiname":"Kanghalaba",
+    "gn:country_code":"UG",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11468607,
+    "gn:latitude":0.92212,
+    "gn:longitude":34.08123,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Kanghalaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kanghalaba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679981,
+        1092069677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11468607
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ee9f1e57d2276d468920d9ebada8b60a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069677,
+            "locality_id":1260116111,
+            "region_id":85679981
+        }
+    ],
+    "wof:id":1260116111,
+    "wof:lastmodified":1537712179,
+    "wof:name":"Kanghalaba",
+    "wof:parent_id":1092069677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.08123,
+    0.92212,
+    34.08123,
+    0.92212
+],
+  "geometry": {"coordinates":[34.08123,0.92212],"type":"Point"}
+}

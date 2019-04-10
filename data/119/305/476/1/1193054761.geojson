@@ -1,0 +1,68 @@
+{
+  "id": 1193054761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.68931,0.88847,33.68931,0.88847",
+    "geom:latitude":0.88847,
+    "geom:longitude":33.68931,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"E1",
+    "gn:asciiname":"Nabikabala",
+    "gn:country_code":"UG",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429775,
+    "gn:latitude":0.88847,
+    "gn:longitude":33.68931,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Nabikabala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679807,
+        1092069849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429775
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f13fb2420314043ffb1cc0aac88bf68f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069849,
+            "locality_id":1193054761,
+            "region_id":85679807
+        }
+    ],
+    "wof:id":1193054761,
+    "wof:lastmodified":1536384007,
+    "wof:name":"Nabikabala",
+    "wof:parent_id":1092069849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.68931,
+    0.88847,
+    33.68931,
+    0.88847
+],
+  "geometry": {"coordinates":[33.68931,0.88847],"type":"Point"}
+}

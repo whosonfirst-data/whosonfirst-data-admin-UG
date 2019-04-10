@@ -1,0 +1,70 @@
+{
+  "id": 1360195225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1882,2.81029,32.1882,2.81029",
+    "geom:latitude":2.81029,
+    "geom:longitude":32.1882,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B9",
+    "gn:admin3_code":"231253.0",
+    "gn:admin4_code":"8630017.0",
+    "gn:asciiname":"Keyo",
+    "gn:country_code":"UG",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8261682,
+    "gn:latitude":2.81029,
+    "gn:longitude":32.1882,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Keyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680139,
+        1092071643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261682
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"cb3983c603b560f405b83b8719c1da94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071643,
+            "locality_id":1360195225,
+            "region_id":85680139
+        }
+    ],
+    "wof:id":1360195225,
+    "wof:lastmodified":1536787151,
+    "wof:name":"Keyo",
+    "wof:parent_id":1092071643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1882,
+    2.81029,
+    32.1882,
+    2.81029
+],
+  "geometry": {"coordinates":[32.1882,2.81029],"type":"Point"}
+}

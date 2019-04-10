@@ -1,0 +1,70 @@
+{
+  "id": 1293328835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.63421,0.66757,33.63421,0.66757",
+    "geom:latitude":0.66757,
+    "geom:longitude":33.63421,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"78",
+    "gn:admin3_code":"234502.0",
+    "gn:admin4_code":"8658458.0",
+    "gn:asciiname":"Nasiralo",
+    "gn:country_code":"UG",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228005,
+    "gn:latitude":0.66757,
+    "gn:longitude":33.63421,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Nasiralo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679789,
+        1092069033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228005
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4024a4713e55a1b0d6d430c814cff8a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069033,
+            "locality_id":1293328835,
+            "region_id":85679789
+        }
+    ],
+    "wof:id":1293328835,
+    "wof:lastmodified":1537015036,
+    "wof:name":"Nasiralo",
+    "wof:parent_id":1092069033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.63421,
+    0.66757,
+    33.63421,
+    0.66757
+],
+  "geometry": {"coordinates":[33.63421,0.66757],"type":"Point"}
+}

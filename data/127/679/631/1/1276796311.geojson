@@ -1,0 +1,70 @@
+{
+  "id": 1276796311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.82276,0.97796,33.82276,0.97796",
+    "geom:latitude":0.97796,
+    "geom:longitude":33.82276,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"F6",
+    "gn:admin3_code":"8644179.0",
+    "gn:admin4_code":"8658091.0",
+    "gn:asciiname":"Kirika",
+    "gn:country_code":"UG",
+    "gn:dem":1073,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231133,
+    "gn:latitude":0.97796,
+    "gn:longitude":33.82276,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kirika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680111,
+        1092071585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231133
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"288606b74e9451dc723080b06d2ae032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071585,
+            "locality_id":1276796311,
+            "region_id":85680111
+        }
+    ],
+    "wof:id":1276796311,
+    "wof:lastmodified":1536655677,
+    "wof:name":"Kirika",
+    "wof:parent_id":1092071585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.82276,
+    0.97796,
+    33.82276,
+    0.97796
+],
+  "geometry": {"coordinates":[33.82276,0.97796],"type":"Point"}
+}

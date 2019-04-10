@@ -1,0 +1,68 @@
+{
+  "id": 1226784183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.16478,0.05618,32.16478,0.05618",
+    "geom:latitude":0.05618,
+    "geom:longitude":32.16478,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:asciiname":"Namayuki",
+    "gn:country_code":"UG",
+    "gn:dem":1190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552384,
+    "gn:latitude":0.05618,
+    "gn:longitude":32.16478,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Namayuki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679827,
+        1092072705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552384
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7814095a73d01afb618dc97b0aacfda0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072705,
+            "locality_id":1226784183,
+            "region_id":85679827
+        }
+    ],
+    "wof:id":1226784183,
+    "wof:lastmodified":1536660213,
+    "wof:name":"Namayuki",
+    "wof:parent_id":1092072705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.16478,
+    0.05618,
+    32.16478,
+    0.05618
+],
+  "geometry": {"coordinates":[32.16478,0.05618],"type":"Point"}
+}

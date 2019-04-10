@@ -1,0 +1,62 @@
+{
+  "id": 1209549841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.13618,0.36028,32.13618,0.36028",
+    "geom:latitude":0.36028,
+    "geom:longitude":32.13618,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:asciiname":"Buyikwe",
+    "gn:country_code":"UG",
+    "gn:dem":1270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11551848,
+    "gn:latitude":0.36028,
+    "gn:longitude":32.13618,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Buyikwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11551848
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4bfb8d4104174a357102ce1c6da17823",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209549841
+        }
+    ],
+    "wof:id":1209549841,
+    "wof:lastmodified":1536283729,
+    "wof:name":"Buyikwe",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.13618,
+    0.36028000000000004,
+    32.13618,
+    0.36028000000000004
+],
+  "geometry": {"coordinates":[32.13618,0.36028],"type":"Point"}
+}

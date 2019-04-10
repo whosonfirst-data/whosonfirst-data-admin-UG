@@ -1,0 +1,73 @@
+{
+  "id": 1193167931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.24519,0.65471,30.24519,0.65471",
+    "geom:latitude":0.65471,
+    "geom:longitude":30.24519,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"79",
+    "gn:admin3_code":"7732254.0",
+    "gn:admin4_code":"8657967.0",
+    "gn:asciiname":"Butebe",
+    "gn:country_code":"UG",
+    "gn:dem":1562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233983,
+    "gn:latitude":0.65471,
+    "gn:longitude":30.24519,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Butebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Butebe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233983
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a6e3ee9abbb8e31734409de7e48118af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069721,
+            "locality_id":1193167931,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1193167931,
+    "wof:lastmodified":1537712098,
+    "wof:name":"Butebe",
+    "wof:parent_id":1092069721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.24519,
+    0.65471,
+    30.24519,
+    0.65471
+],
+  "geometry": {"coordinates":[30.24519,0.65471],"type":"Point"}
+}

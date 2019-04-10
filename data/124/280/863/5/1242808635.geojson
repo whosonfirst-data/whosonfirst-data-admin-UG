@@ -1,0 +1,71 @@
+{
+  "id": 1242808635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.99841,0.59584,29.99841,0.59584",
+    "geom:latitude":0.59584,
+    "geom:longitude":29.99841,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:asciiname":"Bunyamwera",
+    "gn:country_code":"UG",
+    "gn:dem":1285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401944,
+    "gn:latitude":0.59584,
+    "gn:longitude":29.99841,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Bunyamwera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bunyamwera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092074383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401944
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5443f1afa4d4fc2bd4c9851ee166d383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074383,
+            "locality_id":1242808635,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1242808635,
+    "wof:lastmodified":1537712146,
+    "wof:name":"Bunyamwera",
+    "wof:parent_id":1092074383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.99841,
+    0.59584,
+    29.99841,
+    0.59584
+],
+  "geometry": {"coordinates":[29.99841,0.59584],"type":"Point"}
+}

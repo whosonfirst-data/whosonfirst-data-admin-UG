@@ -1,0 +1,68 @@
+{
+  "id": 1293231373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.42664,0.71225,33.42664,0.71225",
+    "geom:latitude":0.71225,
+    "geom:longitude":33.42664,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G4",
+    "gn:asciiname":"Bukaade",
+    "gn:country_code":"UG",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553535,
+    "gn:latitude":0.71225,
+    "gn:longitude":33.42664,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bukaade",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680097,
+        1092072403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553535
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"325ffb3d1ece2d3f1b98ff905cd009cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072403,
+            "locality_id":1293231373,
+            "region_id":85680097
+        }
+    ],
+    "wof:id":1293231373,
+    "wof:lastmodified":1536659477,
+    "wof:name":"Bukaade",
+    "wof:parent_id":1092072403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.42664,
+    0.71225,
+    33.42664,
+    0.71225
+],
+  "geometry": {"coordinates":[33.42664,0.71225],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310629657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.97584,0.61304,29.97584,0.61304",
+    "geom:latitude":0.61304,
+    "geom:longitude":29.97584,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"7732250.0",
+    "gn:admin4_code":"7732542.0",
+    "gn:asciiname":"Nyankonde",
+    "gn:country_code":"UG",
+    "gn:dem":1072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227365,
+    "gn:latitude":0.61304,
+    "gn:longitude":29.97584,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Nyankonde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nyankonde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092074383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227365
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ad950c00e8ad4694d07b7fd61ce512c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074383,
+            "locality_id":1310629657,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1310629657,
+    "wof:lastmodified":1537712065,
+    "wof:name":"Nyankonde",
+    "wof:parent_id":1092074383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.97584,
+    0.61304,
+    29.97584,
+    0.61304
+],
+  "geometry": {"coordinates":[29.97584,0.61304],"type":"Point"}
+}

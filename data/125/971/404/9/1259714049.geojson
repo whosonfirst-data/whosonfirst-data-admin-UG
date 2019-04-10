@@ -1,0 +1,77 @@
+{
+  "id": 1259714049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.44583,-0.84417,31.44583,-0.84417",
+    "geom:latitude":-0.84417,
+    "geom:longitude":31.44583,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"I3",
+    "gn:admin3_code":"8643028.0",
+    "gn:admin4_code":"8658741.0",
+    "gn:asciiname":"Kakuuto",
+    "gn:cc2":"UG",
+    "gn:country_code":"UG",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232603,
+    "gn:latitude":-0.84417,
+    "gn:longitude":31.44583,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Kakuuto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kakuto",
+        "Kakcuto",
+        "Kakuuto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680025,
+        1092071087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232603,
+        "wk:page":"Kakuuto%2C_Uganda"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"10d8632d2594200330e7550d99e9d95b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071087,
+            "locality_id":1259714049,
+            "region_id":85680025
+        }
+    ],
+    "wof:id":1259714049,
+    "wof:lastmodified":1537712091,
+    "wof:name":"Kakuuto",
+    "wof:parent_id":1092071087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.44583,
+    -0.84417,
+    31.44583,
+    -0.84417
+],
+  "geometry": {"coordinates":[31.44583,-0.84417],"type":"Point"}
+}

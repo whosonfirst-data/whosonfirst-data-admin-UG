@@ -1,0 +1,71 @@
+{
+  "id": 1260215117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.28345,0.78088,34.28345,0.78088",
+    "geom:latitude":0.78088,
+    "geom:longitude":34.28345,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D6",
+    "gn:asciiname":"Bunyintsa",
+    "gn:country_code":"UG",
+    "gn:dem":1400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433373,
+    "gn:latitude":0.78088,
+    "gn:longitude":34.28345,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bunyintsa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bunyintsa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679969,
+        1092068753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433373
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8cd1f8ef687c66fc3e0a2884f47f8ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068753,
+            "locality_id":1260215117,
+            "region_id":85679969
+        }
+    ],
+    "wof:id":1260215117,
+    "wof:lastmodified":1537712168,
+    "wof:name":"Bunyintsa",
+    "wof:parent_id":1092068753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.28345,
+    0.78088,
+    34.28345,
+    0.78088
+],
+  "geometry": {"coordinates":[34.28345,0.78088],"type":"Point"}
+}

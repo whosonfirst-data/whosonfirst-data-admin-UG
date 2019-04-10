@@ -1,0 +1,68 @@
+{
+  "id": 1327064865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.8659,0.8542,33.8659,0.8542",
+    "geom:latitude":0.8542,
+    "geom:longitude":33.8659,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C6",
+    "gn:asciiname":"Buwihula",
+    "gn:country_code":"UG",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429930,
+    "gn:latitude":0.8542,
+    "gn:longitude":33.8659,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Buwihula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679981,
+        1092069677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429930
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c0958c0c2b61d53c64eb12083da09389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069677,
+            "locality_id":1327064865,
+            "region_id":85679981
+        }
+    ],
+    "wof:id":1327064865,
+    "wof:lastmodified":1536713928,
+    "wof:name":"Buwihula",
+    "wof:parent_id":1092069677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.8659,
+    0.8542,
+    33.8659,
+    0.8542
+],
+  "geometry": {"coordinates":[33.8659,0.8542],"type":"Point"}
+}

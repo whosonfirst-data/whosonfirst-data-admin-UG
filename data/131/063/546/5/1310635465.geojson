@@ -1,0 +1,74 @@
+{
+  "id": 1310635465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.12463,1.75429,33.12463,1.75429",
+    "geom:latitude":1.75429,
+    "geom:longitude":33.12463,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"80",
+    "gn:admin3_code":"233018.0",
+    "gn:admin4_code":"8658290.0",
+    "gn:asciiname":"Odoit",
+    "gn:country_code":"UG",
+    "gn:dem":1048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227236,
+    "gn:latitude":1.75429,
+    "gn:longitude":33.12463,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Odoit",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Odoti",
+        "Odoit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679783,
+        1092070941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227236
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f9a980c43443909a7a60a18036834878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070941,
+            "locality_id":1310635465,
+            "region_id":85679783
+        }
+    ],
+    "wof:id":1310635465,
+    "wof:lastmodified":1537712064,
+    "wof:name":"Odoit",
+    "wof:parent_id":1092070941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.12463,
+    1.75429,
+    33.12463,
+    1.75429
+],
+  "geometry": {"coordinates":[33.12463,1.75429],"type":"Point"}
+}

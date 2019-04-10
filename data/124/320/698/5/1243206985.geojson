@@ -1,0 +1,70 @@
+{
+  "id": 1243206985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.66667,0.46667,31.66667,0.46667",
+    "geom:latitude":0.46667,
+    "geom:longitude":31.66667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"56",
+    "gn:admin3_code":"8644175.0",
+    "gn:admin4_code":"8658548.0",
+    "gn:asciiname":"Kiganda",
+    "gn:country_code":"UG",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231465,
+    "gn:latitude":0.46667,
+    "gn:longitude":31.66667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kiganda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679889,
+        1092071357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231465
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7dcabc98666fda893b907765e956e318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071357,
+            "locality_id":1243206985,
+            "region_id":85679889
+        }
+    ],
+    "wof:id":1243206985,
+    "wof:lastmodified":1536653800,
+    "wof:name":"Kiganda",
+    "wof:parent_id":1092071357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.66667,
+    0.46667,
+    31.66667,
+    0.46667
+],
+  "geometry": {"coordinates":[31.66667,0.46667],"type":"Point"}
+}

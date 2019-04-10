@@ -1,0 +1,70 @@
+{
+  "id": 1343989397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.96656,0.38335,32.96656,0.38335",
+    "geom:latitude":0.38335,
+    "geom:longitude":32.96656,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E7",
+    "gn:admin3_code":"7732075.0",
+    "gn:admin4_code":"8658333.0",
+    "gn:asciiname":"Bulyantente",
+    "gn:country_code":"UG",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11357262,
+    "gn:latitude":0.38335,
+    "gn:longitude":32.96656,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Bulyantente",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680121,
+        1092069145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11357262
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"002efdd47e0a4c0c63d6ade6f01414ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069145,
+            "locality_id":1343989397,
+            "region_id":85680121
+        }
+    ],
+    "wof:id":1343989397,
+    "wof:lastmodified":1536977700,
+    "wof:name":"Bulyantente",
+    "wof:parent_id":1092069145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.96656,
+    0.38335,
+    32.96656,
+    0.38335
+],
+  "geometry": {"coordinates":[32.96656,0.38335],"type":"Point"}
+}

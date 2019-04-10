@@ -1,0 +1,68 @@
+{
+  "id": 1276906207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.42013,0.04317,32.42013,0.04317",
+    "geom:latitude":0.04317,
+    "geom:longitude":32.42013,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:asciiname":"Musooli-Bunonke",
+    "gn:country_code":"UG",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552554,
+    "gn:latitude":0.04317,
+    "gn:longitude":32.42013,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Musooli-Bunonke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679879,
+        1092070523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552554
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1ac05839dfd6e12777a5b3021451a063",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070523,
+            "locality_id":1276906207,
+            "region_id":85679879
+        }
+    ],
+    "wof:id":1276906207,
+    "wof:lastmodified":1537005314,
+    "wof:name":"Musooli-Bunonke",
+    "wof:parent_id":1092070523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.42013,
+    0.04317,
+    32.42013,
+    0.04317
+],
+  "geometry": {"coordinates":[32.42013,0.04317],"type":"Point"}
+}

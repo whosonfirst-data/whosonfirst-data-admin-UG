@@ -1,0 +1,70 @@
+{
+  "id": 1309730875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.5251,3.26097,31.5251,3.26097",
+    "geom:latitude":3.26097,
+    "geom:longitude":31.5251,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"72",
+    "gn:admin3_code":"8644127.0",
+    "gn:admin4_code":"8658016.0",
+    "gn:asciiname":"Lionga",
+    "gn:country_code":"UG",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8141115,
+    "gn:latitude":3.26097,
+    "gn:longitude":31.5251,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lionga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679853,
+        1092073299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8141115
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"881f68b5c722ddb8e6916affbdc3471b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073299,
+            "locality_id":1309730875,
+            "region_id":85679853
+        }
+    ],
+    "wof:id":1309730875,
+    "wof:lastmodified":1537037483,
+    "wof:name":"Lionga",
+    "wof:parent_id":1092073299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.5251,
+    3.26097,
+    31.5251,
+    3.26097
+],
+  "geometry": {"coordinates":[31.5251,3.26097],"type":"Point"}
+}

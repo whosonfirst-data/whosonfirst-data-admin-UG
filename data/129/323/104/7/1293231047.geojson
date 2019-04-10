@@ -1,0 +1,68 @@
+{
+  "id": 1293231047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.42212,0.19495,32.42212,0.19495",
+    "geom:latitude":0.19495,
+    "geom:longitude":32.42212,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:asciiname":"Kamakakaze",
+    "gn:country_code":"UG",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552645,
+    "gn:latitude":0.19495,
+    "gn:longitude":32.42212,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kamakakaze",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552645
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c20eced86844e5bdfc31f5537e7aff08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1293231047,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1293231047,
+    "wof:lastmodified":1536659941,
+    "wof:name":"Kamakakaze",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.42212,
+    0.19495,
+    32.42212,
+    0.19495
+],
+  "geometry": {"coordinates":[32.42212,0.19495],"type":"Point"}
+}

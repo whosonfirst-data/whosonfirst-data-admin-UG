@@ -1,0 +1,74 @@
+{
+  "id": 1343696331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.5,0.76667,32.5,0.76667",
+    "geom:latitude":0.76667,
+    "geom:longitude":32.5,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"8644176.0",
+    "gn:admin4_code":"8657634.0",
+    "gn:asciiname":"Waluvule",
+    "gn:country_code":"UG",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":225948,
+    "gn:latitude":0.76667,
+    "gn:longitude":32.5,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Waluvule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naluvule",
+        "Waluvule"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679881,
+        1092071399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":225948
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7de2224543d826b39c951b6d7cbc6391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071399,
+            "locality_id":1343696331,
+            "region_id":85679881
+        }
+    ],
+    "wof:id":1343696331,
+    "wof:lastmodified":1537712052,
+    "wof:name":"Waluvule",
+    "wof:parent_id":1092071399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.5,
+    0.76667,
+    32.5,
+    0.76667
+],
+  "geometry": {"coordinates":[32.5,0.76667],"type":"Point"}
+}

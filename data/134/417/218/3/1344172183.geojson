@@ -1,0 +1,70 @@
+{
+  "id": 1344172183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3289,2.78655,31.3289,2.78655",
+    "geom:latitude":2.78655,
+    "geom:longitude":31.3289,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"8644146.0",
+    "gn:admin4_code":"8658077.0",
+    "gn:asciiname":"Parabik",
+    "gn:country_code":"UG",
+    "gn:dem":664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8081197,
+    "gn:latitude":2.78655,
+    "gn:longitude":31.3289,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Parabik",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092074425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8081197
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2d22ddb60b4fc89b0ae80fadfd663a80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074425,
+            "locality_id":1344172183,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1344172183,
+    "wof:lastmodified":1536714614,
+    "wof:name":"Parabik",
+    "wof:parent_id":1092074425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3289,
+    2.78655,
+    31.3289,
+    2.78655
+],
+  "geometry": {"coordinates":[31.3289,2.78655],"type":"Point"}
+}

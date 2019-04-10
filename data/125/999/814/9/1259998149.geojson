@@ -1,0 +1,73 @@
+{
+  "id": 1259998149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.53108,1.95544,32.53108,1.95544",
+    "geom:latitude":1.95544,
+    "geom:longitude":32.53108,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"26",
+    "gn:admin3_code":"229387.0",
+    "gn:admin4_code":"8658131.0",
+    "gn:asciiname":"Poke",
+    "gn:country_code":"UG",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":226751,
+    "gn:latitude":1.95544,
+    "gn:longitude":32.53108,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Poke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Poke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680151,
+        1092072551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226751
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2d7e79d12706fd462d944a0f0d38f7d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072551,
+            "locality_id":1259998149,
+            "region_id":85680151
+        }
+    ],
+    "wof:id":1259998149,
+    "wof:lastmodified":1537712058,
+    "wof:name":"Poke",
+    "wof:parent_id":1092072551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.53108,
+    1.95544,
+    32.53108,
+    1.95544
+],
+  "geometry": {"coordinates":[32.53108,1.95544],"type":"Point"}
+}

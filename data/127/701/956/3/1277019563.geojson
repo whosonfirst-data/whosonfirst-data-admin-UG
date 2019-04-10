@@ -1,0 +1,73 @@
+{
+  "id": 1277019563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.16881,0.55997,30.16881,0.55997",
+    "geom:latitude":0.55997,
+    "geom:longitude":30.16881,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"H8",
+    "gn:admin3_code":"234153.0",
+    "gn:admin4_code":"8658414.0",
+    "gn:asciiname":"Butukuru",
+    "gn:country_code":"UG",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233937,
+    "gn:latitude":0.55997,
+    "gn:longitude":30.16881,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Butukuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Butukuru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233937
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0c65eaf38921f46238150310e4d7c452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069635,
+            "locality_id":1277019563,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1277019563,
+    "wof:lastmodified":1537712097,
+    "wof:name":"Butukuru",
+    "wof:parent_id":1092069635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.16881,
+    0.55997,
+    30.16881,
+    0.55997
+],
+  "geometry": {"coordinates":[30.16881,0.55997],"type":"Point"}
+}

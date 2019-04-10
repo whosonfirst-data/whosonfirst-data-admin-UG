@@ -1,0 +1,71 @@
+{
+  "id": 1310341557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.09214,0.7837,30.09214,0.7837",
+    "geom:latitude":0.7837,
+    "geom:longitude":30.09214,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:asciiname":"Kabuga",
+    "gn:country_code":"UG",
+    "gn:dem":751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401500,
+    "gn:latitude":0.7837,
+    "gn:longitude":30.09214,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Kabuga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kabuga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092074383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401500
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"75875435b7ccc92514cba809710cdf1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074383,
+            "locality_id":1310341557,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1310341557,
+    "wof:lastmodified":1537712139,
+    "wof:name":"Kabuga",
+    "wof:parent_id":1092074383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.09214,
+    0.7837,
+    30.09214,
+    0.7837
+],
+  "geometry": {"coordinates":[30.09214,0.7837],"type":"Point"}
+}

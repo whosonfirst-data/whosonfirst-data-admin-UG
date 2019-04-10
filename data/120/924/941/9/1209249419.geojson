@@ -1,0 +1,62 @@
+{
+  "id": 1209249419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.48658,0.57464,33.48658,0.57464",
+    "geom:latitude":0.57464,
+    "geom:longitude":33.48658,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"78",
+    "gn:asciiname":"Buluza",
+    "gn:country_code":"UG",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553567,
+    "gn:latitude":0.57464,
+    "gn:longitude":33.48658,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Buluza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553567
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"76a0c10e37bad4199a45f6e4942563b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209249419
+        }
+    ],
+    "wof:id":1209249419,
+    "wof:lastmodified":1536293053,
+    "wof:name":"Buluza",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.48658,
+    0.5746399999999999,
+    33.48658,
+    0.5746399999999999
+],
+  "geometry": {"coordinates":[33.48658,0.57464],"type":"Point"}
+}

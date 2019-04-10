@@ -1,0 +1,71 @@
+{
+  "id": 1243202871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4186,0.81725,30.4186,0.81725",
+    "geom:latitude":0.81725,
+    "geom:longitude":30.4186,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"79",
+    "gn:admin3_code":"7732254.0",
+    "gn:admin4_code":"8657930.0",
+    "gn:asciiname":"Kijura",
+    "gn:country_code":"UG",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231339,
+    "gn:latitude":0.81725,
+    "gn:longitude":30.4186,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kijura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231339,
+        "wk:page":"Kijura"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4c4aa02301266114379bab7a90ce948c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069721,
+            "locality_id":1243202871,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1243202871,
+    "wof:lastmodified":1537575042,
+    "wof:name":"Kijura",
+    "wof:parent_id":1092069721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4186,
+    0.81725,
+    30.4186,
+    0.81725
+],
+  "geometry": {"coordinates":[30.4186,0.81725],"type":"Point"}
+}

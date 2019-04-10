@@ -1,0 +1,70 @@
+{
+  "id": 1309842107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.89777,1.51389,31.89777,1.51389",
+    "geom:latitude":1.51389,
+    "geom:longitude":31.89777,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"8644129.0",
+    "gn:admin4_code":"8657772.0",
+    "gn:asciiname":"Kyamukama",
+    "gn:country_code":"UG",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8079481,
+    "gn:latitude":1.51389,
+    "gn:longitude":31.89777,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyamukama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092069799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8079481
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"69ee8ffb11e1231781e9bb23e11ae58a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069799,
+            "locality_id":1309842107,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1309842107,
+    "wof:lastmodified":1536877862,
+    "wof:name":"Kyamukama",
+    "wof:parent_id":1092069799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.89777,
+    1.51389,
+    31.89777,
+    1.51389
+],
+  "geometry": {"coordinates":[31.89777,1.51389],"type":"Point"}
+}

@@ -1,0 +1,201 @@
+{
+  "id": 1092072387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002856,
+    "geom:area_square_m":35288971.478756,
+    "geom:bbox":"32.8632755328,2.21775675691,32.9275,2.28046622978",
+    "geom:latitude":2.249987,
+    "geom:longitude":32.899096,
+    "iso:country":"UG",
+    "lbl:latitude":2.250685,
+    "lbl:longitude":32.898482,
+    "meso:admin_1":"LIRA",
+    "meso:admin_1r":"LANGO",
+    "meso:dissme":"LIRA MUNICIPALITYLIRALANGO",
+    "meso:gadm_admin":"Lira",
+    "meso:gadm_hasc2":"UG.LA.LR",
+    "meso:gaul_admin":"Lira Municipality",
+    "meso:mps_x":32.898482,
+    "meso:mps_y":2.250685,
+    "meso:name_en":"LIRA MUNICIPALITY",
+    "meso:source":"AOTM",
+    "mps:latitude":2.250685,
+    "mps:longitude":32.898482,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0644\u064a\u0631\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09bf\u09b0\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u5229\u62c9\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Lira District"
+    ],
+    "name:dut_x_preferred":[
+        "Lira"
+    ],
+    "name:eng_x_preferred":[
+        "Lira Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Lira Municipality",
+        "Lira",
+        "Lira District",
+        "LIRA MUNICIPALITY"
+    ],
+    "name:fin_x_preferred":[
+        "Liran kaupunginosa"
+    ],
+    "name:fre_x_preferred":[
+        "Lira"
+    ],
+    "name:ger_x_preferred":[
+        "Distrikt Lira"
+    ],
+    "name:gre_x_preferred":[
+        "\u039b\u03af\u03c1\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab2\u0ac0\u0ab0\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0940\u0930\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Lira"
+    ],
+    "name:ita_x_preferred":[
+        "distretto di Lira"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30e9\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb2\u0cbf\u0cb0\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9ac\ub77c \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Liras distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Liros apskritis"
+    ],
+    "name:lug_x_preferred":[
+        "Lira"
+    ],
+    "name:mar_x_preferred":[
+        "\u0932\u0940\u0930\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Lira District"
+    ],
+    "name:nob_x_preferred":[
+        "Lira"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Lira"
+    ],
+    "name:por_x_preferred":[
+        "Lira"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Lira"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u0440\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dbd\u0dd2\u0dbb\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Lira"
+    ],
+    "name:swa_x_preferred":[
+        "Wilaya ya Lira"
+    ],
+    "name:swe_x_preferred":[
+        "Liradistriktet"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb2\u0bbf\u0bb0\u0bbe  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c32\u0c40\u0c30\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e33\u0e40\u0e20\u0e2d\u0e25\u0e34\u0e23\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Lira District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u041b\u0456\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0631\u0627 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Lira"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"UG",
+    "statoids:hasc":"UG.LL",
+    "statoids:name":"Lira",
+    "statoids:population":"",
+    "statoids:statoid":"UG.LL.LR",
+    "statoids:timezone":"3",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"UG.LL.LR",
+        "wd:id":"Q206519"
+    },
+    "wof:country":"UG",
+    "wof:created":1473899405,
+    "wof:geomhash":"55813948ab83026b5d5a3bed8b22fbb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072387,
+            "region_id":85679909
+        }
+    ],
+    "wof:id":1092072387,
+    "wof:lastmodified":1544032786,
+    "wof:name":"Lira Municipality",
+    "wof:parent_id":85679909,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:shortcode":"LR",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.86327553281917,
+    2.21775675691433,
+    32.92749999999948,
+    2.28046622977603
+],
+  "geometry": {"coordinates":[[[32.86667521388378,2.25593565005533],[32.86327553281917,2.26375739096777],[32.86372009476049,2.26699986640774],[32.86550780373782,2.27075275525201],[32.86881906767402,2.27010164737945],[32.87663470406839,2.26769502331145],[32.87892249888247,2.26860739078991],[32.88189576671628,2.27161261502758],[32.88241701760675,2.27549678605617],[32.88623548504254,2.27859160830765],[32.89185774201594,2.27983406656661],[32.89589082118263,2.27951123783622],[32.89607795035549,2.27956269806111],[32.89749999999947,2.27964353723767],[32.90006437662191,2.28046622977603],[32.90354047863556,2.27697254471122],[32.90687150697333,2.27313876003916],[32.90857902175071,2.27237470447839],[32.91249999999947,2.27212083158263],[32.9127958012271,2.27220364736217],[32.91381425717456,2.27282833875301],[32.9184559008213,2.27408771497597],[32.9198265703303,2.2737729415683],[32.92402025081581,2.27143321530818],[32.92681532703896,2.2672776907603],[32.92684699737225,2.26697560509365],[32.92617211504353,2.26199182743387],[32.92749999999948,2.26],[32.92749999999948,2.2525],[32.92680583897745,2.25041751693386],[32.92654928811225,2.2475],[32.92616144394739,2.24651566815624],[32.92749999999948,2.2425],[32.92749999999948,2.24006934542321],[32.92506566278765,2.23487217910673],[32.92464843448694,2.23377178488412],[32.92381791050244,2.23248204121745],[32.92597173200249,2.22767378981451],[32.92640911158202,2.22588152085817],[32.92377930281393,2.22098852644086],[32.91984468499958,2.21781816147155],[32.91783417579239,2.21775675691433],[32.91334316204438,2.22064714081256],[32.91102131211822,2.22150624323497],[32.90741684653169,2.22121724555095],[32.90676618439145,2.22132254373863],[32.90586197381196,2.22192535079163],[32.90280740062718,2.22473902271095],[32.89687375635987,2.22520747919466],[32.89433615794155,2.22576073626373],[32.89416712627454,2.22569140676115],[32.89057839792378,2.22283947290733],[32.88957083326387,2.22257220609665],[32.88740118971527,2.22203108693044],[32.88542076832957,2.22219524627574],[32.8780240627854,2.22787616620095],[32.87813166731321,2.23060499805869],[32.87749999999945,2.2325],[32.87749999999946,2.23624691081875],[32.8756962022299,2.23927374518694],[32.87423581087218,2.24197951752251],[32.87401524229436,2.24415002298298],[32.87203183604598,2.24703183604647],[32.86864781449877,2.24905655650199],[32.86659083437267,2.25522749688028],[32.86667521388378,2.25593565005533]]],"type":"Polygon"}
+}

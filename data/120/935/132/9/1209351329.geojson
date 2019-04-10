@@ -1,0 +1,64 @@
+{
+  "id": 1209351329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.65,2.3,33.65,2.3",
+    "geom:latitude":2.3,
+    "geom:longitude":33.65,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"B8",
+    "gn:admin3_code":"8644171.0",
+    "gn:admin4_code":"8657915.0",
+    "gn:asciiname":"Palisa",
+    "gn:country_code":"UG",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226825,
+    "gn:latitude":2.3,
+    "gn:longitude":33.65,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Palisa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226825
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d255528b43e7c7dda755c2da02106efc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209351329
+        }
+    ],
+    "wof:id":1209351329,
+    "wof:lastmodified":1536289731,
+    "wof:name":"Palisa",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.65,
+    2.3,
+    33.65,
+    2.3
+],
+  "geometry": {"coordinates":[33.65,2.3],"type":"Point"}
+}

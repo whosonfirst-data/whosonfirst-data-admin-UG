@@ -1,0 +1,74 @@
+{
+  "id": 1327063841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.06083,-0.79056,31.06083,-0.79056",
+    "geom:latitude":-0.79056,
+    "geom:longitude":31.06083,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"C9",
+    "gn:admin3_code":"8644166.0",
+    "gn:admin4_code":"8658430.0",
+    "gn:asciiname":"Birundumu",
+    "gn:country_code":"UG",
+    "gn:dem":1509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234757,
+    "gn:latitude":-0.79056,
+    "gn:longitude":31.06083,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Birundumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birunuma",
+        "Birunduma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680051,
+        1092069267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234757
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6b40f8eb8f00518d1902f629687628ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069267,
+            "locality_id":1327063841,
+            "region_id":85680051
+        }
+    ],
+    "wof:id":1327063841,
+    "wof:lastmodified":1537712105,
+    "wof:name":"Birundumu",
+    "wof:parent_id":1092069267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.06083,
+    -0.79056,
+    31.06083,
+    -0.79056
+],
+  "geometry": {"coordinates":[31.06083,-0.79056],"type":"Point"}
+}

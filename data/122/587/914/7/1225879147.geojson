@@ -1,0 +1,73 @@
+{
+  "id": 1225879147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.80478,0.49241,33.80478,0.49241",
+    "geom:latitude":0.49241,
+    "geom:longitude":33.80478,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G7",
+    "gn:admin3_code":"8644167.0",
+    "gn:admin4_code":"8658051.0",
+    "gn:asciiname":"Nakabale",
+    "gn:country_code":"UG",
+    "gn:dem":1119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259198,
+    "gn:latitude":0.49241,
+    "gn:longitude":33.80478,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Nakabale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nakabale"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259198
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c048c977a4156de5da291acfb0c7116f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1225879147,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1225879147,
+    "wof:lastmodified":1537712122,
+    "wof:name":"Nakabale",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.80478,
+    0.49241,
+    33.80478,
+    0.49241
+],
+  "geometry": {"coordinates":[33.80478,0.49241],"type":"Point"}
+}

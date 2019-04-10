@@ -1,0 +1,74 @@
+{
+  "id": 1226479431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.28333,1.46667,33.28333,1.46667",
+    "geom:latitude":1.46667,
+    "geom:longitude":33.28333,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"H5",
+    "gn:admin3_code":"8644174.0",
+    "gn:admin4_code":"8658240.0",
+    "gn:asciiname":"Kalamai",
+    "gn:country_code":"UG",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232579,
+    "gn:latitude":1.46667,
+    "gn:longitude":33.28333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kalamai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karamayi",
+        "Kalamai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680119,
+        1092071333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232579
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"fcf1765ca4552f4b6fa56dc311cac576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071333,
+            "locality_id":1226479431,
+            "region_id":85680119
+        }
+    ],
+    "wof:id":1226479431,
+    "wof:lastmodified":1537712090,
+    "wof:name":"Kalamai",
+    "wof:parent_id":1092071333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.28333,
+    1.46667,
+    33.28333,
+    1.46667
+],
+  "geometry": {"coordinates":[33.28333,1.46667],"type":"Point"}
+}

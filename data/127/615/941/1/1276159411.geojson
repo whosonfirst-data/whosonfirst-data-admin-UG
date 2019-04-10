@@ -1,0 +1,68 @@
+{
+  "id": 1276159411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.02336,0.14484,32.02336,0.14484",
+    "geom:latitude":0.14484,
+    "geom:longitude":32.02336,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F4",
+    "gn:asciiname":"Mpongo",
+    "gn:country_code":"UG",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552433,
+    "gn:latitude":0.14484,
+    "gn:longitude":32.02336,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Mpongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680133,
+        1092070589
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552433
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2c39a004664a1ba42141f73e668395c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070589,
+            "locality_id":1276159411,
+            "region_id":85680133
+        }
+    ],
+    "wof:id":1276159411,
+    "wof:lastmodified":1537011122,
+    "wof:name":"Mpongo",
+    "wof:parent_id":1092070589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.02336,
+    0.14484,
+    32.02336,
+    0.14484
+],
+  "geometry": {"coordinates":[32.02336,0.14484],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259513989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76667,1.08333,30.76667,1.08333",
+    "geom:latitude":1.08333,
+    "geom:longitude":30.76667,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"8644163.0",
+    "gn:admin4_code":"8657663.0",
+    "gn:asciiname":"Kigwabya",
+    "gn:country_code":"UG",
+    "gn:dem":941,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231398,
+    "gn:latitude":1.08333,
+    "gn:longitude":30.76667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kigwabya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679947,
+        1092070183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231398
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b190ab9cb95f430101f8239bee0360e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070183,
+            "locality_id":1259513989,
+            "region_id":85679947
+        }
+    ],
+    "wof:id":1259513989,
+    "wof:lastmodified":1536814381,
+    "wof:name":"Kigwabya",
+    "wof:parent_id":1092070183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76667,
+    1.08333,
+    30.76667,
+    1.08333
+],
+  "geometry": {"coordinates":[30.76667,1.08333],"type":"Point"}
+}

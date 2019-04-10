@@ -1,0 +1,73 @@
+{
+  "id": 1343494839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.96864,0.41112,33.96864,0.41112",
+    "geom:latitude":0.41112,
+    "geom:longitude":33.96864,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"67",
+    "gn:admin3_code":"8644151.0",
+    "gn:admin4_code":"8658193.0",
+    "gn:asciiname":"Nesaga",
+    "gn:country_code":"UG",
+    "gn:dem":1145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259297,
+    "gn:latitude":0.41112,
+    "gn:longitude":33.96864,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Nesaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nesaga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679979,
+        1092073897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259297
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"291cb5725db6715eb6edc8e83066c655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073897,
+            "locality_id":1343494839,
+            "region_id":85679979
+        }
+    ],
+    "wof:id":1343494839,
+    "wof:lastmodified":1537712125,
+    "wof:name":"Nesaga",
+    "wof:parent_id":1092073897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.96864,
+    0.41112,
+    33.96864,
+    0.41112
+],
+  "geometry": {"coordinates":[33.96864,0.41112],"type":"Point"}
+}

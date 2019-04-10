@@ -1,0 +1,64 @@
+{
+  "id": 1209349367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.76667,0.13333,30.76667,0.13333",
+    "geom:latitude":0.13333,
+    "geom:longitude":30.76667,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"D3",
+    "gn:admin3_code":"8644177.0",
+    "gn:admin4_code":"8658011.0",
+    "gn:asciiname":"Nkungwe",
+    "gn:country_code":"UG",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227747,
+    "gn:latitude":0.13333,
+    "gn:longitude":30.76667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nkungwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227747
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"156c2609255f3ff2f69a49c7aeca48ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209349367
+        }
+    ],
+    "wof:id":1209349367,
+    "wof:lastmodified":1536289797,
+    "wof:name":"Nkungwe",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.76667,
+    0.13333,
+    30.76667,
+    0.13333
+],
+  "geometry": {"coordinates":[30.76667,0.13333],"type":"Point"}
+}

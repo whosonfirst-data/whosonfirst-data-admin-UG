@@ -1,0 +1,71 @@
+{
+  "id": 1326863645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3821,2.17753,31.3821,2.17753",
+    "geom:latitude":2.17753,
+    "geom:longitude":31.3821,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"C5",
+    "gn:admin3_code":"7869947.0",
+    "gn:admin4_code":"8657780.0",
+    "gn:asciiname":"Wanseko",
+    "gn:country_code":"UG",
+    "gn:dem":625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":225907,
+    "gn:latitude":2.17753,
+    "gn:longitude":31.3821,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wanseko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679843,
+        1092069517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":225907,
+        "wk:page":"Wanseko"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"89e5efb8233130b083269bb2082fc898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069517,
+            "locality_id":1326863645,
+            "region_id":85679843
+        }
+    ],
+    "wof:id":1326863645,
+    "wof:lastmodified":1537575036,
+    "wof:name":"Wanseko",
+    "wof:parent_id":1092069517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3821,
+    2.17753,
+    31.3821,
+    2.17753
+],
+  "geometry": {"coordinates":[31.3821,2.17753],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226073821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.35,1.4,34.35,1.4",
+    "geom:latitude":1.4,
+    "geom:longitude":34.35,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"E9",
+    "gn:admin3_code":"7869956.0",
+    "gn:admin4_code":"8657825.0",
+    "gn:asciiname":"Bunambutye",
+    "gn:country_code":"UG",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234180,
+    "gn:latitude":1.4,
+    "gn:longitude":34.35,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bunambutye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680195,
+        1092069435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234180
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"26e08726239ab634b929d193f3d93988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069435,
+            "locality_id":1226073821,
+            "region_id":85680195
+        }
+    ],
+    "wof:id":1226073821,
+    "wof:lastmodified":1536684825,
+    "wof:name":"Bunambutye",
+    "wof:parent_id":1092069435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.35,
+    1.4,
+    34.35,
+    1.4
+],
+  "geometry": {"coordinates":[34.35,1.4],"type":"Point"}
+}

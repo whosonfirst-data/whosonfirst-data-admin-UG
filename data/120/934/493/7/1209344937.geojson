@@ -1,0 +1,67 @@
+{
+  "id": 1209344937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.00747,0.81493,30.00747,0.81493",
+    "geom:latitude":0.81493,
+    "geom:longitude":30.00747,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"7732250.0",
+    "gn:admin4_code":"8658204.0",
+    "gn:asciiname":"Bundiwirima",
+    "gn:country_code":"UG",
+    "gn:dem":698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234173,
+    "gn:latitude":0.81493,
+    "gn:longitude":30.00747,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Bundiwirima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bundiwirima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234173
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4875b8dbef954c4770c238503bca485e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209344937
+        }
+    ],
+    "wof:id":1209344937,
+    "wof:lastmodified":1537712099,
+    "wof:name":"Bundiwirima",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.00747,
+    0.81493,
+    30.00747,
+    0.81493
+],
+  "geometry": {"coordinates":[30.00747,0.81493],"type":"Point"}
+}

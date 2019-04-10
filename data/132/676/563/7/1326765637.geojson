@@ -1,0 +1,70 @@
+{
+  "id": 1326765637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.89037,1.38017,31.89037,1.38017",
+    "geom:latitude":1.38017,
+    "geom:longitude":31.89037,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D9",
+    "gn:admin3_code":"8644153.0",
+    "gn:admin4_code":"8657851.0",
+    "gn:asciiname":"Kisozi",
+    "gn:country_code":"UG",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230988,
+    "gn:latitude":1.38017,
+    "gn:longitude":31.89037,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Kisozi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679895,
+        1092072985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230988
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4921b627b8504f4d3fc436c7632e307c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072985,
+            "locality_id":1326765637,
+            "region_id":85679895
+        }
+    ],
+    "wof:id":1326765637,
+    "wof:lastmodified":1536647102,
+    "wof:name":"Kisozi",
+    "wof:parent_id":1092072985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.89037,
+    1.38017,
+    31.89037,
+    1.38017
+],
+  "geometry": {"coordinates":[31.89037,1.38017],"type":"Point"}
+}

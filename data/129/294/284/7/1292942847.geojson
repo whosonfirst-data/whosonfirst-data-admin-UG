@@ -1,0 +1,68 @@
+{
+  "id": 1292942847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.66954,0.56413,33.66954,0.56413",
+    "geom:latitude":0.56413,
+    "geom:longitude":33.66954,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"66",
+    "gn:asciiname":"Bugombo",
+    "gn:country_code":"UG",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429912,
+    "gn:latitude":0.56413,
+    "gn:longitude":33.66954,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bugombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429912
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6a030b206856b5d6f7863652d89d68b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1292942847,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1292942847,
+    "wof:lastmodified":1537072017,
+    "wof:name":"Bugombo",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.66954,
+    0.56413,
+    33.66954,
+    0.56413
+],
+  "geometry": {"coordinates":[33.66954,0.56413],"type":"Point"}
+}

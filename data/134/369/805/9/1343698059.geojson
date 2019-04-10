@@ -1,0 +1,68 @@
+{
+  "id": 1343698059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.09917,0.18443,32.09917,0.18443",
+    "geom:latitude":0.18443,
+    "geom:longitude":32.09917,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F1",
+    "gn:asciiname":"Kabula",
+    "gn:country_code":"UG",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552423,
+    "gn:latitude":0.18443,
+    "gn:longitude":32.09917,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kabula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680131,
+        1092069969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552423
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1d41a71abecde63136b4ad3eda4f6a75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069969,
+            "locality_id":1343698059,
+            "region_id":85680131
+        }
+    ],
+    "wof:id":1343698059,
+    "wof:lastmodified":1536900870,
+    "wof:name":"Kabula",
+    "wof:parent_id":1092069969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.09917,
+    0.18443,
+    32.09917,
+    0.18443
+],
+  "geometry": {"coordinates":[32.09917,0.18443],"type":"Point"}
+}

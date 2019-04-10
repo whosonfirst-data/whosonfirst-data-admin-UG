@@ -1,0 +1,70 @@
+{
+  "id": 1243006995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.37984,1.63068,31.37984,1.63068",
+    "geom:latitude":1.63068,
+    "geom:longitude":31.37984,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"234463.0",
+    "gn:admin4_code":"8657903.0",
+    "gn:asciiname":"Nyamakondo",
+    "gn:country_code":"UG",
+    "gn:dem":1046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8080981,
+    "gn:latitude":1.63068,
+    "gn:longitude":31.37984,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nyamakondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092074425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8080981
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"33d80a6ebada65c536c73b9d5d82c199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074425,
+            "locality_id":1243006995,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1243006995,
+    "wof:lastmodified":1536942722,
+    "wof:name":"Nyamakondo",
+    "wof:parent_id":1092074425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.37984,
+    1.63068,
+    31.37984,
+    1.63068
+],
+  "geometry": {"coordinates":[31.37984,1.63068],"type":"Point"}
+}

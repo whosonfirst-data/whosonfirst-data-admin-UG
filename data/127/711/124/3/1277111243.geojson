@@ -1,0 +1,73 @@
+{
+  "id": 1277111243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.32006,0.22475,33.32006,0.22475",
+    "geom:latitude":0.22475,
+    "geom:longitude":33.32006,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F2",
+    "gn:admin3_code":"233919.0",
+    "gn:admin4_code":"8658503.0",
+    "gn:asciiname":"Seja",
+    "gn:country_code":"UG",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226365,
+    "gn:latitude":0.22475,
+    "gn:longitude":33.32006,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Seja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Seja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680125,
+        1092070099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226365
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8101fab1e822cd0ccaa0bd550b552212",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070099,
+            "locality_id":1277111243,
+            "region_id":85680125
+        }
+    ],
+    "wof:id":1277111243,
+    "wof:lastmodified":1537712055,
+    "wof:name":"Seja",
+    "wof:parent_id":1092070099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.32006,
+    0.22475,
+    33.32006,
+    0.22475
+],
+  "geometry": {"coordinates":[33.32006,0.22475],"type":"Point"}
+}

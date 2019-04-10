@@ -1,0 +1,73 @@
+{
+  "id": 1293717963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.57579,0.36449,33.57579,0.36449",
+    "geom:latitude":0.36449,
+    "geom:longitude":33.57579,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"86",
+    "gn:admin3_code":"8644164.0",
+    "gn:admin4_code":"8658141.0",
+    "gn:asciiname":"Nenda",
+    "gn:country_code":"UG",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259095,
+    "gn:latitude":0.36449,
+    "gn:longitude":33.57579,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Nenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nenda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679985,
+        1092069607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259095
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0faf20ae781920f31be14ea4f879d9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069607,
+            "locality_id":1293717963,
+            "region_id":85679985
+        }
+    ],
+    "wof:id":1293717963,
+    "wof:lastmodified":1537712119,
+    "wof:name":"Nenda",
+    "wof:parent_id":1092069607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.57579,
+    0.36449,
+    33.57579,
+    0.36449
+],
+  "geometry": {"coordinates":[33.57579,0.36449],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1309746805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.00733,0.82488,30.00733,0.82488",
+    "geom:latitude":0.82488,
+    "geom:longitude":30.00733,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:asciiname":"Nkarara",
+    "gn:country_code":"UG",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401461,
+    "gn:latitude":0.82488,
+    "gn:longitude":30.00733,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Nkarara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nkarara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092070289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401461
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"97591da2c58f89846b94c037b5d9b534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070289,
+            "locality_id":1309746805,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1309746805,
+    "wof:lastmodified":1537712138,
+    "wof:name":"Nkarara",
+    "wof:parent_id":1092070289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.00733,
+    0.82488,
+    30.00733,
+    0.82488
+],
+  "geometry": {"coordinates":[30.00733,0.82488],"type":"Point"}
+}

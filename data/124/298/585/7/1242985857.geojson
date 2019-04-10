@@ -1,0 +1,73 @@
+{
+  "id": 1242985857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14269,2.61715,31.14269,2.61715",
+    "geom:latitude":2.61715,
+    "geom:longitude":31.14269,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"8644146.0",
+    "gn:admin4_code":"8261585.0",
+    "gn:asciiname":"Alengbele",
+    "gn:country_code":"UG",
+    "gn:dem":878,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235286,
+    "gn:latitude":2.61715,
+    "gn:longitude":31.14269,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Alengbele",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Alengbelo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092074425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235286
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ae1b065649ecce3539b415c9ecf10949",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074425,
+            "locality_id":1242985857,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1242985857,
+    "wof:lastmodified":1537712110,
+    "wof:name":"Alengbele",
+    "wof:parent_id":1092074425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14269,
+    2.61715,
+    31.14269,
+    2.61715
+],
+  "geometry": {"coordinates":[31.14269,2.61715],"type":"Point"}
+}

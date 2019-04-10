@@ -1,0 +1,70 @@
+{
+  "id": 1243400397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.1,0.75,31.1,0.75",
+    "geom:latitude":0.75,
+    "geom:longitude":31.1,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"41",
+    "gn:admin3_code":"8644139.0",
+    "gn:admin4_code":"8658061.0",
+    "gn:asciiname":"Ngangi",
+    "gn:country_code":"UG",
+    "gn:dem":1351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227892,
+    "gn:latitude":0.75,
+    "gn:longitude":31.1,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ngangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679947,
+        1092070207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227892
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f6ab1ca866db8450b89200ffc6d2935f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070207,
+            "locality_id":1243400397,
+            "region_id":85679947
+        }
+    ],
+    "wof:id":1243400397,
+    "wof:lastmodified":1536870833,
+    "wof:name":"Ngangi",
+    "wof:parent_id":1092070207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.1,
+    0.75,
+    31.1,
+    0.75
+],
+  "geometry": {"coordinates":[31.1,0.75],"type":"Point"}
+}

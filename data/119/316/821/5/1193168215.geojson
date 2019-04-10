@@ -1,0 +1,68 @@
+{
+  "id": 1193168215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.99206,0.88265,33.99206,0.88265",
+    "geom:latitude":0.88265,
+    "geom:longitude":33.99206,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C6",
+    "gn:asciiname":"Butenga",
+    "gn:country_code":"UG",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429568,
+    "gn:latitude":0.88265,
+    "gn:longitude":33.99206,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Butenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679981,
+        1092069677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429568
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"98f11cce54d1d155ea190ec46c8e7744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069677,
+            "locality_id":1193168215,
+            "region_id":85679981
+        }
+    ],
+    "wof:id":1193168215,
+    "wof:lastmodified":1536383369,
+    "wof:name":"Butenga",
+    "wof:parent_id":1092069677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.99206,
+    0.88265,
+    33.99206,
+    0.88265
+],
+  "geometry": {"coordinates":[33.99206,0.88265],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226277425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.0,1.25,31.0,1.25",
+    "geom:latitude":1.25,
+    "geom:longitude":31.0,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"8644163.0",
+    "gn:admin4_code":"8657785.0",
+    "gn:asciiname":"Kisaru",
+    "gn:country_code":"UG",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231054,
+    "gn:latitude":1.25,
+    "gn:longitude":31.0,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kisaru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679933,
+        1092069075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231054
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"71dd4692185db0fd1266aa7555c0b932",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069075,
+            "locality_id":1226277425,
+            "region_id":85679933
+        }
+    ],
+    "wof:id":1226277425,
+    "wof:lastmodified":1536887507,
+    "wof:name":"Kisaru",
+    "wof:parent_id":1092069075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.0,
+    1.25,
+    31.0,
+    1.25
+],
+  "geometry": {"coordinates":[31.0,1.25],"type":"Point"}
+}

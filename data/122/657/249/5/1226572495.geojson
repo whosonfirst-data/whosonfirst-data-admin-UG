@@ -1,0 +1,71 @@
+{
+  "id": 1226572495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.45812,0.28012,32.45812,0.28012",
+    "geom:latitude":0.28012,
+    "geom:longitude":32.45812,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"234053.0",
+    "gn:admin4_code":"8658416.0",
+    "gn:asciiname":"Nsangi",
+    "gn:country_code":"UG",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227702,
+    "gn:latitude":0.28012,
+    "gn:longitude":32.45812,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Nsangi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227702,
+        "wk:page":"Nsangi"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e350c24240d29f44d9caf6644840f547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1226572495,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1226572495,
+    "wof:lastmodified":1537575038,
+    "wof:name":"Nsangi",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.45812,
+    0.28012,
+    32.45812,
+    0.28012
+],
+  "geometry": {"coordinates":[32.45812,0.28012],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209834319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.38507,2.32396,32.38507,2.32396",
+    "geom:latitude":2.32396,
+    "geom:longitude":32.38507,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"E2",
+    "gn:admin3_code":"226883.0",
+    "gn:admin4_code":"8657546.0",
+    "gn:asciiname":"Amwa",
+    "gn:country_code":"UG",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226814,
+    "gn:latitude":2.32396,
+    "gn:longitude":32.38507,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Amwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pamwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679927,
+        1092073449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226814
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0b9b66bd2aeaf1e93d3861116ddf4559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073449,
+            "locality_id":1209834319,
+            "region_id":85679927
+        }
+    ],
+    "wof:id":1209834319,
+    "wof:lastmodified":1537712059,
+    "wof:name":"Amwa",
+    "wof:parent_id":1092073449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.38507,
+    2.32396,
+    32.38507,
+    2.32396
+],
+  "geometry": {"coordinates":[32.38507,2.32396],"type":"Point"}
+}

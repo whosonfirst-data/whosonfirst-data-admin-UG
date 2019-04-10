@@ -1,0 +1,70 @@
+{
+  "id": 1243097969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.59891,1.62556,33.59891,1.62556",
+    "geom:latitude":1.62556,
+    "geom:longitude":33.59891,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"95",
+    "gn:admin3_code":"226232.0",
+    "gn:admin4_code":"8657815.0",
+    "gn:asciiname":"Asuret",
+    "gn:country_code":"UG",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235016,
+    "gn:latitude":1.62556,
+    "gn:longitude":33.59891,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Asuret",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679813,
+        1092074055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235016
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"681f90d6f50b7ec5c10c9c0d977d6492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074055,
+            "locality_id":1243097969,
+            "region_id":85679813
+        }
+    ],
+    "wof:id":1243097969,
+    "wof:lastmodified":1536810450,
+    "wof:name":"Asuret",
+    "wof:parent_id":1092074055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.59891,
+    1.62556,
+    33.59891,
+    1.62556
+],
+  "geometry": {"coordinates":[33.59891,1.62556],"type":"Point"}
+}

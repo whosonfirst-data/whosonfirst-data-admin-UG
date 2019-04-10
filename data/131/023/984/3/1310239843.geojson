@@ -1,0 +1,70 @@
+{
+  "id": 1310239843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.55,-0.43333,30.55,-0.43333",
+    "geom:latitude":-0.43333,
+    "geom:longitude":30.55,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"52",
+    "gn:admin3_code":"232055.0",
+    "gn:admin4_code":"8658731.0",
+    "gn:asciiname":"Rwanyamahembe",
+    "gn:country_code":"UG",
+    "gn:dem":1472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226497,
+    "gn:latitude":-0.43333,
+    "gn:longitude":30.55,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rwanyamahembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680069,
+        1092071287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226497
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"97782ce31bab8825533b4f487a7fc989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071287,
+            "locality_id":1310239843,
+            "region_id":85680069
+        }
+    ],
+    "wof:id":1310239843,
+    "wof:lastmodified":1536802621,
+    "wof:name":"Rwanyamahembe",
+    "wof:parent_id":1092071287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.55,
+    -0.43333,
+    30.55,
+    -0.43333
+],
+  "geometry": {"coordinates":[30.55,-0.43333],"type":"Point"}
+}

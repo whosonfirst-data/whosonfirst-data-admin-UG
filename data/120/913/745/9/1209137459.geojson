@@ -1,0 +1,64 @@
+{
+  "id": 1209137459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.05684,0.07591,32.05684,0.07591",
+    "geom:latitude":0.07591,
+    "geom:longitude":32.05684,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:admin3_code":"7910214.0",
+    "gn:admin4_code":"8658563.0",
+    "gn:asciiname":"Sakabusolo",
+    "gn:country_code":"UG",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226425,
+    "gn:latitude":0.07591,
+    "gn:longitude":32.05684,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Sakabusolo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226425
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8d49bf7b2295516f35d81bc37df16802",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209137459
+        }
+    ],
+    "wof:id":1209137459,
+    "wof:lastmodified":1536296614,
+    "wof:name":"Sakabusolo",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.05684,
+    0.07591,
+    32.05684,
+    0.07591
+],
+  "geometry": {"coordinates":[32.05684,0.07591],"type":"Point"}
+}

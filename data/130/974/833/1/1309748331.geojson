@@ -1,0 +1,71 @@
+{
+  "id": 1309748331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.17344,0.92803,34.17344,0.92803",
+    "geom:latitude":0.92803,
+    "geom:longitude":34.17344,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"87",
+    "gn:asciiname":"Buwalasi-Toma",
+    "gn:country_code":"UG",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433522,
+    "gn:latitude":0.92803,
+    "gn:longitude":34.17344,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Buwalasi-Toma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buwalasi-Toma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679965,
+        1092069563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433522
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1d4e77f00204e7f6203b6e38a111fb5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069563,
+            "locality_id":1309748331,
+            "region_id":85679965
+        }
+    ],
+    "wof:id":1309748331,
+    "wof:lastmodified":1537712172,
+    "wof:name":"Buwalasi-Toma",
+    "wof:parent_id":1092069563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.17344,
+    0.92803,
+    34.17344,
+    0.92803
+],
+  "geometry": {"coordinates":[34.17344,0.92803],"type":"Point"}
+}

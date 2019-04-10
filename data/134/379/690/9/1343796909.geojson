@@ -1,0 +1,68 @@
+{
+  "id": 1343796909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.41566,0.67603,33.41566,0.67603",
+    "geom:latitude":0.67603,
+    "geom:longitude":33.41566,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G4",
+    "gn:asciiname":"Kakumbi",
+    "gn:country_code":"UG",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553540,
+    "gn:latitude":0.67603,
+    "gn:longitude":33.41566,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kakumbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680097,
+        1092072403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553540
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c53d89d4f15dc0124d0c123d0ff3b3ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072403,
+            "locality_id":1343796909,
+            "region_id":85680097
+        }
+    ],
+    "wof:id":1343796909,
+    "wof:lastmodified":1536758519,
+    "wof:name":"Kakumbi",
+    "wof:parent_id":1092072403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.41566,
+    0.67603,
+    33.41566,
+    0.67603
+],
+  "geometry": {"coordinates":[33.41566,0.67603],"type":"Point"}
+}

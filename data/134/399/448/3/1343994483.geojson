@@ -1,0 +1,71 @@
+{
+  "id": 1343994483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3,1.21667,34.3,1.21667",
+    "geom:latitude":1.21667,
+    "geom:longitude":34.3,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"94",
+    "gn:admin3_code":"7869959.0",
+    "gn:admin4_code":"8657633.0",
+    "gn:asciiname":"Mutufu",
+    "gn:country_code":"UG",
+    "gn:dem":1156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228701,
+    "gn:latitude":1.21667,
+    "gn:longitude":34.3,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mutufu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679961,
+        1092068781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228701,
+        "wk:page":"Mutufu"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8cae941040a8005177113d89fca581c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068781,
+            "locality_id":1343994483,
+            "region_id":85679961
+        }
+    ],
+    "wof:id":1343994483,
+    "wof:lastmodified":1537575040,
+    "wof:name":"Mutufu",
+    "wof:parent_id":1092068781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3,
+    1.21667,
+    34.3,
+    1.21667
+],
+  "geometry": {"coordinates":[34.3,1.21667],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226079183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.04477,0.71966,33.04477,0.71966",
+    "geom:latitude":0.71966,
+    "geom:longitude":33.04477,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"83",
+    "gn:asciiname":"Kiwuba",
+    "gn:country_code":"UG",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553288,
+    "gn:latitude":0.71966,
+    "gn:longitude":33.04477,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kiwuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679787,
+        1092073141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553288
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f9c3d3a033856ac2504b0d742eb7ae43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073141,
+            "locality_id":1226079183,
+            "region_id":85679787
+        }
+    ],
+    "wof:id":1226079183,
+    "wof:lastmodified":1536677002,
+    "wof:name":"Kiwuba",
+    "wof:parent_id":1092073141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.04477,
+    0.71966,
+    33.04477,
+    0.71966
+],
+  "geometry": {"coordinates":[33.04477,0.71966],"type":"Point"}
+}

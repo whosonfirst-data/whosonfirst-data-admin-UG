@@ -1,0 +1,70 @@
+{
+  "id": 1293035381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.46443,0.05965,32.46443,0.05965",
+    "geom:latitude":0.05965,
+    "geom:longitude":32.46443,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"7732225.0",
+    "gn:admin4_code":"8657745.0",
+    "gn:asciiname":"Kitoro",
+    "gn:country_code":"UG",
+    "gn:dem":1186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11258602,
+    "gn:latitude":0.05965,
+    "gn:longitude":32.46443,
+    "gn:modification_date":"2016-10-06",
+    "gn:name":"Kitoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679879,
+        1092070523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11258602
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"bdb1563e215597e6a00035a88e309742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070523,
+            "locality_id":1293035381,
+            "region_id":85679879
+        }
+    ],
+    "wof:id":1293035381,
+    "wof:lastmodified":1536942490,
+    "wof:name":"Kitoro",
+    "wof:parent_id":1092070523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.46443,
+    0.05965,
+    32.46443,
+    0.05965
+],
+  "geometry": {"coordinates":[32.46443,0.05965],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276259639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.9908,0.87799,30.9908,0.87799",
+    "geom:latitude":0.87799,
+    "geom:longitude":30.9908,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"41",
+    "gn:admin3_code":"8644139.0",
+    "gn:admin4_code":"8658353.0",
+    "gn:asciiname":"Mugarama",
+    "gn:country_code":"UG",
+    "gn:dem":1259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8629161,
+    "gn:latitude":0.87799,
+    "gn:longitude":30.9908,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mugarama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679947,
+        1092070207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8629161
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"10908d283afe57d21c374828aaf0fd17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070207,
+            "locality_id":1276259639,
+            "region_id":85679947
+        }
+    ],
+    "wof:id":1276259639,
+    "wof:lastmodified":1536876589,
+    "wof:name":"Mugarama",
+    "wof:parent_id":1092070207,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.9908,
+    0.87799,
+    30.9908,
+    0.87799
+],
+  "geometry": {"coordinates":[30.9908,0.87799],"type":"Point"}
+}

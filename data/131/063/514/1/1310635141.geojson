@@ -1,0 +1,71 @@
+{
+  "id": 1310635141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.48111,1.04111,30.48111,1.04111",
+    "geom:latitude":1.04111,
+    "geom:longitude":30.48111,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"H1",
+    "gn:admin3_code":"8644154.0",
+    "gn:admin4_code":"8657885.0",
+    "gn:asciiname":"Ntoroko",
+    "gn:country_code":"UG",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":227605,
+    "gn:latitude":1.04111,
+    "gn:longitude":30.48111,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ntoroko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680179,
+        1092073179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227605,
+        "wk:page":"Ntoroko"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3f5e5a4bfe5aa2483ed12a0e11df6582",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073179,
+            "locality_id":1310635141,
+            "region_id":85680179
+        }
+    ],
+    "wof:id":1310635141,
+    "wof:lastmodified":1537575038,
+    "wof:name":"Ntoroko",
+    "wof:parent_id":1092073179,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.48111,
+    1.04111,
+    30.48111,
+    1.04111
+],
+  "geometry": {"coordinates":[30.48111,1.04111],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344193413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.98333,0.08333,31.98333,0.08333",
+    "geom:latitude":0.08333,
+    "geom:longitude":31.98333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F1",
+    "gn:admin3_code":"234000.0",
+    "gn:admin4_code":"8658604.0",
+    "gn:asciiname":"Bwala",
+    "gn:country_code":"UG",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233794,
+    "gn:latitude":0.08333,
+    "gn:longitude":31.98333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bwala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680131,
+        1092069969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233794
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"41f18141ba77e9aeb9ee34b089099633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069969,
+            "locality_id":1344193413,
+            "region_id":85680131
+        }
+    ],
+    "wof:id":1344193413,
+    "wof:lastmodified":1536683684,
+    "wof:name":"Bwala",
+    "wof:parent_id":1092069969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.98333,
+    0.08333,
+    31.98333,
+    0.08333
+],
+  "geometry": {"coordinates":[31.98333,0.08333],"type":"Point"}
+}

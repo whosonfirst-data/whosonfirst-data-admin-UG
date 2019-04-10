@@ -1,0 +1,204 @@
+{
+  "id": 1092072593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003876,
+    "geom:area_square_m":47925526.118398,
+    "geom:bbox":"31.6928759082,-0.372068454615,31.7701033153,-0.292377540324",
+    "geom:latitude":-0.3305,
+    "geom:longitude":31.735643,
+    "iso:country":"UG",
+    "lbl:latitude":-0.330735,
+    "lbl:longitude":31.73636,
+    "meso:admin_1":"MASAKA",
+    "meso:admin_1r":"CENTRAL 1",
+    "meso:dissme":"MASAKA MUNICIPALITYMASAKACENTRAL 1",
+    "meso:gadm_admin":"Masaka",
+    "meso:gadm_hasc2":"UG.MA.MS",
+    "meso:gaul_admin":"Masaka Municipality",
+    "meso:mps_x":31.73636,
+    "meso:mps_y":-0.330735,
+    "meso:name_en":"MASAKA MUNICIPALITY",
+    "meso:source":"AOTM",
+    "mps:latitude":-0.330735,
+    "mps:longitude":31.73636,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0627\u0633\u0627\u0643\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09be\u09b8\u09be\u0995\u09be \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:chi_x_preferred":[
+        "\u99ac\u85a9\u5361\u5340"
+    ],
+    "name:dan_x_preferred":[
+        "Masaka District"
+    ],
+    "name:dut_x_preferred":[
+        "Masaka"
+    ],
+    "name:eng_x_preferred":[
+        "Masaka Municipality"
+    ],
+    "name:eng_x_variant":[
+        "Masaka Municipality",
+        "Masaka",
+        "Masaka District",
+        "MASAKA MUNICIPALITY"
+    ],
+    "name:fin_x_preferred":[
+        "Masakan kaupunginosa"
+    ],
+    "name:fre_x_preferred":[
+        "Masaka"
+    ],
+    "name:ger_x_preferred":[
+        "Masaka-Distrikt"
+    ],
+    "name:glg_x_preferred":[
+        "Distrito Masaka"
+    ],
+    "name:gre_x_preferred":[
+        "\u039c\u03b1\u03c3\u03ac\u03ba\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0ab8\u0abe\u0a95\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u0938\u093e\u0915\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Masaka"
+    ],
+    "name:ita_x_preferred":[
+        "Masaka"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30b5\u30ab\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cb8\u0cbe\u0c95 \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc0ac\uce74 \uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Masakas distrikts"
+    ],
+    "name:lit_x_preferred":[
+        "Masakos apskritis"
+    ],
+    "name:lug_x_preferred":[
+        "Masaka"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u0938\u093e\u0915\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
+    ],
+    "name:may_x_preferred":[
+        "Masaka District"
+    ],
+    "name:nob_x_preferred":[
+        "Masaka"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Masaka"
+    ],
+    "name:por_x_preferred":[
+        "Distrito de Masaka"
+    ],
+    "name:rum_x_preferred":[
+        "Districtul Masaka"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0441\u0430\u043a\u0430"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dc3\u0d9a\u0dcf \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Distrito de Masaka"
+    ],
+    "name:swa_x_preferred":[
+        "Wilaya ya Masaka"
+    ],
+    "name:swe_x_preferred":[
+        "Masakadistriktet"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bbe\u0b9a\u0bbe\u0b95\u0bcd\u0b95\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c38\u0c3e\u0c3e\u0c15\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e32\u0e0b\u0e32\u0e01\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Masaka District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0430\u0439\u043e\u043d \u041c\u0430\u0441\u0430\u043a\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0633\u0627\u06a9\u0627 \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn Masaka"
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "statoids:area_km":"",
+    "statoids:as_of_date":"",
+    "statoids:capital":"",
+    "statoids:country":"UG",
+    "statoids:hasc":"UG.MQ",
+    "statoids:name":"Masaka",
+    "statoids:population":"",
+    "statoids:statoid":"UG.MQ.MS",
+    "statoids:timezone":"3",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"UG.MQ.MS",
+        "wd:id":"Q1032233"
+    },
+    "wof:country":"UG",
+    "wof:created":1473899414,
+    "wof:geomhash":"af7208ef3a5ada62c0e12913c0ae08dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072593,
+            "region_id":85680211
+        }
+    ],
+    "wof:id":1092072593,
+    "wof:lastmodified":1544032786,
+    "wof:name":"Masaka Municipality",
+    "wof:parent_id":85680211,
+    "wof:placetype":"county",
+    "wof:placetype_local":"municipality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:shortcode":"MS",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.69287590822391,
+    -0.37206845461528,
+    31.77010331533649,
+    -0.29237754032354
+],
+  "geometry": {"coordinates":[[[31.69451650454162,-0.32824292707173],[31.69287590822391,-0.32545988410325],[31.6958293597928,-0.31887313986194],[31.70249999999906,-0.31806636221581],[31.70362493871325,-0.3175],[31.70485267460991,-0.3175],[31.70749999999907,-0.31778616219351],[31.71067174909017,-0.31705713278279],[31.71222079773797,-0.31561727556676],[31.71377839164643,-0.31126447781646],[31.71536728267903,-0.3077887793558],[31.71553412335422,-0.30421691336194],[31.7173189882139,-0.3034467655122],[31.72395119981199,-0.29687756985644],[31.73100210415908,-0.29586279507717],[31.73249999999906,-0.29530564680896],[31.73526981063277,-0.29337603103285],[31.73749999999906,-0.29262572759874],[31.737717623211,-0.2925],[31.74161321442552,-0.2925],[31.74258163978338,-0.29237754032354],[31.74403051861864,-0.29352034574641],[31.75195287712427,-0.2988019180835],[31.7552057999882,-0.29849613321006],[31.75569685854387,-0.29838215337363],[31.76546128865751,-0.30196211669719],[31.76680659362532,-0.30460217839404],[31.76706523091744,-0.30806056448912],[31.76589884752351,-0.31153037754736],[31.76599849987375,-0.31215185343077],[31.76265358323732,-0.31989011585638],[31.76501821210571,-0.32501242266758],[31.76588591595133,-0.32976016615248],[31.76537002023276,-0.33180503035059],[31.76583333333238,-0.3325],[31.76683782883202,-0.33551348649891],[31.77010331533649,-0.34100869955545],[31.76887110582788,-0.3460055454546],[31.76779171977773,-0.3477917197787],[31.76153469574556,-0.35153469574653],[31.7614242256331,-0.35155051624399],[31.76136775844818,-0.35158816103393],[31.75786200883301,-0.35641397349816],[31.75624999999905,-0.36125],[31.75424187775589,-0.36191937408107],[31.7495414447991,-0.36545855519997],[31.74836844693286,-0.36663155306621],[31.7472376693236,-0.36926068985257],[31.74272785851653,-0.37204381412088],[31.74245280687096,-0.37206845461528],[31.73465058214639,-0.3675],[31.7325,-0.3675],[31.7294690848838,-0.3664896949616],[31.72888273217443,-0.36558517925148],[31.72490537292112,-0.36148175003426],[31.72246886101464,-0.3599532915234],[31.72149999999906,-0.3585],[31.71849999999906,-0.3565],[31.71786836497279,-0.35555254746061],[31.71558711678471,-0.35372861653564],[31.71462879754707,-0.35334333991792],[31.70841195605124,-0.35166433065012],[31.70735944629102,-0.34878517812536],[31.7047717818377,-0.34252433457214],[31.70373354622545,-0.3418503193396],[31.70149999999906,-0.3385],[31.69892857142764,-0.33678571428574],[31.6980631352415,-0.33418940572733],[31.69716371113307,-0.33222928604808],[31.69630678216332,-0.33135609201369],[31.69451650454162,-0.32824292707173]]],"type":"Polygon"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276883969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.86953,1.70405,32.86953,1.70405",
+    "geom:latitude":1.70405,
+    "geom:longitude":32.86953,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B7",
+    "gn:admin3_code":"231170.0",
+    "gn:admin4_code":"8658119.0",
+    "gn:asciiname":"Ojok",
+    "gn:country_code":"UG",
+    "gn:dem":1065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":227182,
+    "gn:latitude":1.70405,
+    "gn:longitude":32.86953,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Ojok",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ojok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679799,
+        1092071719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227182
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2aedf6fc3e1ef9f4d5eb015bcb9c2426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071719,
+            "locality_id":1276883969,
+            "region_id":85679799
+        }
+    ],
+    "wof:id":1276883969,
+    "wof:lastmodified":1537712063,
+    "wof:name":"Ojok",
+    "wof:parent_id":1092071719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.86953,
+    1.70405,
+    32.86953,
+    1.70405
+],
+  "geometry": {"coordinates":[32.86953,1.70405],"type":"Point"}
+}

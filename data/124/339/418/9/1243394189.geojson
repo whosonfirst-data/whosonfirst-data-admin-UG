@@ -1,0 +1,70 @@
+{
+  "id": 1243394189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.8359,0.34003,32.8359,0.34003",
+    "geom:latitude":0.34003,
+    "geom:longitude":32.8359,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"90",
+    "gn:admin3_code":"7732384.0",
+    "gn:admin4_code":"8658156.0",
+    "gn:asciiname":"Naluvule",
+    "gn:country_code":"UG",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11357299,
+    "gn:latitude":0.34003,
+    "gn:longitude":32.8359,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Naluvule",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679817,
+        1092072911
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11357299
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e2913c2ee2e6386eef1ff89e9e31a51c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072911,
+            "locality_id":1243394189,
+            "region_id":85679817
+        }
+    ],
+    "wof:id":1243394189,
+    "wof:lastmodified":1536880300,
+    "wof:name":"Naluvule",
+    "wof:parent_id":1092072911,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.8359,
+    0.34003,
+    32.8359,
+    0.34003
+],
+  "geometry": {"coordinates":[32.8359,0.34003],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209734183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.08416,3.06742,31.08416,3.06742",
+    "geom:latitude":3.06742,
+    "geom:longitude":31.08416,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"226158.0",
+    "gn:admin4_code":"8658459.0",
+    "gn:asciiname":"Biliefe",
+    "gn:country_code":"UG",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234783,
+    "gn:latitude":3.06742,
+    "gn:longitude":31.08416,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Biliefe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilefe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679861,
+        1092074097
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234783
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ecc66b89f7e87c39804495cde84e1b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074097,
+            "locality_id":1209734183,
+            "region_id":85679861
+        }
+    ],
+    "wof:id":1209734183,
+    "wof:lastmodified":1537712105,
+    "wof:name":"Biliefe",
+    "wof:parent_id":1092074097,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.08416,
+    3.06742,
+    31.08416,
+    3.06742
+],
+  "geometry": {"coordinates":[31.08416,3.06742],"type":"Point"}
+}

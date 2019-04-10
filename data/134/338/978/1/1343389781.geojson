@@ -1,0 +1,70 @@
+{
+  "id": 1343389781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56889,-0.62222,31.56889,-0.62222",
+    "geom:latitude":-0.62222,
+    "geom:longitude":31.56889,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"I3",
+    "gn:admin3_code":"8644144.0",
+    "gn:admin4_code":"8658229.0",
+    "gn:asciiname":"Bikira",
+    "gn:country_code":"UG",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234791,
+    "gn:latitude":-0.62222,
+    "gn:longitude":31.56889,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Bikira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680025,
+        1092072187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234791
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"78029bd37b1084b661d6fa90b21c66f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072187,
+            "locality_id":1343389781,
+            "region_id":85680025
+        }
+    ],
+    "wof:id":1343389781,
+    "wof:lastmodified":1536847253,
+    "wof:name":"Bikira",
+    "wof:parent_id":1092072187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56889,
+    -0.62222,
+    31.56889,
+    -0.62222
+],
+  "geometry": {"coordinates":[31.56889,-0.62222],"type":"Point"}
+}

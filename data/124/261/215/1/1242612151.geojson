@@ -1,0 +1,71 @@
+{
+  "id": 1242612151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.85389,-0.11306,31.85389,-0.11306",
+    "geom:latitude":-0.11306,
+    "geom:longitude":31.85389,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F5",
+    "gn:admin3_code":"7910220.0",
+    "gn:admin4_code":"8658025.0",
+    "gn:asciiname":"Lukaya",
+    "gn:country_code":"UG",
+    "gn:dem":1206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229872,
+    "gn:latitude":-0.11306,
+    "gn:longitude":31.85389,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lukaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680223,
+        1092071167
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229872,
+        "wk:page":"Lukaya"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b98914a2794c277f16e74b4ee6fe2603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071167,
+            "locality_id":1242612151,
+            "region_id":85680223
+        }
+    ],
+    "wof:id":1242612151,
+    "wof:lastmodified":1537575041,
+    "wof:name":"Lukaya",
+    "wof:parent_id":1092071167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.85389,
+    -0.11306,
+    31.85389,
+    -0.11306
+],
+  "geometry": {"coordinates":[31.85389,-0.11306],"type":"Point"}
+}

@@ -1,0 +1,94 @@
+{
+  "id": 421187165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-02-03",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.442626,0.395504,32.442626,0.395504",
+    "geom:latitude":0.395504,
+    "geom:longitude":32.442626,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":10.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Mpigi"
+    ],
+    "name:nld_x_preferred":[
+        "Mpigi"
+    ],
+    "name:pol_x_preferred":[
+        "Mpigi"
+    ],
+    "name:ron_x_preferred":[
+        "Mpigi"
+    ],
+    "name:swa_x_preferred":[
+        "Mpigi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u067e\u06cc\u06af\u06cc"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mpigi",
+    "qs:name_adm0":"Uganda",
+    "qs:name_adm1":"Mpigi",
+    "qs:photos":609,
+    "qs:photos_1k":123,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":2107,
+    "qs:photos_sr":8,
+    "qs:placetype":"State",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1087221,
+    "qs:woe_adm0":23424974,
+    "qs:woe_id":20070436,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":410,
+    "wof:belongsto":[
+        102191573,
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":20070436,
+        "qs:id":1087221,
+        "wd:id":"Q933338"
+    },
+    "wof:country":"UG",
+    "wof:created":1459009503,
+    "wof:geomhash":"ba8e82b44b5683eb830520790fb21743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "region_id":421187165
+        }
+    ],
+    "wof:id":421187165,
+    "wof:lastmodified":1529541196,
+    "wof:name":"Mpigi",
+    "wof:parent_id":85632625,
+    "wof:placetype":"region",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.442626,
+    0.395504,
+    32.442626,
+    0.395504
+],
+  "geometry": {"coordinates":[32.442626,0.395504],"type":"Point"}
+}

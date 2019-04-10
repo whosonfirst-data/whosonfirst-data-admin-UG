@@ -1,0 +1,65 @@
+{
+  "id": 1209250581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.34261,0.95338,34.34261,0.95338",
+    "geom:latitude":0.95338,
+    "geom:longitude":34.34261,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D6",
+    "gn:asciiname":"Bunakatembukho",
+    "gn:country_code":"UG",
+    "gn:dem":1353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433114,
+    "gn:latitude":0.95338,
+    "gn:longitude":34.34261,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bunakatembukho",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bunakatembukho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433114
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a79a411e5405fad7239e8e922880f7db",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209250581
+        }
+    ],
+    "wof:id":1209250581,
+    "wof:lastmodified":1537712162,
+    "wof:name":"Bunakatembukho",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.34261,
+    0.95338,
+    34.34261,
+    0.95338
+],
+  "geometry": {"coordinates":[34.34261,0.95338],"type":"Point"}
+}

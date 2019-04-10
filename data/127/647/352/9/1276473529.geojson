@@ -1,0 +1,68 @@
+{
+  "id": 1276473529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.93758,0.67317,33.93758,0.67317",
+    "geom:latitude":0.67317,
+    "geom:longitude":33.93758,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Magoka",
+    "gn:country_code":"UG",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429715,
+    "gn:latitude":0.67317,
+    "gn:longitude":33.93758,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Magoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679989,
+        1092074289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429715
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d130615d319509e6ce64cc5205a1772f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074289,
+            "locality_id":1276473529,
+            "region_id":85679989
+        }
+    ],
+    "wof:id":1276473529,
+    "wof:lastmodified":1537085120,
+    "wof:name":"Magoka",
+    "wof:parent_id":1092074289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.93758,
+    0.67317,
+    33.93758,
+    0.67317
+],
+  "geometry": {"coordinates":[33.93758,0.67317],"type":"Point"}
+}

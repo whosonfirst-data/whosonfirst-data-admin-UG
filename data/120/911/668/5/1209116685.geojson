@@ -1,0 +1,64 @@
+{
+  "id": 1209116685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00617,2.65929,31.00617,2.65929",
+    "geom:latitude":2.65929,
+    "geom:longitude":31.00617,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"8644146.0",
+    "gn:admin4_code":"8261586.0",
+    "gn:asciiname":"Roli",
+    "gn:country_code":"UG",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8081163,
+    "gn:latitude":2.65929,
+    "gn:longitude":31.00617,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Roli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8081163
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5d5c4ef52da0b847ea98e2a0e6d51050",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209116685
+        }
+    ],
+    "wof:id":1209116685,
+    "wof:lastmodified":1536297230,
+    "wof:name":"Roli",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00617,
+    2.65929,
+    31.00617,
+    2.65929
+],
+  "geometry": {"coordinates":[31.00617,2.65929],"type":"Point"}
+}

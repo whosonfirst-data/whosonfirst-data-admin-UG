@@ -1,0 +1,64 @@
+{
+  "id": 1209036173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.23333,-0.4,31.23333,-0.4",
+    "geom:latitude":-0.4,
+    "geom:longitude":31.23333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"G5",
+    "gn:admin3_code":"7910221.0",
+    "gn:admin4_code":"8658013.0",
+    "gn:asciiname":"Katovu",
+    "gn:country_code":"UG",
+    "gn:dem":1404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231822,
+    "gn:latitude":-0.4,
+    "gn:longitude":31.23333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Katovu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231822
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c1ab78ba60243f5fdf2da57fb6448d6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209036173
+        }
+    ],
+    "wof:id":1209036173,
+    "wof:lastmodified":1536299693,
+    "wof:name":"Katovu",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.23333,
+    -0.4,
+    31.23333,
+    -0.4
+],
+  "geometry": {"coordinates":[31.23333,-0.4],"type":"Point"}
+}

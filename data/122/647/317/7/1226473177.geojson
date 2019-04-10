@@ -1,0 +1,68 @@
+{
+  "id": 1226473177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.5665,0.83192,33.5665,0.83192",
+    "geom:latitude":0.83192,
+    "geom:longitude":33.5665,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"E1",
+    "gn:asciiname":"Nawansega",
+    "gn:country_code":"UG",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429841,
+    "gn:latitude":0.83192,
+    "gn:longitude":33.5665,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Nawansega",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679807,
+        1092069849
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429841
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"73feb5a1471e353d4d41016e13e5997b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069849,
+            "locality_id":1226473177,
+            "region_id":85679807
+        }
+    ],
+    "wof:id":1226473177,
+    "wof:lastmodified":1536602916,
+    "wof:name":"Nawansega",
+    "wof:parent_id":1092069849,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.5665,
+    0.83192,
+    33.5665,
+    0.83192
+],
+  "geometry": {"coordinates":[33.5665,0.83192],"type":"Point"}
+}

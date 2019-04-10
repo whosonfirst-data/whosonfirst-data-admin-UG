@@ -1,0 +1,71 @@
+{
+  "id": 1243002099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.02255,0.74279,30.02255,0.74279",
+    "geom:latitude":0.74279,
+    "geom:longitude":30.02255,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:asciiname":"Buhanda",
+    "gn:country_code":"UG",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401645,
+    "gn:latitude":0.74279,
+    "gn:longitude":30.02255,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Buhanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buhanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092070289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401645
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"fb68f318fefc92d74b14a5e9c882bff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070289,
+            "locality_id":1243002099,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1243002099,
+    "wof:lastmodified":1537712140,
+    "wof:name":"Buhanda",
+    "wof:parent_id":1092070289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.02255,
+    0.74279,
+    30.02255,
+    0.74279
+],
+  "geometry": {"coordinates":[30.02255,0.74279],"type":"Point"}
+}

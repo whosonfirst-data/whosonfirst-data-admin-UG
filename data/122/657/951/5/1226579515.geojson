@@ -1,0 +1,70 @@
+{
+  "id": 1226579515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85778,-0.82139,30.85778,-0.82139",
+    "geom:latitude":-0.82139,
+    "geom:longitude":30.85778,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"C9",
+    "gn:admin3_code":"233175.0",
+    "gn:admin4_code":"8657590.0",
+    "gn:asciiname":"Kahirimbi",
+    "gn:country_code":"UG",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232752,
+    "gn:latitude":-0.82139,
+    "gn:longitude":30.85778,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kahirimbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680051,
+        1092069267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232752
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"df7a2923d7b2c98804df7d7e68ac85e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069267,
+            "locality_id":1226579515,
+            "region_id":85680051
+        }
+    ],
+    "wof:id":1226579515,
+    "wof:lastmodified":1536951358,
+    "wof:name":"Kahirimbi",
+    "wof:parent_id":1092069267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85778,
+    -0.82139,
+    30.85778,
+    -0.82139
+],
+  "geometry": {"coordinates":[30.85778,-0.82139],"type":"Point"}
+}

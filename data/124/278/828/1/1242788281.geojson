@@ -1,0 +1,70 @@
+{
+  "id": 1242788281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.99644,2.99267,31.99644,2.99267",
+    "geom:latitude":2.99267,
+    "geom:longitude":31.99644,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B9",
+    "gn:admin3_code":"231253.0",
+    "gn:admin4_code":"8629919.0",
+    "gn:asciiname":"Obu",
+    "gn:country_code":"UG",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8081243,
+    "gn:latitude":2.99267,
+    "gn:longitude":31.99644,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Obu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680139,
+        1092071643
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8081243
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1f481e8a869bbcf105349682e755c657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071643,
+            "locality_id":1242788281,
+            "region_id":85680139
+        }
+    ],
+    "wof:id":1242788281,
+    "wof:lastmodified":1536760295,
+    "wof:name":"Obu",
+    "wof:parent_id":1092071643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.99644,
+    2.99267,
+    31.99644,
+    2.99267
+],
+  "geometry": {"coordinates":[31.99644,2.99267],"type":"Point"}
+}

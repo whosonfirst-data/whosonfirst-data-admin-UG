@@ -1,0 +1,67 @@
+{
+  "id": 1209136219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.27178,0.48795,33.27178,0.48795",
+    "geom:latitude":0.48795,
+    "geom:longitude":33.27178,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"33",
+    "gn:admin3_code":"8644138.0",
+    "gn:admin4_code":"8657852.0",
+    "gn:asciiname":"Kakira",
+    "gn:country_code":"UG",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":383377,
+    "gn:latitude":0.48795,
+    "gn:longitude":33.27178,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kakira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kakira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":383377
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8c64af2e415136bf9b067ddafa815cb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209136219
+        }
+    ],
+    "wof:id":1209136219,
+    "wof:lastmodified":1537712113,
+    "wof:name":"Kakira",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.27178,
+    0.48795,
+    33.27178,
+    0.48795
+],
+  "geometry": {"coordinates":[33.27178,0.48795],"type":"Point"}
+}

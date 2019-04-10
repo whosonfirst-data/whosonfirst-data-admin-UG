@@ -1,0 +1,70 @@
+{
+  "id": 1276474217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95861,1.11,30.95861,1.11",
+    "geom:latitude":1.11,
+    "geom:longitude":30.95861,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"I1",
+    "gn:admin3_code":"233860.0",
+    "gn:admin4_code":"8657911.0",
+    "gn:asciiname":"Kitoma",
+    "gn:country_code":"UG",
+    "gn:dem":1113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230872,
+    "gn:latitude":1.11,
+    "gn:longitude":30.95861,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Kitoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679947,
+        1092070183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230872
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3421a543195eb39770e9318a50c8a66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070183,
+            "locality_id":1276474217,
+            "region_id":85679947
+        }
+    ],
+    "wof:id":1276474217,
+    "wof:lastmodified":1537084211,
+    "wof:name":"Kitoma",
+    "wof:parent_id":1092070183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95861,
+    1.11,
+    30.95861,
+    1.11
+],
+  "geometry": {"coordinates":[30.95861,1.11],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209846629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.0804,1.83777,32.0804,1.83777",
+    "geom:latitude":1.83777,
+    "geom:longitude":32.0804,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"F7",
+    "gn:admin3_code":"231597.0",
+    "gn:admin4_code":"8657902.0",
+    "gn:asciiname":"Kisekwa",
+    "gn:country_code":"UG",
+    "gn:dem":1053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8261627,
+    "gn:latitude":1.83777,
+    "gn:longitude":32.0804,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kisekwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680175,
+        1092071513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261627
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"efd8b5e44eb40ab05ea3e51d908feffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071513,
+            "locality_id":1209846629,
+            "region_id":85680175
+        }
+    ],
+    "wof:id":1209846629,
+    "wof:lastmodified":1536390358,
+    "wof:name":"Kisekwa",
+    "wof:parent_id":1092071513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.0804,
+    1.83777,
+    32.0804,
+    1.83777
+],
+  "geometry": {"coordinates":[32.0804,1.83777],"type":"Point"}
+}

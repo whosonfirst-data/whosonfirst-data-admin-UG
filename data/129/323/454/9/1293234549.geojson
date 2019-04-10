@@ -1,0 +1,71 @@
+{
+  "id": 1293234549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.38858,0.71379,30.38858,0.71379",
+    "geom:latitude":0.71379,
+    "geom:longitude":30.38858,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"79",
+    "gn:asciiname":"Kisonge",
+    "gn:country_code":"UG",
+    "gn:dem":1577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11402191,
+    "gn:latitude":0.71379,
+    "gn:longitude":30.38858,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Kisonge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kisonge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11402191
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0469329d3d9275ce7580b39f8564c68c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069721,
+            "locality_id":1293234549,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1293234549,
+    "wof:lastmodified":1537712149,
+    "wof:name":"Kisonge",
+    "wof:parent_id":1092069721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.38858,
+    0.71379,
+    30.38858,
+    0.71379
+],
+  "geometry": {"coordinates":[30.38858,0.71379],"type":"Point"}
+}

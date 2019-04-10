@@ -1,0 +1,70 @@
+{
+  "id": 1276259915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.70341,1.26787,34.70341,1.26787",
+    "geom:latitude":1.26787,
+    "geom:longitude":34.70341,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C4",
+    "gn:admin3_code":"7732537.0",
+    "gn:admin4_code":"8658101.0",
+    "gn:asciiname":"Chepkwasta",
+    "gn:country_code":"UG",
+    "gn:dem":2255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLS",
+    "gn:geonameid":8644083,
+    "gn:latitude":1.26787,
+    "gn:longitude":34.70341,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Chepkwasta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679957,
+        1092071861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8644083
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ba964036803d3a9ccccf31c360b47a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071861,
+            "locality_id":1276259915,
+            "region_id":85679957
+        }
+    ],
+    "wof:id":1276259915,
+    "wof:lastmodified":1536876188,
+    "wof:name":"Chepkwasta",
+    "wof:parent_id":1092071861,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.70341,
+    1.26787,
+    34.70341,
+    1.26787
+],
+  "geometry": {"coordinates":[34.70341,1.26787],"type":"Point"}
+}

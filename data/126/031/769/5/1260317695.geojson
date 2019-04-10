@@ -1,0 +1,70 @@
+{
+  "id": 1260317695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.29019,0.69053,33.29019,0.69053",
+    "geom:latitude":0.69053,
+    "geom:longitude":33.29019,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G4",
+    "gn:admin3_code":"229762.0",
+    "gn:admin4_code":"8657928.0",
+    "gn:asciiname":"Buyola",
+    "gn:country_code":"UG",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233828,
+    "gn:latitude":0.69053,
+    "gn:longitude":33.29019,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Buyola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680097,
+        1092072403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233828
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"54e1ced6d8c83149912cdb89c496436c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072403,
+            "locality_id":1260317695,
+            "region_id":85680097
+        }
+    ],
+    "wof:id":1260317695,
+    "wof:lastmodified":1536666111,
+    "wof:name":"Buyola",
+    "wof:parent_id":1092072403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.29019,
+    0.69053,
+    33.29019,
+    0.69053
+],
+  "geometry": {"coordinates":[33.29019,0.69053],"type":"Point"}
+}

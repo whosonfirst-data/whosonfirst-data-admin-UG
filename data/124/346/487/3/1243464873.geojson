@@ -1,0 +1,70 @@
+{
+  "id": 1243464873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.45566,1.76622,32.45566,1.76622",
+    "geom:latitude":1.76622,
+    "geom:longitude":32.45566,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"26",
+    "gn:admin3_code":"229387.0",
+    "gn:admin4_code":"8657675.0",
+    "gn:asciiname":"Awilodyang",
+    "gn:country_code":"UG",
+    "gn:dem":1054,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234935,
+    "gn:latitude":1.76622,
+    "gn:longitude":32.45566,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Awilodyang",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680151,
+        1092072551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234935
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4dcb0abb954b4a0cfb042360bd30ba81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072551,
+            "locality_id":1243464873,
+            "region_id":85680151
+        }
+    ],
+    "wof:id":1243464873,
+    "wof:lastmodified":1536779389,
+    "wof:name":"Awilodyang",
+    "wof:parent_id":1092072551,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.45565999999999,
+    1.76622,
+    32.45565999999999,
+    1.76622
+],
+  "geometry": {"coordinates":[32.45565999999999,1.76622],"type":"Point"}
+}

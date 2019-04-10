@@ -1,0 +1,70 @@
+{
+  "id": 1293919755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.40472,0.707,33.40472,0.707",
+    "geom:latitude":0.707,
+    "geom:longitude":33.40472,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G4",
+    "gn:admin3_code":"229762.0",
+    "gn:admin4_code":"7732526.0",
+    "gn:asciiname":"Nabubya",
+    "gn:country_code":"UG",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228553,
+    "gn:latitude":0.707,
+    "gn:longitude":33.40472,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Nabubya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680097,
+        1092072403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228553
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"988e15cdf93b2d20e3f3938250c4d192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072403,
+            "locality_id":1293919755,
+            "region_id":85680097
+        }
+    ],
+    "wof:id":1293919755,
+    "wof:lastmodified":1536661064,
+    "wof:name":"Nabubya",
+    "wof:parent_id":1092072403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.40472,
+    0.707,
+    33.40472,
+    0.707
+],
+  "geometry": {"coordinates":[33.40472,0.707],"type":"Point"}
+}

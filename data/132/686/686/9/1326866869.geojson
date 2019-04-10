@@ -1,0 +1,71 @@
+{
+  "id": 1326866869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.08338,0.73791,30.08338,0.73791",
+    "geom:latitude":0.73791,
+    "geom:longitude":30.08338,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:asciiname":"Bundikeke",
+    "gn:country_code":"UG",
+    "gn:dem":944,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401665,
+    "gn:latitude":0.73791,
+    "gn:longitude":30.08338,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Bundikeke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bundikeke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092070289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401665
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a9b5c51bfed4e4b27dcf5f6b154d2643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070289,
+            "locality_id":1326866869,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1326866869,
+    "wof:lastmodified":1537712141,
+    "wof:name":"Bundikeke",
+    "wof:parent_id":1092070289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.08338,
+    0.73791,
+    30.08338,
+    0.73791
+],
+  "geometry": {"coordinates":[30.08338,0.73791],"type":"Point"}
+}

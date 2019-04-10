@@ -1,0 +1,70 @@
+{
+  "id": 1326548631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.01669,3.53105,32.01669,3.53105",
+    "geom:latitude":3.53105,
+    "geom:longitude":32.01669,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"8644133.0",
+    "gn:admin4_code":"8658096.0",
+    "gn:asciiname":"Elegu Parish",
+    "gn:country_code":"UG",
+    "gn:dem":623,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643307,
+    "gn:latitude":3.53105,
+    "gn:longitude":32.01669,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Elegu Parish",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679833,
+        1092070471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643307
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"304b84da61f4813868c5099a104108c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070471,
+            "locality_id":1326548631,
+            "region_id":85679833
+        }
+    ],
+    "wof:id":1326548631,
+    "wof:lastmodified":1536960291,
+    "wof:name":"Elegu Parish",
+    "wof:parent_id":1092070471,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.01669,
+    3.53105,
+    32.01669,
+    3.53105
+],
+  "geometry": {"coordinates":[32.01669,3.53105],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1343798185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.53654,0.36134,33.53654,0.36134",
+    "geom:latitude":0.36134,
+    "geom:longitude":33.53654,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"86",
+    "gn:admin3_code":"8644164.0",
+    "gn:admin4_code":"8658692.0",
+    "gn:asciiname":"Kityerera",
+    "gn:country_code":"UG",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230896,
+    "gn:latitude":0.36134,
+    "gn:longitude":33.53654,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Kityerera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiterera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679985,
+        1092069607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230896
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3a0145b05301cc491ab062dd0ead3215",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069607,
+            "locality_id":1343798185,
+            "region_id":85679985
+        }
+    ],
+    "wof:id":1343798185,
+    "wof:lastmodified":1537712083,
+    "wof:name":"Kityerera",
+    "wof:parent_id":1092069607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.53654,
+    0.36134,
+    33.53654,
+    0.36134
+],
+  "geometry": {"coordinates":[33.53654,0.36134],"type":"Point"}
+}

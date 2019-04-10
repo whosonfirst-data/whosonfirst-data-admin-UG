@@ -1,0 +1,74 @@
+{
+  "id": 1276567455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95411,2.41961,30.95411,2.41961",
+    "geom:latitude":2.41961,
+    "geom:longitude":30.95411,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"H7",
+    "gn:admin3_code":"227147.0",
+    "gn:admin4_code":"8261565.0",
+    "gn:asciiname":"Okeyu",
+    "gn:country_code":"UG",
+    "gn:dem":1524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227163,
+    "gn:latitude":2.41961,
+    "gn:longitude":30.95411,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Okeyu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Okeyo",
+        "Okeyu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680085,
+        1092073339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227163
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a333072d2915ff55a005067e3574982a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073339,
+            "locality_id":1276567455,
+            "region_id":85680085
+        }
+    ],
+    "wof:id":1276567455,
+    "wof:lastmodified":1537712063,
+    "wof:name":"Okeyu",
+    "wof:parent_id":1092073339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95411,
+    2.41961,
+    30.95411,
+    2.41961
+],
+  "geometry": {"coordinates":[30.95411,2.41961],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1277013847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.62867,0.33354,33.62867,0.33354",
+    "geom:latitude":0.33354,
+    "geom:longitude":33.62867,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"86",
+    "gn:admin3_code":"8644164.0",
+    "gn:admin4_code":"8658417.0",
+    "gn:asciiname":"Bugoto",
+    "gn:country_code":"UG",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234524,
+    "gn:latitude":0.33354,
+    "gn:longitude":33.62867,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Bugoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bugoto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679985,
+        1092069607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234524
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3aee17ab3deac6fbd53d42559615f447",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069607,
+            "locality_id":1277013847,
+            "region_id":85679985
+        }
+    ],
+    "wof:id":1277013847,
+    "wof:lastmodified":1537712102,
+    "wof:name":"Bugoto",
+    "wof:parent_id":1092069607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.62867,
+    0.33354,
+    33.62867,
+    0.33354
+],
+  "geometry": {"coordinates":[33.62867,0.33354],"type":"Point"}
+}

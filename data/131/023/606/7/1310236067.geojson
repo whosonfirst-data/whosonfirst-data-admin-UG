@@ -1,0 +1,70 @@
+{
+  "id": 1310236067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.75,-0.53333,31.75,-0.53333",
+    "geom:latitude":-0.53333,
+    "geom:longitude":31.75,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"G5",
+    "gn:admin3_code":"7910221.0",
+    "gn:admin4_code":"8657539.0",
+    "gn:asciiname":"Kalambi",
+    "gn:country_code":"UG",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232577,
+    "gn:latitude":-0.53333,
+    "gn:longitude":31.75,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kalambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680031,
+        1092069393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232577
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"150704df368bcf5cc5109e99f03f4669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069393,
+            "locality_id":1310236067,
+            "region_id":85680031
+        }
+    ],
+    "wof:id":1310236067,
+    "wof:lastmodified":1536807878,
+    "wof:name":"Kalambi",
+    "wof:parent_id":1092069393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.75,
+    -0.53333,
+    31.75,
+    -0.53333
+],
+  "geometry": {"coordinates":[31.75,-0.53333],"type":"Point"}
+}

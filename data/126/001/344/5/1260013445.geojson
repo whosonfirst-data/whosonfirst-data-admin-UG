@@ -1,0 +1,70 @@
+{
+  "id": 1260013445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.96667,1.38333,33.96667,1.38333",
+    "geom:latitude":1.38333,
+    "geom:longitude":33.96667,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"46",
+    "gn:admin3_code":"7732907.0",
+    "gn:admin4_code":"8658102.0",
+    "gn:asciiname":"Ajuket",
+    "gn:country_code":"UG",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235384,
+    "gn:latitude":1.38333,
+    "gn:longitude":33.96667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ajuket",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679777,
+        1092071937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235384
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9f7f24d26c5778dfb321822c273c44e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071937,
+            "locality_id":1260013445,
+            "region_id":85679777
+        }
+    ],
+    "wof:id":1260013445,
+    "wof:lastmodified":1537085675,
+    "wof:name":"Ajuket",
+    "wof:parent_id":1092071937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.96667,
+    1.38333,
+    33.96667,
+    1.38333
+],
+  "geometry": {"coordinates":[33.96667,1.38333],"type":"Point"}
+}

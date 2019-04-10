@@ -1,0 +1,68 @@
+{
+  "id": 1243208109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.03097,0.53381,33.03097,0.53381",
+    "geom:latitude":0.53381,
+    "geom:longitude":33.03097,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"83",
+    "gn:asciiname":"Wantayi",
+    "gn:country_code":"UG",
+    "gn:dem":1127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553368,
+    "gn:latitude":0.53381,
+    "gn:longitude":33.03097,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Wantayi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679787,
+        1092073141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553368
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d6467dc8761f53ac724ead7165618e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073141,
+            "locality_id":1243208109,
+            "region_id":85679787
+        }
+    ],
+    "wof:id":1243208109,
+    "wof:lastmodified":1536652058,
+    "wof:name":"Wantayi",
+    "wof:parent_id":1092073141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03097,
+    0.53381,
+    33.03097,
+    0.53381
+],
+  "geometry": {"coordinates":[33.03097,0.53381],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310439523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.97824,0.57405,29.97824,0.57405",
+    "geom:latitude":0.57405,
+    "geom:longitude":29.97824,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:asciiname":"Buboni",
+    "gn:country_code":"UG",
+    "gn:dem":1620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401951,
+    "gn:latitude":0.57405,
+    "gn:longitude":29.97824,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Buboni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buboni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092074383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401951
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f87ab684d8d6212d107e4164b67ce961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074383,
+            "locality_id":1310439523,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1310439523,
+    "wof:lastmodified":1537712146,
+    "wof:name":"Buboni",
+    "wof:parent_id":1092074383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.97824,
+    0.57405,
+    29.97824,
+    0.57405
+],
+  "geometry": {"coordinates":[29.97824,0.57405],"type":"Point"}
+}

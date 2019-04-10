@@ -1,0 +1,74 @@
+{
+  "id": 1259994719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.33476,3.34808,33.33476,3.34808",
+    "geom:latitude":3.34808,
+    "geom:longitude":33.33476,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"84",
+    "gn:admin3_code":"233642.0",
+    "gn:admin4_code":"8658113.0",
+    "gn:asciiname":"Nam-Okora",
+    "gn:country_code":"UG",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228612,
+    "gn:latitude":3.34808,
+    "gn:longitude":33.33476,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nam-Okora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Naam Okora",
+        "Naam-Okora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679899,
+        1092070355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228612
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f3adf4b9a827896c557ab8eaf8c11df6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070355,
+            "locality_id":1259994719,
+            "region_id":85679899
+        }
+    ],
+    "wof:id":1259994719,
+    "wof:lastmodified":1537712071,
+    "wof:name":"Nam-Okora",
+    "wof:parent_id":1092070355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.33476,
+    3.34808,
+    33.33476,
+    3.34808
+],
+  "geometry": {"coordinates":[33.33476,3.34808],"type":"Point"}
+}

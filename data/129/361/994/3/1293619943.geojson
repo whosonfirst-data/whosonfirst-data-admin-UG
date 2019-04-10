@@ -1,0 +1,70 @@
+{
+  "id": 1293619943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.08333,-0.03333,32.08333,-0.03333",
+    "geom:latitude":-0.03333,
+    "geom:longitude":32.08333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:admin3_code":"7910214.0",
+    "gn:admin4_code":"8658563.0",
+    "gn:asciiname":"Katebo",
+    "gn:country_code":"UG",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231919,
+    "gn:latitude":-0.03333,
+    "gn:longitude":32.08333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Katebo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679827,
+        1092072705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231919
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9005b8eef41d3d5adbccaa79b0d77519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072705,
+            "locality_id":1293619943,
+            "region_id":85679827
+        }
+    ],
+    "wof:id":1293619943,
+    "wof:lastmodified":1537090163,
+    "wof:name":"Katebo",
+    "wof:parent_id":1092072705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.08333,
+    -0.03333,
+    32.08333,
+    -0.03333
+],
+  "geometry": {"coordinates":[32.08333,-0.03333],"type":"Point"}
+}

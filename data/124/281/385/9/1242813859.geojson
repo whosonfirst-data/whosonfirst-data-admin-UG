@@ -1,0 +1,68 @@
+{
+  "id": 1242813859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.37932,0.60562,33.37932,0.60562",
+    "geom:latitude":0.60562,
+    "geom:longitude":33.37932,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G4",
+    "gn:asciiname":"Bugwanala",
+    "gn:country_code":"UG",
+    "gn:dem":1140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553604,
+    "gn:latitude":0.60562,
+    "gn:longitude":33.37932,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bugwanala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680097,
+        1092072403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553604
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a45e1232586b4a814ebe0b4cc49a7959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072403,
+            "locality_id":1242813859,
+            "region_id":85680097
+        }
+    ],
+    "wof:id":1242813859,
+    "wof:lastmodified":1536723714,
+    "wof:name":"Bugwanala",
+    "wof:parent_id":1092072403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.37932,
+    0.60562,
+    33.37932,
+    0.60562
+],
+  "geometry": {"coordinates":[33.37932,0.60562],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225959493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.10998,3.46452,31.10998,3.46452",
+    "geom:latitude":3.46452,
+    "geom:longitude":31.10998,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"97",
+    "gn:admin3_code":"235054.0",
+    "gn:admin4_code":"8657619.0",
+    "gn:asciiname":"Kechuru",
+    "gn:country_code":"UG",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8079498,
+    "gn:latitude":3.46452,
+    "gn:longitude":31.10998,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kechuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679857,
+        1092068435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8079498
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f129caaea4b55b1173375ea071136413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068435,
+            "locality_id":1225959493,
+            "region_id":85679857
+        }
+    ],
+    "wof:id":1225959493,
+    "wof:lastmodified":1536848302,
+    "wof:name":"Kechuru",
+    "wof:parent_id":1092068435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.10998,
+    3.46452,
+    31.10998,
+    3.46452
+],
+  "geometry": {"coordinates":[31.10998,3.46452],"type":"Point"}
+}

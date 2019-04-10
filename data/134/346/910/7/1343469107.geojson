@@ -1,0 +1,70 @@
+{
+  "id": 1343469107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3,3.47,31.3,3.47",
+    "geom:latitude":3.47,
+    "geom:longitude":31.3,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"97",
+    "gn:admin3_code":"235054.0",
+    "gn:admin4_code":"8657729.0",
+    "gn:asciiname":"Apo",
+    "gn:country_code":"UG",
+    "gn:dem":913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643443,
+    "gn:latitude":3.47,
+    "gn:longitude":31.3,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Apo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679857,
+        1092068435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643443
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"45ad26c13a26d818b6dac8607f7de10b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068435,
+            "locality_id":1343469107,
+            "region_id":85679857
+        }
+    ],
+    "wof:id":1343469107,
+    "wof:lastmodified":1536733753,
+    "wof:name":"Apo",
+    "wof:parent_id":1092068435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3,
+    3.47,
+    31.3,
+    3.47
+],
+  "geometry": {"coordinates":[31.3,3.47],"type":"Point"}
+}

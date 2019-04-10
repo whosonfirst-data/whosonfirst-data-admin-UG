@@ -1,0 +1,74 @@
+{
+  "id": 1276909257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.47985,0.087,32.47985,0.087",
+    "geom:latitude":0.087,
+    "geom:longitude":32.47985,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"234053.0",
+    "gn:admin4_code":"8658284.0",
+    "gn:asciiname":"Kitubulu",
+    "gn:country_code":"UG",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443178,
+    "gn:latitude":0.087,
+    "gn:longitude":32.47985,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Kitubulu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kitanda",
+        "Kitubulu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679879,
+        1092070523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443178
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"773e0248e6a8af205e50dfc584203bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070523,
+            "locality_id":1276909257,
+            "region_id":85679879
+        }
+    ],
+    "wof:id":1276909257,
+    "wof:lastmodified":1537712113,
+    "wof:name":"Kitubulu",
+    "wof:parent_id":1092070523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.47985,
+    0.087,
+    32.47985,
+    0.087
+],
+  "geometry": {"coordinates":[32.47985,0.087],"type":"Point"}
+}

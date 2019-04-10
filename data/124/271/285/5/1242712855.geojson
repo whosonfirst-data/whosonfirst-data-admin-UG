@@ -1,0 +1,74 @@
+{
+  "id": 1242712855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.4359,1.93907,33.4359,1.93907",
+    "geom:latitude":1.93907,
+    "geom:longitude":33.4359,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"B8",
+    "gn:admin3_code":"235185.0",
+    "gn:admin4_code":"8657549.0",
+    "gn:asciiname":"Ochakai",
+    "gn:country_code":"UG",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227269,
+    "gn:latitude":1.93907,
+    "gn:longitude":33.4359,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Ochakai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ochoka",
+        "Ochakai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680003,
+        1092068395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227269
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"179e449bd116e1f6653d6e66f27cc0a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068395,
+            "locality_id":1242712855,
+            "region_id":85680003
+        }
+    ],
+    "wof:id":1242712855,
+    "wof:lastmodified":1537712064,
+    "wof:name":"Ochakai",
+    "wof:parent_id":1092068395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.4359,
+    1.93907,
+    33.4359,
+    1.93907
+],
+  "geometry": {"coordinates":[33.4359,1.93907],"type":"Point"}
+}

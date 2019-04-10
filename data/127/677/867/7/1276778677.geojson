@@ -1,0 +1,70 @@
+{
+  "id": 1276778677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.54677,3.2735,31.54677,3.2735",
+    "geom:latitude":3.2735,
+    "geom:longitude":31.54677,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"72",
+    "gn:admin3_code":"8644127.0",
+    "gn:admin4_code":"8658016.0",
+    "gn:asciiname":"Aliba",
+    "gn:country_code":"UG",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":448350,
+    "gn:latitude":3.2735,
+    "gn:longitude":31.54677,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Aliba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679853,
+        1092073299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":448350
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"dbc9ae27b071cb100a25a9e74e914892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073299,
+            "locality_id":1276778677,
+            "region_id":85679853
+        }
+    ],
+    "wof:id":1276778677,
+    "wof:lastmodified":1536679070,
+    "wof:name":"Aliba",
+    "wof:parent_id":1092073299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.54677,
+    3.2735,
+    31.54677,
+    3.2735
+],
+  "geometry": {"coordinates":[31.54677,3.2735],"type":"Point"}
+}

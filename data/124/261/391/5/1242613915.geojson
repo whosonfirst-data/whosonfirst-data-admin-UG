@@ -1,0 +1,70 @@
+{
+  "id": 1242613915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.20472,0.87444,32.20472,0.87444",
+    "geom:latitude":0.87444,
+    "geom:longitude":32.20472,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D9",
+    "gn:admin3_code":"8644153.0",
+    "gn:admin4_code":"8657639.0",
+    "gn:asciiname":"Wakyato",
+    "gn:country_code":"UG",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":225961,
+    "gn:latitude":0.87444,
+    "gn:longitude":32.20472,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Wakyato",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679895,
+        1092072985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":225961
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8241122c5455a4145db1c51f0feaca18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072985,
+            "locality_id":1242613915,
+            "region_id":85679895
+        }
+    ],
+    "wof:id":1242613915,
+    "wof:lastmodified":1537010599,
+    "wof:name":"Wakyato",
+    "wof:parent_id":1092072985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.20472,
+    0.87444,
+    32.20472,
+    0.87444
+],
+  "geometry": {"coordinates":[32.20472,0.87444],"type":"Point"}
+}

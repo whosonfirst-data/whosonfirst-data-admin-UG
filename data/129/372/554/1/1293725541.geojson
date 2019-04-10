@@ -1,0 +1,68 @@
+{
+  "id": 1293725541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.08263,0.51424,33.08263,0.51424",
+    "geom:latitude":0.51424,
+    "geom:longitude":33.08263,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E7",
+    "gn:asciiname":"Nakalanga",
+    "gn:country_code":"UG",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553373,
+    "gn:latitude":0.51424,
+    "gn:longitude":33.08263,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Nakalanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680121,
+        1092069145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553373
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"88f1fc074eae85b8c9c04ce609c508d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069145,
+            "locality_id":1293725541,
+            "region_id":85680121
+        }
+    ],
+    "wof:id":1293725541,
+    "wof:lastmodified":1536941742,
+    "wof:name":"Nakalanga",
+    "wof:parent_id":1092069145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.08263,
+    0.51424,
+    33.08263,
+    0.51424
+],
+  "geometry": {"coordinates":[33.08263,0.51424],"type":"Point"}
+}

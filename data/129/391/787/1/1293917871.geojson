@@ -1,0 +1,73 @@
+{
+  "id": 1293917871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.18243,0.50139,30.18243,0.50139",
+    "geom:latitude":0.50139,
+    "geom:longitude":30.18243,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"H8",
+    "gn:admin3_code":"234153.0",
+    "gn:admin4_code":"8657572.0",
+    "gn:asciiname":"Kichuchu",
+    "gn:country_code":"UG",
+    "gn:dem":1534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231511,
+    "gn:latitude":0.50139,
+    "gn:longitude":30.18243,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Kichuchu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kichuchu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231511
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8769470643be1364d54f484ab5db69c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069635,
+            "locality_id":1293917871,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1293917871,
+    "wof:lastmodified":1537712085,
+    "wof:name":"Kichuchu",
+    "wof:parent_id":1092069635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.18243,
+    0.50139,
+    30.18243,
+    0.50139
+],
+  "geometry": {"coordinates":[30.18243,0.50139],"type":"Point"}
+}

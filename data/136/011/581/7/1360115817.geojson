@@ -1,0 +1,76 @@
+{
+  "id": 1360115817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.60417,-0.15778,31.60417,-0.15778",
+    "geom:latitude":-0.15778,
+    "geom:longitude":31.60417,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E8",
+    "gn:admin3_code":"7910224.0",
+    "gn:admin4_code":"8658019.0",
+    "gn:asciiname":"Bukomansimbi",
+    "gn:country_code":"UG",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":234371,
+    "gn:latitude":-0.15778,
+    "gn:longitude":31.60417,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bukomansimbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bukamba",
+        "Bukomansimbe",
+        "Bukomansimbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680219,
+        1092069329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234371,
+        "wk:page":"Bukomansimbi"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4e41c49d3068a540f8f4d8d4001d4b77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069329,
+            "locality_id":1360115817,
+            "region_id":85680219
+        }
+    ],
+    "wof:id":1360115817,
+    "wof:lastmodified":1537712101,
+    "wof:name":"Bukomansimbi",
+    "wof:parent_id":1092069329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.60417,
+    -0.15778,
+    31.60417,
+    -0.15778
+],
+  "geometry": {"coordinates":[31.60417,-0.15778],"type":"Point"}
+}

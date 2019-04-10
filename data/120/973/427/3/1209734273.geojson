@@ -1,0 +1,70 @@
+{
+  "id": 1209734273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.18333,2.78333,34.18333,2.78333",
+    "geom:latitude":2.78333,
+    "geom:longitude":34.18333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"45",
+    "gn:admin3_code":"233117.0",
+    "gn:admin4_code":"8658473.0",
+    "gn:asciiname":"Nakaai",
+    "gn:country_code":"UG",
+    "gn:dem":1221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228477,
+    "gn:latitude":2.78333,
+    "gn:longitude":34.18333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nakaai",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679999,
+        1092070781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228477
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"71a454e8953aa7872e1c53fbe88ded1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070781,
+            "locality_id":1209734273,
+            "region_id":85679999
+        }
+    ],
+    "wof:id":1209734273,
+    "wof:lastmodified":1536375386,
+    "wof:name":"Nakaai",
+    "wof:parent_id":1092070781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.18333,
+    2.78333,
+    34.18333,
+    2.78333
+],
+  "geometry": {"coordinates":[34.18333,2.78333],"type":"Point"}
+}

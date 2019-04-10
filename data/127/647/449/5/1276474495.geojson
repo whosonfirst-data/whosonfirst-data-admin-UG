@@ -1,0 +1,74 @@
+{
+  "id": 1276474495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.73333,1.13333,33.73333,1.13333",
+    "geom:latitude":1.13333,
+    "geom:longitude":33.73333,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"60",
+    "gn:admin3_code":"226822.0",
+    "gn:admin4_code":"8657888.0",
+    "gn:asciiname":"Lumoto",
+    "gn:country_code":"UG",
+    "gn:dem":1047,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229814,
+    "gn:latitude":1.13333,
+    "gn:longitude":33.73333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lumoto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Olumoto",
+        "Lumoto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679819,
+        1092073523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229814
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"0c81a69b5f22da02c615bddc4d35971d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073523,
+            "locality_id":1276474495,
+            "region_id":85679819
+        }
+    ],
+    "wof:id":1276474495,
+    "wof:lastmodified":1537712077,
+    "wof:name":"Lumoto",
+    "wof:parent_id":1092073523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.73333,
+    1.13333,
+    33.73333,
+    1.13333
+],
+  "geometry": {"coordinates":[33.73333,1.13333],"type":"Point"}
+}

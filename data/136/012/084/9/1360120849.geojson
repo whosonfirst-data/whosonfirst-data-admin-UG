@@ -1,0 +1,74 @@
+{
+  "id": 1360120849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.74735,1.73826,33.74735,1.73826",
+    "geom:latitude":1.73826,
+    "geom:longitude":33.74735,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"95",
+    "gn:admin3_code":"226232.0",
+    "gn:admin4_code":"8658004.0",
+    "gn:asciiname":"Omugenya",
+    "gn:country_code":"UG",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227029,
+    "gn:latitude":1.73826,
+    "gn:longitude":33.74735,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Omugenya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Magenya",
+        "Omugenya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679813,
+        1092074055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227029
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"bbfc26d8b53dc370498c4d5c76ad3961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074055,
+            "locality_id":1360120849,
+            "region_id":85679813
+        }
+    ],
+    "wof:id":1360120849,
+    "wof:lastmodified":1537712061,
+    "wof:name":"Omugenya",
+    "wof:parent_id":1092074055,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.74735,
+    1.73826,
+    33.74735,
+    1.73826
+],
+  "geometry": {"coordinates":[33.74735,1.73826],"type":"Point"}
+}

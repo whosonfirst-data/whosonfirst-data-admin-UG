@@ -1,0 +1,70 @@
+{
+  "id": 1310136311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.17923,1.61285,31.17923,1.61285",
+    "geom:latitude":1.61285,
+    "geom:longitude":31.17923,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"7732256.0",
+    "gn:admin4_code":"8581634.0",
+    "gn:asciiname":"Hoimo",
+    "gn:country_code":"UG",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233310,
+    "gn:latitude":1.61285,
+    "gn:longitude":31.17923,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Hoimo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679933,
+        1092068961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233310
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"68dc0f8df8df631061d98c4135612eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068961,
+            "locality_id":1310136311,
+            "region_id":85679933
+        }
+    ],
+    "wof:id":1310136311,
+    "wof:lastmodified":1536952338,
+    "wof:name":"Hoimo",
+    "wof:parent_id":1092068961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.17923,
+    1.61285,
+    31.17923,
+    1.61285
+],
+  "geometry": {"coordinates":[31.17923,1.61285],"type":"Point"}
+}

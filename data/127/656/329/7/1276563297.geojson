@@ -1,0 +1,73 @@
+{
+  "id": 1276563297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.01724,1.75956,33.01724,1.75956",
+    "geom:latitude":1.75956,
+    "geom:longitude":33.01724,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"C7",
+    "gn:admin3_code":"233559.0",
+    "gn:admin4_code":"8658338.0",
+    "gn:asciiname":"Aridi",
+    "gn:country_code":"UG",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235061,
+    "gn:latitude":1.75956,
+    "gn:longitude":33.01724,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Aridi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Aridi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679913,
+        1092070439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235061
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"dbe1c15e0b4374078ceb9513dd57b2d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070439,
+            "locality_id":1276563297,
+            "region_id":85679913
+        }
+    ],
+    "wof:id":1276563297,
+    "wof:lastmodified":1537712107,
+    "wof:name":"Aridi",
+    "wof:parent_id":1092070439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.01724,
+    1.75956,
+    33.01724,
+    1.75956
+],
+  "geometry": {"coordinates":[33.01724,1.75956],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343280765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.14443,1.89405,33.14443,1.89405",
+    "geom:latitude":1.89405,
+    "geom:longitude":33.14443,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"C7",
+    "gn:admin3_code":"233559.0",
+    "gn:admin4_code":"8657919.0",
+    "gn:asciiname":"Alokiri",
+    "gn:country_code":"UG",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235256,
+    "gn:latitude":1.89405,
+    "gn:longitude":33.14443,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Alokiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679913,
+        1092070439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235256
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3f1d00babd2378346ab63fef9302fb50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070439,
+            "locality_id":1343280765,
+            "region_id":85679913
+        }
+    ],
+    "wof:id":1343280765,
+    "wof:lastmodified":1537004860,
+    "wof:name":"Alokiri",
+    "wof:parent_id":1092070439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.14443,
+    1.89405,
+    33.14443,
+    1.89405
+],
+  "geometry": {"coordinates":[33.14443,1.89405],"type":"Point"}
+}

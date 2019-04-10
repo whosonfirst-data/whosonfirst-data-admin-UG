@@ -1,0 +1,70 @@
+{
+  "id": 1343992753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.61623,1.69804,33.61623,1.69804",
+    "geom:latitude":1.69804,
+    "geom:longitude":33.61623,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"95",
+    "gn:admin3_code":"7732234.0",
+    "gn:admin4_code":"8658138.0",
+    "gn:asciiname":"Pamba",
+    "gn:country_code":"UG",
+    "gn:dem":1109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11279266,
+    "gn:latitude":1.69804,
+    "gn:longitude":33.61623,
+    "gn:modification_date":"2016-10-11",
+    "gn:name":"Pamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679813,
+        1092074017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11279266
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b70a05366ad58c72e3ddc2944c355d23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074017,
+            "locality_id":1343992753,
+            "region_id":85679813
+        }
+    ],
+    "wof:id":1343992753,
+    "wof:lastmodified":1536972926,
+    "wof:name":"Pamba",
+    "wof:parent_id":1092074017,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.61623,
+    1.69804,
+    33.61623,
+    1.69804
+],
+  "geometry": {"coordinates":[33.61623,1.69804],"type":"Point"}
+}

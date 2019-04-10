@@ -1,0 +1,70 @@
+{
+  "id": 1277113115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.87639,0.92722,30.87639,0.92722",
+    "geom:latitude":0.92722,
+    "geom:longitude":30.87639,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"I1",
+    "gn:admin3_code":"233860.0",
+    "gn:admin4_code":"8658211.0",
+    "gn:asciiname":"Sunga",
+    "gn:country_code":"UG",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226205,
+    "gn:latitude":0.92722,
+    "gn:longitude":30.87639,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Sunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679947,
+        1092070183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226205
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e8421439cbbe38e697b5e909f7b9b65c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070183,
+            "locality_id":1277113115,
+            "region_id":85679947
+        }
+    ],
+    "wof:id":1277113115,
+    "wof:lastmodified":1536724139,
+    "wof:name":"Sunga",
+    "wof:parent_id":1092070183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.87639,
+    0.92722,
+    30.87639,
+    0.92722
+],
+  "geometry": {"coordinates":[30.87639,0.92722],"type":"Point"}
+}

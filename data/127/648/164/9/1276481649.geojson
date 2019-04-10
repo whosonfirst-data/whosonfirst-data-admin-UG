@@ -1,0 +1,73 @@
+{
+  "id": 1276481649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.58188,0.20442,32.58188,0.20442",
+    "geom:latitude":0.20442,
+    "geom:longitude":32.58188,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"7732385.0",
+    "gn:admin4_code":"8658110.0",
+    "gn:asciiname":"Mutungo Central",
+    "gn:country_code":"UG",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228692,
+    "gn:latitude":0.20442,
+    "gn:longitude":32.58188,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Mutungo Central",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mutungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679879,
+        1092072077
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228692
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3f16ec61c5f91f677bf412b55cf5ebf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072077,
+            "locality_id":1276481649,
+            "region_id":85679879
+        }
+    ],
+    "wof:id":1276481649,
+    "wof:lastmodified":1537712071,
+    "wof:name":"Mutungo Central",
+    "wof:parent_id":1092072077,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.58188,
+    0.20442,
+    32.58188,
+    0.20442
+],
+  "geometry": {"coordinates":[32.58188,0.20442],"type":"Point"}
+}

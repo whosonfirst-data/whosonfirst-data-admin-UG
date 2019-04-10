@@ -1,0 +1,70 @@
+{
+  "id": 1293724239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.805,0.05972,30.805,0.05972",
+    "geom:latitude":0.05972,
+    "geom:longitude":30.805,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"D3",
+    "gn:admin3_code":"8644177.0",
+    "gn:admin4_code":"7732406.0",
+    "gn:asciiname":"Lwebisya",
+    "gn:country_code":"UG",
+    "gn:dem":1260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229644,
+    "gn:latitude":0.05972,
+    "gn:longitude":30.805,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lwebisya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        1108808411,
+        1092071473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229644
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e54c6192dadda633aab7978350d78077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071473,
+            "locality_id":1293724239,
+            "region_id":1108808411
+        }
+    ],
+    "wof:id":1293724239,
+    "wof:lastmodified":1536943636,
+    "wof:name":"Lwebisya",
+    "wof:parent_id":1092071473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.805,
+    0.05972,
+    30.805,
+    0.05972
+],
+  "geometry": {"coordinates":[30.805,0.05972],"type":"Point"}
+}

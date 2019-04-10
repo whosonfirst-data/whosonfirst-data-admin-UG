@@ -1,0 +1,68 @@
+{
+  "id": 1260218581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.73785,0.58099,33.73785,0.58099",
+    "geom:latitude":0.58099,
+    "geom:longitude":33.73785,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"66",
+    "gn:asciiname":"Ndifakulya",
+    "gn:country_code":"UG",
+    "gn:dem":1135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429611,
+    "gn:latitude":0.58099,
+    "gn:longitude":33.73785,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Ndifakulya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429611
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"99dc9e94123e4a5b5105e9e84ffb7cdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1260218581,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1260218581,
+    "wof:lastmodified":1536800092,
+    "wof:name":"Ndifakulya",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.73785,
+    0.58099,
+    33.73785,
+    0.58099
+],
+  "geometry": {"coordinates":[33.73785,0.58099],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343697791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.78333,-1.03333,29.78333,-1.03333",
+    "geom:latitude":-1.03333,
+    "geom:longitude":29.78333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"I7",
+    "gn:admin3_code":"226689.0",
+    "gn:admin4_code":"8657849.0",
+    "gn:asciiname":"Luhizha",
+    "gn:country_code":"UG",
+    "gn:dem":2053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229886,
+    "gn:latitude":-1.03333,
+    "gn:longitude":29.78333,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Luhizha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luhiza",
+        "Luhizha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680073,
+        1092073673
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229886
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"cd7544ebe5915d61d609cf585ddc8ba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073673,
+            "locality_id":1343697791,
+            "region_id":85680073
+        }
+    ],
+    "wof:id":1343697791,
+    "wof:lastmodified":1537712078,
+    "wof:name":"Luhizha",
+    "wof:parent_id":1092073673,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.78333,
+    -1.03333,
+    29.78333,
+    -1.03333
+],
+  "geometry": {"coordinates":[29.78333,-1.03333],"type":"Point"}
+}

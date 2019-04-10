@@ -1,0 +1,71 @@
+{
+  "id": 1293420889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.0,0.37,32.0,0.37",
+    "geom:latitude":0.37,
+    "geom:longitude":32.0,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:admin3_code":"8644152.0",
+    "gn:admin4_code":"8657790.0",
+    "gn:asciiname":"Nansana",
+    "gn:country_code":"UG",
+    "gn:dem":1166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8224582,
+    "gn:latitude":0.37,
+    "gn:longitude":32.0,
+    "gn:modification_date":"2018-03-17",
+    "gn:name":"Nansana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679891,
+        1092072811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8224582,
+        "wk:page":"Nansana"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f25279c1bd7c5214a4d8e7f06114faf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072811,
+            "locality_id":1293420889,
+            "region_id":85679891
+        }
+    ],
+    "wof:id":1293420889,
+    "wof:lastmodified":1537575050,
+    "wof:name":"Nansana",
+    "wof:parent_id":1092072811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.0,
+    0.37,
+    32.0,
+    0.37
+],
+  "geometry": {"coordinates":[32.0,0.37],"type":"Point"}
+}

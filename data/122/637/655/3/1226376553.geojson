@@ -1,0 +1,74 @@
+{
+  "id": 1226376553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.95583,0.27333,31.95583,0.27333",
+    "geom:latitude":0.27333,
+    "geom:longitude":31.95583,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:admin3_code":"8644137.0",
+    "gn:admin4_code":"8658349.0",
+    "gn:asciiname":"Maanyi",
+    "gn:country_code":"UG",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229596,
+    "gn:latitude":0.27333,
+    "gn:longitude":31.95583,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Maanyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manyi",
+        "Maanyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679891,
+        1092069929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229596
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"920cf01f4e9f1ac5e200735473b78990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069929,
+            "locality_id":1226376553,
+            "region_id":85679891
+        }
+    ],
+    "wof:id":1226376553,
+    "wof:lastmodified":1537712076,
+    "wof:name":"Maanyi",
+    "wof:parent_id":1092069929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.95583,
+    0.27333,
+    31.95583,
+    0.27333
+],
+  "geometry": {"coordinates":[31.95583,0.27333],"type":"Point"}
+}

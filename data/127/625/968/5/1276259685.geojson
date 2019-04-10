@@ -1,0 +1,68 @@
+{
+  "id": 1276259685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.07219,0.83879,33.07219,0.83879",
+    "geom:latitude":0.83879,
+    "geom:longitude":33.07219,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Nababirye",
+    "gn:country_code":"UG",
+    "gn:dem":1059,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553075,
+    "gn:latitude":0.83879,
+    "gn:longitude":33.07219,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Nababirye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092070253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553075
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e769a463bcd74d0c5baed3eb6d8b115d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070253,
+            "locality_id":1276259685,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":1276259685,
+    "wof:lastmodified":1536876528,
+    "wof:name":"Nababirye",
+    "wof:parent_id":1092070253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.07219,
+    0.83879,
+    33.07219,
+    0.83879
+],
+  "geometry": {"coordinates":[33.07219,0.83879],"type":"Point"}
+}

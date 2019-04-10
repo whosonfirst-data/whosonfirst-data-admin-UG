@@ -1,0 +1,70 @@
+{
+  "id": 1210050619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.41861,-0.98944,31.41861,-0.98944",
+    "geom:latitude":-0.98944,
+    "geom:longitude":31.41861,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"I3",
+    "gn:admin3_code":"8643028.0",
+    "gn:admin4_code":"8658741.0",
+    "gn:asciiname":"Mutukula",
+    "gn:country_code":"UG",
+    "gn:dem":1201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":447928,
+    "gn:latitude":-0.98944,
+    "gn:longitude":31.41861,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Mutukula",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680025,
+        1092071087
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447928
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b098ad891316876a5cefc4dc55a81b84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071087,
+            "locality_id":1210050619,
+            "region_id":85680025
+        }
+    ],
+    "wof:id":1210050619,
+    "wof:lastmodified":1536374053,
+    "wof:name":"Mutukula",
+    "wof:parent_id":1092071087,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.41861,
+    -0.98944,
+    31.41861,
+    -0.98944
+],
+  "geometry": {"coordinates":[31.41861,-0.98944],"type":"Point"}
+}

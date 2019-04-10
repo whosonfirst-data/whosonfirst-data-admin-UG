@@ -1,0 +1,67 @@
+{
+  "id": 1209449917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.89304,0.26953,33.89304,0.26953",
+    "geom:latitude":0.26953,
+    "geom:longitude":33.89304,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G7",
+    "gn:admin3_code":"8644167.0",
+    "gn:admin4_code":"8658486.0",
+    "gn:asciiname":"Buwoya",
+    "gn:country_code":"UG",
+    "gn:dem":1183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11259419,
+    "gn:latitude":0.26953,
+    "gn:longitude":33.89304,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Buwoya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buwoya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11259419
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"383705f263dae508a57e0e72eb3d501b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209449917
+        }
+    ],
+    "wof:id":1209449917,
+    "wof:lastmodified":1537712128,
+    "wof:name":"Buwoya",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.89304,
+    0.26953,
+    33.89304,
+    0.26953
+],
+  "geometry": {"coordinates":[33.89304,0.26953],"type":"Point"}
+}

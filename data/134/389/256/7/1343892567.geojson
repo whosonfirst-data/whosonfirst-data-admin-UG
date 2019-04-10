@@ -1,0 +1,71 @@
+{
+  "id": 1343892567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.04778,0.6972,30.04778,0.6972",
+    "geom:latitude":0.6972,
+    "geom:longitude":30.04778,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"28",
+    "gn:asciiname":"Bunimwende",
+    "gn:country_code":"UG",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401739,
+    "gn:latitude":0.6972,
+    "gn:longitude":30.04778,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Bunimwende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bunimwende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679929,
+        1092070289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401739
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c0d8c9f8bcb25fdb742ba7cf5c6d5c31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070289,
+            "locality_id":1343892567,
+            "region_id":85679929
+        }
+    ],
+    "wof:id":1343892567,
+    "wof:lastmodified":1537712142,
+    "wof:name":"Bunimwende",
+    "wof:parent_id":1092070289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.04778,
+    0.6972,
+    30.04778,
+    0.6972
+],
+  "geometry": {"coordinates":[30.04778,0.6972],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1326466691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.21266,0.61155,30.21266,0.61155",
+    "geom:latitude":0.61155,
+    "geom:longitude":30.21266,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"79",
+    "gn:admin3_code":"7732254.0",
+    "gn:admin4_code":"8658278.0",
+    "gn:asciiname":"Mugusu",
+    "gn:country_code":"UG",
+    "gn:dem":1629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228911,
+    "gn:latitude":0.61155,
+    "gn:longitude":30.21266,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Mugusu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mugushu",
+        "Mugusu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228911
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"242dd258e6767d0b2f2a4e84d7a6b7ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069721,
+            "locality_id":1326466691,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1326466691,
+    "wof:lastmodified":1537712072,
+    "wof:name":"Mugusu",
+    "wof:parent_id":1092069721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21266,
+    0.61155,
+    30.21266,
+    0.61155
+],
+  "geometry": {"coordinates":[30.21266,0.61155],"type":"Point"}
+}

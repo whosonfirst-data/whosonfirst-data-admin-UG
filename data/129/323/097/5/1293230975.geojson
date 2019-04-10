@@ -1,0 +1,68 @@
+{
+  "id": 1293230975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.03024,0.8525,33.03024,0.8525",
+    "geom:latitude":0.8525,
+    "geom:longitude":33.03024,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Kigulungudhi",
+    "gn:country_code":"UG",
+    "gn:dem":1057,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553038,
+    "gn:latitude":0.8525,
+    "gn:longitude":33.03024,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kigulungudhi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092070253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553038
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8f243037197a6a306828491eddfa9f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070253,
+            "locality_id":1293230975,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":1293230975,
+    "wof:lastmodified":1536660051,
+    "wof:name":"Kigulungudhi",
+    "wof:parent_id":1092070253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.03024,
+    0.8525,
+    33.03024,
+    0.8525
+],
+  "geometry": {"coordinates":[33.03024,0.8525],"type":"Point"}
+}

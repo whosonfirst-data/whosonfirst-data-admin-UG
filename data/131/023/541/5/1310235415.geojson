@@ -1,0 +1,70 @@
+{
+  "id": 1310235415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.2219,1.94041,32.2219,1.94041",
+    "geom:latitude":1.94041,
+    "geom:longitude":32.2219,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"F7",
+    "gn:admin3_code":"231597.0",
+    "gn:admin4_code":"8657585.0",
+    "gn:asciiname":"Kyamukangara",
+    "gn:country_code":"UG",
+    "gn:dem":1168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230439,
+    "gn:latitude":1.94041,
+    "gn:longitude":32.2219,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyamukangara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680175,
+        1092071513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230439
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"fe86110da9fe41e2486cc50379dce1b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071513,
+            "locality_id":1310235415,
+            "region_id":85680175
+        }
+    ],
+    "wof:id":1310235415,
+    "wof:lastmodified":1536808841,
+    "wof:name":"Kyamukangara",
+    "wof:parent_id":1092071513,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.2219,
+    1.94041,
+    32.2219,
+    1.94041
+],
+  "geometry": {"coordinates":[32.2219,1.94041],"type":"Point"}
+}

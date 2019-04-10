@@ -1,0 +1,68 @@
+{
+  "id": 1243010035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.36516,0.52254,33.36516,0.52254",
+    "geom:latitude":0.52254,
+    "geom:longitude":33.36516,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"86",
+    "gn:asciiname":"Buwanga",
+    "gn:country_code":"UG",
+    "gn:dem":1155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11553625,
+    "gn:latitude":0.52254,
+    "gn:longitude":33.36516,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Buwanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679985,
+        1092069607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11553625
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"925b13601cbb614d280dc745f014888e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069607,
+            "locality_id":1243010035,
+            "region_id":85679985
+        }
+    ],
+    "wof:id":1243010035,
+    "wof:lastmodified":1536938410,
+    "wof:name":"Buwanga",
+    "wof:parent_id":1092069607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.36516,
+    0.52254,
+    33.36516,
+    0.52254
+],
+  "geometry": {"coordinates":[33.36516,0.52254],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1210031461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.82463,1.62931,32.82463,1.62931",
+    "geom:latitude":1.62931,
+    "geom:longitude":32.82463,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B7",
+    "gn:admin3_code":"231170.0",
+    "gn:admin4_code":"8658378.0",
+    "gn:asciiname":"Agwingiri",
+    "gn:country_code":"UG",
+    "gn:dem":1048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":235413,
+    "gn:latitude":1.62931,
+    "gn:longitude":32.82463,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Agwingiri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Agwingiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679799,
+        1092071719
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235413
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"da9dfdcc4a424c53b6140b0046e69941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071719,
+            "locality_id":1210031461,
+            "region_id":85679799
+        }
+    ],
+    "wof:id":1210031461,
+    "wof:lastmodified":1537712111,
+    "wof:name":"Agwingiri",
+    "wof:parent_id":1092071719,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.82463,
+    1.62931,
+    32.82463,
+    1.62931
+],
+  "geometry": {"coordinates":[32.82463,1.62931],"type":"Point"}
+}

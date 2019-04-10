@@ -1,0 +1,74 @@
+{
+  "id": 1293311379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.5791,2.35458,34.5791,2.35458",
+    "geom:latitude":2.35458,
+    "geom:longitude":34.5791,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"91",
+    "gn:admin3_code":"226767.0",
+    "gn:admin4_code":"8658585.0",
+    "gn:asciiname":"Lorengedwat",
+    "gn:country_code":"UG",
+    "gn:dem":1260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230001,
+    "gn:latitude":2.35458,
+    "gn:longitude":34.5791,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Lorengedwat",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lorengidwat",
+        "Lorengedwat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680021,
+        1092073567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230001
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3139536a5bf9e88bc4bda48bb64207f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073567,
+            "locality_id":1293311379,
+            "region_id":85680021
+        }
+    ],
+    "wof:id":1293311379,
+    "wof:lastmodified":1537712078,
+    "wof:name":"Lorengedwat",
+    "wof:parent_id":1092073567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.5791,
+    2.35458,
+    34.5791,
+    2.35458
+],
+  "geometry": {"coordinates":[34.5791,2.35458],"type":"Point"}
+}

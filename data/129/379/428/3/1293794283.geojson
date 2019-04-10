@@ -1,0 +1,70 @@
+{
+  "id": 1293794283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.14871,2.49037,31.14871,2.49037",
+    "geom:latitude":2.49037,
+    "geom:longitude":31.14871,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"8080237.0",
+    "gn:admin4_code":"8080219.0",
+    "gn:asciiname":"Akaba",
+    "gn:country_code":"UG",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235382,
+    "gn:latitude":2.49037,
+    "gn:longitude":31.14871,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Akaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679849,
+        1092073489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235382
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d76b5ac7297098ff1da6c08157eb936e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073489,
+            "locality_id":1293794283,
+            "region_id":85679849
+        }
+    ],
+    "wof:id":1293794283,
+    "wof:lastmodified":1536840728,
+    "wof:name":"Akaba",
+    "wof:parent_id":1092073489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.14871,
+    2.49037,
+    31.14871,
+    2.49037
+],
+  "geometry": {"coordinates":[31.14871,2.49037],"type":"Point"}
+}

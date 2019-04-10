@@ -1,0 +1,73 @@
+{
+  "id": 1327463285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.41176,0.28247,33.41176,0.28247",
+    "geom:latitude":0.28247,
+    "geom:longitude":33.41176,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"86",
+    "gn:admin3_code":"8644164.0",
+    "gn:admin4_code":"8658516.0",
+    "gn:asciiname":"Namoni Beach",
+    "gn:country_code":"UG",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11356460,
+    "gn:latitude":0.28247,
+    "gn:longitude":33.41176,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Namoni Beach",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Namoni Beach"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679985,
+        1092069607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11356460
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"1cdae258d96fa91994b40ca170effb40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069607,
+            "locality_id":1327463285,
+            "region_id":85679985
+        }
+    ],
+    "wof:id":1327463285,
+    "wof:lastmodified":1537712132,
+    "wof:name":"Namoni Beach",
+    "wof:parent_id":1092069607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.41176,
+    0.28247,
+    33.41176,
+    0.28247
+],
+  "geometry": {"coordinates":[33.41176,0.28247],"type":"Point"}
+}

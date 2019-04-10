@@ -1,0 +1,66 @@
+{
+  "id": 1226453077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.79205,3.06006,30.79205,3.06006",
+    "geom:latitude":3.06006,
+    "geom:longitude":30.79205,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"234911.0",
+    "gn:admin4_code":"8658464.0",
+    "gn:asciiname":"Mbaraka",
+    "gn:country_code":"UG",
+    "gn:dem":1291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229270,
+    "gn:latitude":3.06006,
+    "gn:longitude":30.79205,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mbaraka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229270
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c8a56771b896255ffb5b96a35fc419c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1226453077,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226453077,
+    "wof:lastmodified":1536633442,
+    "wof:name":"Mbaraka",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.79205,
+    3.06006,
+    30.79205,
+    3.06006
+],
+  "geometry": {"coordinates":[30.79205,3.06006],"type":"Point"}
+}

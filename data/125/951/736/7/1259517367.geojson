@@ -1,0 +1,68 @@
+{
+  "id": 1259517367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.06228,0.35271,32.06228,0.35271",
+    "geom:latitude":0.35271,
+    "geom:longitude":32.06228,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:asciiname":"Kabuwambo",
+    "gn:country_code":"UG",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11551793,
+    "gn:latitude":0.35271,
+    "gn:longitude":32.06228,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kabuwambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679891,
+        1092072811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11551793
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4bf8725788c2ce8a53f114cc9452ff35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072811,
+            "locality_id":1259517367,
+            "region_id":85679891
+        }
+    ],
+    "wof:id":1259517367,
+    "wof:lastmodified":1536809728,
+    "wof:name":"Kabuwambo",
+    "wof:parent_id":1092072811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.06228,
+    0.35271,
+    32.06228,
+    0.35271
+],
+  "geometry": {"coordinates":[32.06228,0.35271],"type":"Point"}
+}

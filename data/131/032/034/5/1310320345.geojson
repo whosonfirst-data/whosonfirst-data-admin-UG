@@ -1,0 +1,70 @@
+{
+  "id": 1310320345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.89646,2.23722,32.89646,2.23722",
+    "geom:latitude":2.23722,
+    "geom:longitude":32.89646,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"47",
+    "gn:admin3_code":"7732230.0",
+    "gn:admin4_code":"8657998.0",
+    "gn:asciiname":"Central",
+    "gn:country_code":"UG",
+    "gn:dem":1112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8643468,
+    "gn:latitude":2.23722,
+    "gn:longitude":32.89646,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Central",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679909,
+        1092072387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8643468
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c640c2f1ccc64d83003288f590064c81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072387,
+            "locality_id":1310320345,
+            "region_id":85679909
+        }
+    ],
+    "wof:id":1310320345,
+    "wof:lastmodified":1536686449,
+    "wof:name":"Central",
+    "wof:parent_id":1092072387,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.89646,
+    2.23722,
+    32.89646,
+    2.23722
+],
+  "geometry": {"coordinates":[32.89646,2.23722],"type":"Point"}
+}

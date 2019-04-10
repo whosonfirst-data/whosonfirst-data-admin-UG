@@ -1,0 +1,64 @@
+{
+  "id": 1209139759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.13333,-0.3,32.13333,-0.3",
+    "geom:latitude":-0.3,
+    "geom:longitude":32.13333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"7910218.0",
+    "gn:admin4_code":"8657876.0",
+    "gn:asciiname":"Beta",
+    "gn:country_code":"UG",
+    "gn:dem":1209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234821,
+    "gn:latitude":-0.3,
+    "gn:longitude":32.13333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Beta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234821
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4415abeb0e693eb6302723d19045d3cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209139759
+        }
+    ],
+    "wof:id":1209139759,
+    "wof:lastmodified":1536296542,
+    "wof:name":"Beta",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.13333,
+    -0.3,
+    32.13333,
+    -0.3
+],
+  "geometry": {"coordinates":[32.13333,-0.3],"type":"Point"}
+}

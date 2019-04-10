@@ -1,0 +1,68 @@
+{
+  "id": 1209953315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.23433,0.13403,32.23433,0.13403",
+    "geom:latitude":0.13403,
+    "geom:longitude":32.23433,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:asciiname":"Bulembo",
+    "gn:country_code":"UG",
+    "gn:dem":1214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552317,
+    "gn:latitude":0.13403,
+    "gn:longitude":32.23433,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bulembo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679827,
+        1092072705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552317
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f8d7f39ec1b6e38bccf80421e5fecfdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072705,
+            "locality_id":1209953315,
+            "region_id":85679827
+        }
+    ],
+    "wof:id":1209953315,
+    "wof:lastmodified":1536381184,
+    "wof:name":"Bulembo",
+    "wof:parent_id":1092072705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.23433,
+    0.13403,
+    32.23433,
+    0.13403
+],
+  "geometry": {"coordinates":[32.23433,0.13403],"type":"Point"}
+}

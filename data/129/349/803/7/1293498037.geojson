@@ -1,0 +1,73 @@
+{
+  "id": 1293498037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.61314,2.06175,34.61314,2.06175",
+    "geom:latitude":2.06175,
+    "geom:longitude":34.61314,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"91",
+    "gn:admin3_code":"226767.0",
+    "gn:admin4_code":"8657778.0",
+    "gn:asciiname":"Kalakeju",
+    "gn:country_code":"UG",
+    "gn:dem":1223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232585,
+    "gn:latitude":2.06175,
+    "gn:longitude":34.61314,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Kalakeju",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalekeju"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680021,
+        1092073567
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232585
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"89595974f6f878676112470820c4318b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073567,
+            "locality_id":1293498037,
+            "region_id":85680021
+        }
+    ],
+    "wof:id":1293498037,
+    "wof:lastmodified":1537712091,
+    "wof:name":"Kalakeju",
+    "wof:parent_id":1092073567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.61314,
+    2.06175,
+    34.61314,
+    2.06175
+],
+  "geometry": {"coordinates":[34.61314,2.06175],"type":"Point"}
+}

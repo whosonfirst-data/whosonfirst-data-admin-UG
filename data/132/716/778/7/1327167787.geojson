@@ -1,0 +1,70 @@
+{
+  "id": 1327167787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.3,1.4,34.3,1.4",
+    "geom:latitude":1.4,
+    "geom:longitude":34.3,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"E9",
+    "gn:admin3_code":"7869956.0",
+    "gn:admin4_code":"8657938.0",
+    "gn:asciiname":"Nalondo",
+    "gn:country_code":"UG",
+    "gn:dem":1063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228310,
+    "gn:latitude":1.4,
+    "gn:longitude":34.3,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nalondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680195,
+        1092069435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228310
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5b9ab675a2fceaf62c4e375b608914b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069435,
+            "locality_id":1327167787,
+            "region_id":85680195
+        }
+    ],
+    "wof:id":1327167787,
+    "wof:lastmodified":1537060295,
+    "wof:name":"Nalondo",
+    "wof:parent_id":1092069435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.3,
+    1.4,
+    34.3,
+    1.4
+],
+  "geometry": {"coordinates":[34.3,1.4],"type":"Point"}
+}

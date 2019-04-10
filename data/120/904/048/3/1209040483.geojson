@@ -1,0 +1,69 @@
+{
+  "id": 1209040483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.03333,-0.3,32.03333,-0.3",
+    "geom:latitude":-0.3,
+    "geom:longitude":32.03333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"G5",
+    "gn:admin3_code":"7910221.0",
+    "gn:admin4_code":"8657688.0",
+    "gn:asciiname":"Bukakata",
+    "gn:country_code":"UG",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234439,
+    "gn:latitude":-0.3,
+    "gn:longitude":32.03333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bukakata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bukakata Pier",
+        "Bukakata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234439,
+        "wk:page":"Bukakata"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"14af85c0d46f77cb582a4d094b72d18a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209040483
+        }
+    ],
+    "wof:id":1209040483,
+    "wof:lastmodified":1537712102,
+    "wof:name":"Bukakata",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.03333,
+    -0.3,
+    32.03333,
+    -0.3
+],
+  "geometry": {"coordinates":[32.03333,-0.3],"type":"Point"}
+}

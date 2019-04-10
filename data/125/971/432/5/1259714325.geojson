@@ -1,0 +1,70 @@
+{
+  "id": 1259714325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.30741,0.81053,31.30741,0.81053",
+    "geom:latitude":0.81053,
+    "geom:longitude":31.30741,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"I2",
+    "gn:admin3_code":"8644161.0",
+    "gn:admin4_code":"8657770.0",
+    "gn:asciiname":"Kihurumba",
+    "gn:country_code":"UG",
+    "gn:dem":1252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11154402,
+    "gn:latitude":0.81053,
+    "gn:longitude":31.30741,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Kihurumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679947,
+        1092068999
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11154402
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ad4e6b7e4f6b7c8b132b1d223620211b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068999,
+            "locality_id":1259714325,
+            "region_id":85679947
+        }
+    ],
+    "wof:id":1259714325,
+    "wof:lastmodified":1537021790,
+    "wof:name":"Kihurumba",
+    "wof:parent_id":1092068999,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.30741,
+    0.81053,
+    31.30741,
+    0.81053
+],
+  "geometry": {"coordinates":[31.30741,0.81053],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226376875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.95,1.31667,32.95,1.31667",
+    "geom:latitude":1.31667,
+    "geom:longitude":32.95,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"F3",
+    "gn:admin3_code":"8644160.0",
+    "gn:admin4_code":"8657608.0",
+    "gn:asciiname":"Kabugujo",
+    "gn:country_code":"UG",
+    "gn:dem":1056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232967,
+    "gn:latitude":1.31667,
+    "gn:longitude":32.95,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kabugujo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680103,
+        1092068855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232967
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c872d47d92d2a9bf902d6b6f85470036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068855,
+            "locality_id":1226376875,
+            "region_id":85680103
+        }
+    ],
+    "wof:id":1226376875,
+    "wof:lastmodified":1536744415,
+    "wof:name":"Kabugujo",
+    "wof:parent_id":1092068855,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.95,
+    1.31667,
+    32.95,
+    1.31667
+],
+  "geometry": {"coordinates":[32.95,1.31667],"type":"Point"}
+}

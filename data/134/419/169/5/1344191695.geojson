@@ -1,0 +1,70 @@
+{
+  "id": 1344191695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.35256,-0.25939,31.35256,-0.25939",
+    "geom:latitude":-0.25939,
+    "geom:longitude":31.35256,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"74",
+    "gn:admin3_code":"229304.0",
+    "gn:admin4_code":"8658566.0",
+    "gn:asciiname":"Lwebitakuli",
+    "gn:country_code":"UG",
+    "gn:dem":1304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLS",
+    "gn:geonameid":8593753,
+    "gn:latitude":-0.25939,
+    "gn:longitude":31.35256,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lwebitakuli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679823,
+        1092072661
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8593753
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"07f1385fe0af97b24b4cf0c6806e5994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072661,
+            "locality_id":1344191695,
+            "region_id":85679823
+        }
+    ],
+    "wof:id":1344191695,
+    "wof:lastmodified":1536686300,
+    "wof:name":"Lwebitakuli",
+    "wof:parent_id":1092072661,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.35256,
+    -0.25939,
+    31.35256,
+    -0.25939
+],
+  "geometry": {"coordinates":[31.35256,-0.25939],"type":"Point"}
+}

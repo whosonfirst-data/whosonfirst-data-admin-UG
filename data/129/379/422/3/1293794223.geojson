@@ -1,0 +1,70 @@
+{
+  "id": 1293794223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.11667,2.91667,34.11667,2.91667",
+    "geom:latitude":2.91667,
+    "geom:longitude":34.11667,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"45",
+    "gn:admin3_code":"233117.0",
+    "gn:admin4_code":"8658473.0",
+    "gn:asciiname":"Naadoy",
+    "gn:country_code":"UG",
+    "gn:dem":1222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228616,
+    "gn:latitude":2.91667,
+    "gn:longitude":34.11667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Naadoy",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679999,
+        1092070781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228616
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f89735166b8972bdd54059acafd771d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070781,
+            "locality_id":1293794223,
+            "region_id":85679999
+        }
+    ],
+    "wof:id":1293794223,
+    "wof:lastmodified":1536840815,
+    "wof:name":"Naadoy",
+    "wof:parent_id":1092070781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.11667,
+    2.91667,
+    34.11667,
+    2.91667
+],
+  "geometry": {"coordinates":[34.11667,2.91667],"type":"Point"}
+}

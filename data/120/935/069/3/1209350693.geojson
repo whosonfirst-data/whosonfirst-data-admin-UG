@@ -1,0 +1,64 @@
+{
+  "id": 1209350693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.9678,0.21281,32.9678,0.21281",
+    "geom:latitude":0.21281,
+    "geom:longitude":32.9678,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E7",
+    "gn:admin3_code":"7732075.0",
+    "gn:admin4_code":"8658514.0",
+    "gn:asciiname":"Nakaseta",
+    "gn:country_code":"UG",
+    "gn:dem":1210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228426,
+    "gn:latitude":0.21281,
+    "gn:longitude":32.9678,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Nakaseta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228426
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9aac5f3aadfa2411be7dc00f41def975",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209350693
+        }
+    ],
+    "wof:id":1209350693,
+    "wof:lastmodified":1536289751,
+    "wof:name":"Nakaseta",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.9678,
+    0.21281,
+    32.9678,
+    0.21281
+],
+  "geometry": {"coordinates":[32.9678,0.21281],"type":"Point"}
+}

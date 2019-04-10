@@ -1,0 +1,71 @@
+{
+  "id": 1276911485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.21517,0.95368,34.21517,0.95368",
+    "geom:latitude":0.95368,
+    "geom:longitude":34.21517,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"87",
+    "gn:asciiname":"Bumahena",
+    "gn:country_code":"UG",
+    "gn:dem":1181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433460,
+    "gn:latitude":0.95368,
+    "gn:longitude":34.21517,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bumahena",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bumahena"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679965,
+        1092069563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433460
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a65ef306f821e79bd783a3ae86082a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069563,
+            "locality_id":1276911485,
+            "region_id":85679965
+        }
+    ],
+    "wof:id":1276911485,
+    "wof:lastmodified":1537712171,
+    "wof:name":"Bumahena",
+    "wof:parent_id":1092069563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.21517,
+    0.95368,
+    34.21517,
+    0.95368
+],
+  "geometry": {"coordinates":[34.21517,0.95368],"type":"Point"}
+}

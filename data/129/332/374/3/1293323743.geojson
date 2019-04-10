@@ -1,0 +1,70 @@
+{
+  "id": 1293323743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.45712,1.6231,31.45712,1.6231",
+    "geom:latitude":1.6231,
+    "geom:longitude":31.45712,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"234463.0",
+    "gn:admin4_code":"8657903.0",
+    "gn:asciiname":"Nyantonzi",
+    "gn:country_code":"UG",
+    "gn:dem":1128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8081004,
+    "gn:latitude":1.6231,
+    "gn:longitude":31.45712,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nyantonzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092074425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8081004
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8dbf3fd2d7d57e39df4dd3cb3c02c568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074425,
+            "locality_id":1293323743,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1293323743,
+    "wof:lastmodified":1537022218,
+    "wof:name":"Nyantonzi",
+    "wof:parent_id":1092074425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.45712,
+    1.6231,
+    31.45712,
+    1.6231
+],
+  "geometry": {"coordinates":[31.45712,1.6231],"type":"Point"}
+}

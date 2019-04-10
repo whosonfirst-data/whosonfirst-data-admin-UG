@@ -1,0 +1,70 @@
+{
+  "id": 1327066689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.71667,-1.31667,29.71667,-1.31667",
+    "geom:latitude":-1.31667,
+    "geom:longitude":29.71667,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"43",
+    "gn:admin3_code":"7874701.0",
+    "gn:admin4_code":"8658184.0",
+    "gn:asciiname":"Bushoka",
+    "gn:country_code":"UG",
+    "gn:dem":2003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234078,
+    "gn:latitude":-1.31667,
+    "gn:longitude":29.71667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bushoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680075,
+        1092068877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234078
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"61ee1a18c3cb741e56ed0fe2b929e29d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068877,
+            "locality_id":1327066689,
+            "region_id":85680075
+        }
+    ],
+    "wof:id":1327066689,
+    "wof:lastmodified":1536711168,
+    "wof:name":"Bushoka",
+    "wof:parent_id":1092068877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.71667,
+    -1.31667,
+    29.71667,
+    -1.31667
+],
+  "geometry": {"coordinates":[29.71667,-1.31667],"type":"Point"}
+}

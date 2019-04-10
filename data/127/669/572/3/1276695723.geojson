@@ -1,0 +1,70 @@
+{
+  "id": 1276695723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.48333,0.73333,32.48333,0.73333",
+    "geom:latitude":0.73333,
+    "geom:longitude":32.48333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"8644176.0",
+    "gn:admin4_code":"8657634.0",
+    "gn:asciiname":"Bukolwa",
+    "gn:country_code":"UG",
+    "gn:dem":1106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234373,
+    "gn:latitude":0.73333,
+    "gn:longitude":32.48333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bukolwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679895,
+        1092072985
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234373
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9e41cef0123102e6466f6d9a53ea3b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072985,
+            "locality_id":1276695723,
+            "region_id":85679895
+        }
+    ],
+    "wof:id":1276695723,
+    "wof:lastmodified":1536790454,
+    "wof:name":"Bukolwa",
+    "wof:parent_id":1092072985,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.48333,
+    0.73333,
+    32.48333,
+    0.73333
+],
+  "geometry": {"coordinates":[32.48333,0.73333],"type":"Point"}
+}

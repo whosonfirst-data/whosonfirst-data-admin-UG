@@ -1,0 +1,68 @@
+{
+  "id": 1209646303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.26667,0.9,34.26667,0.9",
+    "geom:latitude":0.9,
+    "geom:longitude":34.26667,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D6",
+    "gn:admin3_code":"7869955.0",
+    "gn:admin4_code":"8658250.0",
+    "gn:asciiname":"Khabutola",
+    "gn:country_code":"UG",
+    "gn:dem":1232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231635,
+    "gn:latitude":0.9,
+    "gn:longitude":34.26667,
+    "gn:modification_date":"2018-06-24",
+    "gn:name":"Khabutola",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khabutale",
+        "Khabutola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231635
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7bc7d918c9a0ac7331ccf93e0b77e68a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209646303
+        }
+    ],
+    "wof:id":1209646303,
+    "wof:lastmodified":1537712086,
+    "wof:name":"Khabutola",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.26667,
+    0.9,
+    34.26667,
+    0.9
+],
+  "geometry": {"coordinates":[34.26667,0.9],"type":"Point"}
+}

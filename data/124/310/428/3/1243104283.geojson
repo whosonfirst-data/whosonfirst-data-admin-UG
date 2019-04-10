@@ -1,0 +1,71 @@
+{
+  "id": 1243104283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.23051,0.94396,34.23051,0.94396",
+    "geom:latitude":0.94396,
+    "geom:longitude":34.23051,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"87",
+    "gn:asciiname":"Buwekanda",
+    "gn:country_code":"UG",
+    "gn:dem":1160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433469,
+    "gn:latitude":0.94396,
+    "gn:longitude":34.23051,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Buwekanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buwekanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679965,
+        1092069563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433469
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"45a0fa2fa80c69a5b69fe171b59df009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069563,
+            "locality_id":1243104283,
+            "region_id":85679965
+        }
+    ],
+    "wof:id":1243104283,
+    "wof:lastmodified":1537712171,
+    "wof:name":"Buwekanda",
+    "wof:parent_id":1092069563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.23051,
+    0.94396,
+    34.23051,
+    0.94396
+],
+  "geometry": {"coordinates":[34.23051,0.94396],"type":"Point"}
+}

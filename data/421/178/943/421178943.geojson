@@ -1,0 +1,81 @@
+{
+  "id": 421178943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.26667,0.65,30.26667,0.65",
+    "geom:latitude":0.65,
+    "geom:longitude":30.26667,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Kabarole"
+    ],
+    "qs:gn_country":"UG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":233041,
+    "qs:gn_pop":0,
+    "qs:name":"Kabarole",
+    "qs:name_adm0":"Uganda",
+    "qs:name_adm1":"Kabarole",
+    "qs:photos":46,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":46,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":316940,
+    "qs:woe_adm0":23424974,
+    "qs:woe_id":1451611,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":513,
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        421174009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233041,
+        "gp:id":1451611,
+        "qs:id":316940,
+        "wd:id":"Q1229910"
+    },
+    "wof:country":"UG",
+    "wof:created":1459009198,
+    "wof:geomhash":"8d6d0c98f51c008e2d5fb0845a1a5558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":421174009,
+            "locality_id":421178943,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":421178943,
+    "wof:lastmodified":1527717729,
+    "wof:name":"Kabarole",
+    "wof:parent_id":421174009,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.26667,
+    0.65,
+    30.26667,
+    0.65
+],
+  "geometry": {"coordinates":[30.26667,0.65],"type":"Point"}
+}

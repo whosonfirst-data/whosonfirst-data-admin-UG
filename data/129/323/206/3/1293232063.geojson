@@ -1,0 +1,70 @@
+{
+  "id": 1293232063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1608,0.44509,32.1608,0.44509",
+    "geom:latitude":0.44509,
+    "geom:longitude":32.1608,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:admin3_code":"8644152.0",
+    "gn:admin4_code":"8657879.0",
+    "gn:asciiname":"Zira",
+    "gn:country_code":"UG",
+    "gn:dem":1201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":225809,
+    "gn:latitude":0.44509,
+    "gn:longitude":32.1608,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Zira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679891,
+        1092072811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":225809
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"fecb47e8d6ba55582f8e53518a58b43e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072811,
+            "locality_id":1293232063,
+            "region_id":85679891
+        }
+    ],
+    "wof:id":1293232063,
+    "wof:lastmodified":1536658484,
+    "wof:name":"Zira",
+    "wof:parent_id":1092072811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1608,
+    0.44509,
+    32.1608,
+    0.44509
+],
+  "geometry": {"coordinates":[32.1608,0.44509],"type":"Point"}
+}

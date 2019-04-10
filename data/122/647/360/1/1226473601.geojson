@@ -1,0 +1,70 @@
+{
+  "id": 1226473601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3507,1.51456,31.3507,1.51456",
+    "geom:latitude":1.51456,
+    "geom:longitude":31.3507,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"7732256.0",
+    "gn:admin4_code":"8658568.0",
+    "gn:asciiname":"Kihamba",
+    "gn:country_code":"UG",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8080790,
+    "gn:latitude":1.51456,
+    "gn:longitude":31.3507,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kihamba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679933,
+        1092068961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8080790
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"23a09825f65ec4d9a7ff12d26f1ba013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068961,
+            "locality_id":1226473601,
+            "region_id":85679933
+        }
+    ],
+    "wof:id":1226473601,
+    "wof:lastmodified":1536602244,
+    "wof:name":"Kihamba",
+    "wof:parent_id":1092068961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3507,
+    1.51456,
+    31.3507,
+    1.51456
+],
+  "geometry": {"coordinates":[31.3507,1.51456],"type":"Point"}
+}

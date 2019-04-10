@@ -1,0 +1,68 @@
+{
+  "id": 1242612399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.26764,0.42728,32.26764,0.42728",
+    "geom:latitude":0.42728,
+    "geom:longitude":32.26764,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:asciiname":"Kidugala",
+    "gn:country_code":"UG",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552023,
+    "gn:latitude":0.42728,
+    "gn:longitude":32.26764,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kidugala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552023
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"07cd5e27a7017d8b0a1beb1a5f800912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1242612399,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1242612399,
+    "wof:lastmodified":1537012828,
+    "wof:name":"Kidugala",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.26764,
+    0.42728,
+    32.26764,
+    0.42728
+],
+  "geometry": {"coordinates":[32.26764,0.42728],"type":"Point"}
+}

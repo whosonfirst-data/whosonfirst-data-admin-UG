@@ -1,0 +1,70 @@
+{
+  "id": 1243393757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.60781,0.75676,33.60781,0.75676",
+    "geom:latitude":0.75676,
+    "geom:longitude":33.60781,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"78",
+    "gn:admin3_code":"234502.0",
+    "gn:admin4_code":"8658167.0",
+    "gn:asciiname":"Namalemba",
+    "gn:country_code":"UG",
+    "gn:dem":1114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228257,
+    "gn:latitude":0.75676,
+    "gn:longitude":33.60781,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Namalemba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679789,
+        1092069033
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228257
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c872ab85e328c5311d6ee91b704cae72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069033,
+            "locality_id":1243393757,
+            "region_id":85679789
+        }
+    ],
+    "wof:id":1243393757,
+    "wof:lastmodified":1536880962,
+    "wof:name":"Namalemba",
+    "wof:parent_id":1092069033,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.60781,
+    0.75676,
+    33.60781,
+    0.75676
+],
+  "geometry": {"coordinates":[33.60781,0.75676],"type":"Point"}
+}

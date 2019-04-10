@@ -1,0 +1,70 @@
+{
+  "id": 1226476905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.57106,0.41182,32.57106,0.41182",
+    "geom:latitude":0.41182,
+    "geom:longitude":32.57106,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"7732385.0",
+    "gn:admin4_code":"8657924.0",
+    "gn:asciiname":"Kiteezi",
+    "gn:country_code":"UG",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230925,
+    "gn:latitude":0.41182,
+    "gn:longitude":32.57106,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kiteezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679879,
+        1092072041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230925
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"85e1377f0c9fcb1ea141fcdfb6bab9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072041,
+            "locality_id":1226476905,
+            "region_id":85679879
+        }
+    ],
+    "wof:id":1226476905,
+    "wof:lastmodified":1537094017,
+    "wof:name":"Kiteezi",
+    "wof:parent_id":1092072041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.57106,
+    0.41182,
+    32.57106,
+    0.41182
+],
+  "geometry": {"coordinates":[32.57106,0.41182],"type":"Point"}
+}

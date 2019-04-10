@@ -1,0 +1,70 @@
+{
+  "id": 1343973119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.59161,3.50564,32.59161,3.50564",
+    "geom:latitude":3.50564,
+    "geom:longitude":32.59161,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"G3",
+    "gn:admin3_code":"230209.0",
+    "gn:admin4_code":"8647182.0",
+    "gn:asciiname":"Barjere",
+    "gn:country_code":"UG",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8645904,
+    "gn:latitude":3.50564,
+    "gn:longitude":32.59161,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Barjere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680147,
+        1092072341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8645904
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"26dcd66367042b10843415d66bf2a0d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072341,
+            "locality_id":1343973119,
+            "region_id":85680147
+        }
+    ],
+    "wof:id":1343973119,
+    "wof:lastmodified":1537000914,
+    "wof:name":"Barjere",
+    "wof:parent_id":1092072341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.59161,
+    3.50564,
+    32.59161,
+    3.50564
+],
+  "geometry": {"coordinates":[32.59161,3.50564],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360316975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.32687,0.35878,32.32687,0.35878",
+    "geom:latitude":0.35878,
+    "geom:longitude":32.32687,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:admin3_code":"7910214.0",
+    "gn:admin4_code":"7732543.0",
+    "gn:asciiname":"Nswanjere",
+    "gn:country_code":"UG",
+    "gn:dem":1211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227639,
+    "gn:latitude":0.35878,
+    "gn:longitude":32.32687,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Nswanjere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679827,
+        1092072705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227639
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6025277947a49b0d91bf46748b95111c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072705,
+            "locality_id":1360316975,
+            "region_id":85679827
+        }
+    ],
+    "wof:id":1360316975,
+    "wof:lastmodified":1536608335,
+    "wof:name":"Nswanjere",
+    "wof:parent_id":1092072705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.32687,
+    0.35878,
+    32.32687,
+    0.35878
+],
+  "geometry": {"coordinates":[32.32687,0.35878],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242588139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.99271,1.82981,32.99271,1.82981",
+    "geom:latitude":1.82981,
+    "geom:longitude":32.99271,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"C7",
+    "gn:admin3_code":"233559.0",
+    "gn:admin4_code":"8657873.0",
+    "gn:asciiname":"Ekwera",
+    "gn:country_code":"UG",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":230559,
+    "gn:latitude":1.82981,
+    "gn:longitude":32.99271,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Ekwera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kwera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679913,
+        1092070439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230559
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f18c14192ea97d08fc649f1ee05f0e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070439,
+            "locality_id":1242588139,
+            "region_id":85679913
+        }
+    ],
+    "wof:id":1242588139,
+    "wof:lastmodified":1537712081,
+    "wof:name":"Ekwera",
+    "wof:parent_id":1092070439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.99271,
+    1.82981,
+    32.99271,
+    1.82981
+],
+  "geometry": {"coordinates":[32.99271,1.82981],"type":"Point"}
+}

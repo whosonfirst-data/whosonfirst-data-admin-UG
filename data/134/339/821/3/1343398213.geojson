@@ -1,0 +1,71 @@
+{
+  "id": 1343398213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.35477,0.99314,34.35477,0.99314",
+    "geom:latitude":0.99314,
+    "geom:longitude":34.35477,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D6",
+    "gn:asciiname":"Nandere",
+    "gn:country_code":"UG",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433076,
+    "gn:latitude":0.99314,
+    "gn:longitude":34.35477,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Nandere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nandere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680251,
+        1092072481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433076
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"397057125c8c2c5fdb87b66226dea21f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072481,
+            "locality_id":1343398213,
+            "region_id":85680251
+        }
+    ],
+    "wof:id":1343398213,
+    "wof:lastmodified":1537712161,
+    "wof:name":"Nandere",
+    "wof:parent_id":1092072481,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.35477,
+    0.99314,
+    34.35477,
+    0.99314
+],
+  "geometry": {"coordinates":[34.35477,0.99314],"type":"Point"}
+}

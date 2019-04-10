@@ -1,0 +1,70 @@
+{
+  "id": 1242908133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.3,1.43333,31.3,1.43333",
+    "geom:latitude":1.43333,
+    "geom:longitude":31.3,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"8644142.0",
+    "gn:admin4_code":"8657741.0",
+    "gn:asciiname":"Kasasa",
+    "gn:country_code":"UG",
+    "gn:dem":1087,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232099,
+    "gn:latitude":1.43333,
+    "gn:longitude":31.3,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kasasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679933,
+        1092069075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232099
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3026a8f060a35396f2b0fa81e662ac83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069075,
+            "locality_id":1242908133,
+            "region_id":85679933
+        }
+    ],
+    "wof:id":1242908133,
+    "wof:lastmodified":1537081445,
+    "wof:name":"Kasasa",
+    "wof:parent_id":1092069075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.3,
+    1.43333,
+    31.3,
+    1.43333
+],
+  "geometry": {"coordinates":[31.3,1.43333],"type":"Point"}
+}

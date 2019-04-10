@@ -1,0 +1,68 @@
+{
+  "id": 1344187771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.54359,0.94753,33.54359,0.94753",
+    "geom:latitude":0.94753,
+    "geom:longitude":33.54359,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D2",
+    "gn:asciiname":"Mpawulo-Bukongole",
+    "gn:country_code":"UG",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429505,
+    "gn:latitude":0.94753,
+    "gn:longitude":33.54359,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Mpawulo-Bukongole",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679803,
+        1092069483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429505
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6ffc7521742e5a25fcab47a7efcd0995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069483,
+            "locality_id":1344187771,
+            "region_id":85679803
+        }
+    ],
+    "wof:id":1344187771,
+    "wof:lastmodified":1536692164,
+    "wof:name":"Mpawulo-Bukongole",
+    "wof:parent_id":1092069483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.54359,
+    0.94753,
+    33.54359,
+    0.94753
+],
+  "geometry": {"coordinates":[33.54359,0.94753],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209124785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.25,2.25,34.25,2.25",
+    "geom:latitude":2.25,
+    "geom:longitude":34.25,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"G8",
+    "gn:admin3_code":"234720.0",
+    "gn:admin4_code":"8657946.0",
+    "gn:asciiname":"Napak",
+    "gn:country_code":"UG",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7873968,
+    "gn:latitude":2.25,
+    "gn:longitude":34.25,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Napak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7873968,
+        "wk:page":"Napak"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"826d4d85b077978cd0cdf344e7536ee7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209124785
+        }
+    ],
+    "wof:id":1209124785,
+    "wof:lastmodified":1537575049,
+    "wof:name":"Napak",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.25,
+    2.25,
+    34.25,
+    2.25
+],
+  "geometry": {"coordinates":[34.25,2.25],"type":"Point"}
+}

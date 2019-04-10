@@ -1,0 +1,75 @@
+{
+  "id": 1293818567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6025,0.52972,32.6025,0.52972",
+    "geom:latitude":0.52972,
+    "geom:longitude":32.6025,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"7732385.0",
+    "gn:admin4_code":"8658261.0",
+    "gn:asciiname":"Namulonge",
+    "gn:country_code":"UG",
+    "gn:dem":1167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228120,
+    "gn:latitude":0.52972,
+    "gn:longitude":32.6025,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Namulonge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Numulongo",
+        "Namulonge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679879,
+        1092072041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228120,
+        "wk:page":"Namulonge"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"afe8aa58c7f235b2b1edb89c504e12f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072041,
+            "locality_id":1293818567,
+            "region_id":85679879
+        }
+    ],
+    "wof:id":1293818567,
+    "wof:lastmodified":1537712068,
+    "wof:name":"Namulonge",
+    "wof:parent_id":1092072041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6025,
+    0.52972,
+    32.6025,
+    0.52972
+],
+  "geometry": {"coordinates":[32.6025,0.52972],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276473463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.40944,0.27882,32.40944,0.27882",
+    "geom:latitude":0.27882,
+    "geom:longitude":32.40944,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"89",
+    "gn:asciiname":"Kololo",
+    "gn:country_code":"UG",
+    "gn:dem":1190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552076,
+    "gn:latitude":0.27882,
+    "gn:longitude":32.40944,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kololo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679827,
+        1092072705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552076
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b4d7fbcef126462b052e19dd3f82c0a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072705,
+            "locality_id":1276473463,
+            "region_id":85679827
+        }
+    ],
+    "wof:id":1276473463,
+    "wof:lastmodified":1537085215,
+    "wof:name":"Kololo",
+    "wof:parent_id":1092072705,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.40944,
+    0.27882,
+    32.40944,
+    0.27882
+],
+  "geometry": {"coordinates":[32.40944,0.27882],"type":"Point"}
+}

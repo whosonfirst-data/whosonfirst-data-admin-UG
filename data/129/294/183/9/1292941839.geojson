@@ -1,0 +1,70 @@
+{
+  "id": 1292941839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.45147,0.07757,32.45147,0.07757",
+    "geom:latitude":0.07757,
+    "geom:longitude":32.45147,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"234053.0",
+    "gn:admin4_code":"8657875.0",
+    "gn:asciiname":"Nakiwogo",
+    "gn:country_code":"UG",
+    "gn:dem":1148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228340,
+    "gn:latitude":0.07757,
+    "gn:longitude":32.45147,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Nakiwogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679879,
+        1092070523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228340
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9c8cabc98656ea30bf1f7e34b087c9ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070523,
+            "locality_id":1292941839,
+            "region_id":85679879
+        }
+    ],
+    "wof:id":1292941839,
+    "wof:lastmodified":1537073572,
+    "wof:name":"Nakiwogo",
+    "wof:parent_id":1092070523,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.45147,
+    0.07757,
+    32.45147,
+    0.07757
+],
+  "geometry": {"coordinates":[32.45147,0.07757],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243086347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.13195,2.47648,31.13195,2.47648",
+    "geom:latitude":2.47648,
+    "geom:longitude":31.13195,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"58",
+    "gn:admin3_code":"8080237.0",
+    "gn:admin4_code":"8080219.0",
+    "gn:asciiname":"Paminya",
+    "gn:country_code":"UG",
+    "gn:dem":996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226818,
+    "gn:latitude":2.47648,
+    "gn:longitude":31.13195,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Paminya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pamenya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679849,
+        1092073489
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226818
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"abf79c0a40b96a8fc147c9d5d11056c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073489,
+            "locality_id":1243086347,
+            "region_id":85679849
+        }
+    ],
+    "wof:id":1243086347,
+    "wof:lastmodified":1537712059,
+    "wof:name":"Paminya",
+    "wof:parent_id":1092073489,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.13195,
+    2.47648,
+    31.13195,
+    2.47648
+],
+  "geometry": {"coordinates":[31.13195,2.47648],"type":"Point"}
+}

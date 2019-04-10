@@ -1,0 +1,70 @@
+{
+  "id": 1309741329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.18333,-0.46667,32.18333,-0.46667",
+    "geom:latitude":-0.46667,
+    "geom:longitude":32.18333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"7910218.0",
+    "gn:admin4_code":"8657927.0",
+    "gn:asciiname":"Mugoye",
+    "gn:country_code":"UG",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228919,
+    "gn:latitude":-0.46667,
+    "gn:longitude":32.18333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mugoye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679769,
+        1092069185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228919
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c7b9f55ca9c1c1af960fa6550f0bb56c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069185,
+            "locality_id":1309741329,
+            "region_id":85679769
+        }
+    ],
+    "wof:id":1309741329,
+    "wof:lastmodified":1537023108,
+    "wof:name":"Mugoye",
+    "wof:parent_id":1092069185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.18333,
+    -0.46667,
+    32.18333,
+    -0.46667
+],
+  "geometry": {"coordinates":[32.18333,-0.46667],"type":"Point"}
+}

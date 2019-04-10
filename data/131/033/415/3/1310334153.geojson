@@ -1,0 +1,70 @@
+{
+  "id": 1310334153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.52826,0.96549,33.52826,0.96549",
+    "geom:latitude":0.96549,
+    "geom:longitude":33.52826,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D2",
+    "gn:admin3_code":"234305.0",
+    "gn:admin4_code":"8657555.0",
+    "gn:asciiname":"Kyani",
+    "gn:country_code":"UG",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8630227,
+    "gn:latitude":0.96549,
+    "gn:longitude":33.52826,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyani",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679803,
+        1092069483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8630227
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3093e73a09b686ad2ec96d07987e00e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069483,
+            "locality_id":1310334153,
+            "region_id":85679803
+        }
+    ],
+    "wof:id":1310334153,
+    "wof:lastmodified":1536666805,
+    "wof:name":"Kyani",
+    "wof:parent_id":1092069483,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.52826,
+    0.96549,
+    33.52826,
+    0.96549
+],
+  "geometry": {"coordinates":[33.52826,0.96549],"type":"Point"}
+}

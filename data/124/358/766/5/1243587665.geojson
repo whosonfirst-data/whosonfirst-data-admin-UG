@@ -1,0 +1,74 @@
+{
+  "id": 1243587665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.1,1.33333,34.1,1.33333",
+    "geom:latitude":1.33333,
+    "geom:longitude":34.1,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C3",
+    "gn:admin3_code":"7732906.0",
+    "gn:admin4_code":"8657971.0",
+    "gn:asciiname":"Okworo",
+    "gn:country_code":"UG",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227123,
+    "gn:latitude":1.33333,
+    "gn:longitude":34.1,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Okworo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Akworo",
+        "Okworo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680095,
+        1092069307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227123
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"471ce50175e0f4da86781936a58be7c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069307,
+            "locality_id":1243587665,
+            "region_id":85680095
+        }
+    ],
+    "wof:id":1243587665,
+    "wof:lastmodified":1537712062,
+    "wof:name":"Okworo",
+    "wof:parent_id":1092069307,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.1,
+    1.33333,
+    34.1,
+    1.33333
+],
+  "geometry": {"coordinates":[34.1,1.33333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1276260181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.89907,0.8236,33.89907,0.8236",
+    "geom:latitude":0.8236,
+    "geom:longitude":33.89907,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C6",
+    "gn:asciiname":"Mugulu-Mabale",
+    "gn:country_code":"UG",
+    "gn:dem":1129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429938,
+    "gn:latitude":0.8236,
+    "gn:longitude":33.89907,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Mugulu-Mabale",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679981,
+        1092069677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429938
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"6e35d25319b26ab0dcc38bca50c4089d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069677,
+            "locality_id":1276260181,
+            "region_id":85679981
+        }
+    ],
+    "wof:id":1276260181,
+    "wof:lastmodified":1536875803,
+    "wof:name":"Mugulu-Mabale",
+    "wof:parent_id":1092069677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.89907,
+    0.8236,
+    33.89907,
+    0.8236
+],
+  "geometry": {"coordinates":[33.89907,0.8236],"type":"Point"}
+}

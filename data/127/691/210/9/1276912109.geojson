@@ -1,0 +1,73 @@
+{
+  "id": 1276912109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.87111,0.24528,33.87111,0.24528",
+    "geom:latitude":0.24528,
+    "geom:longitude":33.87111,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"G7",
+    "gn:admin3_code":"8644167.0",
+    "gn:admin4_code":"8658486.0",
+    "gn:asciiname":"Banda",
+    "gn:country_code":"UG",
+    "gn:dem":1171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234859,
+    "gn:latitude":0.24528,
+    "gn:longitude":33.87111,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Banda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Banda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234859
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5b2caedcb07565b1d57133e336e245b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1276912109,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1276912109,
+    "wof:lastmodified":1537712105,
+    "wof:name":"Banda",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.87110999999999,
+    0.24528,
+    33.87110999999999,
+    0.24528
+],
+  "geometry": {"coordinates":[33.87110999999999,0.24528],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1293031555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.25647,0.72088,34.25647,0.72088",
+    "geom:latitude":0.72088,
+    "geom:longitude":34.25647,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Pereje",
+    "gn:country_code":"UG",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11432792,
+    "gn:latitude":0.72088,
+    "gn:longitude":34.25647,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Pereje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pereje"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679989,
+        1092074213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11432792
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"83344bf19f1c6bb1d7ae556cc3655a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074213,
+            "locality_id":1293031555,
+            "region_id":85679989
+        }
+    ],
+    "wof:id":1293031555,
+    "wof:lastmodified":1537712155,
+    "wof:name":"Pereje",
+    "wof:parent_id":1092074213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.25647,
+    0.72088,
+    34.25647,
+    0.72088
+],
+  "geometry": {"coordinates":[34.25647,0.72088],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326867013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.43798,0.28915,32.43798,0.28915",
+    "geom:latitude":0.28915,
+    "geom:longitude":32.43798,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"234053.0",
+    "gn:admin4_code":"8658416.0",
+    "gn:asciiname":"Katereke",
+    "gn:country_code":"UG",
+    "gn:dem":1183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231893,
+    "gn:latitude":0.28915,
+    "gn:longitude":32.43798,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Katereke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231893
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c1037eb7a5e5785d6dd1c848c6bf6d39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1326867013,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1326867013,
+    "wof:lastmodified":1536997799,
+    "wof:name":"Katereke",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.43798,
+    0.28915,
+    32.43798,
+    0.28915
+],
+  "geometry": {"coordinates":[32.43798,0.28915],"type":"Point"}
+}

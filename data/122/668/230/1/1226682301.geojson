@@ -1,0 +1,74 @@
+{
+  "id": 1226682301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.40194,-0.10694,30.40194,-0.10694",
+    "geom:latitude":-0.10694,
+    "geom:longitude":30.40194,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"81",
+    "gn:admin3_code":"7732901.0",
+    "gn:admin4_code":"8657792.0",
+    "gn:asciiname":"Kacherere",
+    "gn:country_code":"UG",
+    "gn:dem":1375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231514,
+    "gn:latitude":-0.10694,
+    "gn:longitude":30.40194,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kacherere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kicheche",
+        "Kacherere"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680041,
+        1092071759
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231514
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3a0cab5c22a6f5646ae684dccd9ca9fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071759,
+            "locality_id":1226682301,
+            "region_id":85680041
+        }
+    ],
+    "wof:id":1226682301,
+    "wof:lastmodified":1537712085,
+    "wof:name":"Kacherere",
+    "wof:parent_id":1092071759,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.40194,
+    -0.10694,
+    30.40194,
+    -0.10694
+],
+  "geometry": {"coordinates":[30.40194,-0.10694],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1360321535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.19472,-1.18944,30.19472,-1.18944",
+    "geom:latitude":-1.18944,
+    "geom:longitude":30.19472,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"7732261.0",
+    "gn:admin4_code":"8657641.0",
+    "gn:asciiname":"Rwentobo",
+    "gn:cc2":"UG",
+    "gn:country_code":"UG",
+    "gn:dem":1684,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226450,
+    "gn:latitude":-1.18944,
+    "gn:longitude":30.19472,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rwentobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lwentobo",
+        "Rwentobo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680059,
+        1092073825
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226450
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"8300bd643306cf7833dff2fe0e2328da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073825,
+            "locality_id":1360321535,
+            "region_id":85680059
+        }
+    ],
+    "wof:id":1360321535,
+    "wof:lastmodified":1537712055,
+    "wof:name":"Rwentobo",
+    "wof:parent_id":1092073825,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.19472,
+    -1.18944,
+    30.19472,
+    -1.18944
+],
+  "geometry": {"coordinates":[30.19472,-1.18944],"type":"Point"}
+}

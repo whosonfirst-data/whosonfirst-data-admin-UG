@@ -1,0 +1,70 @@
+{
+  "id": 1226778625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.98584,0.61148,33.98584,0.61148",
+    "geom:latitude":0.61148,
+    "geom:longitude":33.98584,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"76",
+    "gn:admin3_code":"8644131.0",
+    "gn:admin4_code":"8657528.0",
+    "gn:asciiname":"Iyolwa",
+    "gn:country_code":"UG",
+    "gn:dem":1107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":233140,
+    "gn:latitude":0.61148,
+    "gn:longitude":33.98584,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Iyolwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679989,
+        1092074289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233140
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"dad05a47e1b2bab37970a0d6bf62cda8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074289,
+            "locality_id":1226778625,
+            "region_id":85679989
+        }
+    ],
+    "wof:id":1226778625,
+    "wof:lastmodified":1536668296,
+    "wof:name":"Iyolwa",
+    "wof:parent_id":1092074289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.98584,
+    0.61148,
+    33.98584,
+    0.61148
+],
+  "geometry": {"coordinates":[33.98584,0.61148],"type":"Point"}
+}

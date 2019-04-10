@@ -1,0 +1,70 @@
+{
+  "id": 1293019697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.00746,2.86692,31.00746,2.86692",
+    "geom:latitude":2.86692,
+    "geom:longitude":31.00746,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"226029.0",
+    "gn:admin4_code":"8658545.0",
+    "gn:asciiname":"Ombavu",
+    "gn:country_code":"UG",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8081221,
+    "gn:latitude":2.86692,
+    "gn:longitude":31.00746,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ombavu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679837,
+        1092074259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8081221
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9b4c72922486fbfb1cca2189dcad71dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074259,
+            "locality_id":1293019697,
+            "region_id":85679837
+        }
+    ],
+    "wof:id":1293019697,
+    "wof:lastmodified":1536964269,
+    "wof:name":"Ombavu",
+    "wof:parent_id":1092074259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.00746,
+    2.86692,
+    31.00746,
+    2.86692
+],
+  "geometry": {"coordinates":[31.00746,2.86692],"type":"Point"}
+}

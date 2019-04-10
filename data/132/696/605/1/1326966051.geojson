@@ -1,0 +1,70 @@
+{
+  "id": 1326966051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.6579,0.39023,32.6579,0.39023",
+    "geom:latitude":0.39023,
+    "geom:longitude":32.6579,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"7732385.0",
+    "gn:admin4_code":"8658187.0",
+    "gn:asciiname":"Nabwojo",
+    "gn:country_code":"UG",
+    "gn:dem":1198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11356934,
+    "gn:latitude":0.39023,
+    "gn:longitude":32.6579,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Nabwojo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679879,
+        1092072041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11356934
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"47ebeb1e4f7d9418dc9601a723cbeef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072041,
+            "locality_id":1326966051,
+            "region_id":85679879
+        }
+    ],
+    "wof:id":1326966051,
+    "wof:lastmodified":1536854914,
+    "wof:name":"Nabwojo",
+    "wof:parent_id":1092072041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.6579,
+    0.39023,
+    32.6579,
+    0.39023
+],
+  "geometry": {"coordinates":[32.6579,0.39023],"type":"Point"}
+}

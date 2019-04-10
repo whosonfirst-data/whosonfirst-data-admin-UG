@@ -1,0 +1,68 @@
+{
+  "id": 1242808709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.1495,0.79722,33.1495,0.79722",
+    "geom:latitude":0.79722,
+    "geom:longitude":33.1495,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"38",
+    "gn:asciiname":"Butuma",
+    "gn:country_code":"UG",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552939,
+    "gn:latitude":0.79722,
+    "gn:longitude":33.1495,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Butuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679795,
+        1092070253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552939
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7bb8c06e2197deb687ae9313bdc0beb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070253,
+            "locality_id":1242808709,
+            "region_id":85679795
+        }
+    ],
+    "wof:id":1242808709,
+    "wof:lastmodified":1536731193,
+    "wof:name":"Butuma",
+    "wof:parent_id":1092070253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.1495,
+    0.79722,
+    33.1495,
+    0.79722
+],
+  "geometry": {"coordinates":[33.1495,0.79722],"type":"Point"}
+}

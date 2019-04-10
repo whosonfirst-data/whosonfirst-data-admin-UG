@@ -1,0 +1,70 @@
+{
+  "id": 1327153037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.56823,3.41147,31.56823,3.41147",
+    "geom:latitude":3.41147,
+    "geom:longitude":31.56823,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"72",
+    "gn:admin3_code":"8644127.0",
+    "gn:admin4_code":"8657844.0",
+    "gn:asciiname":"Waka",
+    "gn:country_code":"UG",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8261570,
+    "gn:latitude":3.41147,
+    "gn:longitude":31.56823,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Waka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679853,
+        1092073299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8261570
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b5ac491e9e7b055049a0ba355d133c8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073299,
+            "locality_id":1327153037,
+            "region_id":85679853
+        }
+    ],
+    "wof:id":1327153037,
+    "wof:lastmodified":1537081014,
+    "wof:name":"Waka",
+    "wof:parent_id":1092073299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.56823,
+    3.41147,
+    31.56823,
+    3.41147
+],
+  "geometry": {"coordinates":[31.56823,3.41147],"type":"Point"}
+}

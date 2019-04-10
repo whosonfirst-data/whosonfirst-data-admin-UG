@@ -1,0 +1,70 @@
+{
+  "id": 1259717237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.81667,0.75,31.81667,0.75",
+    "geom:latitude":0.75,
+    "geom:longitude":31.81667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"56",
+    "gn:admin3_code":"8644175.0",
+    "gn:admin4_code":"8658708.0",
+    "gn:asciiname":"Bulyambide",
+    "gn:country_code":"UG",
+    "gn:dem":1308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234215,
+    "gn:latitude":0.75,
+    "gn:longitude":31.81667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Bulyambide",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679889,
+        1092071357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234215
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2c10636e17d08b0f1061de3fca3135ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071357,
+            "locality_id":1259717237,
+            "region_id":85679889
+        }
+    ],
+    "wof:id":1259717237,
+    "wof:lastmodified":1537017779,
+    "wof:name":"Bulyambide",
+    "wof:parent_id":1092071357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.81667,
+    0.75,
+    31.81667,
+    0.75
+],
+  "geometry": {"coordinates":[31.81667,0.75],"type":"Point"}
+}

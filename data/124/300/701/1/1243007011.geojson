@@ -1,0 +1,70 @@
+{
+  "id": 1243007011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.93528,0.54667,30.93528,0.54667",
+    "geom:latitude":0.54667,
+    "geom:longitude":30.93528,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"G2",
+    "gn:admin3_code":"230499.0",
+    "gn:admin4_code":"8657718.0",
+    "gn:asciiname":"Kakabara",
+    "gn:country_code":"UG",
+    "gn:dem":1410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232701,
+    "gn:latitude":0.54667,
+    "gn:longitude":30.93528,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kakabara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680183,
+        1092072113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232701
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d3f39203272ca1fbe538c978619af779",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072113,
+            "locality_id":1243007011,
+            "region_id":85680183
+        }
+    ],
+    "wof:id":1243007011,
+    "wof:lastmodified":1536942699,
+    "wof:name":"Kakabara",
+    "wof:parent_id":1092072113,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.93528,
+    0.54667,
+    30.93528,
+    0.54667
+],
+  "geometry": {"coordinates":[30.93528,0.54667],"type":"Point"}
+}

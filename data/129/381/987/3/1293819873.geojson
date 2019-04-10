@@ -1,0 +1,68 @@
+{
+  "id": 1293819873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.81957,0.86035,33.81957,0.86035",
+    "geom:latitude":0.86035,
+    "geom:longitude":33.81957,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"C6",
+    "gn:asciiname":"Bugwera",
+    "gn:country_code":"UG",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429884,
+    "gn:latitude":0.86035,
+    "gn:longitude":33.81957,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bugwera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679981,
+        1092069677
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429884
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"40445ada24372de3d60227abdd6628b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069677,
+            "locality_id":1293819873,
+            "region_id":85679981
+        }
+    ],
+    "wof:id":1293819873,
+    "wof:lastmodified":1536804800,
+    "wof:name":"Bugwera",
+    "wof:parent_id":1092069677,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.81957,
+    0.86035,
+    33.81957,
+    0.86035
+],
+  "geometry": {"coordinates":[33.81957,0.86035],"type":"Point"}
+}

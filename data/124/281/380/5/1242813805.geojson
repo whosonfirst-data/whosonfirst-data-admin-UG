@@ -1,0 +1,68 @@
+{
+  "id": 1242813805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.22397,0.34865,32.22397,0.34865",
+    "geom:latitude":0.34865,
+    "geom:longitude":32.22397,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:asciiname":"Kasenya",
+    "gn:country_code":"UG",
+    "gn:dem":1201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11551833,
+    "gn:latitude":0.34865,
+    "gn:longitude":32.22397,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kasenya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679891,
+        1092069929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11551833
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3103aa862e540f544f4ff5c96c22b5eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069929,
+            "locality_id":1242813805,
+            "region_id":85679891
+        }
+    ],
+    "wof:id":1242813805,
+    "wof:lastmodified":1536723800,
+    "wof:name":"Kasenya",
+    "wof:parent_id":1092069929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.22397,
+    0.34865,
+    32.22397,
+    0.34865
+],
+  "geometry": {"coordinates":[32.22397,0.34865],"type":"Point"}
+}

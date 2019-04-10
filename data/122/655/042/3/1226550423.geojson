@@ -1,0 +1,74 @@
+{
+  "id": 1226550423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.30322,2.2255,31.30322,2.2255",
+    "geom:latitude":2.2255,
+    "geom:longitude":31.30322,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"I6",
+    "gn:admin3_code":"233111.0",
+    "gn:admin4_code":"8261566.0",
+    "gn:asciiname":"Nyakageyi",
+    "gn:country_code":"UG",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227502,
+    "gn:latitude":2.2255,
+    "gn:longitude":31.30322,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Nyakageyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyakagey",
+        "Nyakageyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679849,
+        1092070857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227502
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d33250a95d72209cb54052d16f437019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070857,
+            "locality_id":1226550423,
+            "region_id":85679849
+        }
+    ],
+    "wof:id":1226550423,
+    "wof:lastmodified":1537712066,
+    "wof:name":"Nyakageyi",
+    "wof:parent_id":1092070857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.30322,
+    2.2255,
+    31.30322,
+    2.2255
+],
+  "geometry": {"coordinates":[31.30322,2.2255],"type":"Point"}
+}

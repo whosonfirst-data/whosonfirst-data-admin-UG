@@ -1,0 +1,81 @@
+{
+  "id": 890450035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.17444,0.64222,33.17444,0.64222",
+    "geom:latitude":0.64222,
+    "geom:longitude":33.17444,
+    "gn:country":"UG",
+    "gn:fcode":"PPL",
+    "gn:pop":15130,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Buwenge"
+    ],
+    "name:eng_x_preferred":[
+        "Buwenge"
+    ],
+    "name:lug_x_preferred":[
+        "Buwenge"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0648\u06cc\u0646\u06af\u06d2"
+    ],
+    "qs:name":"Buwenge",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wd:wordcount":412,
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679773,
+        1092071019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":233886,
+        "gp:id":1451187,
+        "qs:id":79694,
+        "wd:id":"Q5003228",
+        "wk:page":"Buwenge"
+    },
+    "wof:country":"UG",
+    "wof:created":1469052721,
+    "wof:geomhash":"685e0d9ac9717f8c532647745255e939",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071019,
+            "locality_id":890450035,
+            "region_id":85679773
+        }
+    ],
+    "wof:id":890450035,
+    "wof:lastmodified":1527792965,
+    "wof:name":"Buwenge",
+    "wof:parent_id":1092071019,
+    "wof:placetype":"locality",
+    "wof:population":15130,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.17444,
+    0.64222,
+    33.17444,
+    0.64222
+],
+  "geometry": {"coordinates":[33.17444,0.64222],"type":"Point"}
+}

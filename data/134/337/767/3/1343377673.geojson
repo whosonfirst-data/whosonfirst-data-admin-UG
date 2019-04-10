@@ -1,0 +1,70 @@
+{
+  "id": 1343377673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.22373,2.14501,33.22373,2.14501",
+    "geom:latitude":2.14501,
+    "geom:longitude":33.22373,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"E4",
+    "gn:admin3_code":"229109.0",
+    "gn:admin4_code":"8657777.0",
+    "gn:asciiname":"Abako",
+    "gn:country_code":"UG",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8617613,
+    "gn:latitude":2.14501,
+    "gn:longitude":33.22373,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Abako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680161,
+        1092072869
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8617613
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"516137e149b36704baca38266995c63e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072869,
+            "locality_id":1343377673,
+            "region_id":85680161
+        }
+    ],
+    "wof:id":1343377673,
+    "wof:lastmodified":1536864318,
+    "wof:name":"Abako",
+    "wof:parent_id":1092072869,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.22373,
+    2.14501,
+    33.22373,
+    2.14501
+],
+  "geometry": {"coordinates":[33.22373,2.14501],"type":"Point"}
+}

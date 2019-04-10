@@ -1,0 +1,74 @@
+{
+  "id": 1326660775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.66667,0.61667,32.66667,0.61667",
+    "geom:latitude":0.61667,
+    "geom:longitude":32.66667,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"70",
+    "gn:admin3_code":"8644157.0",
+    "gn:admin4_code":"8657739.0",
+    "gn:asciiname":"Kyetume",
+    "gn:country_code":"UG",
+    "gn:dem":1099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":230280,
+    "gn:latitude":0.61667,
+    "gn:longitude":32.66667,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyetume",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kyetw",
+        "Kyetume"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679881,
+        1092068633
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":230280
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"e8ae567bb97a3795a88395d9f888ca02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068633,
+            "locality_id":1326660775,
+            "region_id":85679881
+        }
+    ],
+    "wof:id":1326660775,
+    "wof:lastmodified":1537712079,
+    "wof:name":"Kyetume",
+    "wof:parent_id":1092068633,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.66667,
+    0.61667,
+    32.66667,
+    0.61667
+],
+  "geometry": {"coordinates":[32.66667,0.61667],"type":"Point"}
+}

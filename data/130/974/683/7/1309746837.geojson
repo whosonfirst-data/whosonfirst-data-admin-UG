@@ -1,0 +1,68 @@
+{
+  "id": 1309746837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.80379,0.9733,33.80379,0.9733",
+    "geom:latitude":0.9733,
+    "geom:longitude":33.80379,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"F6",
+    "gn:asciiname":"Mikombe",
+    "gn:country_code":"UG",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429771,
+    "gn:latitude":0.9733,
+    "gn:longitude":33.80379,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Mikombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680111,
+        1092071585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429771
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"aea5dd2c049298ae4cb8f3838cf9564b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071585,
+            "locality_id":1309746837,
+            "region_id":85680111
+        }
+    ],
+    "wof:id":1309746837,
+    "wof:lastmodified":1537015440,
+    "wof:name":"Mikombe",
+    "wof:parent_id":1092071585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.80379,
+    0.9733,
+    33.80379,
+    0.9733
+],
+  "geometry": {"coordinates":[33.80379,0.9733],"type":"Point"}
+}

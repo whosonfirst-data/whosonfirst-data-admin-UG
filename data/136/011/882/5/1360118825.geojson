@@ -1,0 +1,70 @@
+{
+  "id": 1360118825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.34806,0.12152,32.34806,0.12152",
+    "geom:latitude":0.12152,
+    "geom:longitude":32.34806,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:admin3_code":"234053.0",
+    "gn:admin4_code":"8657875.0",
+    "gn:asciiname":"Bulumbu",
+    "gn:country_code":"UG",
+    "gn:dem":1177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234231,
+    "gn:latitude":0.12152,
+    "gn:longitude":32.34806,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Bulumbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234231
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"433f87ac9f5c62a5aded8efaec1ae473",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1360118825,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1360118825,
+    "wof:lastmodified":1536896851,
+    "wof:name":"Bulumbu",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.34806,
+    0.12152,
+    32.34806,
+    0.12152
+],
+  "geometry": {"coordinates":[32.34806,0.12152],"type":"Point"}
+}

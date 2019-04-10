@@ -1,0 +1,70 @@
+{
+  "id": 1277113773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.95,1.51667,30.95,1.51667",
+    "geom:latitude":1.51667,
+    "geom:longitude":30.95,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"8644163.0",
+    "gn:admin4_code":"8657785.0",
+    "gn:asciiname":"Munihoro",
+    "gn:country_code":"UG",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228800,
+    "gn:latitude":1.51667,
+    "gn:longitude":30.95,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Munihoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679933,
+        1092069075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228800
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"acdedc5cc3794b31cb0698c5925764de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069075,
+            "locality_id":1277113773,
+            "region_id":85679933
+        }
+    ],
+    "wof:id":1277113773,
+    "wof:lastmodified":1536723171,
+    "wof:name":"Munihoro",
+    "wof:parent_id":1092069075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.95,
+    1.51667,
+    30.95,
+    1.51667
+],
+  "geometry": {"coordinates":[30.95,1.51667],"type":"Point"}
+}

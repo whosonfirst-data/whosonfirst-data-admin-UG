@@ -1,0 +1,73 @@
+{
+  "id": 1242809169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.22852,0.23393,33.22852,0.23393",
+    "geom:latitude":0.23393,
+    "geom:longitude":33.22852,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F2",
+    "gn:admin3_code":"233919.0",
+    "gn:admin4_code":"8658641.0",
+    "gn:asciiname":"Galamo",
+    "gn:country_code":"UG",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11356776,
+    "gn:latitude":0.23393,
+    "gn:longitude":33.22852,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Galamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Galamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680125,
+        1092070099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11356776
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4a29704ee67005ea1c3ca6ea7c494a3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070099,
+            "locality_id":1242809169,
+            "region_id":85680125
+        }
+    ],
+    "wof:id":1242809169,
+    "wof:lastmodified":1537712138,
+    "wof:name":"Galamo",
+    "wof:parent_id":1092070099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.22852,
+    0.23393,
+    33.22852,
+    0.23393
+],
+  "geometry": {"coordinates":[33.22852,0.23393],"type":"Point"}
+}

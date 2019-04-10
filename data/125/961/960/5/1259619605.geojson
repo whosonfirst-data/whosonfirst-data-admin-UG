@@ -1,0 +1,75 @@
+{
+  "id": 1259619605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.49389,-0.93417,30.49389,-0.93417",
+    "geom:latitude":-0.93417,
+    "geom:longitude":30.49389,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"59",
+    "gn:admin3_code":"7732260.0",
+    "gn:admin4_code":"8658657.0",
+    "gn:asciiname":"Rukoni",
+    "gn:cc2":"UG",
+    "gn:country_code":"UG",
+    "gn:dem":1322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226604,
+    "gn:latitude":-0.93417,
+    "gn:longitude":30.49389,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Rukoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lukoni",
+        "Rukoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680059,
+        1092073713
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226604
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a99adc763a21264ba9cc49e3dc974f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073713,
+            "locality_id":1259619605,
+            "region_id":85680059
+        }
+    ],
+    "wof:id":1259619605,
+    "wof:lastmodified":1537712057,
+    "wof:name":"Rukoni",
+    "wof:parent_id":1092073713,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.49389,
+    -0.93417,
+    30.49389,
+    -0.93417
+],
+  "geometry": {"coordinates":[30.49389,-0.93417],"type":"Point"}
+}

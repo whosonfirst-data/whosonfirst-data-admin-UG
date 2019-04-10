@@ -1,0 +1,70 @@
+{
+  "id": 1310236463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.1,0.16667,32.1,0.16667",
+    "geom:latitude":0.16667,
+    "geom:longitude":32.1,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F1",
+    "gn:admin3_code":"234000.0",
+    "gn:admin4_code":"8658354.0",
+    "gn:asciiname":"Kayenje",
+    "gn:country_code":"UG",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231723,
+    "gn:latitude":0.16667,
+    "gn:longitude":32.1,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kayenje",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680131,
+        1092069969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231723
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"92a96e4fb871b1a84dfd0c7de8127872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069969,
+            "locality_id":1310236463,
+            "region_id":85680131
+        }
+    ],
+    "wof:id":1310236463,
+    "wof:lastmodified":1536807307,
+    "wof:name":"Kayenje",
+    "wof:parent_id":1092069969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.1,
+    0.16667,
+    32.1,
+    0.16667
+],
+  "geometry": {"coordinates":[32.1,0.16667],"type":"Point"}
+}

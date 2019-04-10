@@ -1,0 +1,71 @@
+{
+  "id": 1344090365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.21035,0.75413,30.21035,0.75413",
+    "geom:latitude":0.75413,
+    "geom:longitude":30.21035,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"H1",
+    "gn:asciiname":"Buhembe",
+    "gn:country_code":"UG",
+    "gn:dem":1291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11401520,
+    "gn:latitude":0.75413,
+    "gn:longitude":30.21035,
+    "gn:modification_date":"2017-01-06",
+    "gn:name":"Buhembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Buhembe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11401520
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"aa2e656953121b3c8456a29a67da9fbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069721,
+            "locality_id":1344090365,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1344090365,
+    "wof:lastmodified":1537712139,
+    "wof:name":"Buhembe",
+    "wof:parent_id":1092069721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.21035,
+    0.75413,
+    30.21035,
+    0.75413
+],
+  "geometry": {"coordinates":[30.21035,0.75413],"type":"Point"}
+}

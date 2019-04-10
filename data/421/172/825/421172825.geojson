@@ -1,0 +1,76 @@
+{
+  "id": 421172825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.62722,0.26472,32.62722,0.26472",
+    "geom:latitude":0.26472,
+    "geom:longitude":32.62722,
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"UG",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":443180,
+    "qs:gn_pop":0,
+    "qs:name":"Gaba",
+    "qs:name_adm0":"Uganda",
+    "qs:name_adm1":"Kampala",
+    "qs:photos":216,
+    "qs:photos_1k":44,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":216,
+    "qs:photos_sr":4,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":479087,
+    "qs:woe_adm0":23424974,
+    "qs:woe_id":1451396,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679867,
+        1092071203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443180,
+        "gp:id":1451396,
+        "qs:id":479087
+    },
+    "wof:country":"UG",
+    "wof:created":1459008956,
+    "wof:geomhash":"a347f060c311e36dd412a454b6818eca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071203,
+            "locality_id":421172825,
+            "region_id":85679867
+        }
+    ],
+    "wof:id":421172825,
+    "wof:lastmodified":1500075026,
+    "wof:name":"Gaba",
+    "wof:parent_id":1092071203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.62722,
+    0.26472,
+    32.62722,
+    0.26472
+],
+  "geometry": {"coordinates":[32.62722,0.26472],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242796505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.41099,3.00004,31.41099,3.00004",
+    "geom:latitude":3.00004,
+    "geom:longitude":31.41099,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"77",
+    "gn:admin3_code":"8644146.0",
+    "gn:admin4_code":"8658638.0",
+    "gn:asciiname":"Agonvususu",
+    "gn:country_code":"UG",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8081202,
+    "gn:latitude":3.00004,
+    "gn:longitude":31.41099,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Agonvususu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092074425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8081202
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"20d22ae46ae78316556c542e52534bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074425,
+            "locality_id":1242796505,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1242796505,
+    "wof:lastmodified":1536748166,
+    "wof:name":"Agonvususu",
+    "wof:parent_id":1092074425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.41099,
+    3.00004,
+    31.41099,
+    3.00004
+],
+  "geometry": {"coordinates":[31.41099,3.00004],"type":"Point"}
+}

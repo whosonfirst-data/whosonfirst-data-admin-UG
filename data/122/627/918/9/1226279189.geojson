@@ -1,0 +1,68 @@
+{
+  "id": 1226279189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.21943,0.41004,32.21943,0.41004",
+    "geom:latitude":0.41004,
+    "geom:longitude":32.21943,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:asciiname":"Kitete",
+    "gn:country_code":"UG",
+    "gn:dem":1164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11551832,
+    "gn:latitude":0.41004,
+    "gn:longitude":32.21943,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kitete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679891,
+        1092072811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11551832
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"be1302eec44db1b24bea36e1a6eca60d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072811,
+            "locality_id":1226279189,
+            "region_id":85679891
+        }
+    ],
+    "wof:id":1226279189,
+    "wof:lastmodified":1536884816,
+    "wof:name":"Kitete",
+    "wof:parent_id":1092072811,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.21943,
+    0.41004,
+    32.21943,
+    0.41004
+],
+  "geometry": {"coordinates":[32.21943,0.41004],"type":"Point"}
+}

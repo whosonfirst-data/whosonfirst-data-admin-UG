@@ -1,0 +1,70 @@
+{
+  "id": 1360321045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.87045,0.46267,32.87045,0.46267",
+    "geom:latitude":0.46267,
+    "geom:longitude":32.87045,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"90",
+    "gn:admin3_code":"7732383.0",
+    "gn:admin4_code":"8658222.0",
+    "gn:asciiname":"Kasokoso",
+    "gn:country_code":"UG",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11357165,
+    "gn:latitude":0.46267,
+    "gn:longitude":32.87045,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Kasokoso",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679817,
+        1092073015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11357165
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a251d463262d7b9c266c16d1038efb7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073015,
+            "locality_id":1360321045,
+            "region_id":85679817
+        }
+    ],
+    "wof:id":1360321045,
+    "wof:lastmodified":1536602075,
+    "wof:name":"Kasokoso",
+    "wof:parent_id":1092073015,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.87045,
+    0.46267,
+    32.87045,
+    0.46267
+],
+  "geometry": {"coordinates":[32.87045,0.46267],"type":"Point"}
+}

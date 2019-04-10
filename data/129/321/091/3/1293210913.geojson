@@ -1,0 +1,70 @@
+{
+  "id": 1293210913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.78172,3.72487,31.78172,3.72487",
+    "geom:latitude":3.72487,
+    "geom:longitude":31.78172,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"72",
+    "gn:admin3_code":"8644132.0",
+    "gn:admin4_code":"8657820.0",
+    "gn:asciiname":"Metuli",
+    "gn:country_code":"UG",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229213,
+    "gn:latitude":3.72487,
+    "gn:longitude":31.78172,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Metuli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679853,
+        1092074321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229213
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2c1ee4874314f3ed9fdc1b1c70f0396f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074321,
+            "locality_id":1293210913,
+            "region_id":85679853
+        }
+    ],
+    "wof:id":1293210913,
+    "wof:lastmodified":1536688768,
+    "wof:name":"Metuli",
+    "wof:parent_id":1092074321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.78172,
+    3.72487,
+    31.78172,
+    3.72487
+],
+  "geometry": {"coordinates":[31.78172,3.72487],"type":"Point"}
+}

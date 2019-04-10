@@ -1,0 +1,67 @@
+{
+  "id": 1209229631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.93137,1.66949,32.93137,1.66949",
+    "geom:latitude":1.66949,
+    "geom:longitude":32.93137,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"B7",
+    "gn:admin3_code":"231170.0",
+    "gn:admin4_code":"8658485.0",
+    "gn:asciiname":"Agikdak",
+    "gn:country_code":"UG",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":235449,
+    "gn:latitude":1.66949,
+    "gn:longitude":32.93137,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Agikdak",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Agikdak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235449
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"b163c364172acff3d6833ce943a517fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209229631
+        }
+    ],
+    "wof:id":1209229631,
+    "wof:lastmodified":1537712111,
+    "wof:name":"Agikdak",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.93137,
+    1.66949,
+    32.93137,
+    1.66949
+],
+  "geometry": {"coordinates":[32.93137,1.66949],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1226376165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.86928,0.99022,33.86928,0.99022",
+    "geom:latitude":0.99022,
+    "geom:longitude":33.86928,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"F6",
+    "gn:asciiname":"Bwase",
+    "gn:country_code":"UG",
+    "gn:dem":1082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11429545,
+    "gn:latitude":0.99022,
+    "gn:longitude":33.86928,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bwase",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680111,
+        1092071585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11429545
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"59345751b82ff9d2dda6fc7a1b3b6e9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071585,
+            "locality_id":1226376165,
+            "region_id":85680111
+        }
+    ],
+    "wof:id":1226376165,
+    "wof:lastmodified":1536745496,
+    "wof:name":"Bwase",
+    "wof:parent_id":1092071585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.86928,
+    0.99022,
+    33.86928,
+    0.99022
+],
+  "geometry": {"coordinates":[33.86928,0.99022],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1226179419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.59028,-1.07028,30.59028,-1.07028",
+    "geom:latitude":-1.07028,
+    "geom:longitude":30.59028,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"C9",
+    "gn:asciiname":"Ruborogota",
+    "gn:country_code":"UG",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":226670,
+    "gn:latitude":-1.07028,
+    "gn:longitude":30.59028,
+    "gn:modification_date":"2012-04-28",
+    "gn:name":"Ruborogota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruborogoto",
+        "Ruborogota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632227,
+        85679665,
+        1108693101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":226670
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2a2d0ccf8ca71e53a8873cecc9e97e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693101,
+            "locality_id":1226179419,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1226179419,
+    "wof:lastmodified":1537712057,
+    "wof:name":"Ruborogota",
+    "wof:parent_id":1108693101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.59028,
+    -1.07028,
+    30.59028,
+    -1.07028
+],
+  "geometry": {"coordinates":[30.59028,-1.07028],"type":"Point"}
+}

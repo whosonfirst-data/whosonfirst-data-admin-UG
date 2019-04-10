@@ -1,0 +1,70 @@
+{
+  "id": 1327352255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.45,2.96667,33.45,2.96667",
+    "geom:latitude":2.96667,
+    "geom:longitude":33.45,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"E3",
+    "gn:admin3_code":"235459.0",
+    "gn:admin4_code":"8657931.0",
+    "gn:asciiname":"Amiel",
+    "gn:country_code":"UG",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":235219,
+    "gn:latitude":2.96667,
+    "gn:longitude":33.45,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Amiel",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680169,
+        1092068365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":235219
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"f456fbdde39ed61ba56cbef458472595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068365,
+            "locality_id":1327352255,
+            "region_id":85680169
+        }
+    ],
+    "wof:id":1327352255,
+    "wof:lastmodified":1536796782,
+    "wof:name":"Amiel",
+    "wof:parent_id":1092068365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.45,
+    2.96667,
+    33.45,
+    2.96667
+],
+  "geometry": {"coordinates":[33.45,2.96667],"type":"Point"}
+}

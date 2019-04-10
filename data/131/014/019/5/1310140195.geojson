@@ -1,0 +1,70 @@
+{
+  "id": 1310140195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.92644,0.15573,32.92644,0.15573",
+    "geom:latitude":0.15573,
+    "geom:longitude":32.92644,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E7",
+    "gn:admin3_code":"7732075.0",
+    "gn:admin4_code":"8658088.0",
+    "gn:asciiname":"Kyabayima",
+    "gn:country_code":"UG",
+    "gn:dem":1254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11357621,
+    "gn:latitude":0.15573,
+    "gn:longitude":32.92644,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Kyabayima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680121,
+        1092069145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11357621
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7c64788795a86b9e39abd0702b292752",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069145,
+            "locality_id":1310140195,
+            "region_id":85680121
+        }
+    ],
+    "wof:id":1310140195,
+    "wof:lastmodified":1536946852,
+    "wof:name":"Kyabayima",
+    "wof:parent_id":1092069145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.92644,
+    0.15573,
+    32.92644,
+    0.15573
+],
+  "geometry": {"coordinates":[32.92644,0.15573],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209229669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.12719,3.34458,31.12719,3.34458",
+    "geom:latitude":3.34458,
+    "geom:longitude":31.12719,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"97",
+    "gn:admin3_code":"235054.0",
+    "gn:admin4_code":"8657731.0",
+    "gn:asciiname":"Mongoyo",
+    "gn:country_code":"UG",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8079520,
+    "gn:latitude":3.34458,
+    "gn:longitude":31.12719,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mongoyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8079520
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4119de217d701890a451a546eb747a7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209229669
+        }
+    ],
+    "wof:id":1209229669,
+    "wof:lastmodified":1536293677,
+    "wof:name":"Mongoyo",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.12719,
+    3.34458,
+    31.12719,
+    3.34458
+],
+  "geometry": {"coordinates":[31.12719,3.34458],"type":"Point"}
+}

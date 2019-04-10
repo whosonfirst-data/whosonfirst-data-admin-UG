@@ -1,0 +1,70 @@
+{
+  "id": 1343772473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.49205,2.48181,31.49205,2.48181",
+    "geom:latitude":2.48181,
+    "geom:longitude":31.49205,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"I6",
+    "gn:admin3_code":"233111.0",
+    "gn:admin4_code":"8080351.0",
+    "gn:asciiname":"Amor",
+    "gn:country_code":"UG",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8080381,
+    "gn:latitude":2.48181,
+    "gn:longitude":31.49205,
+    "gn:modification_date":"2018-06-23",
+    "gn:name":"Amor",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679849,
+        1092070857
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8080381
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"56b393d7ec1e75c4dbf0c0856ca91502",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092070857,
+            "locality_id":1343772473,
+            "region_id":85679849
+        }
+    ],
+    "wof:id":1343772473,
+    "wof:lastmodified":1536793788,
+    "wof:name":"Amor",
+    "wof:parent_id":1092070857,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.49205,
+    2.48181,
+    31.49205,
+    2.48181
+],
+  "geometry": {"coordinates":[31.49205,2.48181],"type":"Point"}
+}

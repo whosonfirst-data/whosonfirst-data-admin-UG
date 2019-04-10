@@ -1,0 +1,70 @@
+{
+  "id": 1310315585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.38333,3.22712,33.38333,3.22712",
+    "geom:latitude":3.22712,
+    "geom:longitude":33.38333,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"E3",
+    "gn:admin3_code":"235459.0",
+    "gn:admin4_code":"8643680.0",
+    "gn:asciiname":"Omiya Pachua",
+    "gn:country_code":"UG",
+    "gn:dem":1126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227048,
+    "gn:latitude":3.22712,
+    "gn:longitude":33.38333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Omiya Pachua",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680169,
+        1092068365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227048
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a75e0ba052af65f415a9dc3b8ba1884f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068365,
+            "locality_id":1310315585,
+            "region_id":85680169
+        }
+    ],
+    "wof:id":1310315585,
+    "wof:lastmodified":1536693492,
+    "wof:name":"Omiya Pachua",
+    "wof:parent_id":1092068365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.38333,
+    3.22712,
+    33.38333,
+    3.22712
+],
+  "geometry": {"coordinates":[33.38333,3.22712],"type":"Point"}
+}

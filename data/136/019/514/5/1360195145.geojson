@@ -1,0 +1,70 @@
+{
+  "id": 1360195145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.85116,3.24701,30.85116,3.24701",
+    "geom:latitude":3.24701,
+    "geom:longitude":30.85116,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"D7",
+    "gn:admin3_code":"229396.0",
+    "gn:admin4_code":"8658259.0",
+    "gn:asciiname":"Kamaka",
+    "gn:country_code":"UG",
+    "gn:dem":1262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232459,
+    "gn:latitude":3.24701,
+    "gn:longitude":30.85116,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kamaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679861,
+        1092072511
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232459
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"c9c378ba53da8bc5600c0d36dfbcc8d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092072511,
+            "locality_id":1360195145,
+            "region_id":85679861
+        }
+    ],
+    "wof:id":1360195145,
+    "wof:lastmodified":1536787261,
+    "wof:name":"Kamaka",
+    "wof:parent_id":1092072511,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.85116,
+    3.24701,
+    30.85116,
+    3.24701
+],
+  "geometry": {"coordinates":[30.85116,3.24701],"type":"Point"}
+}

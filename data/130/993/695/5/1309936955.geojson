@@ -1,0 +1,70 @@
+{
+  "id": 1309936955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1,-0.28333,30.1,-0.28333",
+    "geom:latitude":-0.28333,
+    "geom:longitude":30.1,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"H4",
+    "gn:admin3_code":"234151.0",
+    "gn:admin4_code":"8658660.0",
+    "gn:asciiname":"Ndeke",
+    "gn:country_code":"UG",
+    "gn:dem":1379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227925,
+    "gn:latitude":-0.28333,
+    "gn:longitude":30.1,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Ndeke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680229,
+        1092074343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227925
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9466a9ae385dc8a85292956ccdbbf731",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074343,
+            "locality_id":1309936955,
+            "region_id":85680229
+        }
+    ],
+    "wof:id":1309936955,
+    "wof:lastmodified":1536741966,
+    "wof:name":"Ndeke",
+    "wof:parent_id":1092074343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1,
+    -0.28333,
+    30.1,
+    -0.28333
+],
+  "geometry": {"coordinates":[30.1,-0.28333],"type":"Point"}
+}

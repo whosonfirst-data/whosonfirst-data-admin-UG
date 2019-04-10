@@ -1,0 +1,73 @@
+{
+  "id": 1326964323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.16369,0.64084,30.16369,0.64084",
+    "geom:latitude":0.64084,
+    "geom:longitude":30.16369,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"79",
+    "gn:admin3_code":"7732254.0",
+    "gn:admin4_code":"8658206.0",
+    "gn:asciiname":"Bubandi",
+    "gn:country_code":"UG",
+    "gn:dem":1681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234694,
+    "gn:latitude":0.64084,
+    "gn:longitude":30.16369,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Bubandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bubandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234694
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"5708f7cc987611bb5f2729ab447bd13b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069721,
+            "locality_id":1326964323,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1326964323,
+    "wof:lastmodified":1537712104,
+    "wof:name":"Bubandi",
+    "wof:parent_id":1092069721,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.16369000000001,
+    0.64084,
+    30.16369000000001,
+    0.64084
+],
+  "geometry": {"coordinates":[30.16369000000001,0.64084],"type":"Point"}
+}

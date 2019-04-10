@@ -1,0 +1,70 @@
+{
+  "id": 1310341981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.98592,0.31938,32.98592,0.31938",
+    "geom:latitude":0.31938,
+    "geom:longitude":32.98592,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"E7",
+    "gn:admin3_code":"7732075.0",
+    "gn:admin4_code":"8657733.0",
+    "gn:asciiname":"Nakikunyu",
+    "gn:country_code":"UG",
+    "gn:dem":1312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11357358,
+    "gn:latitude":0.31938,
+    "gn:longitude":32.98592,
+    "gn:modification_date":"2016-12-20",
+    "gn:name":"Nakikunyu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680121,
+        1092069145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11357358
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"778af589131c9b5791bfef34e4c81d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069145,
+            "locality_id":1310341981,
+            "region_id":85680121
+        }
+    ],
+    "wof:id":1310341981,
+    "wof:lastmodified":1536655273,
+    "wof:name":"Nakikunyu",
+    "wof:parent_id":1092069145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.98592,
+    0.31938,
+    32.98592,
+    0.31938
+],
+  "geometry": {"coordinates":[32.98592,0.31938],"type":"Point"}
+}

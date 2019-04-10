@@ -1,0 +1,68 @@
+{
+  "id": 1343693047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.18574,0.22078,32.18574,0.22078",
+    "geom:latitude":0.22078,
+    "geom:longitude":32.18574,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"F1",
+    "gn:asciiname":"Lubugo",
+    "gn:country_code":"UG",
+    "gn:dem":1258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552376,
+    "gn:latitude":0.22078,
+    "gn:longitude":32.18574,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Lubugo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680131,
+        1092069969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552376
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"ce6a2209237de620b860e70e407e6477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069969,
+            "locality_id":1343693047,
+            "region_id":85680131
+        }
+    ],
+    "wof:id":1343693047,
+    "wof:lastmodified":1536908418,
+    "wof:name":"Lubugo",
+    "wof:parent_id":1092069969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.18574,
+    0.22078,
+    32.18574,
+    0.22078
+],
+  "geometry": {"coordinates":[32.18574,0.22078],"type":"Point"}
+}

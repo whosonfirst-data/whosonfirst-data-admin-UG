@@ -1,0 +1,74 @@
+{
+  "id": 1293135689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.30306,1.51279,33.30306,1.51279",
+    "geom:latitude":1.51279,
+    "geom:longitude":33.30306,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"H5",
+    "gn:admin3_code":"8644174.0",
+    "gn:admin4_code":"8658743.0",
+    "gn:asciiname":"Kangota",
+    "gn:country_code":"UG",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":232324,
+    "gn:latitude":1.51279,
+    "gn:longitude":33.30306,
+    "gn:modification_date":"2018-05-09",
+    "gn:name":"Kangota",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kongota",
+        "Kangota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680119,
+        1092071333
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":232324
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"90b42313cf980d59620c7bbfe7ed302c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071333,
+            "locality_id":1293135689,
+            "region_id":85680119
+        }
+    ],
+    "wof:id":1293135689,
+    "wof:lastmodified":1537712089,
+    "wof:name":"Kangota",
+    "wof:parent_id":1092071333,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.30306,
+    1.51279,
+    33.30306,
+    1.51279
+],
+  "geometry": {"coordinates":[33.30306,1.51279],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209136397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.16111,1.39972,33.16111,1.39972",
+    "geom:latitude":1.39972,
+    "geom:longitude":33.16111,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"H5",
+    "gn:admin3_code":"8644174.0",
+    "gn:admin4_code":"8658240.0",
+    "gn:asciiname":"Mulondo",
+    "gn:country_code":"UG",
+    "gn:dem":1034,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":228811,
+    "gn:latitude":1.39972,
+    "gn:longitude":33.16111,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Mulondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Milondo",
+        "Mulondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":228811
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7f7ef2d2d77ef69c49cf51aedf7cc091",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209136397
+        }
+    ],
+    "wof:id":1209136397,
+    "wof:lastmodified":1537712072,
+    "wof:name":"Mulondo",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.16111,
+    1.39972,
+    33.16111,
+    1.39972
+],
+  "geometry": {"coordinates":[33.16111,1.39972],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1243378783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.50065,2.50038,33.50065,2.50038",
+    "geom:latitude":2.50038,
+    "geom:longitude":33.50065,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"H3",
+    "gn:admin3_code":"8644128.0",
+    "gn:admin4_code":"8657913.0",
+    "gn:asciiname":"Otuke",
+    "gn:country_code":"UG",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":8051536,
+    "gn:latitude":2.50038,
+    "gn:longitude":33.50065,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Otuke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680165,
+        1092073413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8051536,
+        "wk:page":"Otuke"
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"98649669047cc1b80cc2b7e6dc27435a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092073413,
+            "locality_id":1243378783,
+            "region_id":85680165
+        }
+    ],
+    "wof:id":1243378783,
+    "wof:lastmodified":1537575050,
+    "wof:name":"Otuke",
+    "wof:parent_id":1092073413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.50065,
+    2.50038,
+    33.50065,
+    2.50038
+],
+  "geometry": {"coordinates":[33.50065,2.50038],"type":"Point"}
+}

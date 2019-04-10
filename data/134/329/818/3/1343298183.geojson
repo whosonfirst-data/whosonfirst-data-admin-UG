@@ -1,0 +1,70 @@
+{
+  "id": 1343298183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.93333,0.8,31.93333,0.8",
+    "geom:latitude":0.8,
+    "geom:longitude":31.93333,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"8644178.0",
+    "gn:admin4_code":"8657784.0",
+    "gn:asciiname":"Lunya",
+    "gn:country_code":"UG",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":229806,
+    "gn:latitude":0.8,
+    "gn:longitude":31.93333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Lunya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        1108808409,
+        1092071543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":229806
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"365630c7e981c80f4406c820c16b5ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092071543,
+            "locality_id":1343298183,
+            "region_id":1108808409
+        }
+    ],
+    "wof:id":1343298183,
+    "wof:lastmodified":1536979746,
+    "wof:name":"Lunya",
+    "wof:parent_id":1092071543,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.93333,
+    0.8,
+    31.93333,
+    0.8
+],
+  "geometry": {"coordinates":[31.93333,0.8],"type":"Point"}
+}

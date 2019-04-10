@@ -1,0 +1,70 @@
+{
+  "id": 1343390051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.28333,0.38333,30.28333,0.38333",
+    "geom:latitude":0.38333,
+    "geom:longitude":30.28333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"79",
+    "gn:admin3_code":"7732254.0",
+    "gn:admin4_code":"8657905.0",
+    "gn:asciiname":"Nyabigaga",
+    "gn:country_code":"UG",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227570,
+    "gn:latitude":0.38333,
+    "gn:longitude":30.28333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Nyabigaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679939,
+        1092069635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227570
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"2b8e031f3efa496b2c257a1e3066ab01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069635,
+            "locality_id":1343390051,
+            "region_id":85679939
+        }
+    ],
+    "wof:id":1343390051,
+    "wof:lastmodified":1536846841,
+    "wof:name":"Nyabigaga",
+    "wof:parent_id":1092069635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.28333,
+    0.38333,
+    30.28333,
+    0.38333
+],
+  "geometry": {"coordinates":[30.28333,0.38333],"type":"Point"}
+}

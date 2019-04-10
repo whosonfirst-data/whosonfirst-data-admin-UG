@@ -1,0 +1,71 @@
+{
+  "id": 1310341583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.39231,0.86221,34.39231,0.86221",
+    "geom:latitude":0.86221,
+    "geom:longitude":34.39231,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"D6",
+    "gn:asciiname":"Bukimuma",
+    "gn:country_code":"UG",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433279,
+    "gn:latitude":0.86221,
+    "gn:longitude":34.39231,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bukimuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bukimuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679969,
+        1092068753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433279
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"268c659c9a873d41b7d42babfff44ffb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068753,
+            "locality_id":1310341583,
+            "region_id":85679969
+        }
+    ],
+    "wof:id":1310341583,
+    "wof:lastmodified":1537712166,
+    "wof:name":"Bukimuma",
+    "wof:parent_id":1092068753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.39230999999999,
+    0.86221,
+    34.39230999999999,
+    0.86221
+],
+  "geometry": {"coordinates":[34.39230999999999,0.86221],"type":"Point"}
+}

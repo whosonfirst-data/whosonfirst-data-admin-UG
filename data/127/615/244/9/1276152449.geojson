@@ -1,0 +1,71 @@
+{
+  "id": 1276152449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.00838,0.82063,34.00838,0.82063",
+    "geom:latitude":0.82063,
+    "geom:longitude":34.00838,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"76",
+    "gn:asciiname":"Pabendo",
+    "gn:country_code":"UG",
+    "gn:dem":1111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11433814,
+    "gn:latitude":0.82063,
+    "gn:longitude":34.00838,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Pabendo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pabendo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679989,
+        1092074289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11433814
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"7b305ef7f4fdcb0c304e3e536766adca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074289,
+            "locality_id":1276152449,
+            "region_id":85679989
+        }
+    ],
+    "wof:id":1276152449,
+    "wof:lastmodified":1537712178,
+    "wof:name":"Pabendo",
+    "wof:parent_id":1092074289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.00838,
+    0.82063,
+    34.00838,
+    0.82063
+],
+  "geometry": {"coordinates":[34.00838,0.82063],"type":"Point"}
+}

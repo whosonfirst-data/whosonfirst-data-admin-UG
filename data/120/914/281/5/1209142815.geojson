@@ -1,0 +1,67 @@
+{
+  "id": 1209142815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"33.53263,0.28512,33.53263,0.28512",
+    "geom:latitude":0.28512,
+    "geom:longitude":33.53263,
+    "gn:admin1_code":"E",
+    "gn:admin2_code":"86",
+    "gn:admin3_code":"8644164.0",
+    "gn:admin4_code":"8658141.0",
+    "gn:asciiname":"Bugata",
+    "gn:country_code":"UG",
+    "gn:dem":1149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":234583,
+    "gn:latitude":0.28512,
+    "gn:longitude":33.53263,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Bugata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bugata"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":234583
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"a32b12252550674a74323f93787a57b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209142815
+        }
+    ],
+    "wof:id":1209142815,
+    "wof:lastmodified":1537712103,
+    "wof:name":"Bugata",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    33.53263,
+    0.28512,
+    33.53263,
+    0.28512
+],
+  "geometry": {"coordinates":[33.53263,0.28512],"type":"Point"}
+}

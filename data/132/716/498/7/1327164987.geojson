@@ -1,0 +1,70 @@
+{
+  "id": 1327164987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.40574,2.14478,31.40574,2.14478",
+    "geom:latitude":2.14478,
+    "geom:longitude":31.40574,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"C5",
+    "gn:admin3_code":"7869947.0",
+    "gn:admin4_code":"8657780.0",
+    "gn:asciiname":"Kisansya",
+    "gn:country_code":"UG",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231056,
+    "gn:latitude":2.14478,
+    "gn:longitude":31.40574,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kisansya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679843,
+        1092069517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231056
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"4633dc98b4bd77236c9f8c445bda3a07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069517,
+            "locality_id":1327164987,
+            "region_id":85679843
+        }
+    ],
+    "wof:id":1327164987,
+    "wof:lastmodified":1537064188,
+    "wof:name":"Kisansya",
+    "wof:parent_id":1092069517,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.40574,
+    2.14478,
+    31.40574,
+    2.14478
+],
+  "geometry": {"coordinates":[31.40574,2.14478],"type":"Point"}
+}

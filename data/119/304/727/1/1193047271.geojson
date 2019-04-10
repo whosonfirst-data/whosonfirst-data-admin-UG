@@ -1,0 +1,70 @@
+{
+  "id": 1193047271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.75972,1.65386,31.75972,1.65386",
+    "geom:latitude":1.65386,
+    "geom:longitude":31.75972,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"50",
+    "gn:admin3_code":"8644149.0",
+    "gn:admin4_code":"8658715.0",
+    "gn:asciiname":"Kyamugweri",
+    "gn:country_code":"UG",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8078397,
+    "gn:latitude":1.65386,
+    "gn:longitude":31.75972,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Kyamugweri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679921,
+        1092069799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8078397
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"9903d6f826ff113b1ff8a3863f74c24f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069799,
+            "locality_id":1193047271,
+            "region_id":85679921
+        }
+    ],
+    "wof:id":1193047271,
+    "wof:lastmodified":1536369453,
+    "wof:name":"Kyamugweri",
+    "wof:parent_id":1092069799,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.75972,
+    1.65386,
+    31.75972,
+    1.65386
+],
+  "geometry": {"coordinates":[31.75972,1.65386],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209014831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.55193,3.24182,31.55193,3.24182",
+    "geom:latitude":3.24182,
+    "geom:longitude":31.55193,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"72",
+    "gn:admin3_code":"8644127.0",
+    "gn:admin4_code":"8658016.0",
+    "gn:asciiname":"Obongi",
+    "gn:country_code":"UG",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":227290,
+    "gn:latitude":3.24182,
+    "gn:longitude":31.55193,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Obongi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":227290
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"acd516c4f463922c327c5e5721b5e8d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209014831
+        }
+    ],
+    "wof:id":1209014831,
+    "wof:lastmodified":1536300329,
+    "wof:name":"Obongi",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.55193,
+    3.24182,
+    31.55193,
+    3.24182
+],
+  "geometry": {"coordinates":[31.55193,3.24182],"type":"Point"}
+}

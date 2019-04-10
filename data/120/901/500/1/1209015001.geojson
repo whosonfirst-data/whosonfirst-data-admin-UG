@@ -1,0 +1,64 @@
+{
+  "id": 1209015001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.839,3.36311,31.839,3.36311",
+    "geom:latitude":3.36311,
+    "geom:longitude":31.839,
+    "gn:admin1_code":"N",
+    "gn:admin2_code":"65",
+    "gn:admin3_code":"8644133.0",
+    "gn:admin4_code":"8657897.0",
+    "gn:asciiname":"Pabongo",
+    "gn:country_code":"UG",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8142083,
+    "gn:latitude":3.36311,
+    "gn:longitude":31.839,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Pabongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8142083
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"3a3ccab6a9504ffe0da58d666ddc9ff5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632625,
+            "locality_id":1209015001
+        }
+    ],
+    "wof:id":1209015001,
+    "wof:lastmodified":1536300323,
+    "wof:name":"Pabongo",
+    "wof:parent_id":85632625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.839,
+    3.36311,
+    31.839,
+    3.36311
+],
+  "geometry": {"coordinates":[31.839,3.36311],"type":"Point"}
+}

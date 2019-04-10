@@ -1,0 +1,68 @@
+{
+  "id": 1276374129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.42037,0.10661,32.42037,0.10661",
+    "geom:latitude":0.10661,
+    "geom:longitude":32.42037,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"96",
+    "gn:asciiname":"Kikaya",
+    "gn:country_code":"UG",
+    "gn:dem":1172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552613,
+    "gn:latitude":0.10661,
+    "gn:longitude":32.42037,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kikaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679975,
+        1092074461
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552613
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"355b72bd40bab09e82314e3cb992e131",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092074461,
+            "locality_id":1276374129,
+            "region_id":85679975
+        }
+    ],
+    "wof:id":1276374129,
+    "wof:lastmodified":1536724126,
+    "wof:name":"Kikaya",
+    "wof:parent_id":1092074461,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.42037,
+    0.10661,
+    32.42037,
+    0.10661
+],
+  "geometry": {"coordinates":[32.42037,0.10661],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343799069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.03333,-0.78333,31.03333,-0.78333",
+    "geom:latitude":-0.78333,
+    "geom:longitude":31.03333,
+    "gn:admin1_code":"W",
+    "gn:admin2_code":"C9",
+    "gn:admin3_code":"8644166.0",
+    "gn:admin4_code":"8658430.0",
+    "gn:asciiname":"Katoke",
+    "gn:country_code":"UG",
+    "gn:dem":1359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":231847,
+    "gn:latitude":-0.78333,
+    "gn:longitude":31.03333,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Katoke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680051,
+        1092069267
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":231847
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"d52a47479f36f02c3fb50ebec76c961a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069267,
+            "locality_id":1343799069,
+            "region_id":85680051
+        }
+    ],
+    "wof:id":1343799069,
+    "wof:lastmodified":1536755231,
+    "wof:name":"Katoke",
+    "wof:parent_id":1092069267,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.03333,
+    -0.78333,
+    31.03333,
+    -0.78333
+],
+  "geometry": {"coordinates":[31.03333,-0.78333],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1326566435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.25759,0.31805,32.25759,0.31805",
+    "geom:latitude":0.31805,
+    "geom:longitude":32.25759,
+    "gn:admin1_code":"C",
+    "gn:admin2_code":"D8",
+    "gn:asciiname":"Bbala",
+    "gn:country_code":"UG",
+    "gn:dem":1228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11552012,
+    "gn:latitude":0.31805,
+    "gn:longitude":32.25759,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Bbala",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kampala",
+    "iso:country":"UG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85679891,
+        1092069929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11552012
+    },
+    "wof:country":"UG",
+    "wof:geomhash":"98771154750d514378b8f16533785f4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092069929,
+            "locality_id":1326566435,
+            "region_id":85679891
+        }
+    ],
+    "wof:id":1326566435,
+    "wof:lastmodified":1536935370,
+    "wof:name":"Bbala",
+    "wof:parent_id":1092069929,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ug",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.25759,
+    0.31805,
+    32.25759,
+    0.31805
+],
+  "geometry": {"coordinates":[32.25759,0.31805],"type":"Point"}
+}
