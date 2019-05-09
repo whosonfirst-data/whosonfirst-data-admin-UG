@@ -10,6 +10,12 @@
     "geom:latitude":1.364517,
     "geom:longitude":34.123377,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Bukedea District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.373391,
     "lbl:longitude":34.135568,
     "meso:admin_1":"BUKEDEA",
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":1092069307,
-    "wof:lastmodified":1544032781,
+    "wof:lastmodified":1555092058,
     "wof:name":"Bukedea",
     "wof:parent_id":85680095,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":0.433936,
     "geom:longitude":33.233235,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Jinja District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.435343,
     "lbl:longitude":33.227746,
     "meso:admin_1":"JINJA",
@@ -42,7 +48,7 @@
         "Jinja"
     ],
     "name:eng_x_preferred":[
-        "Jinja Municipality"
+        "Jinja"
     ],
     "name:eng_x_variant":[
         "Jinja Municipality",
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":1092070823,
-    "wof:lastmodified":1553816445,
+    "wof:lastmodified":1555220362,
     "wof:name":"Jinja Municipality",
     "wof:parent_id":85679773,
     "wof:placetype":"county",

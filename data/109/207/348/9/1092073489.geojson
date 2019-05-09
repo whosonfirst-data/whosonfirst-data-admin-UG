@@ -10,6 +10,12 @@
     "geom:latitude":2.435218,
     "geom:longitude":31.178276,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Padyere District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.422289,
     "lbl:longitude":31.167764,
     "meso:admin_1":"NEBBI",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092073489,
-    "wof:lastmodified":1544032788,
+    "wof:lastmodified":1555092064,
     "wof:name":"Padyere",
     "wof:parent_id":85679849,
     "wof:placetype":"county",

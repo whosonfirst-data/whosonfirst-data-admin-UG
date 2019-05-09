@@ -10,6 +10,12 @@
     "geom:latitude":1.962317,
     "geom:longitude":31.400864,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Buliisa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.954967,
     "lbl:longitude":31.397099,
     "meso:admin_1":"BULIISA",
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":1092069517,
-    "wof:lastmodified":1544032782,
+    "wof:lastmodified":1555092058,
     "wof:name":"Buliisa",
     "wof:parent_id":85679843,
     "wof:placetype":"county",

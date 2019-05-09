@@ -10,6 +10,12 @@
     "geom:latitude":-0.609025,
     "geom:longitude":30.655504,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Mbarara District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.610106,
     "lbl:longitude":30.652014,
     "meso:admin_1":"MBARARA",
@@ -42,7 +48,7 @@
         "Mbarara"
     ],
     "name:eng_x_preferred":[
-        "Mbarara Municipality"
+        "Mbarara"
     ],
     "name:eng_x_variant":[
         "Mbarara Municipality",
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":1092072775,
-    "wof:lastmodified":1544032787,
+    "wof:lastmodified":1555220362,
     "wof:name":"Mbarara Municipality",
     "wof:parent_id":85680069,
     "wof:placetype":"county",

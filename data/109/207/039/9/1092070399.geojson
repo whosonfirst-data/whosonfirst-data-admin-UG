@@ -10,6 +10,12 @@
     "geom:latitude":3.607628,
     "geom:longitude":34.032052,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Dodoth District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.620554,
     "lbl:longitude":33.945233,
     "meso:admin_1":"KAABONG",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1092070399,
-    "wof:lastmodified":1543954406,
+    "wof:lastmodified":1555047750,
     "wof:name":"Dodoth",
     "wof:parent_id":85680007,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":1.916815,
     "geom:longitude":32.733296,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kwania District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.936725,
     "lbl:longitude":32.765878,
     "meso:admin_1":"APAC",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092071971,
-    "wof:lastmodified":1544032785,
+    "wof:lastmodified":1555092062,
     "wof:name":"Kwania",
     "wof:parent_id":85680151,
     "wof:placetype":"county",

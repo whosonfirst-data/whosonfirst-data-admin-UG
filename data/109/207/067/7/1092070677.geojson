@@ -10,6 +10,12 @@
     "geom:latitude":-0.076533,
     "geom:longitude":30.488663,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Ibanda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.076511,
     "lbl:longitude":30.491624,
     "meso:admin_1":"IBANDA",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":1092070677,
-    "wof:lastmodified":1544032783,
+    "wof:lastmodified":1555092060,
     "wof:name":"Ibanda",
     "wof:parent_id":85680047,
     "wof:placetype":"county",

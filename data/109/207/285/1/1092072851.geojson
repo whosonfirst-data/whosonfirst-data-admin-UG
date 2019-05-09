@@ -10,6 +10,12 @@
     "geom:latitude":2.532015,
     "geom:longitude":34.659496,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Moroto District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.53346,
     "lbl:longitude":34.658422,
     "meso:admin_1":"MOROTO",
@@ -42,7 +48,7 @@
         "Moroto"
     ],
     "name:eng_x_preferred":[
-        "Moroto Municipality"
+        "Moroto"
     ],
     "name:eng_x_variant":[
         "Moroto Municipality",
@@ -193,7 +199,7 @@
         }
     ],
     "wof:id":1092072851,
-    "wof:lastmodified":1544032787,
+    "wof:lastmodified":1555220362,
     "wof:name":"Moroto Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

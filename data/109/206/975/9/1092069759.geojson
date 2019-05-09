@@ -10,6 +10,12 @@
     "geom:latitude":1.354819,
     "geom:longitude":32.424491,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Buruli District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.378465,
     "lbl:longitude":32.430668,
     "meso:admin_1":"NAKASONGOLA",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1092069759,
-    "wof:lastmodified":1543954405,
+    "wof:lastmodified":1555047750,
     "wof:name":"Buruli",
     "wof:parent_id":85679875,
     "wof:placetype":"county",

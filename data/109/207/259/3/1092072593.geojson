@@ -10,6 +10,12 @@
     "geom:latitude":-0.3305,
     "geom:longitude":31.735643,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Masaka District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.330735,
     "lbl:longitude":31.73636,
     "meso:admin_1":"MASAKA",
@@ -42,7 +48,7 @@
         "Masaka"
     ],
     "name:eng_x_preferred":[
-        "Masaka Municipality"
+        "Masaka"
     ],
     "name:eng_x_variant":[
         "Masaka Municipality",
@@ -183,7 +189,7 @@
         }
     ],
     "wof:id":1092072593,
-    "wof:lastmodified":1544032786,
+    "wof:lastmodified":1555220362,
     "wof:name":"Masaka Municipality",
     "wof:parent_id":85680211,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056771,
-    "geom:area_square_m":701948180.276722,
+    "geom:area_square_m":701948180.276792,
     "geom:bbox":"30.1166940317,-0.762058990825,30.4775057822,-0.423224722221",
     "geom:latitude":-0.601639,
     "geom:longitude":30.325648,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Sheema District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.603844,
     "lbl:longitude":30.368064,
     "meso:admin_1":"KIBINGO",
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":1092073983,
-    "wof:lastmodified":1553816445,
+    "wof:lastmodified":1555092065,
     "wof:name":"Sheema",
     "wof:parent_id":85680237,
     "wof:placetype":"county",

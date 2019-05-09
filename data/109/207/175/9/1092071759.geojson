@@ -10,6 +10,12 @@
     "geom:latitude":-0.003127,
     "geom:longitude":30.347907,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kitagwenda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.038572,
     "lbl:longitude":30.312743,
     "meso:admin_1":"KAMWENGE",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092071759,
-    "wof:lastmodified":1544032785,
+    "wof:lastmodified":1555092062,
     "wof:name":"Kitagwenda",
     "wof:parent_id":85680041,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":0.845886,
     "geom:longitude":32.672406,
     "iso:country":"UG",
+    "label:eng_x_preferred_disambiguation":[
+        "Wabusana (bamunanika)"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Wabusana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.926618,
     "lbl:longitude":32.687632,
     "meso:admin_1":"LUWERO",
@@ -67,7 +76,7 @@
         }
     ],
     "wof:id":1092068633,
-    "wof:lastmodified":1544032780,
+    "wof:lastmodified":1555092057,
     "wof:name":"Wabusana (bamunanika)",
     "wof:parent_id":85679881,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040185,
-    "geom:area_square_m":496876240.139398,
+    "geom:area_square_m":496876240.139425,
     "geom:bbox":"32.4219512774,0.280711773457,32.687577899,0.585757642794",
     "geom:latitude":0.471797,
     "geom:longitude":32.572818,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kyadondo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.48209,
     "lbl:longitude":32.574866,
     "meso:admin_1":"WAKISO",
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":1092072041,
-    "wof:lastmodified":1553816445,
+    "wof:lastmodified":1555047750,
     "wof:name":"Kyadondo",
     "wof:parent_id":85679879,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":2.050662,
     "geom:longitude":34.521714,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Pian District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.099799,
     "lbl:longitude":34.597475,
     "meso:admin_1":"NAKAPIRIPIRIT",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092073567,
-    "wof:lastmodified":1544032788,
+    "wof:lastmodified":1555092064,
     "wof:name":"Pian",
     "wof:parent_id":85680021,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":2.530242,
     "geom:longitude":31.840608,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Nwoya District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.580132,
     "lbl:longitude":31.850426,
     "meso:admin_1":"NWOYA",
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":1092073225,
-    "wof:lastmodified":1544032787,
+    "wof:lastmodified":1555092064,
     "wof:name":"Nwoya",
     "wof:parent_id":85680247,
     "wof:placetype":"county",

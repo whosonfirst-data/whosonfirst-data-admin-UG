@@ -10,6 +10,12 @@
     "geom:latitude":2.520594,
     "geom:longitude":30.895999,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Okoro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.528714,
     "lbl:longitude":30.884755,
     "meso:admin_1":"ZOMBO",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092073339,
-    "wof:lastmodified":1544032788,
+    "wof:lastmodified":1555092064,
     "wof:name":"Okoro",
     "wof:parent_id":85680085,
     "wof:placetype":"county",

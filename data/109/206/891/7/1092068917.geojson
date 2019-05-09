@@ -10,6 +10,12 @@
     "geom:latitude":1.003074,
     "geom:longitude":33.094813,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Bugabula District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.004561,
     "lbl:longitude":33.050315,
     "meso:admin_1":"KAMULI",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092068917,
-    "wof:lastmodified":1544032781,
+    "wof:lastmodified":1555092057,
     "wof:name":"Bugabula",
     "wof:parent_id":85679795,
     "wof:placetype":"county",

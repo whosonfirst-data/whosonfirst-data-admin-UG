@@ -10,6 +10,12 @@
     "geom:latitude":1.102569,
     "geom:longitude":32.851704,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Bbaale District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.111636,
     "lbl:longitude":32.866211,
     "meso:admin_1":"KAYUNGA",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1092068673,
-    "wof:lastmodified":1543954403,
+    "wof:lastmodified":1555092057,
     "wof:name":"Bbaale",
     "wof:parent_id":85679787,
     "wof:placetype":"county",

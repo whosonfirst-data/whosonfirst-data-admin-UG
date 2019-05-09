@@ -10,6 +10,12 @@
     "geom:latitude":1.062625,
     "geom:longitude":33.987985,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Budaka District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.084388,
     "lbl:longitude":33.998917,
     "meso:admin_1":"BUDAKA",
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":1092068817,
-    "wof:lastmodified":1544032780,
+    "wof:lastmodified":1555092057,
     "wof:name":"Budaka",
     "wof:parent_id":85680107,
     "wof:placetype":"county",

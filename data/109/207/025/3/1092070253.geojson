@@ -10,6 +10,12 @@
     "geom:latitude":0.774434,
     "geom:longitude":33.126082,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Buzaaya District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.757182,
     "lbl:longitude":33.115704,
     "meso:admin_1":"KAMULI",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092070253,
-    "wof:lastmodified":1544032783,
+    "wof:lastmodified":1555092059,
     "wof:name":"Buzaaya",
     "wof:parent_id":85679795,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":2.371004,
     "geom:longitude":32.486473,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Oyam District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.301758,
     "lbl:longitude":32.432435,
     "meso:admin_1":"OYAM",
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":1092073449,
-    "wof:lastmodified":1544032788,
+    "wof:lastmodified":1555092064,
     "wof:name":"Oyam",
     "wof:parent_id":85679927,
     "wof:placetype":"county",

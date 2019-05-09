@@ -10,6 +10,12 @@
     "geom:latitude":1.316315,
     "geom:longitude":30.942462,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Buhaguzi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.330995,
     "lbl:longitude":30.819498,
     "meso:admin_1":"HOIMA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092069075,
-    "wof:lastmodified":1544032781,
+    "wof:lastmodified":1555092057,
     "wof:name":"Buhaguzi",
     "wof:parent_id":85679933,
     "wof:placetype":"county",

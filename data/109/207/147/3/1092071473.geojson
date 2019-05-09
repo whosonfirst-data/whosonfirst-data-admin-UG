@@ -10,6 +10,12 @@
     "geom:latitude":0.04417,
     "geom:longitude":30.791651,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kazo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.044456,
     "lbl:longitude":30.771878,
     "meso:admin_1":"KIRUHURA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092071473,
-    "wof:lastmodified":1544032785,
+    "wof:lastmodified":1555092061,
     "wof:name":"Kazo",
     "wof:parent_id":1108808411,
     "wof:placetype":"county",

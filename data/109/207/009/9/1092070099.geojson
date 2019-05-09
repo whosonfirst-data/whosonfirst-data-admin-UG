@@ -10,6 +10,12 @@
     "geom:latitude":-0.3939,
     "geom:longitude":33.207618,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Buvuma Islands District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.397901,
     "lbl:longitude":33.203272,
     "meso:admin_1":"BUVUMA",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1092070099,
-    "wof:lastmodified":1544032782,
+    "wof:lastmodified":1555092059,
     "wof:name":"Buvuma Islands",
     "wof:parent_id":85680125,
     "wof:placetype":"county",

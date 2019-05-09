@@ -10,6 +10,12 @@
     "geom:latitude":0.497603,
     "geom:longitude":30.171855,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Bunyangabu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.517059,
     "lbl:longitude":30.187035,
     "meso:admin_1":"KABAROLE",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092069635,
-    "wof:lastmodified":1544032782,
+    "wof:lastmodified":1555092058,
     "wof:name":"Bunyangabu",
     "wof:parent_id":85679939,
     "wof:placetype":"county",

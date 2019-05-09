@@ -10,6 +10,12 @@
     "geom:latitude":0.805747,
     "geom:longitude":31.068267,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Buyanja District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.810248,
     "lbl:longitude":31.049438,
     "meso:admin_1":"KIBAALE",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1092070207,
-    "wof:lastmodified":1544032783,
+    "wof:lastmodified":1555092059,
     "wof:name":"Buyanja",
     "wof:parent_id":85679947,
     "wof:placetype":"county",

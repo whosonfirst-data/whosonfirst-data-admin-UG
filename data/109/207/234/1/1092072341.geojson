@@ -10,6 +10,12 @@
     "geom:latitude":3.545778,
     "geom:longitude":32.728544,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Lamwo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.507586,
     "lbl:longitude":32.531728,
     "meso:admin_1":"LAMWO",
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":1092072341,
-    "wof:lastmodified":1544032786,
+    "wof:lastmodified":1555092063,
     "wof:name":"Lamwo",
     "wof:parent_id":85680147,
     "wof:placetype":"county",

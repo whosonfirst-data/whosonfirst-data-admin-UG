@@ -10,6 +10,12 @@
     "geom:latitude":0.506972,
     "geom:longitude":31.378321,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Buwekula District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.484679,
     "lbl:longitude":31.409615,
     "meso:admin_1":"MUBENDE",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092070137,
-    "wof:lastmodified":1544032783,
+    "wof:lastmodified":1555092059,
     "wof:name":"Buwekula",
     "wof:parent_id":85679889,
     "wof:placetype":"county",

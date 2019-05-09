@@ -10,6 +10,12 @@
     "geom:latitude":-0.327319,
     "geom:longitude":30.326065,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Buhweju District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.314616,
     "lbl:longitude":30.309681,
     "meso:admin_1":"NSIIKA",
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":1092069121,
-    "wof:lastmodified":1544032781,
+    "wof:lastmodified":1555092058,
     "wof:name":"Buhweju",
     "wof:parent_id":85680241,
     "wof:placetype":"county",

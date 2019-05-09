@@ -10,6 +10,12 @@
     "geom:latitude":0.156344,
     "geom:longitude":32.073533,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Butambala District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.196608,
     "lbl:longitude":32.159346,
     "meso:admin_1":"BUTAMBALA",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":1092069969,
-    "wof:lastmodified":1544032782,
+    "wof:lastmodified":1555092059,
     "wof:name":"Butambala",
     "wof:parent_id":85680131,
     "wof:placetype":"county",

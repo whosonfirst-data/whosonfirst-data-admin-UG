@@ -10,6 +10,12 @@
     "geom:latitude":1.014479,
     "geom:longitude":31.763743,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kiboga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.023445,
     "lbl:longitude":31.73279,
     "meso:admin_1":"KYANKWANZI",
@@ -175,7 +181,7 @@
         }
     ],
     "wof:id":1092071543,
-    "wof:lastmodified":1543954410,
+    "wof:lastmodified":1555047750,
     "wof:name":"Kiboga",
     "wof:parent_id":1108808409,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":1.775449,
     "geom:longitude":33.590005,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Soroti District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.848871,
     "lbl:longitude":33.569694,
     "meso:admin_1":"SOROTI",
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":1092074055,
-    "wof:lastmodified":1544032789,
+    "wof:lastmodified":1555092065,
     "wof:name":"Soroti",
     "wof:parent_id":85679813,
     "wof:placetype":"county",

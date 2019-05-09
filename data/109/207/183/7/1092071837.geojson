@@ -10,6 +10,12 @@
     "geom:latitude":2.29551,
     "geom:longitude":32.766649,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kole District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.288281,
     "lbl:longitude":32.735241,
     "meso:admin_1":"KOLE",
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":1092071837,
-    "wof:lastmodified":1544032785,
+    "wof:lastmodified":1555092062,
     "wof:name":"Kole",
     "wof:parent_id":85680157,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-0.651882,
     "geom:longitude":31.634076,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kyotera District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.580575,
     "lbl:longitude":31.586833,
     "meso:admin_1":"RAKAI",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092072187,
-    "wof:lastmodified":1544032786,
+    "wof:lastmodified":1555092062,
     "wof:name":"Kyotera",
     "wof:parent_id":85680025,
     "wof:placetype":"county",

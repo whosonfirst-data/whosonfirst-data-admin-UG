@@ -10,6 +10,12 @@
     "geom:latitude":3.395595,
     "geom:longitude":31.555553,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Obongi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.429023,
     "lbl:longitude":31.552985,
     "meso:admin_1":"MOYO",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092073299,
-    "wof:lastmodified":1544032788,
+    "wof:lastmodified":1555092064,
     "wof:name":"Obongi",
     "wof:parent_id":85679853,
     "wof:placetype":"county",

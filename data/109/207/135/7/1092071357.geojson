@@ -10,6 +10,12 @@
     "geom:latitude":0.542268,
     "geom:longitude":31.754004,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kassanda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.543736,
     "lbl:longitude":31.750317,
     "meso:admin_1":"MUBENDE",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092071357,
-    "wof:lastmodified":1544032785,
+    "wof:lastmodified":1555092061,
     "wof:name":"Kassanda",
     "wof:parent_id":85679889,
     "wof:placetype":"county",

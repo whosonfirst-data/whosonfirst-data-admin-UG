@@ -10,6 +10,12 @@
     "geom:latitude":-1.044869,
     "geom:longitude":30.178974,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Rushenyi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.065087,
     "lbl:longitude":30.176363,
     "meso:admin_1":"NTUNGAMO",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092073825,
-    "wof:lastmodified":1544032788,
+    "wof:lastmodified":1555092065,
     "wof:name":"Rushenyi",
     "wof:parent_id":85680059,
     "wof:placetype":"county",

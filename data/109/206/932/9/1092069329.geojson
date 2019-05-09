@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04887,
-    "geom:area_square_m":604284400.008218,
+    "geom:area_square_m":604284400.008141,
     "geom:bbox":"31.5333229238,-0.304324124897,31.7228378398,0.0528772442332",
     "geom:latitude":-0.12697,
     "geom:longitude":31.627286,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Bukomansimbi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.12361,
     "lbl:longitude":31.6255,
     "meso:admin_1":"BUKOMANSIMBI",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":1092069329,
-    "wof:lastmodified":1553816445,
+    "wof:lastmodified":1555092058,
     "wof:name":"Bukomansimbi",
     "wof:parent_id":85680219,
     "wof:placetype":"county",

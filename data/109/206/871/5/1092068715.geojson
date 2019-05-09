@@ -10,6 +10,12 @@
     "geom:latitude":2.399602,
     "geom:longitude":34.221374,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Bokora District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.387389,
     "lbl:longitude":34.268594,
     "meso:admin_1":"NAPAK",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092068715,
-    "wof:lastmodified":1544032780,
+    "wof:lastmodified":1555092057,
     "wof:name":"Bokora",
     "wof:parent_id":85680201,
     "wof:placetype":"county",

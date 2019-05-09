@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.269099,
-    "geom:area_square_m":3327363964.182981,
+    "geom:area_square_m":3327363964.182712,
     "geom:bbox":"32.5049044562,-1.0,32.9075,0.573593368784",
     "geom:latitude":-0.141302,
     "geom:longitude":32.771666,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Mukono District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.021727,
     "lbl:longitude":32.741164,
     "meso:admin_1":"MUKONO",
@@ -188,7 +194,7 @@
         }
     ],
     "wof:id":1092072911,
-    "wof:lastmodified":1553816445,
+    "wof:lastmodified":1555092063,
     "wof:name":"Mukono",
     "wof:parent_id":85679817,
     "wof:placetype":"county",

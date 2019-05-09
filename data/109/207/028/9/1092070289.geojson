@@ -10,6 +10,12 @@
     "geom:latitude":0.738229,
     "geom:longitude":30.022896,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Bwamba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.735667,
     "lbl:longitude":30.030738,
     "meso:admin_1":"BUNDIBUGYO",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092070289,
-    "wof:lastmodified":1544032783,
+    "wof:lastmodified":1555092059,
     "wof:name":"Bwamba",
     "wof:parent_id":85679929,
     "wof:placetype":"county",

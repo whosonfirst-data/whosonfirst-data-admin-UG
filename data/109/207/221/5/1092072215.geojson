@@ -10,6 +10,12 @@
     "geom:latitude":2.750613,
     "geom:longitude":33.72987,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Labwor District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.658061,
     "lbl:longitude":33.708549,
     "meso:admin_1":"ABIM",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092072215,
-    "wof:lastmodified":1544032786,
+    "wof:lastmodified":1555092062,
     "wof:name":"Labwor",
     "wof:parent_id":85680013,
     "wof:placetype":"county",

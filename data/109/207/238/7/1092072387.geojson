@@ -10,6 +10,12 @@
     "geom:latitude":2.249987,
     "geom:longitude":32.899096,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Lira District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.250685,
     "lbl:longitude":32.898482,
     "meso:admin_1":"LIRA",
@@ -42,7 +48,7 @@
         "Lira"
     ],
     "name:eng_x_preferred":[
-        "Lira Municipality"
+        "Lira"
     ],
     "name:eng_x_variant":[
         "Lira Municipality",
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":1092072387,
-    "wof:lastmodified":1544032786,
+    "wof:lastmodified":1555220362,
     "wof:name":"Lira Municipality",
     "wof:parent_id":85679909,
     "wof:placetype":"county",

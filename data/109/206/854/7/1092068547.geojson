@@ -10,6 +10,12 @@
     "geom:latitude":2.983741,
     "geom:longitude":32.397207,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Aswa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.958906,
     "lbl:longitude":32.392703,
     "meso:admin_1":"GULU",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092068547,
-    "wof:lastmodified":1544032780,
+    "wof:lastmodified":1555092057,
     "wof:name":"Aswa",
     "wof:parent_id":85679905,
     "wof:placetype":"county",

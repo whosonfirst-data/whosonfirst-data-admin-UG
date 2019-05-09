@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072201,
-    "geom:area_square_m":892389153.196147,
+    "geom:area_square_m":892389153.196058,
     "geom:bbox":"32.9457250339,1.4633232344,33.308812615,1.91333333333",
     "geom:latitude":1.696939,
     "geom:longitude":33.127587,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kaberamaido District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.678641,
     "lbl:longitude":33.145447,
     "meso:admin_1":"KABERAMAIDO",
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":1092070941,
-    "wof:lastmodified":1553816445,
+    "wof:lastmodified":1555092060,
     "wof:name":"Kaberamaido",
     "wof:parent_id":85679783,
     "wof:placetype":"county",

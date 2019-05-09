@@ -10,6 +10,12 @@
     "geom:latitude":0.317657,
     "geom:longitude":32.596129,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Central Kampala District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.321905,
     "lbl:longitude":32.594887,
     "meso:admin_1":"KAMPALA",
@@ -189,7 +195,7 @@
         }
     ],
     "wof:id":1092071203,
-    "wof:lastmodified":1544032784,
+    "wof:lastmodified":1555092061,
     "wof:name":"Central Kampala",
     "wof:parent_id":85679867,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":1.199027,
     "geom:longitude":33.93754,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Butebo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.200682,
     "lbl:longitude":33.937682,
     "meso:admin_1":"PALLISA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092070015,
-    "wof:lastmodified":1544032782,
+    "wof:lastmodified":1555092059,
     "wof:name":"Butebo",
     "wof:parent_id":85679819,
     "wof:placetype":"county",

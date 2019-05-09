@@ -10,6 +10,12 @@
     "geom:latitude":-1.329891,
     "geom:longitude":30.027598,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Ndorwa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.31203,
     "lbl:longitude":30.06305,
     "meso:admin_1":"KABALE",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092073061,
-    "wof:lastmodified":1544032787,
+    "wof:lastmodified":1555092064,
     "wof:name":"Ndorwa",
     "wof:parent_id":85680073,
     "wof:placetype":"county",

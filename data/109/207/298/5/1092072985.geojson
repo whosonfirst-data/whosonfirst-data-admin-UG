@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.282415,
-    "geom:area_square_m":3491497476.317352,
+    "geom:area_square_m":3491497476.316724,
     "geom:bbox":"31.8217618428,0.537061209308,32.4994654141,1.47091700566",
     "geom:latitude":1.051444,
     "geom:longitude":32.168359,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Nakaseke District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.084832,
     "lbl:longitude":32.168243,
     "meso:admin_1":"NAKASEKE",
@@ -172,7 +178,7 @@
         }
     ],
     "wof:id":1092072985,
-    "wof:lastmodified":1553816445,
+    "wof:lastmodified":1555047751,
     "wof:name":"Nakaseke",
     "wof:parent_id":85679895,
     "wof:placetype":"county",

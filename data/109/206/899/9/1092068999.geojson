@@ -10,6 +10,12 @@
     "geom:latitude":0.98748,
     "geom:longitude":31.297766,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Bugangaizi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.025741,
     "lbl:longitude":31.293573,
     "meso:admin_1":"KIBAALE",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092068999,
-    "wof:lastmodified":1544032781,
+    "wof:lastmodified":1555092057,
     "wof:name":"Bugangaizi",
     "wof:parent_id":85679947,
     "wof:placetype":"county",

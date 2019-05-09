@@ -10,6 +10,12 @@
     "geom:latitude":3.406448,
     "geom:longitude":33.27191,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Chua District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.482441,
     "lbl:longitude":33.447971,
     "meso:admin_1":"KITGUM",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092070355,
-    "wof:lastmodified":1544032783,
+    "wof:lastmodified":1555092059,
     "wof:name":"Chua",
     "wof:parent_id":85679899,
     "wof:placetype":"county",

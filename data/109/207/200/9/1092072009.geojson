@@ -10,6 +10,12 @@
     "geom:latitude":1.431976,
     "geom:longitude":34.573335,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kween District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.450162,
     "lbl:longitude":34.590576,
     "meso:admin_1":"KWEEN",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":1092072009,
-    "wof:lastmodified":1544032786,
+    "wof:lastmodified":1555092062,
     "wof:name":"Kween",
     "wof:parent_id":85680187,
     "wof:placetype":"county",

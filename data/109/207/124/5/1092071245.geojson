@@ -10,6 +10,12 @@
     "geom:latitude":2.216251,
     "geom:longitude":33.741203,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kapelebyong District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.232835,
     "lbl:longitude":33.772705,
     "meso:admin_1":"AMURIA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092071245,
-    "wof:lastmodified":1544032784,
+    "wof:lastmodified":1555092061,
     "wof:name":"Kapelebyong",
     "wof:parent_id":85680003,
     "wof:placetype":"county",

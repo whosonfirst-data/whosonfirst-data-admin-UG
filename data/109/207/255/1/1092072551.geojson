@@ -10,6 +10,12 @@
     "geom:latitude":1.871973,
     "geom:longitude":32.430777,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Maruzi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.872794,
     "lbl:longitude":32.435116,
     "meso:admin_1":"APAC",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092072551,
-    "wof:lastmodified":1544032786,
+    "wof:lastmodified":1555092063,
     "wof:name":"Maruzi",
     "wof:parent_id":85680151,
     "wof:placetype":"county",

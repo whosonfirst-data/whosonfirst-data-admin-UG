@@ -10,6 +10,12 @@
     "geom:latitude":1.381292,
     "geom:longitude":34.352176,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Bulambuli District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.486542,
     "lbl:longitude":34.323867,
     "meso:admin_1":"BULAMBULI",
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":1092069435,
-    "wof:lastmodified":1544032781,
+    "wof:lastmodified":1555092058,
     "wof:name":"Bulambuli",
     "wof:parent_id":85680195,
     "wof:placetype":"county",

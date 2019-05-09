@@ -10,6 +10,12 @@
     "geom:latitude":-0.62792,
     "geom:longitude":32.431007,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kyamuswa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.748017,
     "lbl:longitude":32.476104,
     "meso:admin_1":"KALANGALA",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1092072149,
-    "wof:lastmodified":1544032786,
+    "wof:lastmodified":1555092062,
     "wof:name":"Kyamuswa",
     "wof:parent_id":85679769,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-0.904143,
     "geom:longitude":30.377732,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Ruhaama District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.930443,
     "lbl:longitude":30.377694,
     "meso:admin_1":"NTUNGAMO",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092073713,
-    "wof:lastmodified":1544032788,
+    "wof:lastmodified":1555092065,
     "wof:name":"Ruhaama",
     "wof:parent_id":85680059,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":1.012384,
     "geom:longitude":30.363292,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Ntoroko District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.024958,
     "lbl:longitude":30.363318,
     "meso:admin_1":"NTOROKO",
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":1092073179,
-    "wof:lastmodified":1544032787,
+    "wof:lastmodified":1555092064,
     "wof:name":"Ntoroko",
     "wof:parent_id":85680179,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-0.599154,
     "geom:longitude":29.849482,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Rujumbura District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.527705,
     "lbl:longitude":29.831134,
     "meso:admin_1":"RUKUNGIRI",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1092069223,
-    "wof:lastmodified":1543954404,
+    "wof:lastmodified":1555047750,
     "wof:name":"Rujumbura",
     "wof:parent_id":85680061,
     "wof:placetype":"county",

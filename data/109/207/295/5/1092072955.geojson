@@ -10,6 +10,12 @@
     "geom:latitude":0.659423,
     "geom:longitude":30.661955,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Mwenge District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.680436,
     "lbl:longitude":30.656879,
     "meso:admin_1":"KYENJOJO",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092072955,
-    "wof:lastmodified":1544032787,
+    "wof:lastmodified":1555092063,
     "wof:name":"Mwenge",
     "wof:parent_id":85679943,
     "wof:placetype":"county",

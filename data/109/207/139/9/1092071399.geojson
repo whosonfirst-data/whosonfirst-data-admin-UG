@@ -10,6 +10,12 @@
     "geom:latitude":0.813102,
     "geom:longitude":32.476603,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Katikamu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.858844,
     "lbl:longitude":32.511813,
     "meso:admin_1":"LUWERO",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1092071399,
-    "wof:lastmodified":1543954409,
+    "wof:lastmodified":1555047750,
     "wof:name":"Katikamu",
     "wof:parent_id":85679881,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":2.935463,
     "geom:longitude":32.871562,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Aruu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.942682,
     "lbl:longitude":32.845868,
     "meso:admin_1":"PADER",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092068503,
-    "wof:lastmodified":1544032780,
+    "wof:lastmodified":1555092057,
     "wof:name":"Aruu",
     "wof:parent_id":85679917,
     "wof:placetype":"county",

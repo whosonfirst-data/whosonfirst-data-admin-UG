@@ -10,6 +10,12 @@
     "geom:latitude":1.499049,
     "geom:longitude":33.753482,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Ngora District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.504594,
     "lbl:longitude":33.76785,
     "meso:admin_1":"NGORA",
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":1092073107,
-    "wof:lastmodified":1544032787,
+    "wof:lastmodified":1555092064,
     "wof:name":"Ngora",
     "wof:parent_id":85680089,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":1.017637,
     "geom:longitude":30.808567,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Buyaga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.976378,
     "lbl:longitude":30.813123,
     "meso:admin_1":"KIBAALE",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092070183,
-    "wof:lastmodified":1544032783,
+    "wof:lastmodified":1555092059,
     "wof:name":"Buyaga",
     "wof:parent_id":85679947,
     "wof:placetype":"county",

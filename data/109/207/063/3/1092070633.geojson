@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004224,
-    "geom:area_square_m":52171998.202712,
+    "geom:area_square_m":52171998.202716,
     "geom:bbox":"32.2425953113,2.73943087043,32.3360965066,2.81247851709",
     "geom:latitude":2.774101,
     "geom:longitude":32.290448,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Gulu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.776351,
     "lbl:longitude":32.29422,
     "meso:admin_1":"GULU",
@@ -42,7 +48,7 @@
         "Gulu"
     ],
     "name:eng_x_preferred":[
-        "Gulu Municipality"
+        "Gulu"
     ],
     "name:eng_x_variant":[
         "Gulu Municipality",
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":1092070633,
-    "wof:lastmodified":1553816445,
+    "wof:lastmodified":1555220362,
     "wof:name":"Gulu Municipality",
     "wof:parent_id":85679905,
     "wof:placetype":"county",

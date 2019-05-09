@@ -10,6 +10,12 @@
     "geom:latitude":3.177906,
     "geom:longitude":31.16596,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Terego District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.185692,
     "lbl:longitude":31.149111,
     "meso:admin_1":"MARACHA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092074097,
-    "wof:lastmodified":1544032789,
+    "wof:lastmodified":1555092065,
     "wof:name":"Terego",
     "wof:parent_id":85679861,
     "wof:placetype":"county",

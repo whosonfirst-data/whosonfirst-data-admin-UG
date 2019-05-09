@@ -10,6 +10,12 @@
     "geom:latitude":-0.373378,
     "geom:longitude":32.159913,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Bujumba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.374881,
     "lbl:longitude":32.184364,
     "meso:admin_1":"KALANGALA",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1092069185,
-    "wof:lastmodified":1544032781,
+    "wof:lastmodified":1555092058,
     "wof:name":"Bujumba",
     "wof:parent_id":85679769,
     "wof:placetype":"county",

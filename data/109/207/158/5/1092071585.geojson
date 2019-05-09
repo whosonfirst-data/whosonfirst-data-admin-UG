@@ -10,6 +10,12 @@
     "geom:latitude":1.056519,
     "geom:longitude":33.800399,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kibuku District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.027946,
     "lbl:longitude":33.811043,
     "meso:admin_1":"KIBUKU",
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":1092071585,
-    "wof:lastmodified":1544032785,
+    "wof:lastmodified":1555092061,
     "wof:name":"Kibuku",
     "wof:parent_id":85680111,
     "wof:placetype":"county",

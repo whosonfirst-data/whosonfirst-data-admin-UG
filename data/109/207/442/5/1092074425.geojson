@@ -10,6 +10,12 @@
     "geom:latitude":2.367469,
     "geom:longitude":31.40662,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Madi-okollo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.150649,
     "lbl:longitude":31.641336,
     "meso:admin_1":"ARUA",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1092074425,
-    "wof:lastmodified":1544032789,
+    "wof:lastmodified":1555092066,
     "wof:name":"Madi-okollo",
     "wof:parent_id":85679921,
     "wof:placetype":"county",

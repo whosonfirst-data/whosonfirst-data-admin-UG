@@ -10,6 +10,12 @@
     "geom:latitude":0.687101,
     "geom:longitude":34.182537,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Tororo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.68715,
     "lbl:longitude":34.181987,
     "meso:admin_1":"TORORO",
@@ -42,7 +48,7 @@
         "Tororo"
     ],
     "name:eng_x_preferred":[
-        "Tororo Municipality"
+        "Tororo"
     ],
     "name:eng_x_variant":[
         "Tororo Municipality",
@@ -186,7 +192,7 @@
         }
     ],
     "wof:id":1092074173,
-    "wof:lastmodified":1544032789,
+    "wof:lastmodified":1555220362,
     "wof:name":"Tororo Municipality",
     "wof:parent_id":85679989,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":0.069946,
     "geom:longitude":32.158024,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Mawokota District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.013271,
     "lbl:longitude":32.09276,
     "meso:admin_1":"MPIGI",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092072705,
-    "wof:lastmodified":1544032787,
+    "wof:lastmodified":1555092063,
     "wof:name":"Mawokota",
     "wof:parent_id":85679827,
     "wof:placetype":"county",

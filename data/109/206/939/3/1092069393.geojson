@@ -10,6 +10,12 @@
     "geom:latitude":-0.465918,
     "geom:longitude":31.716888,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Bukoto District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.485688,
     "lbl:longitude":31.835346,
     "meso:admin_1":"MASAKA",
@@ -27,11 +33,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "name:eng_x_preferred":[
-        "Administrative unit not available"
+        "Bukoto"
     ],
     "name:eng_x_variant":[
-        "Administrative unit not available",
-        "Bukoto",
         "BUKOTO"
     ],
     "src:geom":"meso",
@@ -67,8 +71,8 @@
         }
     ],
     "wof:id":1092069393,
-    "wof:lastmodified":1544032781,
-    "wof:name":"Administrative unit not available",
+    "wof:lastmodified":1555092058,
+    "wof:name":"Bukoto",
     "wof:parent_id":85680031,
     "wof:placetype":"county",
     "wof:placetype_local":"county",

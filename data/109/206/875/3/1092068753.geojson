@@ -10,6 +10,12 @@
     "geom:latitude":0.889976,
     "geom:longitude":34.34159,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Bubulo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.886224,
     "lbl:longitude":34.339243,
     "meso:admin_1":"MANAFWA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092068753,
-    "wof:lastmodified":1544032780,
+    "wof:lastmodified":1555092057,
     "wof:name":"Bubulo",
     "wof:parent_id":85679969,
     "wof:placetype":"county",

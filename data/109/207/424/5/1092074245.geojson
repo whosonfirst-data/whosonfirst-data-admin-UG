@@ -10,6 +10,12 @@
     "geom:latitude":1.925083,
     "geom:longitude":34.037306,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Usuk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.933785,
     "lbl:longitude":34.058106,
     "meso:admin_1":"KATAKWI",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092074245,
-    "wof:lastmodified":1544032789,
+    "wof:lastmodified":1555092065,
     "wof:name":"Usuk",
     "wof:parent_id":85679995,
     "wof:placetype":"county",

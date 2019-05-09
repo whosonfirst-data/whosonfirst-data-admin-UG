@@ -10,6 +10,12 @@
     "geom:latitude":1.2643,
     "geom:longitude":33.140939,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Budiope District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.223281,
     "lbl:longitude":33.22296,
     "meso:admin_1":"BUYENDE",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1092068855,
-    "wof:lastmodified":1543954403,
+    "wof:lastmodified":1555047750,
     "wof:name":"Budiope",
     "wof:parent_id":85680103,
     "wof:placetype":"county",

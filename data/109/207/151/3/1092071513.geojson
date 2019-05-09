@@ -10,6 +10,12 @@
     "geom:latitude":2.02597,
     "geom:longitude":32.040112,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kibanda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.016611,
     "lbl:longitude":32.096042,
     "meso:admin_1":"KIRYANDONGO",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092071513,
-    "wof:lastmodified":1544032785,
+    "wof:lastmodified":1555092061,
     "wof:name":"Kibanda",
     "wof:parent_id":85680175,
     "wof:placetype":"county",

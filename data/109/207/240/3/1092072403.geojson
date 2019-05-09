@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052787,
-    "geom:area_square_m":652654532.712583,
+    "geom:area_square_m":652654532.712529,
     "geom:bbox":"33.2180695688,0.563122908537,33.432285507,1.07890824322",
     "geom:latitude":0.807275,
     "geom:longitude":33.337687,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Luuka District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.733757,
     "lbl:longitude":33.312659,
     "meso:admin_1":"LUUKA",
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":1092072403,
-    "wof:lastmodified":1553816445,
+    "wof:lastmodified":1555092063,
     "wof:name":"Luuka",
     "wof:parent_id":85680097,
     "wof:placetype":"county",

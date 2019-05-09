@@ -10,6 +10,12 @@
     "geom:latitude":0.638156,
     "geom:longitude":30.335063,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Burahya District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.585209,
     "lbl:longitude":30.355202,
     "meso:admin_1":"KABAROLE",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092069721,
-    "wof:lastmodified":1544032782,
+    "wof:lastmodified":1555092058,
     "wof:name":"Burahya",
     "wof:parent_id":85679939,
     "wof:placetype":"county",

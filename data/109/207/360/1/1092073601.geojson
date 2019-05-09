@@ -10,6 +10,12 @@
     "geom:latitude":1.810133,
     "geom:longitude":34.88034,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Upe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.895944,
     "lbl:longitude":34.934722,
     "meso:admin_1":"AMUDAT",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1092073601,
-    "wof:lastmodified":1543954413,
+    "wof:lastmodified":1555047751,
     "wof:name":"Upe",
     "wof:parent_id":85680209,
     "wof:placetype":"county",

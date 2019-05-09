@@ -10,6 +10,12 @@
     "geom:latitude":3.020098,
     "geom:longitude":30.915793,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Arua District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.019602,
     "lbl:longitude":30.915791,
     "meso:admin_1":"ARUA",
@@ -42,7 +48,7 @@
         "Arua"
     ],
     "name:eng_x_preferred":[
-        "Arua Municipality"
+        "Arua"
     ],
     "name:eng_x_variant":[
         "Arua Municipality",
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":1092068475,
-    "wof:lastmodified":1543954402,
+    "wof:lastmodified":1555220362,
     "wof:name":"Arua Municipality",
     "wof:parent_id":85679837,
     "wof:placetype":"county",

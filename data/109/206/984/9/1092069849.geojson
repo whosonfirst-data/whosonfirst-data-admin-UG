@@ -10,6 +10,12 @@
     "geom:latitude":0.87154,
     "geom:longitude":33.680527,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Busiki District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.876714,
     "lbl:longitude":33.680517,
     "meso:admin_1":"NAMUTUMBA",
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":1092069849,
-    "wof:lastmodified":1544032782,
+    "wof:lastmodified":1555092059,
     "wof:name":"Busiki",
     "wof:parent_id":85679807,
     "wof:placetype":"county",

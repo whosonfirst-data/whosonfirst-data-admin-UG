@@ -10,6 +10,12 @@
     "geom:latitude":0.308801,
     "geom:longitude":33.039719,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Buyikwe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.293032,
     "lbl:longitude":33.039673,
     "meso:admin_1":"BUIKWE",
@@ -180,7 +186,7 @@
         }
     ],
     "wof:id":1092069145,
-    "wof:lastmodified":1544032781,
+    "wof:lastmodified":1555092058,
     "wof:name":"Buyikwe",
     "wof:parent_id":85680121,
     "wof:placetype":"county",

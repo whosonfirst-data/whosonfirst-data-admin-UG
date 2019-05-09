@@ -10,6 +10,12 @@
     "geom:latitude":-1.217197,
     "geom:longitude":29.681477,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Bufumbira District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.222783,
     "lbl:longitude":29.684002,
     "meso:admin_1":"KISORO",
@@ -108,7 +114,7 @@
         }
     ],
     "wof:id":1092068877,
-    "wof:lastmodified":1544032781,
+    "wof:lastmodified":1555092057,
     "wof:name":"Bufumbira",
     "wof:parent_id":85680075,
     "wof:placetype":"county",

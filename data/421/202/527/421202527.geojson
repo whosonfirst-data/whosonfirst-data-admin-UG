@@ -10,6 +10,12 @@
     "geom:latitude":0.308652,
     "geom:longitude":30.543516,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kibale District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.251284,
     "lbl:longitude":30.513824,
     "meso:admin_1":"KAMWENGE",
@@ -306,7 +312,7 @@
         }
     ],
     "wof:id":421202527,
-    "wof:lastmodified":1544032800,
+    "wof:lastmodified":1555092056,
     "wof:name":"Kibale",
     "wof:parent_id":85680041,
     "wof:placetype":"county",

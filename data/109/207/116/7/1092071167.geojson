@@ -10,6 +10,12 @@
     "geom:latitude":-0.099669,
     "geom:longitude":31.802012,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kalungu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.098724,
     "lbl:longitude":31.80465,
     "meso:admin_1":"KALUNGU",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":1092071167,
-    "wof:lastmodified":1544032784,
+    "wof:lastmodified":1555092061,
     "wof:name":"Kalungu",
     "wof:parent_id":85680223,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":1.622029,
     "geom:longitude":32.73803,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kyoga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.620641,
     "lbl:longitude":32.800362,
     "meso:admin_1":"AMOLATAR",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1092071719,
-    "wof:lastmodified":1543954411,
+    "wof:lastmodified":1555092062,
     "wof:name":"Kyoga",
     "wof:parent_id":85679799,
     "wof:placetype":"county",

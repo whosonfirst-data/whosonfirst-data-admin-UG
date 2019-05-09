@@ -10,6 +10,12 @@
     "geom:latitude":1.476344,
     "geom:longitude":33.96055,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kumi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.406911,
     "lbl:longitude":33.91506,
     "meso:admin_1":"KUMI",
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":1092071937,
-    "wof:lastmodified":1544032785,
+    "wof:lastmodified":1555092062,
     "wof:name":"Kumi",
     "wof:parent_id":85679777,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":2.912029,
     "geom:longitude":33.345997,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Agago District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.875261,
     "lbl:longitude":33.375621,
     "meso:admin_1":"AGAGO",
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":1092068365,
-    "wof:lastmodified":1544032780,
+    "wof:lastmodified":1555092056,
     "wof:name":"Agago",
     "wof:parent_id":85680169,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":3.047134,
     "geom:longitude":30.910968,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Ayivu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.063178,
     "lbl:longitude":30.850971,
     "meso:admin_1":"ARUA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092068591,
-    "wof:lastmodified":1544032780,
+    "wof:lastmodified":1555092057,
     "wof:name":"Ayivu",
     "wof:parent_id":85679837,
     "wof:placetype":"county",

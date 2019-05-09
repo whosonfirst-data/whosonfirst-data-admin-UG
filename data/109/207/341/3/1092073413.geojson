@@ -10,6 +10,12 @@
     "geom:latitude":2.481116,
     "geom:longitude":33.362605,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Otuke District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.474537,
     "lbl:longitude":33.356245,
     "meso:admin_1":"OTUKE",
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":1092073413,
-    "wof:lastmodified":1544032788,
+    "wof:lastmodified":1555092064,
     "wof:name":"Otuke",
     "wof:parent_id":85680165,
     "wof:placetype":"county",

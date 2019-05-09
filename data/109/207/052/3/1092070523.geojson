@@ -10,6 +10,12 @@
     "geom:latitude":-0.033843,
     "geom:longitude":32.447051,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Busiro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.034408,
     "lbl:longitude":32.446437,
     "meso:admin_1":"WAKISO",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092070523,
-    "wof:lastmodified":1543954406,
+    "wof:lastmodified":1555092060,
     "wof:name":"Busiro",
     "wof:parent_id":85679879,
     "wof:placetype":"county",

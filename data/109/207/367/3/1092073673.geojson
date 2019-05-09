@@ -10,6 +10,12 @@
     "geom:latitude":-1.179,
     "geom:longitude":29.867416,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Rubanda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.179546,
     "lbl:longitude":29.882359,
     "meso:admin_1":"KABALE",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092073673,
-    "wof:lastmodified":1544032788,
+    "wof:lastmodified":1555092065,
     "wof:name":"Rubanda",
     "wof:parent_id":85680073,
     "wof:placetype":"county",

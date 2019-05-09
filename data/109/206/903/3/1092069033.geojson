@@ -10,6 +10,12 @@
     "geom:latitude":0.629582,
     "geom:longitude":33.604845,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Bugweri District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.6332,
     "lbl:longitude":33.613519,
     "meso:admin_1":"IGANGA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092069033,
-    "wof:lastmodified":1544032781,
+    "wof:lastmodified":1555092057,
     "wof:name":"Bugweri",
     "wof:parent_id":85679789,
     "wof:placetype":"county",

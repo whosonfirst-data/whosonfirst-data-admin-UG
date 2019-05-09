@@ -10,6 +10,12 @@
     "geom:latitude":-0.476845,
     "geom:longitude":30.132426,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Igara District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.479903,
     "lbl:longitude":30.135565,
     "meso:admin_1":"BUSHENYI",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092070703,
-    "wof:lastmodified":1544032783,
+    "wof:lastmodified":1555092060,
     "wof:name":"Igara",
     "wof:parent_id":85680035,
     "wof:placetype":"county",

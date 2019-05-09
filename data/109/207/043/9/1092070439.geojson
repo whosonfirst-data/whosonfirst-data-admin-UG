@@ -10,6 +10,12 @@
     "geom:latitude":1.939567,
     "geom:longitude":33.077467,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Dokolo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.936133,
     "lbl:longitude":33.0807,
     "meso:admin_1":"DOKOLO",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":1092070439,
-    "wof:lastmodified":1544032783,
+    "wof:lastmodified":1555092060,
     "wof:name":"Dokolo",
     "wof:parent_id":85679913,
     "wof:placetype":"county",

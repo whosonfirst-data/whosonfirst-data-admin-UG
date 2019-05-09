@@ -10,6 +10,12 @@
     "geom:latitude":1.233976,
     "geom:longitude":33.659179,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Pallisa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.228972,
     "lbl:longitude":33.655588,
     "meso:admin_1":"PALLISA",
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":1092073523,
-    "wof:lastmodified":1544032788,
+    "wof:lastmodified":1555092064,
     "wof:name":"Pallisa",
     "wof:parent_id":85679819,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":1.07979,
     "geom:longitude":34.177163,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Mbale District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.079135,
     "lbl:longitude":34.174727,
     "meso:admin_1":"MBALE",
@@ -42,7 +48,7 @@
         "Mbale"
     ],
     "name:eng_x_preferred":[
-        "Mbale Municipality"
+        "Mbale"
     ],
     "name:eng_x_variant":[
         "Mbale Municipality",
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":1092072743,
-    "wof:lastmodified":1543954408,
+    "wof:lastmodified":1555220362,
     "wof:name":"Mbale Municipality",
     "wof:parent_id":85679965,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":1.492672,
     "geom:longitude":33.532448,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Serere District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.478317,
     "lbl:longitude":33.543473,
     "meso:admin_1":"SERERE",
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":1092073939,
-    "wof:lastmodified":1544032789,
+    "wof:lastmodified":1555092065,
     "wof:name":"Serere",
     "wof:parent_id":85680119,
     "wof:placetype":"county",

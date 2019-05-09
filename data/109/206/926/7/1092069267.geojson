@@ -10,6 +10,12 @@
     "geom:latitude":-0.866272,
     "geom:longitude":31.01493,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Bukanga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.846174,
     "lbl:longitude":31.040859,
     "meso:admin_1":"ISINGIRO",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092069267,
-    "wof:lastmodified":1544032781,
+    "wof:lastmodified":1555092058,
     "wof:name":"Bukanga",
     "wof:parent_id":85680051,
     "wof:placetype":"county",

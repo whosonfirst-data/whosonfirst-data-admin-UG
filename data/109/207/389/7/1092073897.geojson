@@ -10,6 +10,12 @@
     "geom:latitude":0.413669,
     "geom:longitude":34.005336,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Samia-bugwe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.414483,
     "lbl:longitude":34.007759,
     "meso:admin_1":"BUSIA",
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1092073897,
-    "wof:lastmodified":1543954411,
+    "wof:lastmodified":1555092065,
     "wof:name":"Samia-bugwe",
     "wof:parent_id":85679979,
     "wof:placetype":"county",

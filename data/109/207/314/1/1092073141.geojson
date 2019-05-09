@@ -10,6 +10,12 @@
     "geom:latitude":0.699373,
     "geom:longitude":32.975397,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Ntenjeru District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.706774,
     "lbl:longitude":32.973468,
     "meso:admin_1":"KAYUNGA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092073141,
-    "wof:lastmodified":1544032787,
+    "wof:lastmodified":1555092064,
     "wof:name":"Ntenjeru",
     "wof:parent_id":85679787,
     "wof:placetype":"county",

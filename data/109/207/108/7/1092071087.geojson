@@ -10,6 +10,12 @@
     "geom:latitude":-0.892252,
     "geom:longitude":31.620665,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kakuuto District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.889146,
     "lbl:longitude":31.515006,
     "meso:admin_1":"RAKAI",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092071087,
-    "wof:lastmodified":1544032784,
+    "wof:lastmodified":1555092061,
     "wof:name":"Kakuuto",
     "wof:parent_id":85680025,
     "wof:placetype":"county",

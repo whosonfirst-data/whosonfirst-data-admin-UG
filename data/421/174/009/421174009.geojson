@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00317,
-    "geom:area_square_m":39197619.412806,
+    "geom:area_square_m":39197619.412798,
     "geom:bbox":"30.2516559007,0.618321167803,30.3210650025,0.701112403746",
     "geom:latitude":0.655574,
     "geom:longitude":30.281449,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Fort Portal District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.651091,
     "lbl:longitude":30.28485,
     "meso:admin_1":"KABAROLE",
@@ -50,7 +56,7 @@
         "Kabarole"
     ],
     "name:eng_x_preferred":[
-        "Fort Portal Municipality"
+        "Fort Portal"
     ],
     "name:eng_x_variant":[
         "Fort Portal Municipality",
@@ -324,7 +330,7 @@
         }
     ],
     "wof:id":421174009,
-    "wof:lastmodified":1553816364,
+    "wof:lastmodified":1555220345,
     "wof:name":"Fort Portal Municipality",
     "wof:parent_id":85679939,
     "wof:placetype":"county",

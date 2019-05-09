@@ -10,6 +10,12 @@
     "geom:latitude":2.304253,
     "geom:longitude":32.969395,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Erute District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.216291,
     "lbl:longitude":33.018044,
     "meso:admin_1":"LIRA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092070567,
-    "wof:lastmodified":1544032783,
+    "wof:lastmodified":1555092060,
     "wof:name":"Erute",
     "wof:parent_id":85679909,
     "wof:placetype":"county",

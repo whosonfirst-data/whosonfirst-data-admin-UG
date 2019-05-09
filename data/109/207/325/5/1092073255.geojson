@@ -10,6 +10,12 @@
     "geom:latitude":-0.347295,
     "geom:longitude":30.91375,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Nyabushozi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.322821,
     "lbl:longitude":30.890971,
     "meso:admin_1":"KIRUHURA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092073255,
-    "wof:lastmodified":1544032787,
+    "wof:lastmodified":1555092064,
     "wof:name":"Nyabushozi",
     "wof:parent_id":1108808411,
     "wof:placetype":"county",

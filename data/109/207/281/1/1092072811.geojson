@@ -10,6 +10,12 @@
     "geom:latitude":0.508311,
     "geom:longitude":32.067809,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Mityana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.506491,
     "lbl:longitude":32.071402,
     "meso:admin_1":"MITYANA",
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":1092072811,
-    "wof:lastmodified":1544032787,
+    "wof:lastmodified":1555092063,
     "wof:name":"Mityana",
     "wof:parent_id":85679891,
     "wof:placetype":"county",

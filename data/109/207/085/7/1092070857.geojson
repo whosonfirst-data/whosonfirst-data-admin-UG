@@ -10,6 +10,12 @@
     "geom:latitude":2.486527,
     "geom:longitude":31.370917,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Jonam District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.442793,
     "lbl:longitude":31.384635,
     "meso:admin_1":"NEBBI",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092070857,
-    "wof:lastmodified":1544032784,
+    "wof:lastmodified":1555092060,
     "wof:name":"Jonam",
     "wof:parent_id":85679849,
     "wof:placetype":"county",

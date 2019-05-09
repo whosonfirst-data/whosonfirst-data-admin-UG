@@ -10,6 +10,12 @@
     "geom:latitude":3.034859,
     "geom:longitude":33.980937,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Jie District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.055611,
     "lbl:longitude":34.022392,
     "meso:admin_1":"KOTIDO",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092070781,
-    "wof:lastmodified":1544032784,
+    "wof:lastmodified":1555092060,
     "wof:name":"Jie",
     "wof:parent_id":85679999,
     "wof:placetype":"county",

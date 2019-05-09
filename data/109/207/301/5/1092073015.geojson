@@ -10,6 +10,12 @@
     "geom:latitude":0.59078,
     "geom:longitude":32.84408,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Nakifuma District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.589081,
     "lbl:longitude":32.830316,
     "meso:admin_1":"MUKONO",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092073015,
-    "wof:lastmodified":1544032787,
+    "wof:lastmodified":1555092064,
     "wof:name":"Nakifuma",
     "wof:parent_id":85679817,
     "wof:placetype":"county",

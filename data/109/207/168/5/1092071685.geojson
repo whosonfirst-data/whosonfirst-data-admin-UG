@@ -10,6 +10,12 @@
     "geom:latitude":-0.808943,
     "geom:longitude":29.726351,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kinkiizi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.874111,
     "lbl:longitude":29.742142,
     "meso:admin_1":"KANUNGU",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1092071685,
-    "wof:lastmodified":1543954410,
+    "wof:lastmodified":1555092061,
     "wof:name":"Kinkiizi",
     "wof:parent_id":85680079,
     "wof:placetype":"county",

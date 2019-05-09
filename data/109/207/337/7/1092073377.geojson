@@ -10,6 +10,12 @@
     "geom:latitude":2.669321,
     "geom:longitude":32.471102,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Omoro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.650684,
     "lbl:longitude":32.378882,
     "meso:admin_1":"GULU",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092073377,
-    "wof:lastmodified":1544032788,
+    "wof:lastmodified":1555092064,
     "wof:name":"Omoro",
     "wof:parent_id":85679905,
     "wof:placetype":"county",

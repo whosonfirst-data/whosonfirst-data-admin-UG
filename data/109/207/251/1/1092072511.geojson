@@ -10,6 +10,12 @@
     "geom:latitude":3.24018,
     "geom:longitude":30.928058,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Maracha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.240925,
     "lbl:longitude":30.930109,
     "meso:admin_1":"MARACHA",
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1092072511,
-    "wof:lastmodified":1544032786,
+    "wof:lastmodified":1555092063,
     "wof:name":"Maracha",
     "wof:parent_id":85679861,
     "wof:placetype":"county",

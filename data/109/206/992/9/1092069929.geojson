@@ -10,6 +10,12 @@
     "geom:latitude":0.306138,
     "geom:longitude":32.039177,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Busujju District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.284212,
     "lbl:longitude":31.958237,
     "meso:admin_1":"MITYANA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092069929,
-    "wof:lastmodified":1544032782,
+    "wof:lastmodified":1555092059,
     "wof:name":"Busujju",
     "wof:parent_id":85679891,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":2.009474,
     "geom:longitude":33.637207,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Amuria District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.038134,
     "lbl:longitude":33.641316,
     "meso:admin_1":"AMURIA",
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":1092068395,
-    "wof:lastmodified":1544032780,
+    "wof:lastmodified":1555092056,
     "wof:name":"Amuria",
     "wof:parent_id":85680003,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":0.049269,
     "geom:longitude":29.836527,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Bukonjo District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.060592,
     "lbl:longitude":29.820549,
     "meso:admin_1":"KASESE",
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1092069357,
-    "wof:lastmodified":1543954404,
+    "wof:lastmodified":1555092058,
     "wof:name":"Bukonjo",
     "wof:parent_id":85680037,
     "wof:placetype":"county",

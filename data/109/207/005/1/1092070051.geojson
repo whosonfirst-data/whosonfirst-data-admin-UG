@@ -10,6 +10,12 @@
     "geom:latitude":0.542961,
     "geom:longitude":33.281269,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Butembe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.542866,
     "lbl:longitude":33.282972,
     "meso:admin_1":"JINJA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092070051,
-    "wof:lastmodified":1544032782,
+    "wof:lastmodified":1555092059,
     "wof:name":"Butembe",
     "wof:parent_id":85679773,
     "wof:placetype":"county",

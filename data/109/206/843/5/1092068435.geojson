@@ -10,6 +10,12 @@
     "geom:latitude":3.523409,
     "geom:longitude":31.28826,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Aringa District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":3.537966,
     "lbl:longitude":31.283622,
     "meso:admin_1":"YUMBE",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092068435,
-    "wof:lastmodified":1544032780,
+    "wof:lastmodified":1555092056,
     "wof:name":"Aringa",
     "wof:parent_id":85679857,
     "wof:placetype":"county",

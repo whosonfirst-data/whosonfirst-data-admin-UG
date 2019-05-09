@@ -10,6 +10,12 @@
     "geom:latitude":-1.148666,
     "geom:longitude":30.092483,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Rukiga District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.16127,
     "lbl:longitude":30.063529,
     "meso:admin_1":"KABALE",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092073783,
-    "wof:lastmodified":1544032788,
+    "wof:lastmodified":1555092065,
     "wof:name":"Rukiga",
     "wof:parent_id":85680073,
     "wof:placetype":"county",

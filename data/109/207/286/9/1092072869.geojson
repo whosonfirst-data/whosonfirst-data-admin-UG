@@ -10,6 +10,12 @@
     "geom:latitude":2.270422,
     "geom:longitude":33.255838,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Moroto District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":2.204949,
     "lbl:longitude":33.279598,
     "meso:admin_1":"ALEBTONG",
@@ -185,7 +191,7 @@
         }
     ],
     "wof:id":1092072869,
-    "wof:lastmodified":1544032787,
+    "wof:lastmodified":1555092063,
     "wof:name":"Moroto",
     "wof:parent_id":85680161,
     "wof:placetype":"county",

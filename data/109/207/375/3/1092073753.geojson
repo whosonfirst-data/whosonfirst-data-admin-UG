@@ -10,6 +10,12 @@
     "geom:latitude":-0.621644,
     "geom:longitude":30.021619,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Ruhinda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.631447,
     "lbl:longitude":30.023683,
     "meso:admin_1":"MITOOMA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092073753,
-    "wof:lastmodified":1544032788,
+    "wof:lastmodified":1555092065,
     "wof:name":"Ruhinda",
     "wof:parent_id":85680233,
     "wof:placetype":"county",

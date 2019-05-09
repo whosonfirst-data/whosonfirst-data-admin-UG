@@ -10,6 +10,12 @@
     "geom:latitude":1.351863,
     "geom:longitude":34.422162,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Tingey District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.364459,
     "lbl:longitude":34.410629,
     "meso:admin_1":"KAPCHORWA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092074137,
-    "wof:lastmodified":1544032789,
+    "wof:lastmodified":1555092065,
     "wof:name":"Tingey",
     "wof:parent_id":85679951,
     "wof:placetype":"county",

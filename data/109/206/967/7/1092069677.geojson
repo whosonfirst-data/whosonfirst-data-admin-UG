@@ -10,6 +10,12 @@
     "geom:latitude":0.885572,
     "geom:longitude":33.931937,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Bunyole District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.861625,
     "lbl:longitude":33.867763,
     "meso:admin_1":"BUTALEJA",
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1092069677,
-    "wof:lastmodified":1543954405,
+    "wof:lastmodified":1555047750,
     "wof:name":"Bunyole",
     "wof:parent_id":85679981,
     "wof:placetype":"county",

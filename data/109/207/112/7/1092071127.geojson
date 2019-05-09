@@ -10,6 +10,12 @@
     "geom:latitude":1.837848,
     "geom:longitude":33.335432,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kalaki District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":1.896434,
     "lbl:longitude":33.335415,
     "meso:admin_1":"KABERAMAIDO",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092071127,
-    "wof:lastmodified":1544032784,
+    "wof:lastmodified":1555092061,
     "wof:name":"Kalaki",
     "wof:parent_id":85679783,
     "wof:placetype":"county",

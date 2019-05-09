@@ -10,6 +10,12 @@
     "geom:latitude":-0.246709,
     "geom:longitude":29.98537,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Bunyaruguru District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.298329,
     "lbl:longitude":29.889206,
     "meso:admin_1":"KATERERE",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092074343,
-    "wof:lastmodified":1544032789,
+    "wof:lastmodified":1555092066,
     "wof:name":"Bunyaruguru",
     "wof:parent_id":85680229,
     "wof:placetype":"county",

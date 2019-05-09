@@ -10,6 +10,12 @@
     "geom:latitude":0.453613,
     "geom:longitude":31.001247,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Kyaka District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.472272,
     "lbl:longitude":30.997626,
     "meso:admin_1":"KYEGEGWA",
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":1092072113,
-    "wof:lastmodified":1544032786,
+    "wof:lastmodified":1555092062,
     "wof:name":"Kyaka",
     "wof:parent_id":85680183,
     "wof:placetype":"county",

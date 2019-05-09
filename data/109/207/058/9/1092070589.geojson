@@ -10,6 +10,12 @@
     "geom:latitude":0.198913,
     "geom:longitude":31.701546,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Gomba District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":0.18097,
     "lbl:longitude":31.637914,
     "meso:admin_1":"GOMBA",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":1092070589,
-    "wof:lastmodified":1544032783,
+    "wof:lastmodified":1555092060,
     "wof:name":"Gomba",
     "wof:parent_id":85680133,
     "wof:placetype":"county",

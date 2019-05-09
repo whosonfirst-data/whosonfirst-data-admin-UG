@@ -10,6 +10,12 @@
     "geom:latitude":-0.833985,
     "geom:longitude":30.70411,
     "iso:country":"UG",
+    "label:eng_x_preferred_longname":[
+        "Isingiro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-0.718896,
     "lbl:longitude":30.762112,
     "meso:admin_1":"ISINGIRO",
@@ -179,7 +185,7 @@
         }
     ],
     "wof:id":1092070741,
-    "wof:lastmodified":1544032784,
+    "wof:lastmodified":1555092060,
     "wof:name":"Isingiro",
     "wof:parent_id":85680051,
     "wof:placetype":"county",
