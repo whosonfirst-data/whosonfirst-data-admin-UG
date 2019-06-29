@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059417,
-    "geom:area_square_m":734671241.348358,
+    "geom:area_square_m":734671241.348291,
     "geom:bbox":"33.0421537013,0.393396581684,33.3779504733,0.700313784974",
     "geom:latitude":0.56746,
     "geom:longitude":33.212652,
@@ -31,14 +31,14 @@
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09a8\u09bf\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u91d1\u8cc8\u5340"
-    ],
     "name:dan_x_preferred":[
         "Jinja District"
     ],
-    "name:dut_x_preferred":[
-        "Jinja"
+    "name:deu_x_preferred":[
+        "Distrikt Jinja"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03af\u03bd\u03c4\u03b6\u03b1"
     ],
     "name:eng_x_preferred":[
         "Jinja"
@@ -49,17 +49,8 @@
     "name:fra_x_preferred":[
         "Jinja"
     ],
-    "name:fre_x_preferred":[
-        "Jinja"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Jinja"
-    ],
     "name:glg_x_preferred":[
         "Distrito Jinja"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b6\u03af\u03bd\u03c4\u03b6\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a9c\u0ac0\u0aa8\u0acd\u0a9c\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -100,7 +91,7 @@
     "name:mar_x_preferred":[
         "\u091c\u093f\u0902\u0926\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Jinja District"
     ],
     "name:nld_x_preferred":[
@@ -115,7 +106,7 @@
     "name:por_x_preferred":[
         "Jinja"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Jinja"
     ],
     "name:rus_x_preferred":[
@@ -156,6 +147,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Jinja"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u8cc8\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -284,7 +278,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553814831,
+    "wof:lastmodified":1561777289,
     "wof:name":"Jinja",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

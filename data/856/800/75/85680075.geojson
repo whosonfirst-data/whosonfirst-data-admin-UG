@@ -25,16 +25,10 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:chi_x_preferred":[
-        "\u57fa\u7d22\u7f85\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Kisoro"
-    ],
     "name:eng_x_preferred":[
         "Kisoro"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kisoro"
     ],
     "name:ita_x_preferred":[
@@ -49,10 +43,13 @@
     "name:lug_x_preferred":[
         "Kisoro"
     ],
+    "name:nld_x_preferred":[
+        "Kisoro"
+    ],
     "name:nob_x_preferred":[
         "Kisoro"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Kisoro"
     ],
     "name:rus_x_preferred":[
@@ -69,6 +66,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0633\u0648\u0631\u0648 \u0636\u0644\u0639"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u7d22\u7f85\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -196,7 +196,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550605,
+    "wof:lastmodified":1561777294,
     "wof:name":"Kisoro",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

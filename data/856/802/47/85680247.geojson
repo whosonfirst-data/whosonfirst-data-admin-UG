@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.388144,
-    "geom:area_square_m":4794786520.662189,
+    "geom:area_square_m":4794786520.662314,
     "geom:bbox":"31.3377502969,2.21780310249,32.3597504955,2.83746187713",
     "geom:latitude":2.530242,
     "geom:longitude":31.840608,
@@ -30,14 +30,14 @@
     "name:ben_x_preferred":[
         "\u0997\u09c1\u09b2\u09cb \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u53e4\u76e7\u5340"
-    ],
     "name:dan_x_preferred":[
         "Gulu District"
     ],
-    "name:dut_x_preferred":[
-        "Gulu"
+    "name:deu_x_preferred":[
+        "Distrikt Gulu"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03bf\u03c5\u03bb\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Gulu"
@@ -45,14 +45,8 @@
     "name:fin_x_preferred":[
         "Gulun kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gulu"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Gulu"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bf\u03c5\u03bb\u03bf\u03cd"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ac1\u0ab2\u0ac1 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -87,8 +81,11 @@
     "name:mar_x_preferred":[
         "\u0917\u0941\u0932\u0942 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gulu District"
+    ],
+    "name:nld_x_preferred":[
+        "Gulu"
     ],
     "name:nob_x_preferred":[
         "Gulu"
@@ -99,7 +96,7 @@
     "name:por_x_preferred":[
         "Gulu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Gulu"
     ],
     "name:rus_x_preferred":[
@@ -137,6 +134,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Gulu"
+    ],
+    "name:zho_x_preferred":[
+        "\u53e4\u76e7\u5340"
     ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
@@ -201,7 +201,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553814832,
+    "wof:lastmodified":1561777294,
     "wof:name":"Nwoya",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

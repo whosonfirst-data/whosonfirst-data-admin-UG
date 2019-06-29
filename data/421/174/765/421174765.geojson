@@ -17,19 +17,13 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0644\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Gulu"
-    ],
     "name:ben_x_preferred":[
         "\u099c\u09c1\u09b2\u09c1"
-    ],
-    "name:chi_x_preferred":[
-        "\u53e4\u76e7"
     ],
     "name:dan_x_preferred":[
         "Gulu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Gulu"
     ],
     "name:ell_x_preferred":[
@@ -41,20 +35,17 @@
     "name:epo_x_preferred":[
         "Gulu"
     ],
+    "name:eus_x_preferred":[
+        "Gulu"
+    ],
+    "name:fas_x_preferred":[
+        "\u06af\u0648\u0644\u0648\u060c \u0627\u0648\u06af\u0627\u0646\u062f\u0627"
+    ],
     "name:fin_x_preferred":[
         "Gulu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gulu"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10da\u10e3"
-    ],
-    "name:ger_x_preferred":[
-        "Gulu"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03bf\u03c5\u03bb\u03bf\u03cd"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0ac1\u0ab2\u0ac1"
@@ -101,20 +92,20 @@
     "name:lug_x_preferred":[
         "Gulu"
     ],
-    "name:mao_x_preferred":[
-        "Gulu"
-    ],
     "name:mar_x_preferred":[
         "\u0917\u0941\u0932\u094d\u0932\u0942"
     ],
-    "name:may_x_preferred":[
+    "name:mri_x_preferred":[
+        "Gulu"
+    ],
+    "name:msa_x_preferred":[
+        "Gulu"
+    ],
+    "name:nld_x_preferred":[
         "Gulu"
     ],
     "name:nob_x_preferred":[
         "Gulu"
-    ],
-    "name:per_x_preferred":[
-        "\u06af\u0648\u0644\u0648\u060c \u0627\u0648\u06af\u0627\u0646\u062f\u0627"
     ],
     "name:pol_x_preferred":[
         "Gulu"
@@ -122,7 +113,7 @@
     "name:por_x_preferred":[
         "Gulu"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gulu"
     ],
     "name:rus_x_preferred":[
@@ -310,7 +301,7 @@
         }
     ],
     "wof:id":421174765,
-    "wof:lastmodified":1553816364,
+    "wof:lastmodified":1561777349,
     "wof:name":"Gulu",
     "wof:parent_id":1092070633,
     "wof:placetype":"locality",

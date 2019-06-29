@@ -19,22 +19,22 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:dut_x_preferred":[
-        "Kamwenge"
-    ],
     "name:eng_x_preferred":[
         "Kamwenge"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kamwenge"
     ],
     "name:ita_x_preferred":[
         "Kamwenge"
     ],
+    "name:nld_x_preferred":[
+        "Kamwenge"
+    ],
     "name:nob_x_preferred":[
         "Kamwenge"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kamwenge"
     ],
     "name:swa_x_preferred":[
@@ -82,7 +82,7 @@
         }
     ],
     "wof:id":1126002023,
-    "wof:lastmodified":1514510988,
+    "wof:lastmodified":1561777352,
     "wof:name":"Kamwenge",
     "wof:parent_id":421202527,
     "wof:placetype":"locality",

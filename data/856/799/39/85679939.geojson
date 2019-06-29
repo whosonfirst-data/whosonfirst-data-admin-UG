@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147419,
-    "geom:area_square_m":1822761500.184782,
+    "geom:area_square_m":1822761500.184726,
     "geom:bbox":"29.9870045763,0.268253610881,30.5607898868,0.97160050232",
     "geom:latitude":0.599851,
     "geom:longitude":30.288996,
@@ -33,14 +33,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ac\u09be\u09b0\u09cb\u09b2\u09c7 \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u5df4\u7f85\u840a\u5340"
-    ],
     "name:dan_x_preferred":[
         "Kabarole District"
     ],
-    "name:dut_x_preferred":[
-        "Kabarole"
+    "name:deu_x_preferred":[
+        "Distrikt Kabarole"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc\u03c0\u03b1\u03c1\u03cc\u03bb\u03b5"
     ],
     "name:eng_x_preferred":[
         "Kabarole"
@@ -48,14 +48,8 @@
     "name:fin_x_preferred":[
         "Kabarolen kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kabarole"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Kabarole"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bc\u03c0\u03b1\u03c1\u03cc\u03bb\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0aac\u0ac7\u0ab0\u0acb\u0ab2 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -90,8 +84,11 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u092c\u0930\u094b\u0932 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kabarole District"
+    ],
+    "name:nld_x_preferred":[
+        "Kabarole"
     ],
     "name:nob_x_preferred":[
         "Kabarole"
@@ -102,7 +99,7 @@
     "name:por_x_preferred":[
         "Kabarole"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Kabarole"
     ],
     "name:rus_x_preferred":[
@@ -143,6 +140,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Kabarole"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u5df4\u7f85\u840a\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -267,7 +267,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553814832,
+    "wof:lastmodified":1561777291,
     "wof:name":"Kabarole",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

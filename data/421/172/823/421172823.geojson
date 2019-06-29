@@ -23,17 +23,14 @@
     "name:bul_x_preferred":[
         "\u0410\u0440\u0443\u0430"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u9c81\u963f"
-    ],
     "name:dan_x_preferred":[
         "Arua"
     ],
     "name:deu_x_preferred":[
         "Arua"
     ],
-    "name:dut_x_preferred":[
-        "Arua"
+    "name:ell_x_preferred":[
+        "\u0386\u03c1\u03bf\u03c5\u03b1"
     ],
     "name:eng_x_preferred":[
         "Arua"
@@ -41,14 +38,8 @@
     "name:fin_x_preferred":[
         "Arua"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Arua"
-    ],
-    "name:ger_x_preferred":[
-        "Arua"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03c1\u03bf\u03c5\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0ab0\u0ac2\u0a86"
@@ -89,10 +80,13 @@
     "name:mar_x_preferred":[
         "\u0905\u0930\u0941\u0906"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Arua"
     ],
     "name:nds_x_preferred":[
+        "Arua"
+    ],
+    "name:nld_x_preferred":[
         "Arua"
     ],
     "name:nob_x_preferred":[
@@ -104,7 +98,7 @@
     "name:por_x_preferred":[
         "Arua"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Arua"
     ],
     "name:rus_x_preferred":[
@@ -288,7 +282,7 @@
         }
     ],
     "wof:id":421172823,
-    "wof:lastmodified":1527716306,
+    "wof:lastmodified":1561777350,
     "wof:name":"Arua",
     "wof:parent_id":1092068475,
     "wof:placetype":"locality",

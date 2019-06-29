@@ -31,14 +31,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ae\u09cb\u09af\u09bc\u09c7\u0999\u09cd\u0997\u09c7 \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5361\u59c6\u6587\u84cb\u5340"
-    ],
     "name:dan_x_preferred":[
         "Kamwenge District"
     ],
-    "name:dut_x_preferred":[
-        "Kamwenge"
+    "name:deu_x_preferred":[
+        "Kamwenge-Distrikt"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc\u03bf\u03c5\u03ad\u03bd\u03b3\u03ba\u03b5"
     ],
     "name:eng_x_preferred":[
         "Kamwenge"
@@ -48,15 +48,6 @@
     ],
     "name:fra_x_preferred":[
         "Kamwenge"
-    ],
-    "name:fre_x_preferred":[
-        "Kamwenge"
-    ],
-    "name:ger_x_preferred":[
-        "Kamwenge-Distrikt"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bc\u03bf\u03c5\u03ad\u03bd\u03b3\u03ba\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0aae\u0ab5\u0ac7\u0a82\u0a97\u0ac7 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -91,7 +82,7 @@
     "name:mar_x_preferred":[
         "\u0915\u093e\u092e\u093e\u0935\u0947\u0928\u0917\u0947 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Kamwenge District"
     ],
     "name:nld_x_preferred":[
@@ -109,7 +100,7 @@
     "name:ron_x_preferred":[
         "Kamwenge"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Districtul Kamwenge"
     ],
     "name:rus_x_preferred":[
@@ -150,6 +141,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Kamwenge"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u59c6\u6587\u84cb\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -278,7 +272,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550549,
+    "wof:lastmodified":1561777295,
     "wof:name":"Kamwenge",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

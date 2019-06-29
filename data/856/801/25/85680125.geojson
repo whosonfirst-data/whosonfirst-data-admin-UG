@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.775506,
-    "geom:area_square_m":9588871928.970236,
+    "geom:area_square_m":9588871928.970747,
     "geom:bbox":"32.8723829011,-1.0,33.5226315699,0.358204664245",
     "geom:latitude":-0.3939,
     "geom:longitude":33.207618,
@@ -33,14 +33,14 @@
     "name:cat_x_preferred":[
         "districte de Mukono"
     ],
-    "name:chi_x_preferred":[
-        "\u7a46\u79d1\u8afe\u5340"
-    ],
     "name:dan_x_preferred":[
         "Mukono District"
     ],
-    "name:dut_x_preferred":[
-        "Mukono"
+    "name:deu_x_preferred":[
+        "Distrikt Mukono"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03ba\u03cc\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Mukono"
@@ -48,17 +48,11 @@
     "name:fin_x_preferred":[
         "Mukonon kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mukono"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Mukono"
     ],
     "name:glg_x_preferred":[
         "Distrito Mukono"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03c5\u03ba\u03cc\u03bd\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac1\u0a95\u0acb\u0aa8\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -96,8 +90,11 @@
     "name:mar_x_preferred":[
         "\u092e\u0941\u0915\u094b\u0928\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mukono District"
+    ],
+    "name:nld_x_preferred":[
+        "Mukono"
     ],
     "name:nob_x_preferred":[
         "Mukono"
@@ -108,7 +105,7 @@
     "name:por_x_preferred":[
         "Mukono"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Mukono"
     ],
     "name:rus_x_preferred":[
@@ -146,6 +143,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Mukono"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u79d1\u8afe\u5340"
     ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
@@ -212,7 +212,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553814832,
+    "wof:lastmodified":1561777296,
     "wof:name":"Buvuma",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

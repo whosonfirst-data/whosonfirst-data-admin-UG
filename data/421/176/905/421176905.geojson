@@ -14,9 +14,6 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Kiboga"
-    ],
     "name:eng_x_preferred":[
         "Kiboga"
     ],
@@ -30,9 +27,6 @@
         "Kiboga"
     ],
     "name:ron_x_preferred":[
-        "Kiboga"
-    ],
-    "name:rum_x_preferred":[
         "Kiboga"
     ],
     "name:swa_x_preferred":[
@@ -188,7 +182,7 @@
         }
     ],
     "wof:id":421176905,
-    "wof:lastmodified":1514511003,
+    "wof:lastmodified":1561777350,
     "wof:name":"Kiboga",
     "wof:parent_id":1092071543,
     "wof:placetype":"locality",

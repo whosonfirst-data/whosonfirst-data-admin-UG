@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.228401,
-    "geom:area_square_m":2824184719.181659,
+    "geom:area_square_m":2824184719.182042,
     "geom:bbox":"32.1917120956,-0.152083634624,32.687577899,0.585757642794",
     "geom:latitude":0.222555,
     "geom:longitude":32.444701,
@@ -31,14 +31,14 @@
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u0995\u09bf\u09b8\u09cb \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u74e6\u57fa\u7d22\u5340"
-    ],
     "name:dan_x_preferred":[
         "Wakiso District"
     ],
-    "name:dut_x_preferred":[
-        "Wakiso"
+    "name:deu_x_preferred":[
+        "Distrikt Wakiso"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03b1\u03ba\u03af\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
         "Wakiso"
@@ -46,17 +46,11 @@
     "name:fin_x_preferred":[
         "Wakison kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Wakiso"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Wakiso"
     ],
     "name:glg_x_preferred":[
         "Distrito Wakiso"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03bf\u03c5\u03b1\u03ba\u03af\u03c3\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abe\u0a95\u0ac0\u0ab6\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -91,8 +85,11 @@
     "name:mar_x_preferred":[
         "\u0935\u0945\u0915\u0940\u0913 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wakiso District"
+    ],
+    "name:nld_x_preferred":[
+        "Wakiso"
     ],
     "name:nob_x_preferred":[
         "Wakiso"
@@ -103,7 +100,7 @@
     "name:por_x_preferred":[
         "Distrito de Wakiso"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Wakiso"
     ],
     "name:rus_x_preferred":[
@@ -147,6 +144,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Wakiso"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u57fa\u7d22\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -274,7 +274,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553814831,
+    "wof:lastmodified":1561777293,
     "wof:name":"Wakiso",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

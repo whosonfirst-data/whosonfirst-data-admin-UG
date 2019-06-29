@@ -22,8 +22,11 @@
     "name:dan_x_preferred":[
         "Masindi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Masindi"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c3\u03af\u03bd\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
         "Masindi"
@@ -31,14 +34,8 @@
     "name:fin_x_preferred":[
         "Masindi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Masindi"
-    ],
-    "name:ger_x_preferred":[
-        "Masindi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c3\u03af\u03bd\u03c4\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ab8\u0abf\u0a82\u0aa1\u0ac0"
@@ -70,7 +67,10 @@
     "name:mar_x_preferred":[
         "\u092e\u093e\u0938\u093f\u0902\u0926\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Masindi"
+    ],
+    "name:nld_x_preferred":[
         "Masindi"
     ],
     "name:nob_x_preferred":[
@@ -82,7 +82,7 @@
     "name:por_x_preferred":[
         "Masindi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Masindi"
     ],
     "name:rus_x_preferred":[
@@ -166,7 +166,7 @@
         }
     ],
     "wof:id":421177735,
-    "wof:lastmodified":1514511052,
+    "wof:lastmodified":1561777350,
     "wof:name":"Masindi",
     "wof:parent_id":1092074425,
     "wof:placetype":"locality",

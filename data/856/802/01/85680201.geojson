@@ -30,14 +30,14 @@
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u09b0\u09cb\u09a4\u09c1 \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u83ab\u7f85\u6258\u5340"
-    ],
     "name:dan_x_preferred":[
         "Moroto District"
     ],
-    "name:dut_x_preferred":[
-        "Moroto"
+    "name:deu_x_preferred":[
+        "Moroto-Distrikt"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c1\u03cc\u03c4\u03bf"
     ],
     "name:eng_x_preferred":[
         "Moroto"
@@ -45,17 +45,11 @@
     "name:fin_x_preferred":[
         "Moroton piirikunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Moroto"
-    ],
-    "name:ger_x_preferred":[
-        "Moroto-Distrikt"
     ],
     "name:glg_x_preferred":[
         "Distrito Moroto"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03c1\u03cc\u03c4\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acb\u0ab0\u0acb\u0a9f\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -93,8 +87,11 @@
     "name:mar_x_preferred":[
         "\u092e\u094b\u0930\u094b\u0924\u094b \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Moroto District"
+    ],
+    "name:nld_x_preferred":[
+        "Moroto"
     ],
     "name:nob_x_preferred":[
         "Moroto"
@@ -105,7 +102,7 @@
     "name:por_x_preferred":[
         "Moroto"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Moroto"
     ],
     "name:rus_x_preferred":[
@@ -143,6 +140,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Moroto"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ab\u7f85\u6258\u5340"
     ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
@@ -207,7 +207,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550559,
+    "wof:lastmodified":1561777293,
     "wof:name":"Napak",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

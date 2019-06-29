@@ -20,16 +20,10 @@
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09ae\u09cd\u09ac\u09be\u09b0\u09be\u09b0\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u59c6\u5df4\u62c9\u62c9"
-    ],
     "name:dan_x_preferred":[
         "Mbarara"
     ],
     "name:deu_x_preferred":[
-        "Mbarara"
-    ],
-    "name:dut_x_preferred":[
         "Mbarara"
     ],
     "name:ell_x_preferred":[
@@ -43,18 +37,6 @@
     ],
     "name:fra_x_preferred":[
         "Mbarara"
-    ],
-    "name:fre_x_preferred":[
-        "Mbarara"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10d1\u10d0\u10e0\u10d0\u10e0\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Mbarara"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03c1\u03ac\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a8f\u0aae\u0aac\u0ab0\u0abe\u0ab0\u0abe"
@@ -95,7 +77,7 @@
     "name:mar_x_preferred":[
         "\u092e\u0941\u092c\u093e\u0930\u093e\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mbarara"
     ],
     "name:nld_x_preferred":[
@@ -111,9 +93,6 @@
         "Mbarara"
     ],
     "name:ron_x_preferred":[
-        "Mbarara"
-    ],
-    "name:rum_x_preferred":[
         "Mbarara"
     ],
     "name:rus_x_preferred":[
@@ -151,6 +130,9 @@
     ],
     "name:vie_x_preferred":[
         "Mbarara"
+    ],
+    "name:zho_x_preferred":[
+        "\u59c6\u5df4\u62c9\u62c9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uganda",
@@ -291,7 +273,7 @@
         }
     ],
     "wof:id":421174865,
-    "wof:lastmodified":1514511060,
+    "wof:lastmodified":1561777349,
     "wof:name":"Mbarara",
     "wof:parent_id":1092072775,
     "wof:placetype":"locality",

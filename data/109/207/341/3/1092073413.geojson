@@ -38,14 +38,14 @@
     "name:ben_x_preferred":[
         "\u0993\u09a4\u09c1\u0995\u09c7 \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5967\u5716\u51f1\u5340"
-    ],
     "name:dan_x_preferred":[
         "Otuke District"
     ],
-    "name:dut_x_preferred":[
-        "Otuke"
+    "name:deu_x_preferred":[
+        "Otuke-District"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c4\u03bf\u03cd\u03ba\u03b5"
     ],
     "name:eng_x_preferred":[
         "Otuke"
@@ -58,17 +58,11 @@
     "name:fin_x_preferred":[
         "Otuken kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Otuke"
-    ],
-    "name:ger_x_preferred":[
-        "Otuke-District"
     ],
     "name:glg_x_preferred":[
         "Distrito Otuke"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c4\u03bf\u03cd\u03ba\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a93\u0a9f\u0ac1\u0a95 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -103,8 +97,11 @@
     "name:mar_x_preferred":[
         "\u0913\u091f\u0942\u0915 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Otuke District"
+    ],
+    "name:nld_x_preferred":[
+        "Otuke"
     ],
     "name:nob_x_preferred":[
         "Otuke"
@@ -148,6 +145,9 @@
     "name:vie_x_preferred":[
         "Qu\u1eadn Otuke"
     ],
+    "name:zho_x_preferred":[
+        "\u5967\u5716\u51f1\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -182,7 +182,7 @@
         }
     ],
     "wof:id":1092073413,
-    "wof:lastmodified":1555092064,
+    "wof:lastmodified":1561777340,
     "wof:name":"Otuke",
     "wof:parent_id":85680165,
     "wof:placetype":"county",

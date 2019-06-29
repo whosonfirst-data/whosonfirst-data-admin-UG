@@ -22,8 +22,11 @@
     "name:dan_x_preferred":[
         "Mukono"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Mukono"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c5\u03ba\u03cc\u03bd\u03bf"
     ],
     "name:eng_x_preferred":[
         "Mukono Town"
@@ -31,17 +34,8 @@
     "name:fin_x_preferred":[
         "Mukono Town"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mukono"
-    ],
-    "name:geo_x_preferred":[
-        "\u10db\u10e3\u10d9\u10dd\u10dc\u10dd"
-    ],
-    "name:ger_x_preferred":[
-        "Mukono"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03bf\u03c5\u03ba\u03cc\u03bd\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac1\u0a95\u0acb\u0aa8\u0acb \u0aa8\u0a97\u0ab0"
@@ -61,6 +55,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cc1\u0c95\u0cca\u0ca8\u0cca \u0c9f\u0ccc\u0ca8\u0ccd"
     ],
+    "name:kat_x_preferred":[
+        "\u10db\u10e3\u10d9\u10dd\u10dc\u10dd"
+    ],
     "name:kor_x_preferred":[
         "\ubb34\ucf54\ub178"
     ],
@@ -73,8 +70,11 @@
     "name:mar_x_preferred":[
         "\u092e\u0941\u0915\u094b\u0928\u094b \u0928\u0917\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Mukono Town"
+    ],
+    "name:nld_x_preferred":[
+        "Mukono"
     ],
     "name:nob_x_preferred":[
         "Mukono"
@@ -85,7 +85,7 @@
     "name:por_x_preferred":[
         "Mukono"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mukono"
     ],
     "name:rus_x_preferred":[
@@ -178,7 +178,7 @@
         }
     ],
     "wof:id":421173181,
-    "wof:lastmodified":1514511079,
+    "wof:lastmodified":1561777350,
     "wof:name":"Mukono",
     "wof:parent_id":1092072911,
     "wof:placetype":"locality",

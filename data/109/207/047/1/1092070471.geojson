@@ -38,14 +38,14 @@
     "name:ben_x_preferred":[
         "\u098f\u09a1\u099c\u09c1\u09ae\u09be\u09a8\u09bf \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u6731\u99ac\u5c3c\u5340"
-    ],
     "name:dan_x_preferred":[
         "Adjumani District"
     ],
-    "name:dut_x_preferred":[
-        "Adjumani"
+    "name:deu_x_preferred":[
+        "Distrikt Adjumani"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c4\u03b6\u03bf\u03c5\u03bc\u03ac\u03bd\u03b9"
     ],
     "name:eng_x_preferred":[
         "Adjumani"
@@ -56,17 +56,14 @@
         "Adjumani District",
         "EAST MOYO"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0646\u0637\u0642\u0647 \u0627\u062c\u0648\u0645\u0627\u0646\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Adjumanin kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Adjumani"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Adjumani"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c4\u03b6\u03bf\u03c5\u03bc\u03ac\u03bd\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0aa1\u0acd\u0a9c\u0ac1\u0aae\u0abe\u0aa8\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -101,14 +98,14 @@
     "name:mar_x_preferred":[
         "\u0906\u0921\u0941\u092e\u093e\u0923\u0940 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Adjumani District"
+    ],
+    "name:nld_x_preferred":[
+        "Adjumani"
     ],
     "name:nob_x_preferred":[
         "Adjumani"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u0646\u0637\u0642\u0647 \u0627\u062c\u0648\u0645\u0627\u0646\u06cc"
     ],
     "name:pol_x_preferred":[
         "Dystrykt Adjumani"
@@ -116,7 +113,7 @@
     "name:por_x_preferred":[
         "Adjumani"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Adjumani"
     ],
     "name:rus_x_preferred":[
@@ -155,6 +152,9 @@
     "name:vie_x_preferred":[
         "Qu\u1eadn Adjumani"
     ],
+    "name:zho_x_preferred":[
+        "\u963f\u6731\u99ac\u5c3c\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":1092070471,
-    "wof:lastmodified":1555092060,
+    "wof:lastmodified":1561777340,
     "wof:name":"Adjumani",
     "wof:parent_id":85679833,
     "wof:placetype":"county",

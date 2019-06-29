@@ -24,8 +24,8 @@
     "name:dan_x_preferred":[
         "Wakiso Town"
     ],
-    "name:dut_x_preferred":[
-        "Wakiso"
+    "name:ell_x_preferred":[
+        "\u0393\u03bf\u03c5\u03b1\u03ba\u03af\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
         "Wakiso Town"
@@ -33,11 +33,8 @@
     "name:fin_x_preferred":[
         "Wakiso Town"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Wakiso"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03bf\u03c5\u03b1\u03ba\u03af\u03c3\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab5\u0abe\u0a95\u0ac0\u0ab8\u0acb \u0aa8\u0a97\u0ab0"
@@ -69,8 +66,11 @@
     "name:mar_x_preferred":[
         "\u0935\u0915\u094d\u0936\u093f\u0913 \u0928\u0917\u0930"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Wakiso Town"
+    ],
+    "name:nld_x_preferred":[
+        "Wakiso"
     ],
     "name:nob_x_preferred":[
         "Wakiso"
@@ -81,7 +81,7 @@
     "name:por_x_preferred":[
         "Wakiso"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Wakiso"
     ],
     "name:rus_x_preferred":[
@@ -151,7 +151,7 @@
         }
     ],
     "wof:id":890433275,
-    "wof:lastmodified":1553816395,
+    "wof:lastmodified":1561777351,
     "wof:name":"Wakiso",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",
