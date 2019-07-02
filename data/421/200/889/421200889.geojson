@@ -20,28 +20,16 @@
     "name:aze_x_preferred":[
         "Entebbe"
     ],
-    "name:baq_x_preferred":[
-        "Entebbe"
-    ],
     "name:ben_x_preferred":[
         "\u098f\u09a8\u09cd\u09a4\u09c7\u09ac\u09cd\u09ac\u09c7"
     ],
     "name:bul_x_preferred":[
         "\u0415\u043d\u0442\u0435\u0431\u0435"
     ],
-    "name:bur_x_preferred":[
-        "\u1021\u1004\u103a\u1010\u1000\u103a\u1018\u102e\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:cat_x_preferred":[
         "Entebbe"
     ],
     "name:ces_x_preferred":[
-        "Entebbe"
-    ],
-    "name:chi_x_preferred":[
-        "\u6069\u5fb7\u57f9"
-    ],
-    "name:cze_x_preferred":[
         "Entebbe"
     ],
     "name:dan_x_preferred":[
@@ -50,8 +38,8 @@
     "name:deu_x_preferred":[
         "Entebbe"
     ],
-    "name:dut_x_preferred":[
-        "Entebbe"
+    "name:ell_x_preferred":[
+        "\u0395\u03bd\u03c4\u03ad\u03bc\u03c0\u03b5"
     ],
     "name:eng_x_preferred":[
         "Entebbe"
@@ -67,18 +55,6 @@
     ],
     "name:fra_x_preferred":[
         "Entebbe"
-    ],
-    "name:fre_x_preferred":[
-        "Entebbe"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d4\u10dc\u10e2\u10d4\u10d1\u10d4"
-    ],
-    "name:ger_x_preferred":[
-        "Entebbe"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03bd\u03c4\u03ad\u03bc\u03c0\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0a8d\u0a82\u0a9f\u0ac7\u0aac\u0ac7"
@@ -96,9 +72,6 @@
         "Entebbe"
     ],
     "name:hun_x_preferred":[
-        "Entebbe"
-    ],
-    "name:ice_x_preferred":[
         "Entebbe"
     ],
     "name:ile_x_preferred":[
@@ -137,7 +110,7 @@
     "name:mar_x_preferred":[
         "\u090f\u0928\u094d\u091f\u0947\u092c"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Entebbe"
     ],
     "name:mya_x_preferred":[
@@ -151,9 +124,6 @@
     ],
     "name:nor_x_preferred":[
         "Entebbe"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0646\u062a\u0628\u0647"
     ],
     "name:pms_x_preferred":[
         "Entebbe"
@@ -174,9 +144,6 @@
         "\u0d91\u0db1\u0dca\u0da7\u0dd9\u0db6\u0dca\u0db6\u0dda"
     ],
     "name:slk_x_preferred":[
-        "Entebbe"
-    ],
-    "name:slo_x_preferred":[
         "Entebbe"
     ],
     "name:slv_x_preferred":[
@@ -364,7 +331,7 @@
         }
     ],
     "wof:id":421200889,
-    "wof:lastmodified":1527716422,
+    "wof:lastmodified":1561777350,
     "wof:name":"Entebbe",
     "wof:parent_id":1092070523,
     "wof:placetype":"locality",

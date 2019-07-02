@@ -31,14 +31,14 @@
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09bf\u0982\u09b0\u09cb \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u4f0a\u8f9b\u5409\u7f85\u5340"
-    ],
     "name:dan_x_preferred":[
         "Isingiro"
     ],
-    "name:dut_x_preferred":[
-        "Isingiro"
+    "name:deu_x_preferred":[
+        "Isingiro-Distrikt"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c3\u03b9\u03bd\u03b3\u03ba\u03af\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Isingiro"
@@ -46,14 +46,8 @@
     "name:fin_x_preferred":[
         "Isingironin kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Isingiro"
-    ],
-    "name:ger_x_preferred":[
-        "Isingiro-Distrikt"
-    ],
-    "name:gre_x_preferred":[
-        "\u0399\u03c3\u03b9\u03bd\u03b3\u03ba\u03af\u03c1\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0a87\u0ab8\u0abf\u0a82\u0a97\u0abf\u0ab0\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -88,8 +82,11 @@
     "name:mar_x_preferred":[
         "\u0907\u0938\u093f\u0928\u0917\u093f\u0930\u094b \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Isingiro District"
+    ],
+    "name:nld_x_preferred":[
+        "Isingiro"
     ],
     "name:nob_x_preferred":[
         "Isingiro"
@@ -103,7 +100,7 @@
     "name:ron_x_preferred":[
         "Isingiro"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Districtul Isingiro"
     ],
     "name:rus_x_preferred":[
@@ -144,6 +141,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Isingiro"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u8f9b\u5409\u7f85\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -272,7 +272,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550551,
+    "wof:lastmodified":1561777294,
     "wof:name":"Isingiro",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

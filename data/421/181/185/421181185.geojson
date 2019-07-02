@@ -22,8 +22,11 @@
     "name:dan_x_preferred":[
         "Hoima"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hoima"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03cc\u03b9\u03bc\u03b1"
     ],
     "name:eng_x_preferred":[
         "Hoima"
@@ -31,14 +34,8 @@
     "name:fin_x_preferred":[
         "Hoima"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Hoima"
-    ],
-    "name:ger_x_preferred":[
-        "Hoima"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03cc\u03b9\u03bc\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0a87\u0aae\u0abe"
@@ -73,7 +70,10 @@
     "name:mar_x_preferred":[
         "\u0939\u094b\u0939\u0940\u092e\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
+        "Hoima"
+    ],
+    "name:nld_x_preferred":[
         "Hoima"
     ],
     "name:nob_x_preferred":[
@@ -85,7 +85,7 @@
     "name:por_x_preferred":[
         "Hoima"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Hoima"
     ],
     "name:rus_x_preferred":[
@@ -169,7 +169,7 @@
         }
     ],
     "wof:id":421181185,
-    "wof:lastmodified":1514510932,
+    "wof:lastmodified":1561777350,
     "wof:name":"Hoima",
     "wof:parent_id":1092068961,
     "wof:placetype":"locality",

@@ -15,22 +15,22 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
-        "Kyenjojo"
-    ],
     "name:eng_x_preferred":[
         "Kyenjojo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kyenjojo"
     ],
     "name:ita_x_preferred":[
         "Kyenjojo"
     ],
+    "name:nld_x_preferred":[
+        "Kyenjojo"
+    ],
     "name:nob_x_preferred":[
         "Kyenjojo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kyenjojo"
     ],
     "name:swa_x_preferred":[
@@ -75,7 +75,7 @@
         }
     ],
     "wof:id":890418137,
-    "wof:lastmodified":1527792816,
+    "wof:lastmodified":1561777351,
     "wof:name":"Kyenjojo",
     "wof:parent_id":1092072955,
     "wof:placetype":"locality",

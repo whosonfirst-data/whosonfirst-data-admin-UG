@@ -38,14 +38,14 @@
     "name:ben_x_preferred":[
         "\u0997\u09cb\u09ae\u09cd\u09ac\u09be \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u8ca2\u5df4\u5340"
-    ],
     "name:dan_x_preferred":[
         "Gomba District"
     ],
-    "name:dut_x_preferred":[
-        "Gomba"
+    "name:deu_x_preferred":[
+        "Gomba-Distrikt"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03cc\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Gomba"
@@ -58,17 +58,11 @@
     "name:fin_x_preferred":[
         "Gomban kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Gomba"
-    ],
-    "name:ger_x_preferred":[
-        "Gomba-Distrikt"
     ],
     "name:glg_x_preferred":[
         "Distrito Gomba"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03cc\u03bc\u03c0\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acb\u0aae\u0acd\u0aac\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -106,8 +100,11 @@
     "name:mar_x_preferred":[
         "\u0917\u094b\u092c\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Gomba District"
+    ],
+    "name:nld_x_preferred":[
+        "Gomba"
     ],
     "name:nob_x_preferred":[
         "Gomba"
@@ -151,6 +148,9 @@
     "name:vie_x_preferred":[
         "Qu\u1eadn Gomba"
     ],
+    "name:zho_x_preferred":[
+        "\u8ca2\u5df4\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -185,7 +185,7 @@
         }
     ],
     "wof:id":1092070589,
-    "wof:lastmodified":1555092060,
+    "wof:lastmodified":1561777342,
     "wof:name":"Gomba",
     "wof:parent_id":85680133,
     "wof:placetype":"county",

@@ -19,25 +19,25 @@
     "name:ara_x_preferred":[
         "\u0646\u062a\u0648\u0646\u062c\u0627\u0645\u0648"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Ntungamo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03c5\u03bd\u03b3\u03ba\u03ac\u03bc\u03bf"
     ],
     "name:eng_x_preferred":[
         "Ntungamo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Ntungamo"
-    ],
-    "name:ger_x_preferred":[
-        "Ntungamo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03bf\u03c5\u03bd\u03b3\u03ba\u03ac\u03bc\u03bf"
     ],
     "name:hun_x_preferred":[
         "Ntungamo"
     ],
     "name:ita_x_preferred":[
+        "Ntungamo"
+    ],
+    "name:nld_x_preferred":[
         "Ntungamo"
     ],
     "name:nob_x_preferred":[
@@ -46,7 +46,7 @@
     "name:por_x_preferred":[
         "Ntungamo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Ntungamo"
     ],
     "name:swa_x_preferred":[
@@ -180,7 +180,7 @@
         }
     ],
     "wof:id":890442029,
-    "wof:lastmodified":1527792857,
+    "wof:lastmodified":1561777351,
     "wof:name":"Ntungamo",
     "wof:parent_id":1092073713,
     "wof:placetype":"locality",

@@ -38,14 +38,14 @@
     "name:ben_x_preferred":[
         "\u09a8\u09be\u09ae\u09c1\u09a4\u09c1\u09ae\u09cd\u09ac\u09be \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u7a46\u901a\u5df4\u5340"
-    ],
     "name:dan_x_preferred":[
         "Namutumba District"
     ],
-    "name:dut_x_preferred":[
-        "Busiki"
+    "name:deu_x_preferred":[
+        "Distrikt Namutumba"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03bc\u03bf\u03c5\u03c4\u03bf\u03cd\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Busiki"
@@ -58,17 +58,11 @@
     "name:fin_x_preferred":[
         "Namutumban kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Namutumba"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Namutumba"
     ],
     "name:glg_x_preferred":[
         "Distrito Namutumba"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03bc\u03bf\u03c5\u03c4\u03bf\u03cd\u03bc\u03c0\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0abe\u0aae\u0ac1\u0a9f\u0ac1\u0aac\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -103,8 +97,11 @@
     "name:mar_x_preferred":[
         "\u0928\u092e\u0941\u091f\u0941\u0902\u092c\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Namutumba District"
+    ],
+    "name:nld_x_preferred":[
+        "Busiki"
     ],
     "name:nob_x_preferred":[
         "Namutumba"
@@ -115,7 +112,7 @@
     "name:por_x_preferred":[
         "Namutumba"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Namutumba"
     ],
     "name:rus_x_preferred":[
@@ -154,6 +151,9 @@
     "name:vie_x_preferred":[
         "Qu\u1eadn Namutumba"
     ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u7a46\u901a\u5df4\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -188,7 +188,7 @@
         }
     ],
     "wof:id":1092069849,
-    "wof:lastmodified":1555092059,
+    "wof:lastmodified":1561777343,
     "wof:name":"Busiki",
     "wof:parent_id":85679807,
     "wof:placetype":"county",

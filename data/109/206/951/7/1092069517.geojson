@@ -38,14 +38,14 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b2\u09bf\u09b8\u09be \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u5e03\u5229\u85a9\u5340"
-    ],
     "name:dan_x_preferred":[
         "Buliisa District"
     ],
-    "name:dut_x_preferred":[
-        "Bulisa"
+    "name:deu_x_preferred":[
+        "Distrikt Buliisa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03bb\u03b9\u03af\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Buliisa"
@@ -59,14 +59,8 @@
     "name:fin_x_preferred":[
         "Buliisan kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Buliisa"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Buliisa"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03bf\u03c5\u03bb\u03b9\u03af\u03c3\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0ab2\u0ac0\u0ab8\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -104,8 +98,11 @@
     "name:mar_x_preferred":[
         "\u092c\u0941\u0932\u093f\u0938\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Buliisa District"
+    ],
+    "name:nld_x_preferred":[
+        "Bulisa"
     ],
     "name:nob_x_preferred":[
         "Buliisa"
@@ -116,7 +113,7 @@
     "name:por_x_preferred":[
         "Buliisa"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Bulisa"
     ],
     "name:rus_x_preferred":[
@@ -155,6 +152,9 @@
     "name:vie_x_preferred":[
         "Qu\u1eadn Buliisa"
     ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5229\u85a9\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -189,7 +189,7 @@
         }
     ],
     "wof:id":1092069517,
-    "wof:lastmodified":1555092058,
+    "wof:lastmodified":1561777344,
     "wof:name":"Buliisa",
     "wof:parent_id":85679843,
     "wof:placetype":"county",

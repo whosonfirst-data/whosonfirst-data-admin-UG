@@ -31,17 +31,17 @@
     "name:ben_x_preferred":[
         "\u09b2\u0989\u09b0\u09cb \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u76e7\u97cb\u7f85\u5340"
-    ],
     "name:dan_x_preferred":[
         "Luwero"
     ],
     "name:deu_x_preferred":[
         "Luweero"
     ],
-    "name:dut_x_preferred":[
-        "Luwero"
+    "name:deu_x_variant":[
+        "Distrikt Luwero"
+    ],
+    "name:ell_x_preferred":[
+        "\u039b\u03bf\u03c5\u03b3\u03bf\u03c5\u03b5\u03ad\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Luwero"
@@ -52,17 +52,8 @@
     "name:fra_x_preferred":[
         "Luweero"
     ],
-    "name:fre_x_preferred":[
-        "Luweero"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Luwero"
-    ],
     "name:glg_x_preferred":[
         "Distrito Luweero"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03bf\u03c5\u03b3\u03bf\u03c5\u03b5\u03ad\u03c1\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac1\u0ab5\u0ac7\u0ab0\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -97,7 +88,7 @@
     "name:mar_x_preferred":[
         "\u0932\u0941\u0935\u0947\u0930\u094b \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Luwero"
     ],
     "name:nld_x_preferred":[
@@ -115,7 +106,7 @@
     "name:ron_x_preferred":[
         "Luwero"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Districtul Luwero"
     ],
     "name:rus_x_preferred":[
@@ -153,6 +144,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Luwero"
+    ],
+    "name:zho_x_preferred":[
+        "\u76e7\u97cb\u7f85\u5340"
     ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
@@ -220,7 +214,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550568,
+    "wof:lastmodified":1561777292,
     "wof:name":"Luweero",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

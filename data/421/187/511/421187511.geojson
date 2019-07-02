@@ -16,19 +16,10 @@
     "name:deu_x_preferred":[
         "Port Bell"
     ],
-    "name:dut_x_preferred":[
-        "Port Bell"
-    ],
     "name:eng_x_preferred":[
         "Port Bell"
     ],
     "name:fra_x_preferred":[
-        "Port Bell"
-    ],
-    "name:fre_x_preferred":[
-        "Port Bell"
-    ],
-    "name:ger_x_preferred":[
         "Port Bell"
     ],
     "name:heb_x_preferred":[
@@ -44,6 +35,9 @@
         "\u30dd\u30fc\u30c8\u30fb\u30d9\u30eb"
     ],
     "name:nds_x_preferred":[
+        "Port Bell"
+    ],
+    "name:nld_x_preferred":[
         "Port Bell"
     ],
     "name:swa_x_preferred":[
@@ -96,7 +90,7 @@
         }
     ],
     "wof:id":421187511,
-    "wof:lastmodified":1527716248,
+    "wof:lastmodified":1561777349,
     "wof:name":"Port Bell",
     "wof:parent_id":1092071203,
     "wof:placetype":"locality",

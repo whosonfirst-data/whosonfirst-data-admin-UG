@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.341436,
-    "geom:area_square_m":4219607834.119797,
+    "geom:area_square_m":4219607834.120102,
     "geom:bbox":"34.2207361075,1.54941539154,34.8716637965,2.44137591002",
     "geom:latitude":1.888519,
     "geom:longitude":34.563028,
@@ -30,14 +30,14 @@
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0995\u09be\u09aa\u09bf\u09b0\u09bf\u09aa\u09bf\u09b0\u09bf\u09a4 \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u7d0d\u5361\u76ae\u91cc\u76ae\u91cc\u7279\u5340"
-    ],
     "name:dan_x_preferred":[
         "Nakapiripirit District"
     ],
-    "name:dut_x_preferred":[
-        "Nakapiripirit"
+    "name:deu_x_preferred":[
+        "Nakapiripirit-Distrikt"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b1\u03ba\u03b1\u03c0\u03b9\u03c1\u03b9\u03c0\u03b9\u03c1\u03af\u03c4"
     ],
     "name:eng_x_preferred":[
         "Nakapiripirit"
@@ -45,17 +45,11 @@
     "name:fin_x_preferred":[
         "Nakapiripiritin kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Nakapiripirit"
-    ],
-    "name:ger_x_preferred":[
-        "Nakapiripirit-Distrikt"
     ],
     "name:glg_x_preferred":[
         "Distrito Nakapiripirit"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03b1\u03ba\u03b1\u03c0\u03b9\u03c1\u03b9\u03c0\u03b9\u03c1\u03af\u03c4"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0a95\u0abe\u0aaa\u0abf\u0ab0\u0abf\u0aaa\u0abf\u0ab0\u0abf\u0a9f \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -93,8 +87,11 @@
     "name:mar_x_preferred":[
         "\u0928\u0915\u094d\u0937\u0940\u0930\u093f\u092a\u093f\u0930 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Nakapiripirit District"
+    ],
+    "name:nld_x_preferred":[
+        "Nakapiripirit"
     ],
     "name:nob_x_preferred":[
         "Nakapiripirit"
@@ -105,7 +102,7 @@
     "name:por_x_preferred":[
         "Nakapiripirit"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Nakapiripirit"
     ],
     "name:rus_x_preferred":[
@@ -143,6 +140,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Nakapiripirit"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d0d\u5361\u76ae\u91cc\u76ae\u91cc\u7279\u5340"
     ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
@@ -207,7 +207,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553814832,
+    "wof:lastmodified":1561777294,
     "wof:name":"Nakapiripirit",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

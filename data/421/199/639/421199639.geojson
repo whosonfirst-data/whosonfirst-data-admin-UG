@@ -26,8 +26,8 @@
     "name:deu_x_preferred":[
         "Lira"
     ],
-    "name:dut_x_preferred":[
-        "Lira"
+    "name:ell_x_preferred":[
+        "\u039b\u03af\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
         "Lira"
@@ -40,15 +40,6 @@
     ],
     "name:fra_x_preferred":[
         "Lira"
-    ],
-    "name:fre_x_preferred":[
-        "Lira"
-    ],
-    "name:ger_x_preferred":[
-        "Lira"
-    ],
-    "name:gre_x_preferred":[
-        "\u039b\u03af\u03c1\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac0\u0ab0\u0abe"
@@ -89,16 +80,13 @@
     "name:lit_x_preferred":[
         "Lira"
     ],
-    "name:mao_x_preferred":[
-        "Lira"
-    ],
     "name:mar_x_preferred":[
         "\u0932\u0940\u0930\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mri_x_preferred":[
         "Lira"
     ],
-    "name:mri_x_preferred":[
+    "name:msa_x_preferred":[
         "Lira"
     ],
     "name:nld_x_preferred":[
@@ -114,9 +102,6 @@
         "Lira"
     ],
     "name:ron_x_preferred":[
-        "Lira"
-    ],
-    "name:rum_x_preferred":[
         "Lira"
     ],
     "name:rus_x_preferred":[
@@ -295,7 +280,7 @@
         }
     ],
     "wof:id":421199639,
-    "wof:lastmodified":1553816386,
+    "wof:lastmodified":1561777350,
     "wof:name":"Lira",
     "wof:parent_id":1092072387,
     "wof:placetype":"locality",

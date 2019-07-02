@@ -17,19 +17,10 @@
     "name:deu_x_preferred":[
         "Kalangala"
     ],
-    "name:dut_x_preferred":[
-        "Kalangala"
-    ],
     "name:eng_x_preferred":[
         "Kalangala"
     ],
     "name:fra_x_preferred":[
-        "Kalangala"
-    ],
-    "name:fre_x_preferred":[
-        "Kalangala"
-    ],
-    "name:ger_x_preferred":[
         "Kalangala"
     ],
     "name:ita_x_preferred":[
@@ -51,9 +42,6 @@
         "Kalangala"
     ],
     "name:ron_x_preferred":[
-        "Kalangala"
-    ],
-    "name:rum_x_preferred":[
         "Kalangala"
     ],
     "name:srp_x_preferred":[
@@ -203,7 +191,7 @@
         }
     ],
     "wof:id":421201475,
-    "wof:lastmodified":1514510979,
+    "wof:lastmodified":1561777350,
     "wof:name":"Kalangala",
     "wof:parent_id":1092069185,
     "wof:placetype":"locality",

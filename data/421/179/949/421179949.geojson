@@ -17,16 +17,10 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u064a\u0633\u0627"
     ],
-    "name:dut_x_preferred":[
-        "Pallisa"
-    ],
     "name:eng_x_preferred":[
         "Pallisa"
     ],
     "name:fra_x_preferred":[
-        "Pallisa"
-    ],
-    "name:fre_x_preferred":[
         "Pallisa"
     ],
     "name:ita_x_preferred":[
@@ -48,9 +42,6 @@
         "Pallisa"
     ],
     "name:ron_x_preferred":[
-        "Pallisa"
-    ],
-    "name:rum_x_preferred":[
         "Pallisa"
     ],
     "name:rus_x_preferred":[
@@ -204,7 +195,7 @@
         }
     ],
     "wof:id":421179949,
-    "wof:lastmodified":1514511115,
+    "wof:lastmodified":1561777350,
     "wof:name":"Pallisa",
     "wof:parent_id":1092073523,
     "wof:placetype":"locality",

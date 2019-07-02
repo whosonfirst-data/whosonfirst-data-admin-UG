@@ -24,23 +24,14 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
-    "name:chi_x_preferred":[
-        "\u5e03\u5409\u91cc\u5340"
-    ],
-    "name:dut_x_preferred":[
-        "Bugiri"
+    "name:deu_x_preferred":[
+        "Distrikt Bugiri"
     ],
     "name:eng_x_preferred":[
         "Bugiri"
     ],
     "name:fra_x_preferred":[
         "Bugiri"
-    ],
-    "name:fre_x_preferred":[
-        "Bugiri"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Bugiri"
     ],
     "name:glg_x_preferred":[
         "Distrito Bugiri"
@@ -69,7 +60,7 @@
     "name:ron_x_preferred":[
         "Bugiri"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Districtul Bugiri"
     ],
     "name:rus_x_preferred":[
@@ -86,6 +77,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u06af\u06cc\u0631\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5409\u91cc\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -210,7 +204,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550571,
+    "wof:lastmodified":1561777290,
     "wof:name":"Bugiri",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

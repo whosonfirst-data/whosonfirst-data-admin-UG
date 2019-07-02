@@ -31,14 +31,14 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09ae\u09cd\u09ac\u09be\u09ac\u09c1\u09b2 \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u68ee\u5df4\u5e03\u840a\u5340"
-    ],
     "name:dan_x_preferred":[
         "Sembabule District"
     ],
-    "name:dut_x_preferred":[
-        "Sembabule"
+    "name:deu_x_preferred":[
+        "Distrikt Sembabule"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03b5\u03bc\u03c0\u03b1\u03bc\u03c0\u03bf\u03cd\u03bb\u03b5"
     ],
     "name:eng_x_preferred":[
         "Sembabule"
@@ -49,17 +49,8 @@
     "name:fra_x_preferred":[
         "Sembabule"
     ],
-    "name:fre_x_preferred":[
-        "Sembabule"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Sembabule"
-    ],
     "name:glg_x_preferred":[
         "Distrito Sembabule"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a3\u03b5\u03bc\u03c0\u03b1\u03bc\u03c0\u03bf\u03cd\u03bb\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aae\u0acd\u0aac\u0abe\u0aac\u0ac1\u0ab2 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -94,7 +85,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u092e\u094d\u092c\u092c\u0932\u094d\u092f \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Sembabule District"
     ],
     "name:nld_x_preferred":[
@@ -112,7 +103,7 @@
     "name:ron_x_preferred":[
         "Sembabule"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Districtul Sembabule"
     ],
     "name:rus_x_preferred":[
@@ -153,6 +144,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Sembabule"
+    ],
+    "name:zho_x_preferred":[
+        "\u68ee\u5df4\u5e03\u840a\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -281,7 +275,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550565,
+    "wof:lastmodified":1561777293,
     "wof:name":"Sembabule",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

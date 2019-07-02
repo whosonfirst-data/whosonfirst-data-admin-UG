@@ -17,25 +17,16 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u0648\u062a\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u7d22\u7f85\u63d0"
-    ],
     "name:dan_x_preferred":[
         "Soroti"
     ],
     "name:deu_x_preferred":[
         "Soroti"
     ],
-    "name:dut_x_preferred":[
-        "Soroti"
-    ],
     "name:eng_x_preferred":[
         "Soroti"
     ],
-    "name:fre_x_preferred":[
-        "Soroti"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Soroti"
     ],
     "name:heb_x_preferred":[
@@ -56,6 +47,9 @@
     "name:mal_x_preferred":[
         "\u0d38\u0d4a\u0d30\u0d4b\u0d1f\u0d4d\u0d1f\u0d3f"
     ],
+    "name:nld_x_preferred":[
+        "Soroti"
+    ],
     "name:nob_x_preferred":[
         "Soroti"
     ],
@@ -65,7 +59,7 @@
     "name:por_x_preferred":[
         "Soroti"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Soroti"
     ],
     "name:swa_x_preferred":[
@@ -222,7 +216,7 @@
         }
     ],
     "wof:id":421168677,
-    "wof:lastmodified":1527716098,
+    "wof:lastmodified":1561777349,
     "wof:name":"Soroti",
     "wof:parent_id":1092074017,
     "wof:placetype":"locality",

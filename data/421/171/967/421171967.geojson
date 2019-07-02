@@ -20,23 +20,14 @@
     "name:deu_x_preferred":[
         "Kabale"
     ],
-    "name:dut_x_preferred":[
-        "Kabale"
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bc\u03c0\u03ac\u03bb\u03b5"
     ],
     "name:eng_x_preferred":[
         "Kabale"
     ],
     "name:fra_x_preferred":[
         "Kabale"
-    ],
-    "name:fre_x_preferred":[
-        "Kabale"
-    ],
-    "name:ger_x_preferred":[
-        "Kabale"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03bc\u03c0\u03ac\u03bb\u03b5"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d1\u05d0\u05dc\u05d4"
@@ -66,9 +57,6 @@
         "Kabale"
     ],
     "name:ron_x_preferred":[
-        "Kabale"
-    ],
-    "name:rum_x_preferred":[
         "Kabale"
     ],
     "name:rus_x_preferred":[
@@ -219,7 +207,7 @@
         }
     ],
     "wof:id":421171967,
-    "wof:lastmodified":1514510969,
+    "wof:lastmodified":1561777350,
     "wof:name":"Kabale",
     "wof:parent_id":1092070905,
     "wof:placetype":"locality",

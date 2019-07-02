@@ -31,14 +31,14 @@
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u099f\u09be\u09af\u09bc\u09be\u09a8 \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u7c73\u7279\u4e9e\u7d0d\u5340"
-    ],
     "name:dan_x_preferred":[
         "Mityana District"
     ],
-    "name:dut_x_preferred":[
-        "Mityana"
+    "name:deu_x_preferred":[
+        "Distrikt Mityana"
+    ],
+    "name:ell_x_preferred":[
+        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03b9\u03c4\u03b3\u03b9\u03ac\u03bd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Mityana"
@@ -46,17 +46,11 @@
     "name:fin_x_preferred":[
         "Mityanan kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mityana"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Mityana"
     ],
     "name:glg_x_preferred":[
         "Distrito Mityana"
-    ],
-    "name:gre_x_preferred":[
-        "\u0395\u03c0\u03b1\u03c1\u03c7\u03af\u03b1 \u039c\u03b9\u03c4\u03b3\u03b9\u03ac\u03bd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abf\u0aa4\u0acd\u0aaf\u0abe\u0aa8\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -91,8 +85,11 @@
     "name:mar_x_preferred":[
         "\u092e\u093f\u0924\u093e\u0928\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Mityana"
+    ],
+    "name:nld_x_preferred":[
+        "Mityana"
     ],
     "name:nob_x_preferred":[
         "Mityana"
@@ -103,7 +100,7 @@
     "name:por_x_preferred":[
         "Distrito de Mityana"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Mityana"
     ],
     "name:rus_x_preferred":[
@@ -144,6 +141,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Mityana"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u7279\u4e9e\u7d0d\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -272,7 +272,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550570,
+    "wof:lastmodified":1561777292,
     "wof:name":"Mityana",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

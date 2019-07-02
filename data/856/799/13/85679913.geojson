@@ -31,14 +31,14 @@
     "name:ben_x_preferred":[
         "\u09a1\u09c1\u0995\u09c1\u09b2\u09c1 \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u591a\u79d1\u6d1b\u5340"
-    ],
     "name:dan_x_preferred":[
         "Dokolo District"
     ],
-    "name:dut_x_preferred":[
-        "Dokolo"
+    "name:deu_x_preferred":[
+        "Bezirk Dokolo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03bf\u03ba\u03cc\u03bb\u03bf"
     ],
     "name:eng_x_preferred":[
         "Dokolo"
@@ -46,14 +46,8 @@
     "name:fin_x_preferred":[
         "Dokolon kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Dokolo"
-    ],
-    "name:ger_x_preferred":[
-        "Bezirk Dokolo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03bf\u03ba\u03cc\u03bb\u03bf"
     ],
     "name:guj_x_preferred":[
         "\u0aa1\u0acb\u0a95\u0acb\u0ab2\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -88,8 +82,11 @@
     "name:mar_x_preferred":[
         "\u0921\u0915\u094b\u0932\u094b \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Daerah Dokolo"
+    ],
+    "name:nld_x_preferred":[
+        "Dokolo"
     ],
     "name:nob_x_preferred":[
         "Dokolo"
@@ -103,7 +100,7 @@
     "name:ron_x_preferred":[
         "Dokolo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Districtul Dokolo"
     ],
     "name:rus_x_preferred":[
@@ -144,6 +141,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Dokolo"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u79d1\u6d1b\u5340"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -272,7 +272,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550567,
+    "wof:lastmodified":1561777291,
     "wof:name":"Dokolo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

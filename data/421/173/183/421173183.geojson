@@ -20,17 +20,14 @@
     "name:ben_x_preferred":[
         "\u098f\u09ae\u09cd\u09ac\u09c7\u09b2"
     ],
-    "name:chi_x_preferred":[
-        "\u59c6\u5df4\u840a"
-    ],
     "name:dan_x_preferred":[
         "Mbale"
     ],
     "name:deu_x_preferred":[
         "Mbale"
     ],
-    "name:dut_x_preferred":[
-        "Mbale"
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03ac\u03bb\u03b5"
     ],
     "name:eng_x_preferred":[
         "Mbale"
@@ -38,14 +35,8 @@
     "name:fin_x_preferred":[
         "Mbale"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mbale"
-    ],
-    "name:ger_x_preferred":[
-        "Mbale"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03ac\u03bb\u03b5"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0acd\u0aac\u0abe\u0ab2\u0ac7"
@@ -86,13 +77,16 @@
     "name:lit_x_preferred":[
         "Mbal\u0117"
     ],
-    "name:mao_x_preferred":[
-        "Mbale"
-    ],
     "name:mar_x_preferred":[
         "\u092e\u092c\u093e\u0932\u0947"
     ],
-    "name:may_x_preferred":[
+    "name:mri_x_preferred":[
+        "Mbale"
+    ],
+    "name:msa_x_preferred":[
+        "Mbale"
+    ],
+    "name:nld_x_preferred":[
         "Mbale"
     ],
     "name:nob_x_preferred":[
@@ -104,7 +98,7 @@
     "name:por_x_preferred":[
         "Mbale"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Mbale"
     ],
     "name:rus_x_preferred":[
@@ -288,7 +282,7 @@
         }
     ],
     "wof:id":421173183,
-    "wof:lastmodified":1527716262,
+    "wof:lastmodified":1561777350,
     "wof:name":"Mbale",
     "wof:parent_id":1092072743,
     "wof:placetype":"locality",

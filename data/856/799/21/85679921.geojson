@@ -30,17 +30,17 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b8\u09bf\u09a8\u09cd\u09a1\u09c0 \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u8f9b\u8fea\u5340"
-    ],
     "name:dan_x_preferred":[
         "Masindi District"
     ],
     "name:deu_x_preferred":[
         "Masindi"
     ],
-    "name:dut_x_preferred":[
-        "Masindi"
+    "name:deu_x_variant":[
+        "Masindi-Distrikt"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b1\u03c3\u03af\u03bd\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
         "Masindi"
@@ -50,15 +50,6 @@
     ],
     "name:fra_x_preferred":[
         "Masindi"
-    ],
-    "name:fre_x_preferred":[
-        "Masindi"
-    ],
-    "name:ger_x_preferred":[
-        "Masindi-Distrikt"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03b1\u03c3\u03af\u03bd\u03c4\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0aae\u0abe\u0ab8\u0abf\u0a82\u0aa1\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -96,7 +87,7 @@
     "name:mar_x_preferred":[
         "\u092e\u0938\u093f\u0902\u0926\u0940 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Masindi District"
     ],
     "name:nld_x_preferred":[
@@ -114,7 +105,7 @@
     "name:ron_x_preferred":[
         "Masindi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_variant":[
         "Districtul Masindi"
     ],
     "name:rus_x_preferred":[
@@ -152,6 +143,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Masindi"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u8f9b\u8fea\u5340"
     ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
@@ -216,7 +210,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550568,
+    "wof:lastmodified":1561777290,
     "wof:name":"Masindi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

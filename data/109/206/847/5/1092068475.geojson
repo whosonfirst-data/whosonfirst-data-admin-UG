@@ -38,14 +38,14 @@
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09c1\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u9b6f\u963f\u5340"
-    ],
     "name:dan_x_preferred":[
         "Arua District"
     ],
-    "name:dut_x_preferred":[
-        "Arua"
+    "name:deu_x_preferred":[
+        "Distrikt Arua"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03c1\u03bf\u03cd\u03b1"
     ],
     "name:eng_x_preferred":[
         "Arua"
@@ -59,14 +59,8 @@
     "name:fin_x_preferred":[
         "Aruan kaupunginosa"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Arua"
-    ],
-    "name:ger_x_preferred":[
-        "Distrikt Arua"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03c1\u03bf\u03cd\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a86\u0ab0\u0ac2\u0a86 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -101,8 +95,11 @@
     "name:mar_x_preferred":[
         "\u0905\u0930\u0941\u0906 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Arua District"
+    ],
+    "name:nld_x_preferred":[
+        "Arua"
     ],
     "name:nob_x_preferred":[
         "Arua"
@@ -113,7 +110,7 @@
     "name:por_x_preferred":[
         "Arua"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Districtul Arua"
     ],
     "name:rus_x_preferred":[
@@ -152,6 +149,9 @@
     "name:vie_x_preferred":[
         "Qu\u1eadn Arua"
     ],
+    "name:zho_x_preferred":[
+        "\u963f\u9b6f\u963f\u5340"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -186,7 +186,7 @@
         }
     ],
     "wof:id":1092068475,
-    "wof:lastmodified":1555220362,
+    "wof:lastmodified":1561777344,
     "wof:name":"Arua Municipality",
     "wof:parent_id":85679837,
     "wof:placetype":"county",
