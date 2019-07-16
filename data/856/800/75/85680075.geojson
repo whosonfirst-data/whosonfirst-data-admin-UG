@@ -25,11 +25,20 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:ceb_x_preferred":[
+        "Kisoro District"
+    ],
     "name:eng_x_preferred":[
         "Kisoro"
     ],
+    "name:eng_x_variant":[
+        "Kisoro District"
+    ],
     "name:fra_x_preferred":[
         "Kisoro"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Kisoro"
     ],
     "name:ita_x_preferred":[
         "Kisoro"
@@ -196,7 +205,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777294,
+    "wof:lastmodified":1563307642,
     "wof:name":"Kisoro",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

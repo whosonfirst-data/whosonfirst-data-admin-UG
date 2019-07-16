@@ -24,17 +24,26 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:ceb_x_preferred":[
+        "Bugiri District"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Bugiri"
     ],
     "name:eng_x_preferred":[
         "Bugiri"
     ],
+    "name:eng_x_variant":[
+        "Bugiri District"
+    ],
     "name:fra_x_preferred":[
         "Bugiri"
     ],
     "name:glg_x_preferred":[
         "Distrito Bugiri"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Bugiri"
     ],
     "name:ita_x_preferred":[
         "Bugiri"
@@ -47,6 +56,9 @@
     ],
     "name:lug_x_preferred":[
         "Bugiri"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d41\u0d17\u0d3f\u0d30\u0d3f \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:nld_x_preferred":[
         "Bugiri"
@@ -77,6 +89,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u06af\u06cc\u0631\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u0648\u06af\u06cc\u0631\u06cc \u0636\u0644\u0639"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u5409\u91cc\u5340"
@@ -204,7 +219,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777290,
+    "wof:lastmodified":1563307615,
     "wof:name":"Bugiri",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

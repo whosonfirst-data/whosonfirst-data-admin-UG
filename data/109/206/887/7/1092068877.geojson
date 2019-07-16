@@ -32,17 +32,22 @@
     "mps:longitude":29.684002,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kisoro District"
+    ],
     "name:eng_x_preferred":[
         "Bufumbira"
     ],
     "name:eng_x_variant":[
-        "Bufumbira",
         "Kisoro",
         "Kisoro District",
         "BUFUMBIRA"
     ],
     "name:fra_x_preferred":[
         "Kisoro"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Kisoro"
     ],
     "name:ita_x_preferred":[
         "Kisoro"
@@ -114,7 +119,7 @@
         }
     ],
     "wof:id":1092068877,
-    "wof:lastmodified":1561777343,
+    "wof:lastmodified":1563308480,
     "wof:name":"Bufumbira",
     "wof:parent_id":85680075,
     "wof:placetype":"county",

@@ -24,10 +24,31 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:ceb_x_preferred":[
+        "Serere"
+    ],
     "name:eng_x_preferred":[
         "Soroti"
     ],
+    "name:eng_x_variant":[
+        "Serere"
+    ],
+    "name:fra_x_preferred":[
+        "Serere"
+    ],
+    "name:ita_x_preferred":[
+        "Serere"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30ec\u30ec"
+    ],
     "name:lug_x_preferred":[
+        "Serere"
+    ],
+    "name:nld_x_preferred":[
+        "Serere"
+    ],
+    "name:nob_x_preferred":[
         "Serere"
     ],
     "name:urd_x_preferred":[
@@ -98,7 +119,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550555,
+    "wof:lastmodified":1563307651,
     "wof:name":"Serere",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

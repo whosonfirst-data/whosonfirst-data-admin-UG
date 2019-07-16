@@ -30,6 +30,9 @@
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0995\u09be\u09aa\u09bf\u09b0\u09bf\u09aa\u09bf\u09b0\u09bf\u09a4 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Nakapiripirit District"
+    ],
     "name:dan_x_preferred":[
         "Nakapiripirit District"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:eng_x_preferred":[
         "Nakapiripirit"
+    ],
+    "name:eng_x_variant":[
+        "Nakapiripirit District"
     ],
     "name:fin_x_preferred":[
         "Nakapiripiritin kaupunginosa"
@@ -207,7 +213,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777294,
+    "wof:lastmodified":1563307641,
     "wof:name":"Nakapiripirit",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

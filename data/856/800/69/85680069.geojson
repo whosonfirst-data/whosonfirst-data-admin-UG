@@ -28,6 +28,9 @@
     "name:ben_x_preferred":[
         "\u098f\u09ae\u09ac\u09be\u09b0\u09be\u09b0\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Mbarara District"
+    ],
     "name:dan_x_preferred":[
         "Mbarara District"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:eng_x_preferred":[
         "Mbarara"
+    ],
+    "name:eng_x_variant":[
+        "Mbarara District"
     ],
     "name:fin_x_preferred":[
         "Mbararan kaupunginosa"
@@ -183,7 +189,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777294,
+    "wof:lastmodified":1563307639,
     "wof:name":"Mbarara",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

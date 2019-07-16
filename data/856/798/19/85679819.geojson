@@ -27,6 +27,9 @@
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b2\u09bf\u09b8\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Pallisa District"
+    ],
     "name:dan_x_preferred":[
         "Pallisa District"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:eng_x_preferred":[
         "Pallisa"
+    ],
+    "name:eng_x_variant":[
+        "Pallisa District"
     ],
     "name:fin_x_preferred":[
         "Pallisan kaupunginosa"
@@ -185,7 +191,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777292,
+    "wof:lastmodified":1563307626,
     "wof:name":"Pallisa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

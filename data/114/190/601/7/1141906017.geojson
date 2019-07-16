@@ -23,6 +23,12 @@
     "name:ita_x_preferred":[
         "Kaberamaido"
     ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30d9\u30e9\u30de\u30a4\u30c9"
+    ],
+    "name:lug_x_preferred":[
+        "Kaberamaido"
+    ],
     "name:nld_x_preferred":[
         "Kaberamaido"
     ],
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":1141906017,
-    "wof:lastmodified":1561777385,
+    "wof:lastmodified":1563309042,
     "wof:name":"Kaberamaido",
     "wof:parent_id":1092070941,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u099f\u09be\u09af\u09bc\u09be\u09a8 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Mityana District"
+    ],
     "name:dan_x_preferred":[
         "Mityana District"
     ],
@@ -51,7 +54,6 @@
         "Mityana"
     ],
     "name:eng_x_variant":[
-        "Mityana",
         "Mityana District",
         "MITYANA"
     ],
@@ -93,6 +95,9 @@
     ],
     "name:lug_x_preferred":[
         "Mityana"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d3f\u0d1f\u0d4d\u0d2f\u0d28 \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u092e\u093f\u0924\u093e\u0928\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
@@ -188,7 +193,7 @@
         }
     ],
     "wof:id":1092072811,
-    "wof:lastmodified":1561777340,
+    "wof:lastmodified":1563308458,
     "wof:name":"Mityana",
     "wof:parent_id":85679891,
     "wof:placetype":"county",

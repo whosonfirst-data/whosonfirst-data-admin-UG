@@ -13,13 +13,25 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kaba"
+    ],
     "name:deu_x_preferred":[
+        "Kaba"
+    ],
+    "name:eng_x_preferred":[
+        "Kaba"
+    ],
+    "name:fin_x_preferred":[
         "Kaba"
     ],
     "name:fra_x_preferred":[
         "Kaba"
     ],
     "name:hrv_x_preferred":[
+        "Kaba"
+    ],
+    "name:swe_x_preferred":[
         "Kaba"
     ],
     "qs:gn_country":"UG",
@@ -68,7 +80,7 @@
         }
     ],
     "wof:id":421187457,
-    "wof:lastmodified":1527716251,
+    "wof:lastmodified":1563308551,
     "wof:name":"Kaba",
     "wof:parent_id":421202527,
     "wof:placetype":"locality",

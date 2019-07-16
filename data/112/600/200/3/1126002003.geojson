@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u0997\u09c1\u09b0\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Bugiri"
+    ],
     "name:dan_x_preferred":[
         "Bugiri"
     ],
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":1126002003,
-    "wof:lastmodified":1561777352,
+    "wof:lastmodified":1563308581,
     "wof:name":"Bugiri",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

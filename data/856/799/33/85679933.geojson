@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09b9\u09c8\u09ae\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Hoima District"
+    ],
     "name:dan_x_preferred":[
         "Hoima District"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Hoima"
+    ],
+    "name:eng_x_variant":[
+        "Hoima District"
     ],
     "name:fin_x_preferred":[
         "Hoiman kaupunginosa"
@@ -67,6 +73,9 @@
     "name:jpn_x_preferred":[
         "\u30db\u30a4\u30de"
     ],
+    "name:jpn_x_variant":[
+        "\u30db\u30a4\u30de\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0cb9\u0cca\u0caf\u0ccd\u0cae\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
@@ -78,6 +87,9 @@
     ],
     "name:lit_x_preferred":[
         "Hoima"
+    ],
+    "name:lit_x_variant":[
+        "Hoimos apskritis"
     ],
     "name:lug_x_preferred":[
         "Hoima"
@@ -96,6 +108,9 @@
     ],
     "name:pol_x_preferred":[
         "Hoima"
+    ],
+    "name:pol_x_variant":[
+        "Dystrykt Hoima"
     ],
     "name:por_x_preferred":[
         "Hoima"
@@ -141,6 +156,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06c1\u0648\u06cc\u0645\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u06c1\u0648\u06cc\u0645\u0627 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Hoima"
@@ -275,7 +293,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777290,
+    "wof:lastmodified":1563307611,
     "wof:name":"Hoima",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u09ae \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Oyam District"
+    ],
     "name:dan_x_preferred":[
         "Oyam District"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Oyam"
+    ],
+    "name:eng_x_variant":[
+        "Oyam District"
     ],
     "name:fin_x_preferred":[
         "Oyamin kaupunginosa"
@@ -272,7 +278,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777290,
+    "wof:lastmodified":1563307612,
     "wof:name":"Oyam",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

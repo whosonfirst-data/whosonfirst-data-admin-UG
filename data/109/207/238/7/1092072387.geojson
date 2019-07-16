@@ -38,6 +38,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09b0\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Lira District"
+    ],
     "name:dan_x_preferred":[
         "Lira District"
     ],
@@ -52,7 +55,6 @@
     ],
     "name:eng_x_variant":[
         "Lira Municipality",
-        "Lira",
         "Lira District",
         "LIRA MUNICIPALITY"
     ],
@@ -91,6 +93,9 @@
     ],
     "name:lug_x_preferred":[
         "Lira"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d32\u0d3f\u0d31 \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u0932\u0940\u0930\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
@@ -186,7 +191,7 @@
         }
     ],
     "wof:id":1092072387,
-    "wof:lastmodified":1561777341,
+    "wof:lastmodified":1563308472,
     "wof:name":"Lira Municipality",
     "wof:parent_id":85679909,
     "wof:placetype":"county",

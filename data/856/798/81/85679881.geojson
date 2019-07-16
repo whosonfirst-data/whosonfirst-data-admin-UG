@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u0989\u09b0\u09cb \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Luwero District"
+    ],
     "name:dan_x_preferred":[
         "Luwero"
     ],
@@ -38,13 +41,17 @@
         "Luweero"
     ],
     "name:deu_x_variant":[
-        "Distrikt Luwero"
+        "Distrikt Luwero",
+        "Distrikt Luweero"
     ],
     "name:ell_x_preferred":[
         "\u039b\u03bf\u03c5\u03b3\u03bf\u03c5\u03b5\u03ad\u03c1\u03bf"
     ],
     "name:eng_x_preferred":[
         "Luwero"
+    ],
+    "name:eng_x_variant":[
+        "Luwero District"
     ],
     "name:fin_x_preferred":[
         "Luweron kaupunginosa"
@@ -84,6 +91,9 @@
     ],
     "name:lug_x_preferred":[
         "Luweero"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d32\u0d41\u0d35\u0d40\u0d30\u0d4a \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u0932\u0941\u0935\u0947\u0930\u094b \u091c\u093f\u0932\u094d\u0939\u093e"
@@ -141,6 +151,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u0648\u06cc\u0631\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u0648\u0648\u06cc\u0631\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Luwero"
@@ -214,7 +227,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777292,
+    "wof:lastmodified":1563307627,
     "wof:name":"Luweero",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

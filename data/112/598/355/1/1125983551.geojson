@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0628\u064a\u0646\u062f\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Mubende"
+    ],
     "name:eng_x_preferred":[
         "Mubende"
     ],
@@ -30,6 +33,9 @@
     ],
     "name:ita_x_preferred":[
         "Mubende"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30d9\u30f3\u30c7"
     ],
     "name:nld_x_preferred":[
         "Mubende"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125983551,
-    "wof:lastmodified":1561777352,
+    "wof:lastmodified":1563308579,
     "wof:name":"Mubende",
     "wof:parent_id":1092070137,
     "wof:placetype":"locality",

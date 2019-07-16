@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09ae\u09cd\u09ac\u09be\u09ac\u09c1\u09b2 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Sembabule District"
+    ],
     "name:dan_x_preferred":[
         "Sembabule District"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Sembabule"
+    ],
+    "name:eng_x_variant":[
+        "Sembabule District"
     ],
     "name:fin_x_preferred":[
         "Sembabulen kaupunginosa"
@@ -141,6 +147,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0645\u0628\u0627\u0628\u0648\u0644\u06d2"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0645\u0628\u0627\u0628\u0648\u0644\u06d2 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Sembabule"
@@ -275,7 +284,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777293,
+    "wof:lastmodified":1563307631,
     "wof:name":"Sembabule",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

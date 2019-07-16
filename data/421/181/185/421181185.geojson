@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u09b9\u09c8\u09ae\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Hoima"
+    ],
     "name:dan_x_preferred":[
         "Hoima"
     ],
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":421181185,
-    "wof:lastmodified":1561777350,
+    "wof:lastmodified":1563308557,
     "wof:name":"Hoima",
     "wof:parent_id":1092068961,
     "wof:placetype":"locality",

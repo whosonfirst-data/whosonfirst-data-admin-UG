@@ -24,17 +24,26 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:ceb_x_preferred":[
+        "Pader District"
+    ],
     "name:deu_x_preferred":[
         "Distrikt Pader"
     ],
     "name:eng_x_preferred":[
         "Pader"
     ],
+    "name:eng_x_variant":[
+        "Pader District"
+    ],
     "name:fra_x_preferred":[
         "Pader"
     ],
     "name:glg_x_preferred":[
         "Distrito Pader"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Pader"
     ],
     "name:ita_x_preferred":[
         "Pader"
@@ -47,6 +56,9 @@
     ],
     "name:lug_x_preferred":[
         "Pader"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d1f\u0d46\u0d7c \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:nld_x_preferred":[
         "Pader"
@@ -138,7 +150,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777290,
+    "wof:lastmodified":1563307614,
     "wof:name":"Pader",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

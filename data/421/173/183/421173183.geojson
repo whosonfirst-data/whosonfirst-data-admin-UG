@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u098f\u09ae\u09cd\u09ac\u09c7\u09b2"
     ],
+    "name:ceb_x_preferred":[
+        "Mbale"
+    ],
     "name:dan_x_preferred":[
         "Mbale"
     ],
@@ -282,7 +285,7 @@
         }
     ],
     "wof:id":421173183,
-    "wof:lastmodified":1561777350,
+    "wof:lastmodified":1563308553,
     "wof:name":"Mbale",
     "wof:parent_id":1092072743,
     "wof:placetype":"locality",

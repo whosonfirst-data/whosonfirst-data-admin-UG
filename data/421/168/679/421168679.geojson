@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b8\u09be\u0995\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Masaka"
+    ],
     "name:dan_x_preferred":[
         "Masaka"
     ],
@@ -273,7 +276,7 @@
         }
     ],
     "wof:id":421168679,
-    "wof:lastmodified":1561777349,
+    "wof:lastmodified":1563308544,
     "wof:name":"Masaka",
     "wof:parent_id":1092072593,
     "wof:placetype":"locality",

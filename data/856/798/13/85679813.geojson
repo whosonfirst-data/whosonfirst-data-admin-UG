@@ -30,6 +30,9 @@
     "name:ben_x_preferred":[
         "\u09b8\u09b0\u09cb\u09a4\u09bf \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Soroti District"
+    ],
     "name:dan_x_preferred":[
         "Soroti District"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:eng_x_preferred":[
         "Soroti"
+    ],
+    "name:eng_x_variant":[
+        "Soroti District"
     ],
     "name:fin_x_preferred":[
         "Sorotin kaupunginosa"
@@ -203,7 +209,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777293,
+    "wof:lastmodified":1563307632,
     "wof:name":"Soroti",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

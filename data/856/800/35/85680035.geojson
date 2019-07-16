@@ -30,6 +30,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b8\u09c7\u09a8\u09bf \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Bushenyi District"
+    ],
     "name:dan_x_preferred":[
         "Bushenyi District"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:eng_x_preferred":[
         "Bushenyi"
+    ],
+    "name:eng_x_variant":[
+        "Bushenyi District"
     ],
     "name:fin_x_preferred":[
         "Bushenyin kaupunginosa"
@@ -263,7 +269,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777294,
+    "wof:lastmodified":1563307638,
     "wof:name":"Bushenyi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -24,13 +24,25 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:ceb_x_preferred":[
+        "Abim"
+    ],
     "name:eng_x_preferred":[
         "Kotido"
+    ],
+    "name:eng_x_variant":[
+        "Abim"
     ],
     "name:fra_x_preferred":[
         "Abim"
     ],
+    "name:ita_x_preferred":[
+        "Abim"
+    ],
     "name:nld_x_preferred":[
+        "Abim"
+    ],
+    "name:spa_x_preferred":[
         "Abim"
     ],
     "name:unk_x_variant":[
@@ -160,7 +172,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550545,
+    "wof:lastmodified":1563307647,
     "wof:name":"Abim",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

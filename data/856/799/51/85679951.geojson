@@ -30,6 +30,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09aa\u099a\u09cb\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Kapchorwa District"
+    ],
     "name:dan_x_preferred":[
         "Kapchorwa District"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:eng_x_preferred":[
         "Kapchorwa"
+    ],
+    "name:eng_x_variant":[
+        "Kapchorwa District"
     ],
     "name:fin_x_preferred":[
         "Kapchorwan kaupunginosa"
@@ -203,7 +209,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777290,
+    "wof:lastmodified":1563307611,
     "wof:name":"Kapchorwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

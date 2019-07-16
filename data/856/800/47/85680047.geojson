@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u0987\u09a8\u09ac\u09be\u09a8\u09cd\u09a1\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Ibanda District"
+    ],
     "name:dan_x_preferred":[
         "Ibanda District"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Ibanda"
+    ],
+    "name:eng_x_variant":[
+        "Ibanda District"
     ],
     "name:fin_x_preferred":[
         "Ibandan kaupunginosa"
@@ -138,6 +144,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0628\u0627\u0646\u062f\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0628\u0627\u0646\u062f\u0627 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Ibanda"
@@ -272,7 +281,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777295,
+    "wof:lastmodified":1563307647,
     "wof:name":"Ibanda",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

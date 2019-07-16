@@ -23,6 +23,9 @@
     "name:cat_x_preferred":[
         "Tororo"
     ],
+    "name:ceb_x_preferred":[
+        "Tororo"
+    ],
     "name:deu_x_preferred":[
         "Tororo"
     ],
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":421195187,
-    "wof:lastmodified":1561777349,
+    "wof:lastmodified":1563308546,
     "wof:name":"Tororo",
     "wof:parent_id":1092074173,
     "wof:placetype":"locality",

@@ -33,6 +33,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ac\u09be\u09b0\u09cb\u09b2\u09c7 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Kabarole District"
+    ],
     "name:dan_x_preferred":[
         "Kabarole District"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:eng_x_preferred":[
         "Kabarole"
+    ],
+    "name:eng_x_variant":[
+        "Kabarole District"
     ],
     "name:fin_x_preferred":[
         "Kabarolen kaupunginosa"
@@ -267,7 +273,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777291,
+    "wof:lastmodified":1563307617,
     "wof:name":"Kabarole",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

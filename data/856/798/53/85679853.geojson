@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09af\u09bc\u09cb \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Moyo District"
+    ],
     "name:dan_x_preferred":[
         "Moyo District"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Moyo"
+    ],
+    "name:eng_x_variant":[
+        "Moyo District"
     ],
     "name:fin_x_preferred":[
         "Moyon piirikunta"
@@ -275,7 +281,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777292,
+    "wof:lastmodified":1563307628,
     "wof:name":"Moyo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

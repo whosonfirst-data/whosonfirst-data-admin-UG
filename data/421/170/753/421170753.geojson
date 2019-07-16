@@ -13,8 +13,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kagadi"
+    ],
     "name:eng_x_preferred":[
         "Kagadi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30ac\u30c7\u30a3"
     ],
     "name:lug_x_preferred":[
         "Kagadi"
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":421170753,
-    "wof:lastmodified":1561777350,
+    "wof:lastmodified":1563308560,
     "wof:name":"Kagadi",
     "wof:parent_id":1092070183,
     "wof:placetype":"locality",

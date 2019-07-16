@@ -34,6 +34,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09ac\u09c1\u0995\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Koboko District"
+    ],
     "name:dan_x_preferred":[
         "Koboko District"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Koboko"
+    ],
+    "name:eng_x_variant":[
+        "Koboko District"
     ],
     "name:fin_x_preferred":[
         "Kobokon kaupunginosa"
@@ -66,6 +72,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b3\u30dc\u30b3"
+    ],
+    "name:jpn_x_variant":[
+        "\u30b3\u30dc\u30b3\u770c"
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cca\u0cac\u0ccb\u0c95\u0cca \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
@@ -96,6 +105,9 @@
     ],
     "name:pol_x_preferred":[
         "Koboko"
+    ],
+    "name:pol_x_variant":[
+        "Dystrykt Koboko"
     ],
     "name:por_x_preferred":[
         "Distrito de Koboko"
@@ -144,6 +156,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0648\u0628\u0648\u06a9\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u0648\u0628\u0648\u06a9\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Koboko"
@@ -278,7 +293,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777292,
+    "wof:lastmodified":1563307629,
     "wof:name":"Koboko",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

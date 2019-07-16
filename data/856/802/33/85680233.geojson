@@ -24,8 +24,26 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u0442\u043e\u043c\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Mitooma"
+    ],
     "name:eng_x_preferred":[
         "Bushenyi"
+    ],
+    "name:eng_x_variant":[
+        "Mitooma"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30df\u30c8\u30de"
+    ],
+    "name:nld_x_preferred":[
+        "Mitooma"
+    ],
+    "name:nob_x_preferred":[
+        "Mitooma"
     ],
     "name:unk_x_variant":[
         "Mitoma District"
@@ -157,7 +175,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550573,
+    "wof:lastmodified":1563307633,
     "wof:name":"Mitooma",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

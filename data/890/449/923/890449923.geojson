@@ -22,6 +22,9 @@
     "name:ben_x_preferred":[
         "\u098f\u09ae \u09aa\u09bf\u099c\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Mpigi"
+    ],
     "name:dan_x_preferred":[
         "Mpigi"
     ],
@@ -250,7 +253,7 @@
         }
     ],
     "wof:id":890449923,
-    "wof:lastmodified":1561777350,
+    "wof:lastmodified":1563308565,
     "wof:name":"Mpigi",
     "wof:parent_id":1092072705,
     "wof:placetype":"locality",

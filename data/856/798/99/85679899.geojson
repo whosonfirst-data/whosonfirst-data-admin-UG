@@ -27,6 +27,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09bf\u099f\u0997\u09be\u09ae \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Kitgum District"
+    ],
     "name:dan_x_preferred":[
         "Kitgum District"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:eng_x_preferred":[
         "Kitgum"
+    ],
+    "name:eng_x_variant":[
+        "Kitgum District"
     ],
     "name:fin_x_preferred":[
         "Kitgumin kaupunginosa"
@@ -185,7 +191,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777293,
+    "wof:lastmodified":1563307630,
     "wof:name":"Kitgum",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -21,6 +21,9 @@
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u0995\u09bf\u09b8\u09c1 \u099f\u09be\u0989\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Wakiso"
+    ],
     "name:dan_x_preferred":[
         "Wakiso Town"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:eng_x_preferred":[
         "Wakiso Town"
+    ],
+    "name:eus_x_preferred":[
+        "Wakiso"
     ],
     "name:fin_x_preferred":[
         "Wakiso Town"
@@ -62,6 +68,9 @@
     ],
     "name:lit_x_preferred":[
         "Vakisas"
+    ],
+    "name:lug_x_preferred":[
+        "Wakiso Town"
     ],
     "name:mar_x_preferred":[
         "\u0935\u0915\u094d\u0936\u093f\u0913 \u0928\u0917\u0930"
@@ -151,7 +160,7 @@
         }
     ],
     "wof:id":890433275,
-    "wof:lastmodified":1561777351,
+    "wof:lastmodified":1563308573,
     "wof:name":"Wakiso",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

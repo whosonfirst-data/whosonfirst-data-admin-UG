@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0633\u064a\u0631\u0648\u0646\u0643\u0648"
     ],
+    "name:ceb_x_preferred":[
+        "Sironko"
+    ],
     "name:eng_x_preferred":[
         "Sironko"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:ita_x_preferred":[
         "Sironko"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30ed\u30f3\u30b3"
     ],
     "name:lug_x_preferred":[
         "Sironko"
@@ -169,7 +175,7 @@
         }
     ],
     "wof:id":1141906027,
-    "wof:lastmodified":1561777384,
+    "wof:lastmodified":1563309040,
     "wof:name":"Sironko",
     "wof:parent_id":1092068781,
     "wof:placetype":"locality",

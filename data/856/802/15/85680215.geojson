@@ -24,8 +24,23 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:ceb_x_preferred":[
+        "Lyantonde"
+    ],
     "name:eng_x_preferred":[
         "Masaka"
+    ],
+    "name:eng_x_variant":[
+        "Lyantonde"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ea\u30e3\u30f3\u30c8\u30f3\u30c7"
+    ],
+    "name:nld_x_preferred":[
+        "Lyantonde"
+    ],
+    "name:nob_x_preferred":[
+        "Lyantonde"
     ],
     "name:ron_x_preferred":[
         "Lyantonde"
@@ -163,7 +178,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550567,
+    "wof:lastmodified":1563307636,
     "wof:name":"Lyantonde",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

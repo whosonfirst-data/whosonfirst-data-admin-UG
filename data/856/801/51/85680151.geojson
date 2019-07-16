@@ -33,6 +33,9 @@
     "name:ben_x_preferred":[
         "\u098f\u09aa\u09be\u0995 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Apac District"
+    ],
     "name:dan_x_preferred":[
         "Apac District"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:eng_x_preferred":[
         "Apac"
+    ],
+    "name:eng_x_variant":[
+        "Apac District"
     ],
     "name:fin_x_preferred":[
         "Apacin kaupunginosa"
@@ -140,6 +146,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u067e\u0627\u06a9"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u067e\u0627\u06a9 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Apac"
@@ -269,7 +278,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777295,
+    "wof:lastmodified":1563307650,
     "wof:name":"Apac",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

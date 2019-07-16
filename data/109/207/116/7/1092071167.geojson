@@ -38,6 +38,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b2\u09cb\u0999\u09cd\u0997\u09cb \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Kalungu District"
+    ],
     "name:dan_x_preferred":[
         "Kalungu District"
     ],
@@ -51,7 +54,6 @@
         "Kalungu"
     ],
     "name:eng_x_variant":[
-        "Kalungu",
         "Kalungu District",
         "KALUNGU"
     ],
@@ -96,6 +98,9 @@
     ],
     "name:lug_x_preferred":[
         "Kalungu"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d32\u0d41\u0d19\u0d41 \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u0915\u0933\u0941\u0902\u0917\u0942 \u091c\u093f\u0932\u094d\u0939\u093e"
@@ -185,7 +190,7 @@
         }
     ],
     "wof:id":1092071167,
-    "wof:lastmodified":1561777340,
+    "wof:lastmodified":1563308463,
     "wof:name":"Kalungu",
     "wof:parent_id":85680223,
     "wof:placetype":"county",

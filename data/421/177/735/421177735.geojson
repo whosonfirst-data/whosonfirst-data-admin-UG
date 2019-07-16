@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u09b8\u09bf\u09a8\u09cd\u09a1\u09bf"
     ],
+    "name:ceb_x_preferred":[
+        "Masindi"
+    ],
     "name:dan_x_preferred":[
         "Masindi"
     ],
@@ -166,7 +169,7 @@
         }
     ],
     "wof:id":421177735,
-    "wof:lastmodified":1561777350,
+    "wof:lastmodified":1563308561,
     "wof:name":"Masindi",
     "wof:parent_id":1092074425,
     "wof:placetype":"locality",

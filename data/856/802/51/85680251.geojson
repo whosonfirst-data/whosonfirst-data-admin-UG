@@ -24,14 +24,32 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:deu_x_preferred":[
+        "Bududa"
+    ],
     "name:eng_x_preferred":[
         "Mbale"
+    ],
+    "name:eng_x_variant":[
+        "Bududa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30c9\u30a5\u30c0"
     ],
     "name:lug_x_preferred":[
         "Bududa"
     ],
+    "name:nld_x_preferred":[
+        "Bududa"
+    ],
+    "name:nob_x_preferred":[
+        "Bududa"
+    ],
     "name:ron_x_preferred":[
         "Bududa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0434\u0443\u0434\u0430"
     ],
     "name:swa_x_preferred":[
         "Bududa"
@@ -165,7 +183,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550555,
+    "wof:lastmodified":1563307632,
     "wof:name":"Bududa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
