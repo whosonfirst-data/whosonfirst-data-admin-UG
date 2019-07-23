@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u062d\u064a \u0646\u064a\u0628\u0649"
     ],
+    "name:ceb_x_preferred":[
+        "Nebbi"
+    ],
     "name:eng_x_preferred":[
         "Nebbi"
     ],
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":1141906019,
-    "wof:lastmodified":1561777384,
+    "wof:lastmodified":1563309041,
     "wof:name":"Nebbi",
     "wof:parent_id":1092073489,
     "wof:placetype":"locality",

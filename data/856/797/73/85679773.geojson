@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09a8\u09bf\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Jinja District"
+    ],
     "name:dan_x_preferred":[
         "Jinja District"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Jinja"
+    ],
+    "name:eng_x_variant":[
+        "Jinja District"
     ],
     "name:fin_x_preferred":[
         "Jinjan kaupunginosa"
@@ -278,7 +284,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777289,
+    "wof:lastmodified":1563307607,
     "wof:name":"Jinja",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

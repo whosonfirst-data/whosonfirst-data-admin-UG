@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09ac\u09be\u09b2\u09c7 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Kibale District"
+    ],
     "name:dan_x_preferred":[
         "Kibaale District"
     ],
@@ -273,7 +276,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777291,
+    "wof:lastmodified":1563307619,
     "wof:name":"Kibale",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

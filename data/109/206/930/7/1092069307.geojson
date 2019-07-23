@@ -38,6 +38,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u0995\u09c7\u09a1\u09bf\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Bukedea District"
+    ],
     "name:dan_x_preferred":[
         "Bukedea District"
     ],
@@ -51,7 +54,6 @@
         "Bukedea"
     ],
     "name:eng_x_variant":[
-        "Bukedea",
         "Bukedea District",
         "BUKEDEA"
     ],
@@ -93,6 +95,9 @@
     ],
     "name:lug_x_preferred":[
         "Bukedea"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d41\u0d15\u0d46\u0d21\u0d3f\u0d2f"
     ],
     "name:mar_x_preferred":[
         "\u092c\u0941\u0915\u0947\u0921\u0947 \u091c\u093f\u0932\u094d\u0939\u093e"
@@ -188,7 +193,7 @@
         }
     ],
     "wof:id":1092069307,
-    "wof:lastmodified":1561777343,
+    "wof:lastmodified":1563308480,
     "wof:name":"Bukedea",
     "wof:parent_id":85680095,
     "wof:placetype":"county",

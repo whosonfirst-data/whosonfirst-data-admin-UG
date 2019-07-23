@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u0997\u09c1\u09b2\u09cb \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Gulu District"
+    ],
     "name:dan_x_preferred":[
         "Gulu District"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Gulu"
+    ],
+    "name:eng_x_variant":[
+        "Gulu District"
     ],
     "name:fin_x_preferred":[
         "Gulun kaupunginosa"
@@ -266,7 +272,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777290,
+    "wof:lastmodified":1563307612,
     "wof:name":"Gulu",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

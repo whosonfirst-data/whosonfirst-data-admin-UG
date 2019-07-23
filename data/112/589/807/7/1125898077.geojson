@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Mayuge"
     ],
+    "name:jpn_x_preferred":[
+        "\u30de\u30e6\u30b2"
+    ],
     "name:nld_x_preferred":[
         "Mayuge"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1125898077,
-    "wof:lastmodified":1561777352,
+    "wof:lastmodified":1563308577,
     "wof:name":"Mayuge",
     "wof:parent_id":1092069607,
     "wof:placetype":"locality",

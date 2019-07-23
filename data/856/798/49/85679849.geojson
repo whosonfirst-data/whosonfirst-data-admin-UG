@@ -30,6 +30,9 @@
     "name:ben_x_preferred":[
         "\u09a8\u09c7\u09ac\u09bf \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Nebbi District"
+    ],
     "name:dan_x_preferred":[
         "Nebbi District"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:eng_x_preferred":[
         "Nebbi"
+    ],
+    "name:eng_x_variant":[
+        "Nebbi District"
     ],
     "name:fin_x_preferred":[
         "Nebbin piirikunta"
@@ -96,6 +102,9 @@
     "name:pol_x_preferred":[
         "Nebbi"
     ],
+    "name:pol_x_variant":[
+        "Dystrykt Nebbi"
+    ],
     "name:por_x_preferred":[
         "Nebbi"
     ],
@@ -140,6 +149,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0628\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0646\u06cc\u0628\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Nebbi"
@@ -269,7 +281,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777293,
+    "wof:lastmodified":1563307631,
     "wof:name":"Nebbi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -25,13 +25,37 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:azb_x_preferred":[
+        "\u0627\u0645\u0648\u0631\u06cc\u0627"
+    ],
+    "name:ceb_x_preferred":[
+        "Amuria"
+    ],
+    "name:deu_x_preferred":[
+        "Amuria"
+    ],
     "name:eng_x_preferred":[
         "Katakwi"
+    ],
+    "name:eng_x_variant":[
+        "Amuria"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0645\u0648\u0631\u06cc\u0627"
     ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30e0\u30ea\u30a2"
+    ],
     "name:lug_x_preferred":[
+        "Amuria"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d2e\u0d41\u0d31\u0d3f\u0d2f"
+    ],
+    "name:nld_x_preferred":[
+        "Amuria"
+    ],
+    "name:nob_x_preferred":[
         "Amuria"
     ],
     "name:ron_x_preferred":[
@@ -171,7 +195,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550544,
+    "wof:lastmodified":1563307638,
     "wof:name":"Amuria",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

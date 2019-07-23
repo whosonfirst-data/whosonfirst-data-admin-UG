@@ -27,7 +27,19 @@
     "name:eng_x_preferred":[
         "Bushenyi"
     ],
+    "name:eng_x_variant":[
+        "Rubirizi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30d3\u30ea\u30b8"
+    ],
     "name:lug_x_preferred":[
+        "Rubirizi"
+    ],
+    "name:nld_x_preferred":[
+        "Rubirizi"
+    ],
+    "name:nob_x_preferred":[
         "Rubirizi"
     ],
     "name:urd_x_preferred":[
@@ -98,7 +110,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550572,
+    "wof:lastmodified":1563307633,
     "wof:name":"Rubirizi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

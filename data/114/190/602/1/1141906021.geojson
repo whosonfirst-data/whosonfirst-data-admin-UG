@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u0646\u0627\u0643\u0627\u0633\u0648\u0646\u063a\u0648\u0644\u0627"
     ],
+    "name:ceb_x_preferred":[
+        "Nakasongola"
+    ],
     "name:eng_x_preferred":[
         "Nakasongola"
     ],
@@ -181,7 +184,7 @@
         }
     ],
     "wof:id":1141906021,
-    "wof:lastmodified":1561777384,
+    "wof:lastmodified":1563309040,
     "wof:name":"Nakasongola",
     "wof:parent_id":1092069759,
     "wof:placetype":"locality",

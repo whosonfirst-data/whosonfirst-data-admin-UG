@@ -23,6 +23,12 @@
     "name:eng_x_preferred":[
         "Makerere"
     ],
+    "name:fra_x_preferred":[
+        "Makerere"
+    ],
+    "name:nld_x_preferred":[
+        "Makerere"
+    ],
     "name:unk_x_variant":[
         "Makerere"
     ],
@@ -81,7 +87,7 @@
         }
     ],
     "wof:id":1126087423,
-    "wof:lastmodified":1534379471,
+    "wof:lastmodified":1563308580,
     "wof:name":"Makerere",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

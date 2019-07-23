@@ -19,6 +19,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u0995\u09cb\u09a8\u09c1 \u099f\u09be\u0989\u09a8"
     ],
+    "name:ceb_x_preferred":[
+        "Mukono"
+    ],
     "name:dan_x_preferred":[
         "Mukono"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u0941\u0915\u094b\u0928\u094b"
+    ],
+    "name:hye_x_preferred":[
+        "\u0544\u0578\u0582\u056f\u0578\u0576\u0578"
     ],
     "name:ind_x_preferred":[
         "Kota Mukono"
@@ -178,7 +184,7 @@
         }
     ],
     "wof:id":421173181,
-    "wof:lastmodified":1561777350,
+    "wof:lastmodified":1563308552,
     "wof:name":"Mukono",
     "wof:parent_id":1092072911,
     "wof:placetype":"locality",

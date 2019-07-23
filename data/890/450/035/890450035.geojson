@@ -15,6 +15,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Buwenge"
+    ],
     "name:eng_x_preferred":[
         "Buwenge"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":890450035,
-    "wof:lastmodified":1561777352,
+    "wof:lastmodified":1563308575,
     "wof:name":"Buwenge",
     "wof:parent_id":1092071019,
     "wof:placetype":"locality",

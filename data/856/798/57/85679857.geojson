@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u0987\u0989\u09ae\u09cd\u09ac\u09c7 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Yumbe District"
+    ],
     "name:dan_x_preferred":[
         "Yumbe District"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Yumbe"
+    ],
+    "name:eng_x_variant":[
+        "Yumbe District"
     ],
     "name:fin_x_preferred":[
         "Yumben piirikunta"
@@ -96,6 +102,9 @@
     ],
     "name:pol_x_preferred":[
         "Yumbe"
+    ],
+    "name:pol_x_variant":[
+        "Dystrykt Yumbe"
     ],
     "name:por_x_preferred":[
         "Distrito de Yumbe"
@@ -275,7 +284,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777291,
+    "wof:lastmodified":1563307621,
     "wof:name":"Yumbe",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

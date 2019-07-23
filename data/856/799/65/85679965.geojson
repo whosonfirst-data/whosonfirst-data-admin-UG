@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u098f\u09ae\u09cd\u09ac\u09c7\u09b2 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Mbale District"
+    ],
     "name:dan_x_preferred":[
         "Mbale District"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Mbale"
+    ],
+    "name:eng_x_variant":[
+        "Mbale District"
     ],
     "name:fin_x_preferred":[
         "Mbalen kaupunginosa"
@@ -206,7 +212,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777291,
+    "wof:lastmodified":1563307617,
     "wof:name":"Mbale",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

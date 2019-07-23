@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09c1\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Arua District"
+    ],
     "name:dan_x_preferred":[
         "Arua District"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Arua"
+    ],
+    "name:eng_x_variant":[
+        "Arua District"
     ],
     "name:fin_x_preferred":[
         "Aruan kaupunginosa"
@@ -204,7 +210,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777292,
+    "wof:lastmodified":1563307629,
     "wof:name":"Arua",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

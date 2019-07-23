@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09a8\u09cd\u09a1\u09bf\u09ac\u09cb\u09af\u09bc\u09c1 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Bundibugyo District"
+    ],
     "name:dan_x_preferred":[
         "Bundibugyo District"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Bundibugyo"
+    ],
+    "name:eng_x_variant":[
+        "Bundibugyo District"
     ],
     "name:fin_x_preferred":[
         "Bundibugyon kaupunginosa"
@@ -141,6 +147,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0646\u062f\u06cc\u0628\u0648\u06af\u06cc\u0648"
+    ],
+    "name:urd_x_variant":[
+        "\u0628\u0648\u0646\u062f\u06cc\u0628\u0648\u06af\u06cc\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Bundibugyo"
@@ -273,7 +282,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777290,
+    "wof:lastmodified":1563307613,
     "wof:name":"Bundibugyo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

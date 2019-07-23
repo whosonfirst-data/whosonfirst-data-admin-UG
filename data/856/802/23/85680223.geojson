@@ -24,13 +24,208 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
+    "name:afr_x_preferred":[
+        "Kalungu"
+    ],
+    "name:arg_x_preferred":[
+        "Kalungu"
+    ],
+    "name:ast_x_preferred":[
+        "Kalungu"
+    ],
+    "name:bar_x_preferred":[
+        "Kalungu"
+    ],
+    "name:bre_x_preferred":[
+        "Kalungu"
+    ],
+    "name:cat_x_preferred":[
+        "Kalungu"
+    ],
+    "name:ceb_x_preferred":[
+        "Kalungu"
+    ],
+    "name:ces_x_preferred":[
+        "Kalungu"
+    ],
+    "name:cos_x_preferred":[
+        "Kalungu"
+    ],
+    "name:cym_x_preferred":[
+        "Kalungu"
+    ],
+    "name:dan_x_preferred":[
+        "Kalungu"
+    ],
     "name:deu_x_preferred":[
         "Kalungu"
     ],
     "name:eng_x_preferred":[
         "Masaka"
     ],
+    "name:eng_x_variant":[
+        "Kalungu"
+    ],
+    "name:epo_x_preferred":[
+        "Kalungu"
+    ],
+    "name:est_x_preferred":[
+        "Kalungu"
+    ],
+    "name:eus_x_preferred":[
+        "Kalungu"
+    ],
+    "name:fin_x_preferred":[
+        "Kalungu"
+    ],
+    "name:fra_x_preferred":[
+        "Kalungu"
+    ],
+    "name:frp_x_preferred":[
+        "Kalungu"
+    ],
+    "name:fur_x_preferred":[
+        "Kalungu"
+    ],
+    "name:gla_x_preferred":[
+        "Kalungu"
+    ],
+    "name:gle_x_preferred":[
+        "Kalungu"
+    ],
+    "name:glg_x_preferred":[
+        "Kalungu"
+    ],
+    "name:gsw_x_preferred":[
+        "Kalungu"
+    ],
+    "name:hrv_x_preferred":[
+        "Kalungu"
+    ],
+    "name:ido_x_preferred":[
+        "Kalungu"
+    ],
+    "name:ile_x_preferred":[
+        "Kalungu"
+    ],
+    "name:ina_x_preferred":[
+        "Kalungu"
+    ],
+    "name:ind_x_preferred":[
+        "Kalungu"
+    ],
+    "name:isl_x_preferred":[
+        "Kalungu"
+    ],
+    "name:ita_x_preferred":[
+        "Kalungu"
+    ],
+    "name:kon_x_preferred":[
+        "Kalungu"
+    ],
+    "name:lij_x_preferred":[
+        "Kalungu"
+    ],
+    "name:lim_x_preferred":[
+        "Kalungu"
+    ],
+    "name:ltz_x_preferred":[
+        "Kalungu"
+    ],
     "name:lug_x_preferred":[
+        "Kalungu"
+    ],
+    "name:min_x_preferred":[
+        "Kalungu"
+    ],
+    "name:mlg_x_preferred":[
+        "Kalungu"
+    ],
+    "name:msa_x_preferred":[
+        "Kalungu"
+    ],
+    "name:nap_x_preferred":[
+        "Kalungu"
+    ],
+    "name:nds_x_preferred":[
+        "Kalungu"
+    ],
+    "name:nld_x_preferred":[
+        "Kalungu"
+    ],
+    "name:nno_x_preferred":[
+        "Kalungu"
+    ],
+    "name:nob_x_preferred":[
+        "Kalungu"
+    ],
+    "name:nrm_x_preferred":[
+        "Kalungu"
+    ],
+    "name:oci_x_preferred":[
+        "Kalungu"
+    ],
+    "name:pcd_x_preferred":[
+        "Kalungu"
+    ],
+    "name:pms_x_preferred":[
+        "Kalungu"
+    ],
+    "name:pol_x_preferred":[
+        "Kalungu"
+    ],
+    "name:por_x_preferred":[
+        "Kalungu"
+    ],
+    "name:roh_x_preferred":[
+        "Kalungu"
+    ],
+    "name:ron_x_preferred":[
+        "Kalungu"
+    ],
+    "name:scn_x_preferred":[
+        "Kalungu"
+    ],
+    "name:sco_x_preferred":[
+        "Kalungu"
+    ],
+    "name:slk_x_preferred":[
+        "Kalungu"
+    ],
+    "name:slv_x_preferred":[
+        "Kalungu"
+    ],
+    "name:spa_x_preferred":[
+        "Kalungu"
+    ],
+    "name:srd_x_preferred":[
+        "Kalungu"
+    ],
+    "name:swa_x_preferred":[
+        "Kalungu"
+    ],
+    "name:swe_x_preferred":[
+        "Kalungu"
+    ],
+    "name:vec_x_preferred":[
+        "Kalungu"
+    ],
+    "name:vie_x_preferred":[
+        "Kalungu"
+    ],
+    "name:vls_x_preferred":[
+        "Kalungu"
+    ],
+    "name:vol_x_preferred":[
+        "Kalungu"
+    ],
+    "name:wln_x_preferred":[
+        "Kalungu"
+    ],
+    "name:wol_x_preferred":[
+        "Kalungu"
+    ],
+    "name:zul_x_preferred":[
         "Kalungu"
     ],
     "ne:abbrev":"",
@@ -157,7 +352,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550570,
+    "wof:lastmodified":1563307636,
     "wof:name":"Kalungu",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

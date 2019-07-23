@@ -30,6 +30,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u09b0\u09cb\u09a4\u09c1 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Moroto District"
+    ],
     "name:dan_x_preferred":[
         "Moroto District"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:eng_x_preferred":[
         "Moroto"
+    ],
+    "name:eng_x_variant":[
+        "Moroto District"
     ],
     "name:fin_x_preferred":[
         "Moroton piirikunta"
@@ -207,7 +213,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777294,
+    "wof:lastmodified":1563307641,
     "wof:name":"Moroto",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

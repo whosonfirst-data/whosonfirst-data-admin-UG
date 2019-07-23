@@ -38,6 +38,9 @@
     "name:ben_x_preferred":[
         "\u0986\u09ae\u09c1\u09b0\u09bf\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Amuria District"
+    ],
     "name:dan_x_preferred":[
         "Amuria District"
     ],
@@ -51,7 +54,6 @@
         "Amuria"
     ],
     "name:eng_x_variant":[
-        "Amuria",
         "Amuria District",
         "AMURIA"
     ],
@@ -96,6 +98,9 @@
     ],
     "name:lug_x_preferred":[
         "Amuria"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d2e\u0d41\u0d31\u0d3f\u0d2f \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u0905\u092e\u0930\u0941\u092f\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
@@ -191,7 +196,7 @@
         }
     ],
     "wof:id":1092068395,
-    "wof:lastmodified":1561777344,
+    "wof:lastmodified":1563308486,
     "wof:name":"Amuria",
     "wof:parent_id":85680003,
     "wof:placetype":"county",

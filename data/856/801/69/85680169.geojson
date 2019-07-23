@@ -27,7 +27,25 @@
     "name:eng_x_preferred":[
         "Pader"
     ],
+    "name:eng_x_variant":[
+        "Agago"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30ac\u30b4"
+    ],
     "name:lug_x_preferred":[
+        "Agago"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d05\u0d17\u0d3e\u0d17\u0d4a"
+    ],
+    "name:nld_x_preferred":[
+        "Agago"
+    ],
+    "name:nob_x_preferred":[
+        "Agago"
+    ],
+    "name:swa_x_preferred":[
         "Agago"
     ],
     "name:urd_x_preferred":[
@@ -96,7 +114,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550562,
+    "wof:lastmodified":1563307649,
     "wof:name":"Agago",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

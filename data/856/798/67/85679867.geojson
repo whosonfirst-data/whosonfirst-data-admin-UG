@@ -34,6 +34,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09aa\u09be\u09b2\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Kampala District"
+    ],
     "name:dan_x_preferred":[
         "Kampala District"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Kampala"
+    ],
+    "name:eng_x_variant":[
+        "Kampala District"
     ],
     "name:fin_x_preferred":[
         "Kampalan piirikunta"
@@ -70,11 +76,17 @@
     "name:jpn_x_preferred":[
         "\u30ab\u30f3\u30d1\u30e9"
     ],
+    "name:jpn_x_variant":[
+        "\u30ab\u30f3\u30d1\u30e9\u770c"
+    ],
     "name:kan_x_preferred":[
         "\u0c95\u0c82\u0caa\u0cbe\u0cb2\u0cbe \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
     ],
     "name:kor_x_preferred":[
         "\uce84\ud314\ub77c"
+    ],
+    "name:kor_x_variant":[
+        "\uce84\ud314\ub77c \uad6c"
     ],
     "name:kur_x_preferred":[
         "Kampala"
@@ -277,7 +289,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777291,
+    "wof:lastmodified":1563307623,
     "wof:name":"Kampala",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

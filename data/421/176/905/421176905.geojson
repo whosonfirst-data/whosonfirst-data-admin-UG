@@ -14,16 +14,25 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kiboga"
+    ],
     "name:eng_x_preferred":[
         "Kiboga"
     ],
     "name:jpn_x_preferred":[
         "\u30ad\u30dc\u30ac"
     ],
+    "name:lug_x_preferred":[
+        "Kiboga"
+    ],
     "name:nld_x_preferred":[
         "Kiboga"
     ],
     "name:nob_x_preferred":[
+        "Kiboga"
+    ],
+    "name:por_x_preferred":[
         "Kiboga"
     ],
     "name:ron_x_preferred":[
@@ -182,7 +191,7 @@
         }
     ],
     "wof:id":421176905,
-    "wof:lastmodified":1561777350,
+    "wof:lastmodified":1563308563,
     "wof:name":"Kiboga",
     "wof:parent_id":1092071543,
     "wof:placetype":"locality",

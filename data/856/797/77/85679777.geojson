@@ -30,6 +30,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09ae\u09bf \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Kumi District"
+    ],
     "name:dan_x_preferred":[
         "Kumi District"
     ],
@@ -41,6 +44,9 @@
     ],
     "name:eng_x_preferred":[
         "Kumi"
+    ],
+    "name:eng_x_variant":[
+        "Kumi District"
     ],
     "name:fin_x_preferred":[
         "Kumin kaupunginosa"
@@ -204,7 +210,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777289,
+    "wof:lastmodified":1563307609,
     "wof:name":"Kumi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u0648\u062a\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Soroti"
+    ],
     "name:dan_x_preferred":[
         "Soroti"
     ],
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":421168677,
-    "wof:lastmodified":1561777349,
+    "wof:lastmodified":1563308544,
     "wof:name":"Soroti",
     "wof:parent_id":1092074017,
     "wof:placetype":"locality",

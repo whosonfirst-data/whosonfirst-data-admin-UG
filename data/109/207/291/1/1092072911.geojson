@@ -41,6 +41,9 @@
     "name:cat_x_preferred":[
         "districte de Mukono"
     ],
+    "name:ceb_x_preferred":[
+        "Mukono District"
+    ],
     "name:dan_x_preferred":[
         "Mukono District"
     ],
@@ -54,7 +57,6 @@
         "Mukono"
     ],
     "name:eng_x_variant":[
-        "Mukono",
         "Mukono District",
         "MUKONO"
     ],
@@ -99,6 +101,9 @@
     ],
     "name:lug_x_preferred":[
         "Mukono"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d41\u0d15\u0d41\u0d23\u0d4a \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u092e\u0941\u0915\u094b\u0928\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
@@ -194,7 +199,7 @@
         }
     ],
     "wof:id":1092072911,
-    "wof:lastmodified":1561777342,
+    "wof:lastmodified":1563308474,
     "wof:name":"Mukono",
     "wof:parent_id":85679817,
     "wof:placetype":"county",

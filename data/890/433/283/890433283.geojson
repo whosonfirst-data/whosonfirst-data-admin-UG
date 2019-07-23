@@ -15,6 +15,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Rukungiri"
+    ],
     "name:eng_x_preferred":[
         "Rukungiri"
     ],
@@ -22,6 +25,12 @@
         "Rukungiri"
     ],
     "name:ita_x_preferred":[
+        "Rukungiri"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30af\u30f3\u30ae\u30ea"
+    ],
+    "name:lug_x_preferred":[
         "Rukungiri"
     ],
     "name:nld_x_preferred":[
@@ -35,6 +44,9 @@
     ],
     "name:swa_x_preferred":[
         "Rukungiri"
+    ],
+    "name:swe_x_preferred":[
+        "Pader"
     ],
     "name:unk_x_variant":[
         "Kinyasano"
@@ -75,7 +87,7 @@
         }
     ],
     "wof:id":890433283,
-    "wof:lastmodified":1561777351,
+    "wof:lastmodified":1563308574,
     "wof:name":"Rukungiri",
     "wof:parent_id":1092073637,
     "wof:placetype":"locality",

@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u0987\u0989\u09ae\u09cd\u09ac\u09c7"
     ],
+    "name:ceb_x_preferred":[
+        "Yumbe"
+    ],
     "name:dan_x_preferred":[
         "Yumbe"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:lit_x_preferred":[
         "Jumb\u0117"
+    ],
+    "name:lug_x_preferred":[
+        "Yumbe"
     ],
     "name:mar_x_preferred":[
         "\u092f\u092e\u092c\u0947"
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1125861177,
-    "wof:lastmodified":1561777352,
+    "wof:lastmodified":1563308577,
     "wof:name":"Yumbe",
     "wof:parent_id":1092068435,
     "wof:placetype":"locality",

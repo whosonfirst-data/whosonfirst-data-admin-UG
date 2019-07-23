@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09be\u0987\u0989\u099c\u09c7 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Mayuge District"
+    ],
     "name:dan_x_preferred":[
         "Mayuge"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Mayuge"
+    ],
+    "name:eng_x_variant":[
+        "Mayuge District"
     ],
     "name:fin_x_preferred":[
         "Mayugen kaupunginosa"
@@ -81,6 +87,9 @@
     ],
     "name:lug_x_preferred":[
         "Mayuge"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d2f\u0d41\u0d17\u0d46 \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u092e\u092f\u0942\u091c \u091c\u093f\u0932\u094d\u0939\u093e"
@@ -141,6 +150,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0626\u0648\u06af\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0627\u0626\u0648\u06af\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Mayuge"
@@ -275,7 +287,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777291,
+    "wof:lastmodified":1563307619,
     "wof:name":"Mayuge",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

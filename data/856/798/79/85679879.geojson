@@ -28,8 +28,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0648\u0627\u0643\u064a\u0633\u0648"
     ],
+    "name:bel_x_preferred":[
+        "\u0430\u043a\u0440\u0443\u0433\u0430 \u0412\u0430\u043a\u0456\u0441\u043e"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09af\u09bc\u09be\u0995\u09bf\u09b8\u09cb \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Wakiso District"
     ],
     "name:dan_x_preferred":[
         "Wakiso District"
@@ -41,6 +47,12 @@
         "\u0393\u03bf\u03c5\u03b1\u03ba\u03af\u03c3\u03bf"
     ],
     "name:eng_x_preferred":[
+        "Wakiso"
+    ],
+    "name:eng_x_variant":[
+        "Wakiso District"
+    ],
+    "name:eus_x_preferred":[
         "Wakiso"
     ],
     "name:fin_x_preferred":[
@@ -274,7 +286,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777293,
+    "wof:lastmodified":1563307630,
     "wof:name":"Wakiso",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

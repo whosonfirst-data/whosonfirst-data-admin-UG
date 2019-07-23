@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09a4\u09bf\u09af\u09bc\u09be\u09a8\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Mityana"
+    ],
     "name:dan_x_preferred":[
         "Mityana"
     ],
@@ -261,7 +264,7 @@
         }
     ],
     "wof:id":421192803,
-    "wof:lastmodified":1561777349,
+    "wof:lastmodified":1563308545,
     "wof:name":"Mityana",
     "wof:parent_id":1092072811,
     "wof:placetype":"locality",

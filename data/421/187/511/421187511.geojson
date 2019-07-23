@@ -13,10 +13,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Port Bell"
+    ],
     "name:deu_x_preferred":[
         "Port Bell"
     ],
     "name:eng_x_preferred":[
+        "Port Bell"
+    ],
+    "name:eus_x_preferred":[
         "Port Bell"
     ],
     "name:fra_x_preferred":[
@@ -90,7 +96,7 @@
         }
     ],
     "wof:id":421187511,
-    "wof:lastmodified":1561777349,
+    "wof:lastmodified":1563308550,
     "wof:name":"Port Bell",
     "wof:parent_id":1092071203,
     "wof:placetype":"locality",

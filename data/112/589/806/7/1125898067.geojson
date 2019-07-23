@@ -25,6 +25,9 @@
     "name:ben_x_preferred":[
         "\u09a8\u09c7\u099c\u09c7\u09b0\u09c1"
     ],
+    "name:ceb_x_preferred":[
+        "Njeru"
+    ],
     "name:dan_x_preferred":[
         "Njeru"
     ],
@@ -97,6 +100,9 @@
     "name:spa_x_preferred":[
         "Njeru"
     ],
+    "name:swa_x_preferred":[
+        "Njeru"
+    ],
     "name:swe_x_preferred":[
         "Njeru"
     ],
@@ -163,7 +169,7 @@
         }
     ],
     "wof:id":1125898067,
-    "wof:lastmodified":1561777352,
+    "wof:lastmodified":1563308578,
     "wof:name":"Njeru",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",

@@ -43,8 +43,14 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ac\u09be\u09b0\u09cb\u09b2\u09c7 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Kabarole District"
+    ],
     "name:dan_x_preferred":[
         "Fort Portal"
+    ],
+    "name:dan_x_variant":[
+        "Kabarole District"
     ],
     "name:deu_x_preferred":[
         "Fort Portal"
@@ -60,7 +66,6 @@
     ],
     "name:eng_x_variant":[
         "Fort Portal Municipality",
-        "Fort Portal",
         "Kabarole District",
         "FORT PORTAL MUNICIPALITY"
     ],
@@ -85,11 +90,20 @@
     "name:ind_x_preferred":[
         "Fort Portal"
     ],
+    "name:ind_x_variant":[
+        "Distrik Kabarole"
+    ],
     "name:ita_x_preferred":[
         "Fort Portal"
     ],
+    "name:ita_x_variant":[
+        "Kabarole"
+    ],
     "name:jpn_x_preferred":[
         "\u30d5\u30a9\u30fc\u30c8\u30fb\u30dd\u30fc\u30bf\u30eb"
+    ],
+    "name:jpn_x_variant":[
+        "\u30ab\u30d0\u30ed\u30ec\u770c"
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cac\u0cb0\u0ccb\u0cb2\u0ccd \u0c9c\u0cbf\u0cb2\u0ccd\u0cb2\u0cc6"
@@ -97,14 +111,23 @@
     "name:kor_x_preferred":[
         "\ud3ec\ud2b8\ud3ec\ud138"
     ],
+    "name:kor_x_variant":[
+        "\uce74\ubc14\ub864\ub808 \uad6c"
+    ],
     "name:lav_x_preferred":[
         "Kabaroles distrikts"
     ],
     "name:lit_x_preferred":[
         "Fort Portalas"
     ],
+    "name:lit_x_variant":[
+        "Karabol\u0117s apskritis"
+    ],
     "name:lug_x_preferred":[
         "Fort Portal"
+    ],
+    "name:lug_x_variant":[
+        "Kabarole"
     ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u092c\u0930\u094b\u0932 \u091c\u093f\u0932\u094d\u0939\u093e"
@@ -127,8 +150,14 @@
     "name:pol_x_preferred":[
         "Fort Portal"
     ],
+    "name:pol_x_variant":[
+        "Dystrykt Kabarole"
+    ],
     "name:por_x_preferred":[
         "Fort Portal"
+    ],
+    "name:por_x_variant":[
+        "Kabarole"
     ],
     "name:ron_x_preferred":[
         "Fort Portal"
@@ -139,6 +168,9 @@
     "name:rus_x_preferred":[
         "\u0424\u043e\u0440\u0442-\u041f\u043e\u0440\u0442\u0430\u043b"
     ],
+    "name:rus_x_variant":[
+        "\u041a\u0430\u0431\u0430\u0440\u043e\u043b\u0435"
+    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0db6\u0dbb\u0ddd\u0dbd\u0dda \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
     ],
@@ -147,6 +179,9 @@
     ],
     "name:swa_x_preferred":[
         "Fort Portal"
+    ],
+    "name:swa_x_variant":[
+        "Wilaya ya Kabarole"
     ],
     "name:swe_x_preferred":[
         "Kabarole"
@@ -171,6 +206,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0641\u0648\u0631\u0679 \u067e\u0648\u0631\u0679\u0644"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u0627\u0628\u0627\u0631\u0648\u0644\u06d2 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Kabarole"
@@ -330,7 +368,7 @@
         }
     ],
     "wof:id":421174009,
-    "wof:lastmodified":1561777349,
+    "wof:lastmodified":1563308548,
     "wof:name":"Fort Portal Municipality",
     "wof:parent_id":85679939,
     "wof:placetype":"county",

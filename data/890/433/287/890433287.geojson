@@ -15,6 +15,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Bweyogerere"
+    ],
     "name:eng_x_preferred":[
         "Bweyogerere"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":890433287,
-    "wof:lastmodified":1561777351,
+    "wof:lastmodified":1563308572,
     "wof:name":"Bweyogerere",
     "wof:parent_id":1092072041,
     "wof:placetype":"locality",

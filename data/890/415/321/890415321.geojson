@@ -18,6 +18,9 @@
     "name:eng_x_preferred":[
         "Kireka"
     ],
+    "name:lug_x_preferred":[
+        "Kireka"
+    ],
     "name:nld_x_preferred":[
         "Kireka"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":890415321,
-    "wof:lastmodified":1561777351,
+    "wof:lastmodified":1563308566,
     "wof:name":"Kireka",
     "wof:parent_id":1092072041,
     "wof:placetype":"locality",

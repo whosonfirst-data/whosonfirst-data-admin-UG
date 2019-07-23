@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09b8\u09bf\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Busia District"
+    ],
     "name:dan_x_preferred":[
         "Busia District"
     ],
@@ -45,6 +48,9 @@
     ],
     "name:eng_x_preferred":[
         "Busia"
+    ],
+    "name:eng_x_variant":[
+        "Busia District"
     ],
     "name:fin_x_preferred":[
         "Busian kaupunginosa"
@@ -123,6 +129,9 @@
     ],
     "name:swe_x_preferred":[
         "Busia"
+    ],
+    "name:swe_x_variant":[
+        "Busiadistriktet"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0b9a\u0bbf\u0baf\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
@@ -279,7 +288,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777291,
+    "wof:lastmodified":1563307618,
     "wof:name":"Busia",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

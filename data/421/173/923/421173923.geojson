@@ -17,8 +17,14 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0633\u0648\u0631\u0648"
     ],
+    "name:azb_x_preferred":[
+        "\u06a9\u06cc\u0633\u0648\u0631\u0648"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09b8\u09cb\u09b0\u09c1"
+    ],
+    "name:ceb_x_preferred":[
+        "Kisoro"
     ],
     "name:dan_x_preferred":[
         "Kisoro"
@@ -31,6 +37,9 @@
     ],
     "name:eng_x_preferred":[
         "Kisoro"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0633\u0648\u0631\u0648"
     ],
     "name:fin_x_preferred":[
         "Kisoro"
@@ -267,7 +276,7 @@
         }
     ],
     "wof:id":421173923,
-    "wof:lastmodified":1561777349,
+    "wof:lastmodified":1563308552,
     "wof:name":"Kisoro",
     "wof:parent_id":1092068877,
     "wof:placetype":"locality",

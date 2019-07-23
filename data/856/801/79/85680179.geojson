@@ -27,6 +27,15 @@
     "name:eng_x_preferred":[
         "Bundibugyo"
     ],
+    "name:eng_x_variant":[
+        "Ntoroko"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30f3\u30c8\u30ed\u30b3"
+    ],
+    "name:nld_x_preferred":[
+        "Ntoroko"
+    ],
     "name:unk_x_variant":[
         "Ntoroko District"
     ],
@@ -157,7 +166,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550564,
+    "wof:lastmodified":1563307654,
     "wof:name":"Ntoroko",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

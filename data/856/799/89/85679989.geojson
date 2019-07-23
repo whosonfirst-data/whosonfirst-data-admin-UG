@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09a4\u09c1\u09b0\u09c1\u09b0\u09c1 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Tororo District"
+    ],
     "name:dan_x_preferred":[
         "Tororo District"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Tororo"
+    ],
+    "name:eng_x_variant":[
+        "Tororo District"
     ],
     "name:fin_x_preferred":[
         "Tororon kaupunginosa"
@@ -274,7 +280,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777290,
+    "wof:lastmodified":1563307613,
     "wof:name":"Tororo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

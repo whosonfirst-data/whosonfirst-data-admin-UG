@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09a4\u09bf\u09a1\u09c1 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Kotido District"
+    ],
     "name:dan_x_preferred":[
         "Kotido District"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Kotido"
+    ],
+    "name:eng_x_variant":[
+        "Kotido District"
     ],
     "name:fin_x_preferred":[
         "Kotidon kaupunginosa"
@@ -136,6 +142,9 @@
     "name:urd_x_preferred":[
         "\u06a9\u0648\u062a\u06cc\u062f\u0648"
     ],
+    "name:urd_x_variant":[
+        "\u06a9\u0648\u062a\u06cc\u062f\u0648 \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Kotido"
     ],
@@ -208,7 +217,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777291,
+    "wof:lastmodified":1563307618,
     "wof:name":"Kotido",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

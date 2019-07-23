@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09cb\u09a1\u09be\u0995\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Budaka District"
+    ],
     "name:dan_x_preferred":[
         "Budaka District"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Budaka"
+    ],
+    "name:eng_x_variant":[
+        "Budaka District"
     ],
     "name:fin_x_preferred":[
         "Budakan kaupunginosa"
@@ -275,7 +281,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777296,
+    "wof:lastmodified":1563307652,
     "wof:name":"Budaka",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

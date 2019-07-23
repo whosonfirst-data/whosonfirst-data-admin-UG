@@ -20,6 +20,9 @@
     "name:ben_x_preferred":[
         "\u09b2\u09bf\u09b0\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Lira"
+    ],
     "name:dan_x_preferred":[
         "Lira"
     ],
@@ -80,6 +83,9 @@
     "name:lit_x_preferred":[
         "Lira"
     ],
+    "name:mal_x_preferred":[
+        "\u0d32\u0d3f\u0d31"
+    ],
     "name:mar_x_preferred":[
         "\u0932\u0940\u0930\u093e"
     ],
@@ -113,6 +119,9 @@
     "name:spa_x_preferred":[
         "Lira"
     ],
+    "name:sqi_x_preferred":[
+        "Lira"
+    ],
     "name:swa_x_preferred":[
         "Lira"
     ],
@@ -136,6 +145,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0631\u0627\u060c \u06cc\u0648\u06af\u0646\u0688\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0644\u06cc\u0631\u0627"
     ],
     "name:vie_x_preferred":[
         "Lira"
@@ -280,7 +292,7 @@
         }
     ],
     "wof:id":421199639,
-    "wof:lastmodified":1561777350,
+    "wof:lastmodified":1563308558,
     "wof:name":"Lira",
     "wof:parent_id":1092072387,
     "wof:placetype":"locality",

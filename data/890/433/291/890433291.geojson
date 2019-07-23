@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0411\u0443\u0433\u0435\u043c\u0431\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Bugembe"
+    ],
     "name:eng_x_preferred":[
         "Bugembe"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":890433291,
-    "wof:lastmodified":1561777352,
+    "wof:lastmodified":1563308575,
     "wof:name":"Bugembe",
     "wof:parent_id":1092070051,
     "wof:placetype":"locality",

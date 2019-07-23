@@ -56,6 +56,9 @@
     "name:ast_x_preferred":[
         "Uganda"
     ],
+    "name:azb_x_preferred":[
+        "\u0627\u0648\u0642\u0627\u0646\u062f\u0627"
+    ],
     "name:aze_x_preferred":[
         "Uqanda"
     ],
@@ -71,11 +74,11 @@
     "name:bel_x_preferred":[
         "\u0423\u0433\u0430\u043d\u0434\u0430"
     ],
-    "name:bel_x_variant":[
-        "\u0423\u0433\u0430\u043d\u0434\u0430"
-    ],
     "name:ben_x_preferred":[
         "\u0989\u0997\u09be\u09a8\u09cd\u09a1\u09be"
+    ],
+    "name:bho_x_preferred":[
+        "\u092f\u0941\u0917\u093e\u0902\u0921\u093e"
     ],
     "name:bod_x_preferred":[
         "\u0f68\u0f74\u0f0b\u0f42\u0f53\u0f0b\u0f51\u0f0d"
@@ -119,6 +122,9 @@
     "name:ckb_x_preferred":[
         "\u0626\u0648\u0648\u06af\u0627\u0646\u062f\u0627"
     ],
+    "name:ckb_x_variant":[
+        "\u0626\u0648\u06af\u0627\u0646\u062f\u0627"
+    ],
     "name:cor_x_preferred":[
         "Ouganda"
     ],
@@ -137,6 +143,9 @@
     "name:deu_x_preferred":[
         "Uganda"
     ],
+    "name:din_x_preferred":[
+        "Uganda"
+    ],
     "name:diq_x_preferred":[
         "Uganda"
     ],
@@ -145,6 +154,9 @@
     ],
     "name:dsb_x_preferred":[
         "Uganda"
+    ],
+    "name:dty_x_preferred":[
+        "\u092f\u0941\u0917\u093e\u0928\u094d\u0921\u093e"
     ],
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03b3\u03ba\u03ac\u03bd\u03c4\u03b1"
@@ -222,8 +234,14 @@
     "name:gom_x_preferred":[
         "\u092f\u0941\u0917\u093e\u0902\u0921\u093e"
     ],
+    "name:gsw_x_preferred":[
+        "Uganda"
+    ],
     "name:guj_x_preferred":[
         "\u0aaf\u0ac1\u0a97\u0abe\u0a82\u0aa1\u0abe"
+    ],
+    "name:guj_x_variant":[
+        "\u0aaf\u0ac1\u0a97\u0abe\u0aa8\u0acd\u0aa1\u0abe"
     ],
     "name:hak_x_preferred":[
         "Uganda"
@@ -325,6 +343,9 @@
     "name:kaz_x_preferred":[
         "\u0423\u0433\u0430\u043d\u0434\u0430"
     ],
+    "name:kbp_x_preferred":[
+        "Ugandaa"
+    ],
     "name:khm_x_preferred":[
         "\u17a2\u17ca\u17bc\u17a0\u17d2\u1780\u1784\u17cb\u178a\u17b6"
     ],
@@ -349,6 +370,9 @@
     "name:kur_x_variant":[
         "\u0626\u0648\u06af\u0627\u0646\u062f\u0627"
     ],
+    "name:lad_x_preferred":[
+        "Uganda"
+    ],
     "name:lao_x_preferred":[
         "\u0ead\u0eb9\u0e81\u0eb2\u0e99\u0e94\u0eb2"
     ],
@@ -360,6 +384,9 @@
     ],
     "name:lez_x_preferred":[
         "\u0423\u0433\u0430\u043d\u0434\u0430"
+    ],
+    "name:lfn_x_preferred":[
+        "Uganda"
     ],
     "name:lij_x_preferred":[
         "Uganda"
@@ -385,8 +412,14 @@
     "name:lug_x_preferred":[
         "Yuganda"
     ],
+    "name:lzh_x_preferred":[
+        "\u70cf\u5e72\u9054"
+    ],
     "name:mal_x_preferred":[
         "\u0d2f\u0d41\u0d17\u0d3e\u0d23\u0d4d\u0d1f"
+    ],
+    "name:mal_x_variant":[
+        "\u0d09\u0d17\u0d3e\u0d23\u0d4d\u0d1f"
     ],
     "name:mar_x_preferred":[
         "\u092f\u0941\u0917\u093e\u0902\u0921\u093e"
@@ -424,6 +457,12 @@
     "name:mzn_x_preferred":[
         "\u0627\u0648\u06af\u0627\u0646\u062f\u0627"
     ],
+    "name:nah_x_preferred":[
+        "Uganda"
+    ],
+    "name:nan_x_preferred":[
+        "Uganda"
+    ],
     "name:nav_x_preferred":[
         "Yog\u00e9nda"
     ],
@@ -457,6 +496,9 @@
     "name:oci_x_preferred":[
         "Oganda"
     ],
+    "name:olo_x_preferred":[
+        "Ugandu"
+    ],
     "name:ori_x_preferred":[
         "\u0b09\u0b17\u0b3e\u0b23\u0b4d\u0b21\u0b3e"
     ],
@@ -466,11 +508,17 @@
     "name:oss_x_preferred":[
         "\u0423\u0433\u0430\u043d\u0434\u00e6"
     ],
+    "name:pag_x_preferred":[
+        "Uganda"
+    ],
     "name:pam_x_preferred":[
         "Uganda"
     ],
     "name:pan_x_preferred":[
         "\u0a2f\u0a41\u0a17\u0a3e\u0a02\u0a21\u0a3e"
+    ],
+    "name:pan_x_variant":[
+        "\u0a2f\u0a42\u0a17\u0a3e\u0a02\u0a21\u0a3e"
     ],
     "name:pap_x_preferred":[
         "Uganda"
@@ -520,11 +568,20 @@
     "name:sah_x_preferred":[
         "\u0423\u0433\u0430\u043d\u0434\u0430"
     ],
+    "name:sat_x_preferred":[
+        "\u1c69\u1c5c\u1c5f\u1c71\u1c70\u1c5f"
+    ],
     "name:scn_x_preferred":[
         "Uganna"
     ],
     "name:sco_x_preferred":[
         "Uganda"
+    ],
+    "name:sgs_x_preferred":[
+        "Uganda"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d8b\u0d9c\u0db1\u0dca\u0da9\u0dcf\u0dc0"
     ],
     "name:slk_x_preferred":[
         "Uganda"
@@ -533,6 +590,9 @@
         "Uganda"
     ],
     "name:sme_x_preferred":[
+        "Uganda"
+    ],
+    "name:smo_x_preferred":[
         "Uganda"
     ],
     "name:sna_x_preferred":[
@@ -656,11 +716,17 @@
     "name:vol_x_preferred":[
         "Luganday\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Uganda"
+    ],
     "name:war_x_preferred":[
         "Uganda"
     ],
     "name:wol_x_preferred":[
         "Ugandaa"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4e4c\u5e72\u8fbe"
     ],
     "name:xal_x_preferred":[
         "\u0423\u0433\u0430\u043d\u0434\u0438\u043d \u041e\u0440\u043d"
@@ -677,6 +743,9 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Uganda"
     ],
+    "name:yue_x_preferred":[
+        "\u70cf\u5e72\u9054"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Uganda"
     ],
@@ -684,8 +753,7 @@
         "\u4e4c\u5e72\u8fbe"
     ],
     "name:zho_x_variant":[
-        "\u70cf\u5e72\u9054",
-        "\u4e4c\u5e72\u8fbe"
+        "\u70cf\u5e72\u9054"
     ],
     "name:zho_yue_x_preferred":[
         "\u70cf\u5e72\u9054"
@@ -845,7 +913,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1544059112,
+    "wof:lastmodified":1563307659,
     "wof:name":"Uganda",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

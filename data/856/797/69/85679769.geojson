@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b2\u09be\u09a8\u0997\u09be\u09b2\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Kalangala District"
+    ],
     "name:dan_x_preferred":[
         "Kalangala District"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Kalangala"
+    ],
+    "name:eng_x_variant":[
+        "Kalangala District"
     ],
     "name:fin_x_preferred":[
         "Kalangalan piirikunta"
@@ -87,6 +93,9 @@
     ],
     "name:lug_x_preferred":[
         "Kalangala"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d15\u0d32\u0d19\u0d32 \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:mar_x_preferred":[
         "\u0915\u093e\u0932\u0902\u0932\u093e \u091c\u093f\u0932\u094d\u0939\u093e"
@@ -281,7 +290,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777289,
+    "wof:lastmodified":1563307606,
     "wof:name":"Kalangala",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

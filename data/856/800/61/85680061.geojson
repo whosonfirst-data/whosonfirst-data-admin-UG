@@ -31,6 +31,9 @@
     "name:ben_x_preferred":[
         "\u09b0\u09c1\u0995\u09cb\u0999\u09cd\u0997\u09bf\u09b0\u09bf \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Rukungiri District"
+    ],
     "name:dan_x_preferred":[
         "Rukungiri District"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:eng_x_preferred":[
         "Rukungiri"
+    ],
+    "name:eng_x_variant":[
+        "Rukungiri District"
     ],
     "name:fin_x_preferred":[
         "Rukungirin kaupunginosa"
@@ -138,6 +144,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u06a9\u0648\u0646\u06af\u06cc\u0631\u06cc"
+    ],
+    "name:urd_x_variant":[
+        "\u0631\u0648\u06a9\u0648\u0646\u06af\u06cc\u0631\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Rukungiri"
@@ -272,7 +281,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1561777294,
+    "wof:lastmodified":1563307637,
     "wof:name":"Rukungiri",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
