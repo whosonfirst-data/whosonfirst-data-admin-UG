@@ -28,6 +28,21 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Achar"
+    ],
+    "name:deu_x_preferred":[
+        "Achar"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\ucc28\ub974"
+    ],
+    "name:spa_x_preferred":[
+        "Achar"
+    ],
+    "name:swe_x_preferred":[
+        "Achar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1276892711,
-    "wof:lastmodified":1537022930,
+    "wof:lastmodified":1564201155,
     "wof:name":"Achar",
     "wof:parent_id":1092068547,
     "wof:placetype":"locality",

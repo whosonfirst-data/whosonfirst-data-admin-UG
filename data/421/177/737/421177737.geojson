@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Moroto"
+    ],
+    "name:fra_x_preferred":[
+        "Moroto"
+    ],
     "qs:gn_country":"UG",
     "qs:gn_fcode":"ADMD",
     "qs:gn_id":229332,
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":421177737,
-    "wof:lastmodified":1500075130,
+    "wof:lastmodified":1564201875,
     "wof:name":"Moroto",
     "wof:parent_id":1092072625,
     "wof:placetype":"locality",

@@ -26,7 +26,19 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Naboa"
+    ],
     "name:eng_x_preferred":[
+        "Naboa"
+    ],
+    "name:swe_x_preferred":[
+        "Naboa"
+    ],
+    "name:vie_x_preferred":[
+        "Naboa"
+    ],
+    "name:war_x_preferred":[
         "Naboa"
     ],
     "src:geom":"geonames",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1293623179,
-    "wof:lastmodified":1537712174,
+    "wof:lastmodified":1564200963,
     "wof:name":"Naboa",
     "wof:parent_id":1092074289,
     "wof:placetype":"locality",

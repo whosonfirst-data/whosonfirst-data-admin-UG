@@ -28,6 +28,15 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bobi"
+    ],
+    "name:lug_x_preferred":[
+        "Bobi"
+    ],
+    "name:swe_x_preferred":[
+        "Bobi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -45,7 +54,7 @@
         }
     ],
     "wof:id":1209625807,
-    "wof:lastmodified":1536281358,
+    "wof:lastmodified":1564201324,
     "wof:name":"Bobi",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",

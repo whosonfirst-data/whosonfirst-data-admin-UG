@@ -28,6 +28,30 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0422\u0435\u043a\u0430\u0433\u0438-\u0448\u0443\u043a\u043e"
+    ],
+    "name:fra_x_preferred":[
+        "Tegaki"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0575\u0578\u0582\u056f\u0578"
+    ],
+    "name:lit_x_preferred":[
+        "Kakute"
+    ],
+    "name:pol_x_preferred":[
+        "Kakute"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u044e\u043a\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Tekagi-shuko"
+    ],
+    "name:swe_x_preferred":[
+        "Ashiko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1293423925,
-    "wof:lastmodified":1536877919,
+    "wof:lastmodified":1564201089,
     "wof:name":"Kakute",
     "wof:parent_id":1092071399,
     "wof:placetype":"locality",

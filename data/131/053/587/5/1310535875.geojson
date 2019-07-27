@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Buloba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1310535875,
-    "wof:lastmodified":1536872072,
+    "wof:lastmodified":1564201650,
     "wof:name":"Buloba",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lewa"
+    ],
+    "name:deu_x_preferred":[
+        "Lewa"
+    ],
+    "name:swe_x_preferred":[
+        "Lewa"
+    ],
     "name:und_x_variant":[
         "Liwa",
         "Lewa"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1242788325,
-    "wof:lastmodified":1537712079,
+    "wof:lastmodified":1564202003,
     "wof:name":"Lewa",
     "wof:parent_id":1092073299,
     "wof:placetype":"locality",

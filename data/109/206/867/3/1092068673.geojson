@@ -40,6 +40,9 @@
         "BBAALE",
         "Bbale"
     ],
+    "name:lug_x_preferred":[
+        "Bbaale"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1092068673,
-    "wof:lastmodified":1555092057,
+    "wof:lastmodified":1564201809,
     "wof:name":"Bbaale",
     "wof:parent_id":85679787,
     "wof:placetype":"county",

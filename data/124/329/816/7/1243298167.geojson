@@ -26,6 +26,24 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Owarai"
+    ],
+    "name:cym_x_preferred":[
+        "Owarai"
+    ],
+    "name:fra_x_preferred":[
+        "Owarai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u304a\u7b11\u3044\u756a\u7d44"
+    ],
+    "name:kor_x_preferred":[
+        "\uc624\uc640\ub77c\uc774"
+    ],
+    "name:spa_x_preferred":[
+        "Owarai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +67,7 @@
         }
     ],
     "wof:id":1243298167,
-    "wof:lastmodified":1537018455,
+    "wof:lastmodified":1564202051,
     "wof:name":"Owarai",
     "wof:parent_id":1092074055,
     "wof:placetype":"locality",

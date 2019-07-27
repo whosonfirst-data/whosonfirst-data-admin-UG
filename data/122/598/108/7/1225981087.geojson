@@ -28,6 +28,15 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Katunguru"
+    ],
+    "name:lug_x_preferred":[
+        "Katunguru"
+    ],
+    "name:swe_x_preferred":[
+        "Katunguru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1225981087,
-    "wof:lastmodified":1536817389,
+    "wof:lastmodified":1564202291,
     "wof:name":"Katunguru",
     "wof:parent_id":1092074343,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Atira"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0442\u0438\u0440\u0430"
+    ],
     "name:und_x_variant":[
         "Tira",
         "Atira"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1259518493,
-    "wof:lastmodified":1537712106,
+    "wof:lastmodified":1564202162,
     "wof:name":"Atira",
     "wof:parent_id":1092073939,
     "wof:placetype":"locality",

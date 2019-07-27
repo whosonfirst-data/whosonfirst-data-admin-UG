@@ -39,6 +39,9 @@
         "Kassanda",
         "KASSANDA"
     ],
+    "name:lug_x_preferred":[
+        "Kassanda"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092071357,
-    "wof:lastmodified":1555092061,
+    "wof:lastmodified":1564201793,
     "wof:name":"Kassanda",
     "wof:parent_id":85679889,
     "wof:placetype":"county",

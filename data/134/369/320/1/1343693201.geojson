@@ -28,8 +28,26 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Runga"
+    ],
+    "name:fra_x_preferred":[
+        "Runga"
+    ],
+    "name:nld_x_preferred":[
+        "Runga"
+    ],
+    "name:swe_x_preferred":[
+        "Runga"
+    ],
     "name:und_x_variant":[
         "Lunga",
+        "Runga"
+    ],
+    "name:vie_x_preferred":[
+        "Runga"
+    ],
+    "name:war_x_preferred":[
         "Runga"
     ],
     "src:geom":"geonames",
@@ -55,7 +73,7 @@
         }
     ],
     "wof:id":1343693201,
-    "wof:lastmodified":1537712056,
+    "wof:lastmodified":1564200878,
     "wof:name":"Runga",
     "wof:parent_id":1092068961,
     "wof:placetype":"locality",

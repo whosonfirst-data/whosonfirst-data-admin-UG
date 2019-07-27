@@ -28,6 +28,15 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Metu"
+    ],
+    "name:deu_x_preferred":[
+        "Metu"
+    ],
+    "name:swe_x_preferred":[
+        "Metu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1226061451,
-    "wof:lastmodified":1536702803,
+    "wof:lastmodified":1564202362,
     "wof:name":"Metu",
     "wof:parent_id":1092074321,
     "wof:placetype":"locality",

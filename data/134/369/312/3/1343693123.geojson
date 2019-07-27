@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Adolana Wadera"
+    ],
     "name:und_x_variant":[
         "Kidola",
         "Adola"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1343693123,
-    "wof:lastmodified":1537712111,
+    "wof:lastmodified":1564200871,
     "wof:name":"Adola",
     "wof:parent_id":1092071245,
     "wof:placetype":"locality",

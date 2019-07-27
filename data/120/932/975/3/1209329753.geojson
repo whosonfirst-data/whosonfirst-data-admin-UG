@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kiru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209329753,
-    "wof:lastmodified":1536290410,
+    "wof:lastmodified":1564201415,
     "wof:name":"Kiru",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",

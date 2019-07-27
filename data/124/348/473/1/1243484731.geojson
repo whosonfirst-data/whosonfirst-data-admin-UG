@@ -26,6 +26,39 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kigo"
+    ],
+    "name:epo_x_preferred":[
+        "Kigo"
+    ],
+    "name:fra_x_preferred":[
+        "Kigo"
+    ],
+    "name:hrv_x_preferred":[
+        "Kigo"
+    ],
+    "name:hun_x_preferred":[
+        "Kigo"
+    ],
+    "name:ltz_x_preferred":[
+        "Kigo"
+    ],
+    "name:nld_x_preferred":[
+        "Kigo"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a15\u0a40\u0a17\u0a4b"
+    ],
+    "name:pol_x_preferred":[
+        "Kigo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0433\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Kigo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +82,7 @@
         }
     ],
     "wof:id":1243484731,
-    "wof:lastmodified":1536750313,
+    "wof:lastmodified":1564201972,
     "wof:name":"Kigo",
     "wof:parent_id":1092072705,
     "wof:placetype":"locality",

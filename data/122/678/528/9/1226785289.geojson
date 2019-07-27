@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Mahindu"
     ],
+    "name:hin_x_preferred":[
+        "\u092e\u0939\u093f\u0928\u094d\u0926\u0941"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226785289,
-    "wof:lastmodified":1537712173,
+    "wof:lastmodified":1564202321,
     "wof:name":"Mahindu",
     "wof:parent_id":1092069677,
     "wof:placetype":"locality",

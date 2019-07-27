@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kirumba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276480931,
-    "wof:lastmodified":1537075061,
+    "wof:lastmodified":1564201245,
     "wof:name":"Kirumba",
     "wof:parent_id":1092072187,
     "wof:placetype":"locality",

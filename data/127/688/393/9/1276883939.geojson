@@ -28,6 +28,27 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ayumi"
+    ],
+    "name:fra_x_preferred":[
+        "Ayumi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u3042\u3086\u307f"
+    ],
+    "name:kor_x_preferred":[
+        "\uc544\uc720\ubbf8"
+    ],
+    "name:pol_x_preferred":[
+        "Ayumi"
+    ],
+    "name:por_x_preferred":[
+        "Ayumi"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e32\u0e22\u0e39\u0e21\u0e34"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1276883939,
-    "wof:lastmodified":1537034099,
+    "wof:lastmodified":1564201137,
     "wof:name":"Ayumi",
     "wof:parent_id":1092072551,
     "wof:placetype":"locality",

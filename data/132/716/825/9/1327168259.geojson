@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Rubindi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1327168259,
-    "wof:lastmodified":1537575037,
+    "wof:lastmodified":1564200754,
     "wof:name":"Rubindi",
     "wof:parent_id":1092071287,
     "wof:placetype":"locality",

@@ -26,7 +26,13 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sengo"
+    ],
     "name:eng_x_preferred":[
+        "Sengo"
+    ],
+    "name:swe_x_preferred":[
         "Sengo"
     ],
     "src:geom":"geonames",
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1209349119,
-    "wof:lastmodified":1537712173,
+    "wof:lastmodified":1564201449,
     "wof:name":"Sengo",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",

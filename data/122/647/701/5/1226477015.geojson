@@ -26,6 +26,108 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Buqanda"
+    ],
+    "name:bar_x_preferred":[
+        "Buganda"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0443\u0433\u0430\u043d\u0434\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Buganda"
+    ],
+    "name:ces_x_preferred":[
+        "Buganda"
+    ],
+    "name:dan_x_preferred":[
+        "Buganda"
+    ],
+    "name:deu_x_preferred":[
+        "Buganda"
+    ],
+    "name:est_x_preferred":[
+        "Buganda"
+    ],
+    "name:eus_x_preferred":[
+        "Buganda"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06af\u0627\u0646\u062f\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Buganda"
+    ],
+    "name:fra_x_preferred":[
+        "Buganda"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d2\u05e0\u05d3\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0942\u0917\u0948\u0928\u094d\u0921\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Buganda"
+    ],
+    "name:ind_x_preferred":[
+        "Buganda"
+    ],
+    "name:ita_x_preferred":[
+        "Buganda"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d6\u30ac\u30f3\u30c0"
+    ],
+    "name:lit_x_preferred":[
+        "Bugandos karalyst\u0117"
+    ],
+    "name:lug_x_preferred":[
+        "Buganda"
+    ],
+    "name:nld_x_preferred":[
+        "Boeganda"
+    ],
+    "name:nor_x_preferred":[
+        "Buganda"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0648\u06af\u0627\u0646\u0688\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Buganda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0433\u0430\u043d\u0434\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Buganda"
+    ],
+    "name:spa_x_preferred":[
+        "Buganda"
+    ],
+    "name:swa_x_preferred":[
+        "Buganda"
+    ],
+    "name:swe_x_preferred":[
+        "Buganda"
+    ],
+    "name:tur_x_preferred":[
+        "Buganda"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0433\u0430\u043d\u0434\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u06af\u0646\u0688\u0627"
+    ],
+    "name:uzb_x_preferred":[
+        "Buganda"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u5e72\u8fbe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +151,7 @@
         }
     ],
     "wof:id":1226477015,
-    "wof:lastmodified":1537093850,
+    "wof:lastmodified":1564202298,
     "wof:name":"Buganda",
     "wof:parent_id":1092070253,
     "wof:placetype":"locality",

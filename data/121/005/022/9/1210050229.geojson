@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Gulama"
     ],
+    "name:ind_x_preferred":[
+        "Gulama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1210050229,
-    "wof:lastmodified":1537712135,
+    "wof:lastmodified":1564201495,
     "wof:name":"Gulama",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",

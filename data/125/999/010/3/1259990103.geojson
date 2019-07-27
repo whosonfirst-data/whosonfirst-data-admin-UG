@@ -28,6 +28,27 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "L\u00f2bul"
+    ],
+    "name:ceb_x_preferred":[
+        "Lobe"
+    ],
+    "name:deu_x_preferred":[
+        "Lobe"
+    ],
+    "name:fra_x_preferred":[
+        "Lobe"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d1\u05d4"
+    ],
+    "name:lav_x_preferred":[
+        "Lobe"
+    ],
+    "name:swe_x_preferred":[
+        "Lob"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1259990103,
-    "wof:lastmodified":1536623543,
+    "wof:lastmodified":1564202096,
     "wof:name":"Lobe",
     "wof:parent_id":1092068435,
     "wof:placetype":"locality",

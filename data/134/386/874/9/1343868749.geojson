@@ -28,6 +28,15 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Budi"
+    ],
+    "name:ind_x_preferred":[
+        "Budi"
+    ],
+    "name:swe_x_preferred":[
+        "Budi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1343868749,
-    "wof:lastmodified":1536654547,
+    "wof:lastmodified":1564200931,
     "wof:name":"Budi",
     "wof:parent_id":1092073299,
     "wof:placetype":"locality",

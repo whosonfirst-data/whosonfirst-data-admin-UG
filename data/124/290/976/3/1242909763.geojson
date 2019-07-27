@@ -26,7 +26,19 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Katumba"
+    ],
     "name:eng_x_preferred":[
+        "Katumba"
+    ],
+    "name:fra_x_preferred":[
+        "Katumba"
+    ],
+    "name:pol_x_preferred":[
+        "Katumba"
+    ],
+    "name:swa_x_preferred":[
         "Katumba"
     ],
     "src:geom":"geonames",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1242909763,
-    "wof:lastmodified":1537712153,
+    "wof:lastmodified":1564202025,
     "wof:name":"Katumba",
     "wof:parent_id":1092069635,
     "wof:placetype":"locality",

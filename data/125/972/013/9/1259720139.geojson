@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nkaya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259720139,
-    "wof:lastmodified":1537013473,
+    "wof:lastmodified":1564202180,
     "wof:name":"Nkaya",
     "wof:parent_id":1092070099,
     "wof:placetype":"locality",

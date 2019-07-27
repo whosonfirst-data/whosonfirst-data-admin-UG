@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Langi"
+    ],
+    "name:swe_x_preferred":[
+        "Langi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276355051,
-    "wof:lastmodified":1536749312,
+    "wof:lastmodified":1564201194,
     "wof:name":"Langi",
     "wof:parent_id":1092068435,
     "wof:placetype":"locality",

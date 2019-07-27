@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Olwiyo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259393135,
-    "wof:lastmodified":1537575050,
+    "wof:lastmodified":1564202092,
     "wof:name":"Olwiyo",
     "wof:parent_id":1092073225,
     "wof:placetype":"locality",

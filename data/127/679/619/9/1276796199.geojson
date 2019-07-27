@@ -28,6 +28,24 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lale"
+    ],
+    "name:deu_x_preferred":[
+        "Lale"
+    ],
+    "name:fra_x_preferred":[
+        "Lale"
+    ],
+    "name:glg_x_preferred":[
+        "Lale"
+    ],
+    "name:swe_x_preferred":[
+        "Lale"
+    ],
+    "name:tur_x_preferred":[
+        "Lale"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1276796199,
-    "wof:lastmodified":1536655842,
+    "wof:lastmodified":1564201235,
     "wof:name":"Lale",
     "wof:parent_id":1092074245,
     "wof:placetype":"locality",

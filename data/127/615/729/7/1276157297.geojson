@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kibamba"
+    ],
+    "name:swa_x_preferred":[
+        "Kibamba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276157297,
-    "wof:lastmodified":1537013972,
+    "wof:lastmodified":1564201232,
     "wof:name":"Kibamba",
     "wof:parent_id":1092071543,
     "wof:placetype":"locality",

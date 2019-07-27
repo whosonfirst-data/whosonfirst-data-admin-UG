@@ -28,6 +28,21 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Miti"
+    ],
+    "name:deu_x_preferred":[
+        "Miti"
+    ],
+    "name:fra_x_preferred":[
+        "Miti"
+    ],
+    "name:ita_x_preferred":[
+        "Miti"
+    ],
+    "name:swe_x_preferred":[
+        "Miti"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1276366307,
-    "wof:lastmodified":1536734600,
+    "wof:lastmodified":1564201287,
     "wof:name":"Miti",
     "wof:parent_id":1092072911,
     "wof:placetype":"locality",

@@ -13,6 +13,24 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sanga"
+    ],
+    "name:deu_x_preferred":[
+        "Sanga"
+    ],
+    "name:fra_x_preferred":[
+        "Sanga"
+    ],
+    "name:ita_x_preferred":[
+        "Sanga"
+    ],
+    "name:por_x_preferred":[
+        "Sanga"
+    ],
+    "name:swe_x_preferred":[
+        "Sanga"
+    ],
     "name:unk_x_variant":[
         "Sunga"
     ],
@@ -61,7 +79,7 @@
         }
     ],
     "wof:id":421188423,
-    "wof:lastmodified":1527716278,
+    "wof:lastmodified":1564201874,
     "wof:name":"Sanga",
     "wof:parent_id":1092071287,
     "wof:placetype":"locality",

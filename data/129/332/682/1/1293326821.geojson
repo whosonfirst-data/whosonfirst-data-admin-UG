@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Magada"
+    ],
+    "name:swe_x_preferred":[
+        "Magada"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293326821,
-    "wof:lastmodified":1537017972,
+    "wof:lastmodified":1564201065,
     "wof:name":"Magada",
     "wof:parent_id":1092069607,
     "wof:placetype":"locality",

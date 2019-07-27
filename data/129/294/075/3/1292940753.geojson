@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kisubi"
+    ],
+    "name:lug_x_preferred":[
+        "Kisubi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1292940753,
-    "wof:lastmodified":1537075184,
+    "wof:lastmodified":1564200984,
     "wof:name":"Kisubi",
     "wof:parent_id":1092072985,
     "wof:placetype":"locality",

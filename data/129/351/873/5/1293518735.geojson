@@ -28,6 +28,27 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "Kiroro"
+    ],
+    "name:fin_x_preferred":[
+        "Kiroro"
+    ],
+    "name:fra_x_preferred":[
+        "Kiroro"
+    ],
+    "name:ind_x_preferred":[
+        "Kiroro"
+    ],
+    "name:jpn_x_preferred":[
+        "Kiroro"
+    ],
+    "name:kor_x_preferred":[
+        "Kiroro"
+    ],
+    "name:zho_x_preferred":[
+        "Kiroro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1293518735,
-    "wof:lastmodified":1536741859,
+    "wof:lastmodified":1564201072,
     "wof:name":"Kiroro",
     "wof:parent_id":1092070253,
     "wof:placetype":"locality",

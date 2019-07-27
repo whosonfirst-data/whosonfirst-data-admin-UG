@@ -26,7 +26,13 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sime"
+    ],
     "name:eng_x_preferred":[
+        "Sime"
+    ],
+    "name:fra_x_preferred":[
         "Sime"
     ],
     "src:geom":"geonames",
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1327165675,
-    "wof:lastmodified":1537712164,
+    "wof:lastmodified":1564200746,
     "wof:name":"Sime",
     "wof:parent_id":1092068753,
     "wof:placetype":"locality",

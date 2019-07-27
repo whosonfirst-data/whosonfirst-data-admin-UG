@@ -26,6 +26,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lin_x_preferred":[
+        "Makoma"
+    ],
+    "name:swa_x_preferred":[
+        "Makoma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1327367767,
-    "wof:lastmodified":1536774847,
+    "wof:lastmodified":1564200596,
     "wof:name":"Makoma",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

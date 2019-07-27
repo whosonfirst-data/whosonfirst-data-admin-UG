@@ -13,6 +13,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Sipi"
+    ],
+    "name:swe_x_preferred":[
+        "Sipi"
+    ],
     "qs:gn_country":"UG",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":226272,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":421186357,
-    "wof:lastmodified":1527716315,
+    "wof:lastmodified":1564201875,
     "wof:name":"Sipi",
     "wof:parent_id":1092074137,
     "wof:placetype":"locality",

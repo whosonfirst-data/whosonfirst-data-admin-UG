@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dalamba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1226682637,
-    "wof:lastmodified":1536806107,
+    "wof:lastmodified":1564202244,
     "wof:name":"Dalamba",
     "wof:parent_id":1092071357,
     "wof:placetype":"locality",

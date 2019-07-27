@@ -28,8 +28,29 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lugazi"
+    ],
     "name:eng_x_preferred":[
         "Lugazi"
+    ],
+    "name:fra_x_preferred":[
+        "Lugazi"
+    ],
+    "name:ita_x_preferred":[
+        "Lugazi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30ac\u30b8"
+    ],
+    "name:lit_x_preferred":[
+        "Lugazis"
+    ],
+    "name:pol_x_preferred":[
+        "Lugazi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u06af\u0627\u0632\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +75,7 @@
         }
     ],
     "wof:id":1326860589,
-    "wof:lastmodified":1537712134,
+    "wof:lastmodified":1564200616,
     "wof:name":"Lugazi",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",

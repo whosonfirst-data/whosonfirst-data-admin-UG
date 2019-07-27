@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u06cc\u0646\u06af\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1343798603,
-    "wof:lastmodified":1537575041,
+    "wof:lastmodified":1564200816,
     "wof:name":"Lwengo",
     "wof:parent_id":1092069393,
     "wof:placetype":"locality",

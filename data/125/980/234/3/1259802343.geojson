@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nyapea"
+    ],
     "name:und_x_variant":[
         "Niapea",
         "Nyapea"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1259802343,
-    "wof:lastmodified":1537712065,
+    "wof:lastmodified":1564202166,
     "wof:name":"Nyapea",
     "wof:parent_id":1092073339,
     "wof:placetype":"locality",

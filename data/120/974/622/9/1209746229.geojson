@@ -28,7 +28,13 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kitara"
+    ],
     "name:eng_x_preferred":[
+        "Kitara"
+    ],
+    "name:slv_x_preferred":[
         "Kitara"
     ],
     "src:geom":"geonames",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1209746229,
-    "wof:lastmodified":1537712138,
+    "wof:lastmodified":1564201459,
     "wof:name":"Kitara",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",

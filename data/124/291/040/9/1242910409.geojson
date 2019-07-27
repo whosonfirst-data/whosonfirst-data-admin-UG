@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nno_x_preferred":[
+        "Kaiso"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1242910409,
-    "wof:lastmodified":1537078110,
+    "wof:lastmodified":1564202017,
     "wof:name":"Kaiso",
     "wof:parent_id":1092068961,
     "wof:placetype":"locality",

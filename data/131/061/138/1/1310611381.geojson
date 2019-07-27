@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Aringa"
+    ],
     "name:und_x_variant":[
         "Arenga",
         "Aringa"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1310611381,
-    "wof:lastmodified":1537712107,
+    "wof:lastmodified":1564201708,
     "wof:name":"Aringa",
     "wof:parent_id":1092068435,
     "wof:placetype":"locality",

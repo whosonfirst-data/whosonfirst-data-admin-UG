@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nazigo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -37,7 +40,7 @@
         "gn:id":227947
     },
     "wof:country":"UG",
-    "wof:geomhash":"fab0b1149ba546793d92ffe42dead0c8",
+    "wof:geomhash":"d2cb59ad28f19b4ac5ba8c52847ff305",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209345583,
-    "wof:lastmodified":1536289923,
+    "wof:lastmodified":1564201442,
     "wof:name":"Nazigo",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -56,9 +59,9 @@
 },
   "bbox": [
     32.98833,
-    0.6230600000000001,
+    0.62306,
     32.98833,
-    0.6230600000000001
+    0.62306
 ],
   "geometry": {"coordinates":[32.98833,0.62306],"type":"Point"}
 }

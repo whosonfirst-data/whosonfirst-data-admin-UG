@@ -28,6 +28,36 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Sokolo"
+    ],
+    "name:ceb_x_preferred":[
+        "Sokolo"
+    ],
+    "name:fin_x_preferred":[
+        "Sokolo"
+    ],
+    "name:fra_x_preferred":[
+        "Sokolo"
+    ],
+    "name:ita_x_preferred":[
+        "Sokolo"
+    ],
+    "name:nld_x_preferred":[
+        "Sokolo"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u043a\u043e\u043b\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Sokolo"
+    ],
+    "name:swe_x_preferred":[
+        "Sokolo"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d22\u79d1\u6d1b"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +81,7 @@
         }
     ],
     "wof:id":1193173273,
-    "wof:lastmodified":1536378031,
+    "wof:lastmodified":1564201543,
     "wof:name":"Sokolo",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

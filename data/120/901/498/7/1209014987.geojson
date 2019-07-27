@@ -28,6 +28,21 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Iola"
+    ],
+    "name:eus_x_preferred":[
+        "Iola"
+    ],
+    "name:fra_x_preferred":[
+        "Yole"
+    ],
+    "name:ita_x_preferred":[
+        "Iole"
+    ],
+    "name:spa_x_preferred":[
+        "Yola"
+    ],
     "name:und_x_variant":[
         "Yaule",
         "Yole"
@@ -49,7 +64,7 @@
         }
     ],
     "wof:id":1209014987,
-    "wof:lastmodified":1537712051,
+    "wof:lastmodified":1564201325,
     "wof:name":"Yole",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",

@@ -26,8 +26,44 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kahuna"
+    ],
     "name:eng_x_preferred":[
         "Kahuna"
+    ],
+    "name:epo_x_preferred":[
+        "Kahuna"
+    ],
+    "name:eus_x_preferred":[
+        "Kahuna"
+    ],
+    "name:hrv_x_preferred":[
+        "Kahuna"
+    ],
+    "name:ita_x_preferred":[
+        "Kahuna"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ab\u30d5\u30ca"
+    ],
+    "name:lat_x_preferred":[
+        "Kahuna"
+    ],
+    "name:pol_x_preferred":[
+        "Kahuna"
+    ],
+    "name:por_x_preferred":[
+        "Kahuna"
+    ],
+    "name:spa_x_preferred":[
+        "Kahuna"
+    ],
+    "name:tur_x_preferred":[
+        "Kahuna"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u80e1\u7d0d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +88,7 @@
         }
     ],
     "wof:id":1293624057,
-    "wof:lastmodified":1537712140,
+    "wof:lastmodified":1564200961,
     "wof:name":"Kahuna",
     "wof:parent_id":1092069721,
     "wof:placetype":"locality",

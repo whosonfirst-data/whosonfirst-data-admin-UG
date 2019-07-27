@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mparo"
+    ],
+    "name:swe_x_preferred":[
+        "Mparo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293137349,
-    "wof:lastmodified":1536795030,
+    "wof:lastmodified":1564201028,
     "wof:name":"Mparo",
     "wof:parent_id":1092072113,
     "wof:placetype":"locality",

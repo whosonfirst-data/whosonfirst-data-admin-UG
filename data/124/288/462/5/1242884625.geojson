@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Pakuba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1242884625,
-    "wof:lastmodified":1537575037,
+    "wof:lastmodified":1564201928,
     "wof:name":"Pakuba",
     "wof:parent_id":1092073225,
     "wof:placetype":"locality",

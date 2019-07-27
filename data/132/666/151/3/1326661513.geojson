@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ntenjeru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326661513,
-    "wof:lastmodified":1537575038,
+    "wof:lastmodified":1564200642,
     "wof:name":"Ntenjeru",
     "wof:parent_id":1092073141,
     "wof:placetype":"locality",

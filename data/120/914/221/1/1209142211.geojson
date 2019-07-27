@@ -28,6 +28,96 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0631\u064a\u0646\u063a\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0631\u06cc\u0646\u0642\u0627"
+    ],
+    "name:bul_x_preferred":[
+        "\u0418\u0440\u0438\u043d\u0433\u0430"
+    ],
+    "name:ceb_x_preferred":[
+        "Iringa"
+    ],
+    "name:dan_x_preferred":[
+        "Iringa"
+    ],
+    "name:deu_x_preferred":[
+        "Iringa"
+    ],
+    "name:ell_x_preferred":[
+        "\u0399\u03c1\u03af\u03bd\u03b3\u03ba\u03b1"
+    ],
+    "name:epo_x_preferred":[
+        "Iringa"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u06cc\u0631\u06cc\u0646\u06af\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Iringa"
+    ],
+    "name:fra_x_preferred":[
+        "Iringa"
+    ],
+    "name:hrv_x_preferred":[
+        "Iringa"
+    ],
+    "name:hun_x_preferred":[
+        "Iringa"
+    ],
+    "name:ita_x_preferred":[
+        "Iringa"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a4\u30ea\u30f3\u30ac"
+    ],
+    "name:kor_x_preferred":[
+        "\uc774\ub9c1\uac00"
+    ],
+    "name:lit_x_preferred":[
+        "Iringa"
+    ],
+    "name:nld_x_preferred":[
+        "Iringa"
+    ],
+    "name:nor_x_preferred":[
+        "Iringa"
+    ],
+    "name:pol_x_preferred":[
+        "Iringa"
+    ],
+    "name:ron_x_preferred":[
+        "Iringa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0418\u0440\u0438\u043d\u0433\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Iringa"
+    ],
+    "name:swa_x_preferred":[
+        "Iringa"
+    ],
+    "name:swe_x_preferred":[
+        "Iringa"
+    ],
+    "name:tur_x_preferred":[
+        "Iringa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0406\u0440\u0438\u043d\u0433\u0430"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4f0a\u6797\u52a0"
+    ],
+    "name:yor_x_preferred":[
+        "Iringa"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f0a\u6797\u52a0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -45,7 +135,7 @@
         }
     ],
     "wof:id":1209142211,
-    "wof:lastmodified":1536296467,
+    "wof:lastmodified":1564201393,
     "wof:name":"Iringa",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",

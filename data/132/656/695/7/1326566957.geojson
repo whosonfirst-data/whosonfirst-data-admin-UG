@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Bugamba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326566957,
-    "wof:lastmodified":1537575047,
+    "wof:lastmodified":1564200631,
     "wof:name":"Bugamba",
     "wof:parent_id":1092073881,
     "wof:placetype":"locality",

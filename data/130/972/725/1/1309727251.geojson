@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Lwala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1309727251,
-    "wof:lastmodified":1537042492,
+    "wof:lastmodified":1564201873,
     "wof:name":"Lwala",
     "wof:parent_id":1092070857,
     "wof:placetype":"locality",

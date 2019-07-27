@@ -31,6 +31,12 @@
     "name:eng_x_preferred":[
         "Makoma"
     ],
+    "name:lin_x_preferred":[
+        "Makoma"
+    ],
+    "name:swa_x_preferred":[
+        "Makoma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1260111741,
-    "wof:lastmodified":1537712119,
+    "wof:lastmodified":1564201576,
     "wof:name":"Makoma",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

@@ -28,9 +28,120 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0637\u064a\u0648\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "And\u0131z"
+    ],
+    "name:bel_x_preferred":[
+        "\u0414\u0437\u0456\u0432\u0430\u0441\u0456\u043b"
+    ],
+    "name:cat_x_preferred":[
+        "\u00cdnula"
+    ],
+    "name:ceb_x_preferred":[
+        "Inula"
+    ],
+    "name:chv_x_preferred":[
+        "\u0410\u043d\u0103\u0441"
+    ],
+    "name:dan_x_preferred":[
+        "Alant"
+    ],
+    "name:deu_x_preferred":[
+        "Alante"
+    ],
+    "name:est_x_preferred":[
+        "Vaak"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0635\u0641\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Hirvenjuuret"
+    ],
+    "name:fra_x_preferred":[
+        "Inula"
+    ],
+    "name:hrv_x_preferred":[
+        "Oman"
+    ],
+    "name:hun_x_preferred":[
+        "Peremizs"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u0572\u0574\u0578\u0582\u056d"
+    ],
+    "name:ita_x_preferred":[
+        "Inula"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30b0\u30eb\u30de\u5c5e"
+    ],
+    "name:kat_x_preferred":[
+        "\u10db\u10d6\u10d8\u10e3\u10e0\u10d0"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0410\u043d\u0434\u044b\u0437"
+    ],
+    "name:kir_x_preferred":[
+        "\u041a\u0430\u0440\u044b\u043d\u0434\u044b\u0437"
+    ],
+    "name:lez_x_preferred":[
+        "\u0410\u043d\u0434\u0443\u0437"
+    ],
+    "name:lit_x_preferred":[
+        "Debesylas"
+    ],
+    "name:nld_x_preferred":[
+        "Alant"
+    ],
+    "name:nor_x_preferred":[
+        "Alantslekta"
+    ],
+    "name:oss_x_preferred":[
+        "\u0422\u043e\u0431\u043b\u0430\u0445\u044a"
+    ],
+    "name:pol_x_preferred":[
+        "Oman"
+    ],
+    "name:por_x_preferred":[
+        "Inula"
+    ],
+    "name:ron_x_preferred":[
+        "Inula"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0435\u0432\u044f\u0441\u0438\u043b"
+    ],
+    "name:spa_x_preferred":[
+        "Inula"
+    ],
+    "name:swe_x_preferred":[
+        "Krisslesl\u00e4ktet"
+    ],
+    "name:tat_x_preferred":[
+        "\u0410\u043d\u0434\u044b\u0437"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043c\u0430\u043d"
+    ],
     "name:und_x_variant":[
         "Nula",
         "Inula"
+    ],
+    "name:uzb_x_preferred":[
+        "Andiz"
+    ],
+    "name:vie_x_preferred":[
+        "Inula"
+    ],
+    "name:war_x_preferred":[
+        "Inula"
+    ],
+    "name:zho_x_preferred":[
+        "\u65cb\u8986\u82b1\u5c5e"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +166,7 @@
         }
     ],
     "wof:id":1243206667,
-    "wof:lastmodified":1537712093,
+    "wof:lastmodified":1564202038,
     "wof:name":"Inula",
     "wof:parent_id":1092068855,
     "wof:placetype":"locality",

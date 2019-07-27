@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Palasi"
     ],
+    "name:hif_x_preferred":[
+        "Palasi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310535579,
-    "wof:lastmodified":1537712156,
+    "wof:lastmodified":1564201644,
     "wof:name":"Palasi",
     "wof:parent_id":1092074289,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Gayaza"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -37,7 +40,7 @@
         "gn:id":233428
     },
     "wof:country":"UG",
-    "wof:geomhash":"1fdaa5720a702cacd0b9643e32e3af3a",
+    "wof:geomhash":"db3222e20458598411216b15087e4dc0",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209140975,
-    "wof:lastmodified":1536296506,
+    "wof:lastmodified":1564201395,
     "wof:name":"Gayaza",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -55,9 +58,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.116670000000006,
+    31.11667000000001,
     0.8,
-    31.116670000000006,
+    31.11667000000001,
     0.8
 ],
   "geometry": {"coordinates":[31.11667000000001,0.8],"type":"Point"}

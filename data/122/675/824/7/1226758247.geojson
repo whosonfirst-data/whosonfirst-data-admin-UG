@@ -28,8 +28,35 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mocha"
+    ],
+    "name:deu_x_preferred":[
+        "Mocha"
+    ],
+    "name:fra_x_preferred":[
+        "Mocha"
+    ],
+    "name:ita_x_preferred":[
+        "Mocha"
+    ],
+    "name:nld_x_preferred":[
+        "Mocha"
+    ],
+    "name:que_x_preferred":[
+        "Mocha"
+    ],
+    "name:spa_x_preferred":[
+        "Mocha"
+    ],
+    "name:swe_x_preferred":[
+        "Mocha"
+    ],
     "name:und_x_variant":[
         "Moicha",
+        "Mocha"
+    ],
+    "name:vie_x_preferred":[
         "Mocha"
     ],
     "src:geom":"geonames",
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1226758247,
-    "wof:lastmodified":1537712073,
+    "wof:lastmodified":1564202185,
     "wof:name":"Mocha",
     "wof:parent_id":1092068435,
     "wof:placetype":"locality",

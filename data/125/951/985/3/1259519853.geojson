@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Majanji"
+    ],
     "name:und_x_variant":[
         "Mjanji",
         "Majanji"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1259519853,
-    "wof:lastmodified":1537712075,
+    "wof:lastmodified":1564202158,
     "wof:name":"Majanji",
     "wof:parent_id":1092073897,
     "wof:placetype":"locality",

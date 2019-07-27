@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kalamai"
+    ],
     "name:und_x_variant":[
         "Karamayi",
         "Kalamai"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226479431,
-    "wof:lastmodified":1537712090,
+    "wof:lastmodified":1564202317,
     "wof:name":"Kalamai",
     "wof:parent_id":1092071333,
     "wof:placetype":"locality",

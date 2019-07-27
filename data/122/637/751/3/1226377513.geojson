@@ -29,6 +29,15 @@
     "name:eng_x_preferred":[
         "Mabanga"
     ],
+    "name:fra_x_preferred":[
+        "Mabanga"
+    ],
+    "name:msa_x_preferred":[
+        "Mabanga"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0628\u0627\u0646\u06af\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1226377513,
-    "wof:lastmodified":1537712172,
+    "wof:lastmodified":1564202349,
     "wof:name":"Mabanga",
     "wof:parent_id":1092069563,
     "wof:placetype":"locality",

@@ -28,6 +28,21 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Takwa"
+    ],
+    "name:deu_x_preferred":[
+        "Takwa"
+    ],
+    "name:fra_x_preferred":[
+        "Takwa"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043a\u0432\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Takwa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1225962913,
-    "wof:lastmodified":1536843476,
+    "wof:lastmodified":1564202289,
     "wof:name":"Takwa",
     "wof:parent_id":1092074425,
     "wof:placetype":"locality",

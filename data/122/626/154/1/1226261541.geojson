@@ -28,6 +28,15 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u064a\u0644\u0627"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30a4\u30e9"
+    ],
+    "name:spa_x_preferred":[
+        "Paila"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1226261541,
-    "wof:lastmodified":1536911214,
+    "wof:lastmodified":1564202199,
     "wof:name":"Paila",
     "wof:parent_id":1092070857,
     "wof:placetype":"locality",

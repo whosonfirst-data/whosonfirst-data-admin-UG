@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Kasawo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1293725409,
-    "wof:lastmodified":1537575043,
+    "wof:lastmodified":1564201118,
     "wof:name":"Kasawo",
     "wof:parent_id":1092073015,
     "wof:placetype":"locality",

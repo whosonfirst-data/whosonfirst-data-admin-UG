@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Awelo"
     ],
+    "name:spa_x_preferred":[
+        "Awelo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1210031429,
-    "wof:lastmodified":1537712106,
+    "wof:lastmodified":1564201486,
     "wof:name":"Awelo",
     "wof:parent_id":1092071719,
     "wof:placetype":"locality",

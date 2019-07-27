@@ -28,6 +28,54 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eus_x_preferred":[
+        "Kira"
+    ],
+    "name:hrv_x_preferred":[
+        "Kira"
+    ],
+    "name:ita_x_preferred":[
+        "Kira"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e9"
+    ],
+    "name:kal_x_preferred":[
+        "Kira"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10e0\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0a4\ub77c"
+    ],
+    "name:lug_x_preferred":[
+        "Kira"
+    ],
+    "name:mri_x_preferred":[
+        "Kira"
+    ],
+    "name:pol_x_preferred":[
+        "Kira"
+    ],
+    "name:srp_x_preferred":[
+        "\u041a\u0438\u0440\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Kira"
+    ],
+    "name:swe_x_preferred":[
+        "Kira"
+    ],
+    "name:tur_x_preferred":[
+        "Kira"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0631\u0627 \u0679\u0627\u0624\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Kira"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +100,7 @@
         }
     ],
     "wof:id":1226472877,
-    "wof:lastmodified":1537575042,
+    "wof:lastmodified":1564202301,
     "wof:name":"Kira",
     "wof:parent_id":1092072041,
     "wof:placetype":"locality",

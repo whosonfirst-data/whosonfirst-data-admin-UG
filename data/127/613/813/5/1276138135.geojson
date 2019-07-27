@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ariya"
+    ],
+    "name:swe_x_preferred":[
+        "Ariya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276138135,
-    "wof:lastmodified":1537038534,
+    "wof:lastmodified":1564201197,
     "wof:name":"Ariya",
     "wof:parent_id":1092073225,
     "wof:placetype":"locality",

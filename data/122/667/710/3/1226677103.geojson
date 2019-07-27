@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Manya"
+    ],
+    "name:swe_x_preferred":[
+        "Manya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226677103,
-    "wof:lastmodified":1536813761,
+    "wof:lastmodified":1564202229,
     "wof:name":"Manya",
     "wof:parent_id":1092071897,
     "wof:placetype":"locality",

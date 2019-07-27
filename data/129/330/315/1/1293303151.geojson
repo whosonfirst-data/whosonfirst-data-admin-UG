@@ -28,6 +28,21 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Apala"
+    ],
+    "name:deu_x_preferred":[
+        "Apala"
+    ],
+    "name:por_x_preferred":[
+        "Apala"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043f\u0430\u043b\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Apala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1293303151,
-    "wof:lastmodified":1537050540,
+    "wof:lastmodified":1564200964,
     "wof:name":"Apala",
     "wof:parent_id":1092071837,
     "wof:placetype":"locality",

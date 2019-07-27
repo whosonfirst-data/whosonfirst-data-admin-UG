@@ -28,6 +28,39 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Ngoyo"
+    ],
+    "name:cat_x_preferred":[
+        "Ngoyo"
+    ],
+    "name:deu_x_preferred":[
+        "Ngoyo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b3\u03ba\u03cc\u03b3\u03b9\u03bf"
+    ],
+    "name:fra_x_preferred":[
+        "Ngoyo"
+    ],
+    "name:ind_x_preferred":[
+        "Ngoyo"
+    ],
+    "name:lit_x_preferred":[
+        "Ngojo karalyst\u0117"
+    ],
+    "name:pol_x_preferred":[
+        "Ngoyo"
+    ],
+    "name:por_x_preferred":[
+        "Ngoyo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u041d\u0433\u043e\u0439\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Ngoyo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +84,7 @@
         }
     ],
     "wof:id":1242611669,
-    "wof:lastmodified":1537013918,
+    "wof:lastmodified":1564201944,
     "wof:name":"Ngoyo",
     "wof:parent_id":1092069435,
     "wof:placetype":"locality",

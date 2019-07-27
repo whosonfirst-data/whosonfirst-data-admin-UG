@@ -28,6 +28,15 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Azzi"
+    ],
+    "name:fra_x_preferred":[
+        "Azzi"
+    ],
+    "name:ita_x_preferred":[
+        "Azzi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1276247455,
-    "wof:lastmodified":1536893447,
+    "wof:lastmodified":1564201215,
     "wof:name":"Azzi",
     "wof:parent_id":1092073489,
     "wof:placetype":"locality",

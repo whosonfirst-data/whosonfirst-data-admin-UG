@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Ishaka"
+    ],
+    "name:lug_x_preferred":[
+        "Ishaka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1360118467,
-    "wof:lastmodified":1536897446,
+    "wof:lastmodified":1564201764,
     "wof:name":"Ishaka",
     "wof:parent_id":1092070703,
     "wof:placetype":"locality",

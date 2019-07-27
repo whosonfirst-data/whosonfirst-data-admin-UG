@@ -28,7 +28,25 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jinja"
+    ],
     "name:eng_x_preferred":[
+        "Jinja"
+    ],
+    "name:fra_x_preferred":[
+        "Jinja"
+    ],
+    "name:ita_x_preferred":[
+        "Jinja"
+    ],
+    "name:ltz_x_preferred":[
+        "Jinja"
+    ],
+    "name:nld_x_preferred":[
+        "Jinja"
+    ],
+    "name:por_x_preferred":[
         "Jinja"
     ],
     "src:geom":"geonames",
@@ -54,7 +72,7 @@
         }
     ],
     "wof:id":1226081797,
-    "wof:lastmodified":1537712093,
+    "wof:lastmodified":1564202362,
     "wof:name":"Jinja",
     "wof:parent_id":1092073897,
     "wof:placetype":"locality",

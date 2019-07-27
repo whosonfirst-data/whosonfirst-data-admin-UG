@@ -28,7 +28,13 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bugoye"
+    ],
     "name:eng_x_preferred":[
+        "Bugoye"
+    ],
+    "name:lug_x_preferred":[
         "Bugoye"
     ],
     "src:geom":"geonames",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1326760919,
-    "wof:lastmodified":1537712121,
+    "wof:lastmodified":1564200689,
     "wof:name":"Bugoye",
     "wof:parent_id":1092069607,
     "wof:placetype":"locality",

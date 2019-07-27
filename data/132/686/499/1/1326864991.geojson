@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Busolwe"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0633\u0648\u0644\u0648\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1326864991,
-    "wof:lastmodified":1537575046,
+    "wof:lastmodified":1564200608,
     "wof:name":"Busolwe",
     "wof:parent_id":1092069677,
     "wof:placetype":"locality",

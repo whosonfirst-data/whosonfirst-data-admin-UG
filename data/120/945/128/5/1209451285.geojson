@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb0\u0bc1\u0bae\u0bbf"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1209451285,
-    "wof:lastmodified":1536286664,
+    "wof:lastmodified":1564201467,
     "wof:name":"Kirumi",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",

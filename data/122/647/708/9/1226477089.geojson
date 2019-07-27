@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e1e\u0e01\u0e30\u0e15\u0e32"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1226477089,
-    "wof:lastmodified":1537093738,
+    "wof:lastmodified":1564202299,
     "wof:name":"Bakata",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",

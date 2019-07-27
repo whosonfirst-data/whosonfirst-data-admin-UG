@@ -28,6 +28,30 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0646\u0639\u0645\u0629"
+    ],
+    "name:ceb_x_preferred":[
+        "Naama"
+    ],
+    "name:deu_x_preferred":[
+        "Naama"
+    ],
+    "name:fin_x_preferred":[
+        "Naama"
+    ],
+    "name:fra_x_preferred":[
+        "Naama"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0646\u0639\u0627\u0645\u06c1"
+    ],
+    "name:pol_x_preferred":[
+        "Naama"
+    ],
+    "name:swe_x_preferred":[
+        "Naama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1343598175,
-    "wof:lastmodified":1537043011,
+    "wof:lastmodified":1564200849,
     "wof:name":"Naama",
     "wof:parent_id":1092072811,
     "wof:placetype":"locality",

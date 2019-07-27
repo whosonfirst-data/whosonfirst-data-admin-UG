@@ -28,6 +28,15 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Buikwe"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2c\u0d41\u0d2f\u0d3f\u0d15\u0d4d\u0d35\u0d46"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u06cc\u06a9\u0648\u06d2"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":1243097825,
-    "wof:lastmodified":1537575047,
+    "wof:lastmodified":1564201899,
     "wof:name":"Buikwe",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",

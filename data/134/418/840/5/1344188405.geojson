@@ -28,6 +28,27 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Seta"
+    ],
+    "name:epo_x_preferred":[
+        "\u0124eto"
+    ],
+    "name:fra_x_preferred":[
+        "Seta"
+    ],
+    "name:hun_x_preferred":[
+        "Szeta"
+    ],
+    "name:ita_x_preferred":[
+        "Setae"
+    ],
+    "name:nld_x_preferred":[
+        "Seta"
+    ],
+    "name:pol_x_preferred":[
+        "Szczecinka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1344188405,
-    "wof:lastmodified":1536691200,
+    "wof:lastmodified":1564200899,
     "wof:name":"Seta",
     "wof:parent_id":1092072911,
     "wof:placetype":"locality",

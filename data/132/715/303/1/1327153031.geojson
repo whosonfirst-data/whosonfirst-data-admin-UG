@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ibo_x_preferred":[
+        "Uturu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1327153031,
-    "wof:lastmodified":1537081025,
+    "wof:lastmodified":1564200669,
     "wof:name":"Uturu",
     "wof:parent_id":1092074425,
     "wof:placetype":"locality",

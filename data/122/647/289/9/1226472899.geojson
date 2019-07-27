@@ -28,6 +28,21 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Kad\u017eira"
+    ],
+    "name:fra_x_preferred":[
+        "Kajira"
+    ],
+    "name:ita_x_preferred":[
+        "Kajira"
+    ],
+    "name:tur_x_preferred":[
+        "Kajira"
+    ],
+    "name:zho_x_preferred":[
+        "Kajira"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1226472899,
-    "wof:lastmodified":1536603363,
+    "wof:lastmodified":1564202301,
     "wof:name":"Kajira",
     "wof:parent_id":1092072041,
     "wof:placetype":"locality",

@@ -26,6 +26,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kasasa"
+    ],
+    "name:swe_x_preferred":[
+        "Kasasa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1276371831,
-    "wof:lastmodified":1536727380,
+    "wof:lastmodified":1564201271,
     "wof:name":"Kasasa",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

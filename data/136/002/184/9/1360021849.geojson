@@ -26,6 +26,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Kibimba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1360021849,
-    "wof:lastmodified":1537035241,
+    "wof:lastmodified":1564201792,
     "wof:name":"Kibimba",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",
