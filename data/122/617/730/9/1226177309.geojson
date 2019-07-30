@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Were"
     ],
+    "name:jpn_x_preferred":[
+        "Were"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1226177309,
-    "wof:lastmodified":1537712155,
+    "wof:lastmodified":1564202186,
     "wof:name":"Were",
     "wof:parent_id":1092074289,
     "wof:placetype":"locality",

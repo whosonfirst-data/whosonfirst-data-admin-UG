@@ -26,6 +26,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Bubali"
+    ],
+    "name:pol_x_preferred":[
+        "Bubali"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1260116521,
-    "wof:lastmodified":1536941087,
+    "wof:lastmodified":1564201580,
     "wof:name":"Bubali",
     "wof:parent_id":1092069677,
     "wof:placetype":"locality",

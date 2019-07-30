@@ -32,12 +32,21 @@
     "mps:longitude":30.997626,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kyaka"
+    ],
     "name:eng_x_preferred":[
         "Kyaka"
     ],
     "name:eng_x_variant":[
         "Kyaka",
         "KYAKA"
+    ],
+    "name:ita_x_preferred":[
+        "Kyaka"
+    ],
+    "name:ron_x_preferred":[
+        "Kyaka"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":1092072113,
-    "wof:lastmodified":1555092062,
+    "wof:lastmodified":1564201794,
     "wof:name":"Kyaka",
     "wof:parent_id":85680183,
     "wof:placetype":"county",

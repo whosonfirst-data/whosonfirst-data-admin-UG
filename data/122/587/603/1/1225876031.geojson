@@ -28,6 +28,45 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hoima"
+    ],
+    "name:deu_x_preferred":[
+        "Hoima"
+    ],
+    "name:fra_x_preferred":[
+        "Hoima"
+    ],
+    "name:ita_x_preferred":[
+        "Hoima"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30db\u30a4\u30de"
+    ],
+    "name:lit_x_preferred":[
+        "Hoima"
+    ],
+    "name:lug_x_preferred":[
+        "Hoima"
+    ],
+    "name:nld_x_preferred":[
+        "Hoima"
+    ],
+    "name:pol_x_preferred":[
+        "Hoima"
+    ],
+    "name:ron_x_preferred":[
+        "Hoima"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u043e\u0438\u043c\u0430"
+    ],
+    "name:swa_x_preferred":[
+        "Hoima"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0648\u06cc\u0645\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +90,7 @@
         }
     ],
     "wof:id":1225876031,
-    "wof:lastmodified":1536969754,
+    "wof:lastmodified":1564202265,
     "wof:name":"Hoima",
     "wof:parent_id":1092068961,
     "wof:placetype":"locality",

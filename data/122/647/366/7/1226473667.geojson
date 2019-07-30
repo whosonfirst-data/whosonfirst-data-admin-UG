@@ -28,6 +28,24 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Biko"
+    ],
+    "name:deu_x_preferred":[
+        "Biko"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03af\u03ba\u03bf"
+    ],
+    "name:ita_x_preferred":[
+        "Biko"
+    ],
+    "name:pol_x_preferred":[
+        "Biko"
+    ],
+    "name:swe_x_preferred":[
+        "Biko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1226473667,
-    "wof:lastmodified":1536602136,
+    "wof:lastmodified":1564202306,
     "wof:name":"Biko",
     "wof:parent_id":1092071543,
     "wof:placetype":"locality",

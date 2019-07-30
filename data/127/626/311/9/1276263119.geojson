@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Katosi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1276263119,
-    "wof:lastmodified":1537575043,
+    "wof:lastmodified":1564201151,
     "wof:name":"Katosi",
     "wof:parent_id":1092072911,
     "wof:placetype":"locality",

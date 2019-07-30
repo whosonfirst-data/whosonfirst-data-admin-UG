@@ -28,6 +28,39 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Zir\u0259"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09bf\u09b0\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Zira"
+    ],
+    "name:ces_x_preferred":[
+        "Zira"
+    ],
+    "name:fra_x_preferred":[
+        "Zira"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d9\u05e8\u05d4"
+    ],
+    "name:ita_x_preferred":[
+        "Zira"
+    ],
+    "name:nld_x_preferred":[
+        "Zira"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u0440\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Zira"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0417\u0456\u0440\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +84,7 @@
         }
     ],
     "wof:id":1293232063,
-    "wof:lastmodified":1536658484,
+    "wof:lastmodified":1564201007,
     "wof:name":"Zira",
     "wof:parent_id":1092072811,
     "wof:placetype":"locality",

@@ -39,6 +39,9 @@
         "Budadiri",
         "BUDADIRI"
     ],
+    "name:lug_x_preferred":[
+        "Budadiri"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092068781,
-    "wof:lastmodified":1555092057,
+    "wof:lastmodified":1564201811,
     "wof:name":"Budadiri",
     "wof:parent_id":85679961,
     "wof:placetype":"county",

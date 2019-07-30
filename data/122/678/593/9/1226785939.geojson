@@ -26,7 +26,25 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kandi"
+    ],
+    "name:deu_x_preferred":[
+        "Kandi"
+    ],
     "name:eng_x_preferred":[
+        "Kandi"
+    ],
+    "name:fin_x_preferred":[
+        "Kandi"
+    ],
+    "name:fra_x_preferred":[
+        "Kandi"
+    ],
+    "name:hun_x_preferred":[
+        "Kandi"
+    ],
+    "name:swe_x_preferred":[
         "Kandi"
     ],
     "src:geom":"geonames",
@@ -52,7 +70,7 @@
         }
     ],
     "wof:id":1226785939,
-    "wof:lastmodified":1537712157,
+    "wof:lastmodified":1564202318,
     "wof:name":"Kandi",
     "wof:parent_id":1092074289,
     "wof:placetype":"locality",

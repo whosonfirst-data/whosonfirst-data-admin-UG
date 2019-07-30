@@ -28,6 +28,42 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0633"
+    ],
+    "name:cym_x_preferred":[
+        "Gwiddonyn"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u06cc\u0631\u0647"
+    ],
+    "name:gle_x_preferred":[
+        "F\u00edneog"
+    ],
+    "name:hrv_x_preferred":[
+        "Grinje"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca8\u0cc1\u0cb8\u0cbf"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d48\u0d31\u0d4d\u0d31\u0d4d"
+    ],
+    "name:msa_x_preferred":[
+        "Hama"
+    ],
+    "name:sco_x_preferred":[
+        "Mite"
+    ],
+    "name:som_x_preferred":[
+        "Takfi"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c24\u0c35\u0c3f\u0c1f\u0c3f \u0c2a\u0c41\u0c30\u0c41\u0c17\u0c41"
+    ],
+    "name:tur_x_preferred":[
+        "Akar"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +87,7 @@
         }
     ],
     "wof:id":1343272265,
-    "wof:lastmodified":1537017056,
+    "wof:lastmodified":1564200902,
     "wof:name":"Mite",
     "wof:parent_id":1092068591,
     "wof:placetype":"locality",

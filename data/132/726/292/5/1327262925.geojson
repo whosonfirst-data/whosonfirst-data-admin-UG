@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Buloba"
     ],
+    "name:lug_x_preferred":[
+        "Buloba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1327262925,
-    "wof:lastmodified":1537712100,
+    "wof:lastmodified":1564200734,
     "wof:name":"Buloba",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",

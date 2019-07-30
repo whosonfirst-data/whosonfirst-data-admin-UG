@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ky\u014dko"
+    ],
+    "name:pol_x_preferred":[
+        "Ky\u014dko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293326711,
-    "wof:lastmodified":1537018124,
+    "wof:lastmodified":1564201066,
     "wof:name":"Kyoko",
     "wof:parent_id":1092069393,
     "wof:placetype":"locality",

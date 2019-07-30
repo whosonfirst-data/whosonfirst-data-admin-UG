@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Mugamba"
     ],
+    "name:run_x_preferred":[
+        "Mugamba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326467631,
-    "wof:lastmodified":1537712140,
+    "wof:lastmodified":1564200703,
     "wof:name":"Mugamba",
     "wof:parent_id":1092069721,
     "wof:placetype":"locality",

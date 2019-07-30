@@ -32,6 +32,9 @@
     "mps:longitude":33.335415,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Kalaki"
+    ],
     "name:eng_x_preferred":[
         "Kalaki"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092071127,
-    "wof:lastmodified":1555092061,
+    "wof:lastmodified":1564201806,
     "wof:name":"Kalaki",
     "wof:parent_id":85679783,
     "wof:placetype":"county",

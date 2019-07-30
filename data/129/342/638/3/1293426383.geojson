@@ -28,6 +28,36 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Butere"
+    ],
+    "name:deu_x_preferred":[
+        "Butere"
+    ],
+    "name:ita_x_preferred":[
+        "Butere"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e3\u10e2\u10d4\u10e0\u10d4"
+    ],
+    "name:kik_x_preferred":[
+        "Butere"
+    ],
+    "name:pol_x_preferred":[
+        "Butere"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0442\u0435\u0440\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Butere"
+    ],
+    "name:swe_x_preferred":[
+        "Butere"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u6cf0\u96f7"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +81,7 @@
         }
     ],
     "wof:id":1293426383,
-    "wof:lastmodified":1536874078,
+    "wof:lastmodified":1564201096,
     "wof:name":"Butere",
     "wof:parent_id":1092072911,
     "wof:placetype":"locality",

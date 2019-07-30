@@ -28,7 +28,13 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rubona"
+    ],
     "name:eng_x_preferred":[
+        "Rubona"
+    ],
+    "name:swe_x_preferred":[
         "Rubona"
     ],
     "src:geom":"geonames",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1309842417,
-    "wof:lastmodified":1537712057,
+    "wof:lastmodified":1564201829,
     "wof:name":"Rubona",
     "wof:parent_id":1092069635,
     "wof:placetype":"locality",

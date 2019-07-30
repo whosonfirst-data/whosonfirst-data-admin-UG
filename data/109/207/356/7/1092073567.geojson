@@ -32,12 +32,36 @@
     "mps:longitude":34.597475,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Pian"
+    ],
+    "name:deu_x_preferred":[
+        "Pian"
+    ],
     "name:eng_x_preferred":[
         "Pian"
     ],
     "name:eng_x_variant":[
         "Pian",
         "PIAN"
+    ],
+    "name:fra_x_preferred":[
+        "Pian"
+    ],
+    "name:ita_x_preferred":[
+        "Pian"
+    ],
+    "name:por_x_preferred":[
+        "Pian"
+    ],
+    "name:spa_x_preferred":[
+        "Pian"
+    ],
+    "name:srp_x_preferred":[
+        "Pjan"
+    ],
+    "name:swe_x_preferred":[
+        "Pian"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -72,7 +96,7 @@
         }
     ],
     "wof:id":1092073567,
-    "wof:lastmodified":1555092064,
+    "wof:lastmodified":1564201800,
     "wof:name":"Pian",
     "wof:parent_id":85680021,
     "wof:placetype":"county",

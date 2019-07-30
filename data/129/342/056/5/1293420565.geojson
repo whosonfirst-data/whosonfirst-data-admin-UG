@@ -28,6 +28,33 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Butale"
+    ],
+    "name:fra_x_preferred":[
+        "Butale"
+    ],
+    "name:ita_x_preferred":[
+        "Butale"
+    ],
+    "name:mlg_x_preferred":[
+        "Butale"
+    ],
+    "name:nld_x_preferred":[
+        "Butale"
+    ],
+    "name:pol_x_preferred":[
+        "Butale"
+    ],
+    "name:swa_x_preferred":[
+        "Butale"
+    ],
+    "name:swe_x_preferred":[
+        "Butale"
+    ],
+    "name:tsn_x_preferred":[
+        "Butale"
+    ],
     "name:und_x_variant":[
         "Butare",
         "Butale"
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1293420565,
-    "wof:lastmodified":1537712098,
+    "wof:lastmodified":1564201095,
     "wof:name":"Butale",
     "wof:parent_id":1092069121,
     "wof:placetype":"locality",

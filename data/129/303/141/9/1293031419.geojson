@@ -28,8 +28,41 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u0411\u0443\u0431\u043e\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Bub\u00f3"
+    ],
     "name:eng_x_preferred":[
         "Bubo"
+    ],
+    "name:ido_x_preferred":[
+        "Bubono"
+    ],
+    "name:ita_x_preferred":[
+        "Bubbone"
+    ],
+    "name:lit_x_preferred":[
+        "Bubonas"
+    ],
+    "name:pol_x_preferred":[
+        "Dymienica"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0431\u043e\u043d"
+    ],
+    "name:spa_x_preferred":[
+        "Bub\u00f3n"
+    ],
+    "name:tur_x_preferred":[
+        "Bubo"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0431\u043e\u043d"
+    ],
+    "name:uzb_x_preferred":[
+        "Bubon"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +87,7 @@
         }
     ],
     "wof:id":1293031419,
-    "wof:lastmodified":1537712128,
+    "wof:lastmodified":1564201052,
     "wof:name":"Bubo",
     "wof:parent_id":1092073897,
     "wof:placetype":"locality",

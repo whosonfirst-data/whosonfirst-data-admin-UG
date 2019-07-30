@@ -28,6 +28,30 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Olio"
+    ],
+    "name:fin_x_preferred":[
+        "Olio"
+    ],
+    "name:frr_x_preferred":[
+        "\u00d6\u00f6le"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05de\u05df"
+    ],
+    "name:ita_x_preferred":[
+        "Olio"
+    ],
+    "name:lit_x_preferred":[
+        "Aliejus"
+    ],
+    "name:msa_x_preferred":[
+        "Minyak"
+    ],
+    "name:swe_x_preferred":[
+        "Olio"
+    ],
     "name:und_x_variant":[
         "Kolyo",
         "Olio"
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":1326464281,
-    "wof:lastmodified":1537712062,
+    "wof:lastmodified":1564200711,
     "wof:name":"Olio",
     "wof:parent_id":1092074055,
     "wof:placetype":"locality",

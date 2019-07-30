@@ -26,6 +26,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bulanda"
+    ],
+    "name:swe_x_preferred":[
+        "Bulanda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1326864477,
-    "wof:lastmodified":1537001540,
+    "wof:lastmodified":1564200605,
     "wof:name":"Bulanda",
     "wof:parent_id":1092069483,
     "wof:placetype":"locality",

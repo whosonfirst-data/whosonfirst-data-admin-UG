@@ -28,6 +28,15 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Koya"
+    ],
+    "name:deu_x_preferred":[
+        "Koya"
+    ],
+    "name:swe_x_preferred":[
+        "Koya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1243572989,
-    "wof:lastmodified":1536621132,
+    "wof:lastmodified":1564201986,
     "wof:name":"Koya",
     "wof:parent_id":1092072215,
     "wof:placetype":"locality",

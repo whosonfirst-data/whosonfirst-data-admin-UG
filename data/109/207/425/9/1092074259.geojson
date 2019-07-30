@@ -39,6 +39,9 @@
         "Vurra",
         "VURRA"
     ],
+    "name:lug_x_preferred":[
+        "Vurra"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092074259,
-    "wof:lastmodified":1555092065,
+    "wof:lastmodified":1564201795,
     "wof:name":"Vurra",
     "wof:parent_id":85679837,
     "wof:placetype":"county",

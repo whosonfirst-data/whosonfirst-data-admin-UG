@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Alokolum"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1326949013,
-    "wof:lastmodified":1537575050,
+    "wof:lastmodified":1564200639,
     "wof:name":"Alokolum",
     "wof:parent_id":1092073377,
     "wof:placetype":"locality",

@@ -28,7 +28,19 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Poke"
+    ],
+    "name:deu_x_preferred":[
+        "Poke"
+    ],
     "name:eng_x_preferred":[
+        "Poke"
+    ],
+    "name:fra_x_preferred":[
+        "Poke"
+    ],
+    "name:swe_x_preferred":[
         "Poke"
     ],
     "src:geom":"geonames",
@@ -54,7 +66,7 @@
         }
     ],
     "wof:id":1259998149,
-    "wof:lastmodified":1537712058,
+    "wof:lastmodified":1564202096,
     "wof:name":"Poke",
     "wof:parent_id":1092072551,
     "wof:placetype":"locality",

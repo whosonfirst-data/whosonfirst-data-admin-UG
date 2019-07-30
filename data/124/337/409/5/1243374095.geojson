@@ -28,6 +28,33 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:aze_x_preferred":[
+        "Praqa Loretas\u0131"
+    ],
+    "name:ces_x_preferred":[
+        "Pra\u017esk\u00e1 Loreta"
+    ],
+    "name:deu_x_preferred":[
+        "Prager Loreto"
+    ],
+    "name:fra_x_preferred":[
+        "Sanctuaire Notre-Dame-de-Lorette"
+    ],
+    "name:hun_x_preferred":[
+        "Loreta"
+    ],
+    "name:pol_x_preferred":[
+        "Loreta"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0430\u0436\u0441\u043a\u0430\u044f \u041b\u043e\u0440\u0435\u0442\u0430"
+    ],
+    "name:slv_x_preferred":[
+        "Loreta"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u745e\u5854\u6559\u5802"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1243374095,
-    "wof:lastmodified":1536910158,
+    "wof:lastmodified":1564201908,
     "wof:name":"Loreta",
     "wof:parent_id":1092072215,
     "wof:placetype":"locality",

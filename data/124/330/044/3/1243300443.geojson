@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Gayaza"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1243300443,
-    "wof:lastmodified":1537015165,
+    "wof:lastmodified":1564201906,
     "wof:name":"Gayaza",
     "wof:parent_id":1092069393,
     "wof:placetype":"locality",

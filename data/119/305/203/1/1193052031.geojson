@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Kireka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1193052031,
-    "wof:lastmodified":1536365409,
+    "wof:lastmodified":1564201521,
     "wof:name":"Kireka",
     "wof:parent_id":1092068633,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:run_x_preferred":[
+        "Butega"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1326766327,
-    "wof:lastmodified":1536646008,
+    "wof:lastmodified":1564200691,
     "wof:name":"Butega",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

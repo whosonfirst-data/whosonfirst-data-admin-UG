@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Kimaka"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310334621,
-    "wof:lastmodified":1537575042,
+    "wof:lastmodified":1564201721,
     "wof:name":"Kimaka",
     "wof:parent_id":1092070823,
     "wof:placetype":"locality",

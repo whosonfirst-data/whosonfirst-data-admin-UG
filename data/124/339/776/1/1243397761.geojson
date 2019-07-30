@@ -28,7 +28,34 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kubo"
+    ],
+    "name:deu_x_preferred":[
+        "Kubo"
+    ],
     "name:eng_x_preferred":[
+        "Kubo"
+    ],
+    "name:epo_x_preferred":[
+        "Kubo"
+    ],
+    "name:fra_x_preferred":[
+        "Kubo"
+    ],
+    "name:ita_x_preferred":[
+        "Kubo"
+    ],
+    "name:kor_x_preferred":[
+        "\uad6c\ubcf4"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u0431\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Kubo"
+    ],
+    "name:tgl_x_preferred":[
         "Kubo"
     ],
     "src:geom":"geonames",
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1243397761,
-    "wof:lastmodified":1537712124,
+    "wof:lastmodified":1564201916,
     "wof:name":"Kubo",
     "wof:parent_id":1092073897,
     "wof:placetype":"locality",

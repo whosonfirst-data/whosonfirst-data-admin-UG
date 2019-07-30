@@ -39,6 +39,9 @@
         "Kabula",
         "KABULA"
     ],
+    "name:swa_x_preferred":[
+        "Kabula"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092070975,
-    "wof:lastmodified":1555092060,
+    "wof:lastmodified":1564201798,
     "wof:name":"Kabula",
     "wof:parent_id":85680215,
     "wof:placetype":"county",

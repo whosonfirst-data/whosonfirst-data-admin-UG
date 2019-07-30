@@ -26,8 +26,20 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nakaseke"
+    ],
     "name:eng_x_preferred":[
         "Nakaseke"
+    ],
+    "name:ron_x_preferred":[
+        "Nakaseke"
+    ],
+    "name:swa_x_preferred":[
+        "Nakaseke"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u06a9\u0627\u0633\u06cc\u06a9\u06d2"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1327462751,
-    "wof:lastmodified":1537712150,
+    "wof:lastmodified":1564200675,
     "wof:name":"Nakaseke",
     "wof:parent_id":1092069721,
     "wof:placetype":"locality",

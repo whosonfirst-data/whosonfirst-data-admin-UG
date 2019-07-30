@@ -28,6 +28,15 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bukakata"
+    ],
+    "name:lit_x_preferred":[
+        "Bukakata"
+    ],
+    "name:lug_x_preferred":[
+        "Bukakkata"
+    ],
     "name:und_x_variant":[
         "Bukakata Pier",
         "Bukakata"
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1209040483,
-    "wof:lastmodified":1537712102,
+    "wof:lastmodified":1564201429,
     "wof:name":"Bukakata",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",

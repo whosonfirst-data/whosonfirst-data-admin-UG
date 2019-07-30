@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Aringa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1225962977,
-    "wof:lastmodified":1536843387,
+    "wof:lastmodified":1564202289,
     "wof:name":"Aringa",
     "wof:parent_id":1092068435,
     "wof:placetype":"locality",

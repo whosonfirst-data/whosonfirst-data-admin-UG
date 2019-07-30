@@ -39,6 +39,9 @@
         "Aringa",
         "ARINGA"
     ],
+    "name:fra_x_preferred":[
+        "Aringa"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092068435,
-    "wof:lastmodified":1555092056,
+    "wof:lastmodified":1564201809,
     "wof:name":"Aringa",
     "wof:parent_id":85679857,
     "wof:placetype":"county",

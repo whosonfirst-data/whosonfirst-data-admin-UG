@@ -28,7 +28,13 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Buduma"
+    ],
     "name:eng_x_preferred":[
+        "Buduma"
+    ],
+    "name:fra_x_preferred":[
         "Buduma"
     ],
     "src:geom":"geonames",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1343698761,
-    "wof:lastmodified":1537712122,
+    "wof:lastmodified":1564200874,
     "wof:name":"Buduma",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kito"
+    ],
+    "name:deu_x_preferred":[
+        "Kito"
+    ],
+    "name:eus_x_preferred":[
+        "Kito"
+    ],
+    "name:ita_x_preferred":[
+        "Kito"
+    ],
+    "name:swa_x_preferred":[
+        "Kito"
+    ],
+    "name:swe_x_preferred":[
+        "Kito"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1309834667,
-    "wof:lastmodified":1536889243,
+    "wof:lastmodified":1564201821,
     "wof:name":"Kito",
     "wof:parent_id":1092073015,
     "wof:placetype":"locality",

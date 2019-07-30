@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Kibimba"
     ],
+    "name:lug_x_preferred":[
+        "Kibimba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1193173939,
-    "wof:lastmodified":1537712151,
+    "wof:lastmodified":1564201540,
     "wof:name":"Kibimba",
     "wof:parent_id":1092069721,
     "wof:placetype":"locality",

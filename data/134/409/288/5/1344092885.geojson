@@ -28,6 +28,15 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kagi"
+    ],
+    "name:deu_x_preferred":[
+        "Kagi"
+    ],
+    "name:swe_x_preferred":[
+        "Kagi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1344092885,
-    "wof:lastmodified":1536827835,
+    "wof:lastmodified":1564200801,
     "wof:name":"Kagi",
     "wof:parent_id":1092071543,
     "wof:placetype":"locality",

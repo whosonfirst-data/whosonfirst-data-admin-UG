@@ -26,7 +26,19 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Lambo"
+    ],
     "name:eng_x_preferred":[
+        "Lambo"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0430\u043c\u0431\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Lambo"
+    ],
+    "name:swe_x_preferred":[
         "Lambo"
     ],
     "src:geom":"geonames",
@@ -52,7 +64,7 @@
         }
     ],
     "wof:id":1243102477,
-    "wof:lastmodified":1537712172,
+    "wof:lastmodified":1564202068,
     "wof:name":"Lambo",
     "wof:parent_id":1092069563,
     "wof:placetype":"locality",

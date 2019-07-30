@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ziba"
+    ],
+    "name:rus_x_preferred":[
+        "\u0417\u0438\u0431\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1243489341,
-    "wof:lastmodified":1536743366,
+    "wof:lastmodified":1564201971,
     "wof:name":"Ziba",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

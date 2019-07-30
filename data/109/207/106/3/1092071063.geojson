@@ -39,6 +39,9 @@
         "Kajara",
         "KAJARA"
     ],
+    "name:nld_x_preferred":[
+        "Koninkrijk Kajara"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "statoids:area_km":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092071063,
-    "wof:lastmodified":1555092060,
+    "wof:lastmodified":1564201801,
     "wof:name":"Kajara",
     "wof:parent_id":85680059,
     "wof:placetype":"county",

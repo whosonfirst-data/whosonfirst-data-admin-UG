@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Kalagala"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1326564569,
-    "wof:lastmodified":1536938126,
+    "wof:lastmodified":1564200636,
     "wof:name":"Kalagala",
     "wof:parent_id":1092072911,
     "wof:placetype":"locality",

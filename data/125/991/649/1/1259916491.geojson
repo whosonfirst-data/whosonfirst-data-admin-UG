@@ -26,6 +26,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Bukuya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1259916491,
-    "wof:lastmodified":1536731798,
+    "wof:lastmodified":1564202084,
     "wof:name":"Bukuya",
     "wof:parent_id":1092070253,
     "wof:placetype":"locality",

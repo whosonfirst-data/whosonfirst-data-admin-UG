@@ -28,6 +28,18 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Dokolo"
+    ],
+    "name:ron_x_preferred":[
+        "Dokolo"
+    ],
+    "name:swa_x_preferred":[
+        "Dokolo"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0648\u06a9\u0648\u0644\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1293323541,
-    "wof:lastmodified":1537022506,
+    "wof:lastmodified":1564201056,
     "wof:name":"Dokolo",
     "wof:parent_id":1092068395,
     "wof:placetype":"locality",

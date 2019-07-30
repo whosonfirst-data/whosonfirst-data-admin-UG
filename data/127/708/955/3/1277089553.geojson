@@ -28,8 +28,53 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041a\u0435\u043c"
+    ],
+    "name:ces_x_preferred":[
+        "Kem"
+    ],
+    "name:fin_x_preferred":[
+        "Kem"
+    ],
+    "name:fra_x_preferred":[
+        "Kem"
+    ],
+    "name:hsb_x_preferred":[
+        "Kem"
+    ],
+    "name:ita_x_preferred":[
+        "Kem'"
+    ],
+    "name:nld_x_preferred":[
+        "Kem"
+    ],
+    "name:nor_x_preferred":[
+        "KEM"
+    ],
+    "name:pol_x_preferred":[
+        "Kem"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0435\u043c\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Kem"
+    ],
+    "name:spa_x_preferred":[
+        "Kem"
+    ],
+    "name:tur_x_preferred":[
+        "Kem"
+    ],
     "name:und_x_variant":[
         "Keni",
+        "Kem"
+    ],
+    "name:vep_x_preferred":[
+        "Kem'"
+    ],
+    "name:vie_x_preferred":[
         "Kem"
     ],
     "src:geom":"geonames",
@@ -55,7 +100,7 @@
         }
     ],
     "wof:id":1277089553,
-    "wof:lastmodified":1537712086,
+    "wof:lastmodified":1564201134,
     "wof:name":"Kem",
     "wof:parent_id":1092072215,
     "wof:placetype":"locality",

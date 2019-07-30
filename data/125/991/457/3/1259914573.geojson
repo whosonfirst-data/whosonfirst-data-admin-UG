@@ -28,6 +28,15 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bika"
+    ],
+    "name:deu_x_preferred":[
+        "Bika"
+    ],
+    "name:swe_x_preferred":[
+        "Bika"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259914573,
-    "wof:lastmodified":1536734530,
+    "wof:lastmodified":1564202086,
     "wof:name":"Bika",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

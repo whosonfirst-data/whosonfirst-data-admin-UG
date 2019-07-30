@@ -28,6 +28,15 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u062c\u0645\u0629"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0639\u062c\u0645\u0647"
+    ],
+    "name:nno_x_preferred":[
+        "Ajama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259417323,
-    "wof:lastmodified":1536953934,
+    "wof:lastmodified":1564202108,
     "wof:name":"Ajama",
     "wof:parent_id":1092074055,
     "wof:placetype":"locality",

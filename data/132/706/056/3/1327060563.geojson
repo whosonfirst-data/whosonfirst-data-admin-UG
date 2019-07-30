@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Rushere"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1327060563,
-    "wof:lastmodified":1537575037,
+    "wof:lastmodified":1564200585,
     "wof:name":"Rushere",
     "wof:parent_id":1092073255,
     "wof:placetype":"locality",

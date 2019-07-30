@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Paraa"
+    ],
+    "name:lug_x_preferred":[
+        "Paraa"
+    ],
     "name:und_x_variant":[
         "Paraa Lodge",
         "Paraa",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1259498487,
-    "wof:lastmodified":1537712059,
+    "wof:lastmodified":1564202130,
     "wof:name":"Paraa",
     "wof:parent_id":1092073225,
     "wof:placetype":"locality",

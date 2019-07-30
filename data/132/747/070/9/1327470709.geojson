@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043d\u0442\u0430\u043b\u0430\u0439"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0db1\u0dca\u0dad\u0dbd\u0dda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1327470709,
-    "wof:lastmodified":1536623355,
+    "wof:lastmodified":1564200665,
     "wof:name":"Kantale",
     "wof:parent_id":1092073783,
     "wof:placetype":"locality",

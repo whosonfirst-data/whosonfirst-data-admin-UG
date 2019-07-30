@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Okollo"
+    ],
     "name:und_x_variant":[
         "Okolo",
         "Okollo"
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1242981415,
-    "wof:lastmodified":1537712063,
+    "wof:lastmodified":1564202016,
     "wof:name":"Okollo",
     "wof:parent_id":1092074425,
     "wof:placetype":"locality",

@@ -31,9 +31,15 @@
     "name:eng_x_preferred":[
         "Kihihi"
     ],
+    "name:lug_x_preferred":[
+        "Kihiihi"
+    ],
     "name:und_x_variant":[
         "Kihi",
         "Kihihi"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u06c1\u06cc\u06c1\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1276152135,
-    "wof:lastmodified":1537712085,
+    "wof:lastmodified":1564201229,
     "wof:name":"Kihihi",
     "wof:parent_id":1092071685,
     "wof:placetype":"locality",

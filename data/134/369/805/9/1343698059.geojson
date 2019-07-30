@@ -26,6 +26,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Kabula"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +52,7 @@
         }
     ],
     "wof:id":1343698059,
-    "wof:lastmodified":1536900870,
+    "wof:lastmodified":1564200870,
     "wof:name":"Kabula",
     "wof:parent_id":1092069969,
     "wof:placetype":"locality",

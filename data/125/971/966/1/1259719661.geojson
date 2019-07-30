@@ -26,6 +26,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Buguma"
+    ],
+    "name:por_x_preferred":[
+        "Buguma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1259719661,
-    "wof:lastmodified":1537014194,
+    "wof:lastmodified":1564202123,
     "wof:name":"Buguma",
     "wof:parent_id":1092068917,
     "wof:placetype":"locality",

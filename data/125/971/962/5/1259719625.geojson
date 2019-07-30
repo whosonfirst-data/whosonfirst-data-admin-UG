@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kagitumba"
+    ],
+    "name:est_x_preferred":[
+        "Kagitumba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1259719625,
-    "wof:lastmodified":1537014249,
+    "wof:lastmodified":1564202115,
     "wof:name":"Kagitumba",
     "wof:parent_id":1092073713,
     "wof:placetype":"locality",

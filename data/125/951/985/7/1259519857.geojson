@@ -28,6 +28,30 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Amyema"
+    ],
+    "name:fra_x_preferred":[
+        "Amyema"
+    ],
+    "name:nld_x_preferred":[
+        "Amyema"
+    ],
+    "name:por_x_preferred":[
+        "Amyema"
+    ],
+    "name:spa_x_preferred":[
+        "Amyema"
+    ],
+    "name:swe_x_preferred":[
+        "Amyema"
+    ],
+    "name:vie_x_preferred":[
+        "Amyema"
+    ],
+    "name:war_x_preferred":[
+        "Amyema"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1259519857,
-    "wof:lastmodified":1536806242,
+    "wof:lastmodified":1564202158,
     "wof:name":"Amyema",
     "wof:parent_id":1092071333,
     "wof:placetype":"locality",

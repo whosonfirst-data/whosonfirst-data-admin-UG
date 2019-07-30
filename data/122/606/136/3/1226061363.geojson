@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Loyoro"
+    ],
+    "name:swe_x_preferred":[
+        "Loyoro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1226061363,
-    "wof:lastmodified":1536702936,
+    "wof:lastmodified":1564202362,
     "wof:name":"Loyoro",
     "wof:parent_id":1092070399,
     "wof:placetype":"locality",

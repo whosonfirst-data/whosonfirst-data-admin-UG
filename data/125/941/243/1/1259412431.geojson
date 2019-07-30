@@ -28,6 +28,27 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ast_x_preferred":[
+        "Gobero"
+    ],
+    "name:ceb_x_preferred":[
+        "Gobero"
+    ],
+    "name:deu_x_preferred":[
+        "Gobero"
+    ],
+    "name:fra_x_preferred":[
+        "Gobero"
+    ],
+    "name:ita_x_preferred":[
+        "Gobero"
+    ],
+    "name:spa_x_preferred":[
+        "Gobero"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u043e\u0431\u0435\u0440\u043e"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +72,7 @@
         }
     ],
     "wof:id":1259412431,
-    "wof:lastmodified":1536960897,
+    "wof:lastmodified":1564202103,
     "wof:name":"Gobero",
     "wof:parent_id":1092072911,
     "wof:placetype":"locality",

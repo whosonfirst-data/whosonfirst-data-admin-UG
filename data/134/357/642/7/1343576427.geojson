@@ -28,6 +28,15 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Alego"
+    ],
+    "name:ceb_x_preferred":[
+        "Alego"
+    ],
+    "name:swe_x_preferred":[
+        "Alego"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1343576427,
-    "wof:lastmodified":1537073268,
+    "wof:lastmodified":1564200864,
     "wof:name":"Alego",
     "wof:parent_id":1092073489,
     "wof:placetype":"locality",

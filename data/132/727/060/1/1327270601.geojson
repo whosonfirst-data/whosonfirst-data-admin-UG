@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Kasangati"
+    ],
+    "name:pol_x_preferred":[
+        "Kasangati"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1327270601,
-    "wof:lastmodified":1537575043,
+    "wof:lastmodified":1564200758,
     "wof:name":"Kasangati",
     "wof:parent_id":1092072041,
     "wof:placetype":"locality",

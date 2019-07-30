@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Wol"
+    ],
+    "name:swe_x_preferred":[
+        "Wol"
+    ],
     "name:und_x_variant":[
         "Waal",
         "Wol"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1326748945,
-    "wof:lastmodified":1537712053,
+    "wof:lastmodified":1564200623,
     "wof:name":"Wol",
     "wof:parent_id":1092068365,
     "wof:placetype":"locality",

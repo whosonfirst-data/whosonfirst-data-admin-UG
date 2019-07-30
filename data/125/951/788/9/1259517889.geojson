@@ -31,6 +31,9 @@
     "name:eng_x_preferred":[
         "Bukayo"
     ],
+    "name:tgl_x_preferred":[
+        "Bukayo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1259517889,
-    "wof:lastmodified":1537712132,
+    "wof:lastmodified":1564202164,
     "wof:name":"Bukayo",
     "wof:parent_id":1092070099,
     "wof:placetype":"locality",

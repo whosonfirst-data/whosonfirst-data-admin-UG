@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Nkinga"
+    ],
+    "name:swa_x_preferred":[
+        "Nkinga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276152015,
-    "wof:lastmodified":1537020820,
+    "wof:lastmodified":1564201230,
     "wof:name":"Nkinga",
     "wof:parent_id":1092069759,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bre_x_preferred":[
+        "Namugongo"
+    ],
+    "name:fra_x_preferred":[
+        "Namugongo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1242614281,
-    "wof:lastmodified":1537575039,
+    "wof:lastmodified":1564201950,
     "wof:name":"Namugongo",
     "wof:parent_id":1092072041,
     "wof:placetype":"locality",

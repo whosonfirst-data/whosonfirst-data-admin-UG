@@ -28,6 +28,15 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kiani"
+    ],
+    "name:deu_x_preferred":[
+        "Kiani"
+    ],
+    "name:swe_x_preferred":[
+        "Kiani"
+    ],
     "name:und_x_variant":[
         "Kiana",
         "Kiani"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1243007421,
-    "wof:lastmodified":1537712086,
+    "wof:lastmodified":1564201896,
     "wof:name":"Kiani",
     "wof:parent_id":1092069483,
     "wof:placetype":"locality",

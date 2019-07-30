@@ -26,6 +26,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kapisa"
+    ],
     "name:eng_x_preferred":[
         "Kapisa"
     ],
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1344192125,
-    "wof:lastmodified":1537712169,
+    "wof:lastmodified":1564200889,
     "wof:name":"Kapisa",
     "wof:parent_id":1092069677,
     "wof:placetype":"locality",

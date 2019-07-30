@@ -29,6 +29,12 @@
     "name:eng_x_preferred":[
         "Kadoto"
     ],
+    "name:ita_x_preferred":[
+        "Kadoto"
+    ],
+    "name:swa_x_preferred":[
+        "Kadoto"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1209549693,
-    "wof:lastmodified":1537712177,
+    "wof:lastmodified":1564201311,
     "wof:name":"Kadoto",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",

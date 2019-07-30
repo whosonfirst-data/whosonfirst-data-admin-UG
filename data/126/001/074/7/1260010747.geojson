@@ -28,6 +28,15 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kiganda"
+    ],
+    "name:fra_x_preferred":[
+        "Kiganda"
+    ],
+    "name:swe_x_preferred":[
+        "Kiganda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1260010747,
-    "wof:lastmodified":1537089554,
+    "wof:lastmodified":1564201565,
     "wof:name":"Kiganda",
     "wof:parent_id":1092069483,
     "wof:placetype":"locality",

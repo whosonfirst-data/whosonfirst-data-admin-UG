@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Ateng"
+    ],
+    "name:jav_x_preferred":[
+        "Ateng"
+    ],
     "name:und_x_variant":[
         "Kateng"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1276374121,
-    "wof:lastmodified":1537712087,
+    "wof:lastmodified":1564201262,
     "wof:name":"Ateng",
     "wof:parent_id":1092071333,
     "wof:placetype":"locality",

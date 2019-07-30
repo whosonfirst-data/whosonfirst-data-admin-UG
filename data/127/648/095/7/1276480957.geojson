@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mbugwe"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1276480957,
-    "wof:lastmodified":1537075031,
+    "wof:lastmodified":1564201245,
     "wof:name":"Mbugwe",
     "wof:parent_id":1092072911,
     "wof:placetype":"locality",

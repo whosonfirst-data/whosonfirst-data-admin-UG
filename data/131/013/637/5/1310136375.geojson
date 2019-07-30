@@ -28,6 +28,72 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:azb_x_preferred":[
+        "\u06a9\u06cc\u062a\u0627\u0644\u0647"
+    ],
+    "name:cat_x_preferred":[
+        "Kitale"
+    ],
+    "name:deu_x_preferred":[
+        "Kitale"
+    ],
+    "name:epo_x_preferred":[
+        "Kitale"
+    ],
+    "name:est_x_preferred":[
+        "Kitale"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u062a\u0627\u0644\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Kitale"
+    ],
+    "name:hrv_x_preferred":[
+        "Kitale"
+    ],
+    "name:ita_x_preferred":[
+        "Kitale"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30bf\u30ec"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d8\u10e2\u10d0\u10da\u10d4"
+    ],
+    "name:lit_x_preferred":[
+        "Kital\u0117"
+    ],
+    "name:nld_x_preferred":[
+        "Kitale"
+    ],
+    "name:nor_x_preferred":[
+        "Kitale"
+    ],
+    "name:pol_x_preferred":[
+        "Kitale"
+    ],
+    "name:ron_x_preferred":[
+        "Kitale"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0442\u0430\u043b\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "Kitale"
+    ],
+    "name:swa_x_preferred":[
+        "Kitale"
+    ],
+    "name:swe_x_preferred":[
+        "Kitale"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u062a\u0627\u0644\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5854\u840a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +117,7 @@
         }
     ],
     "wof:id":1310136375,
-    "wof:lastmodified":1536952242,
+    "wof:lastmodified":1564201630,
     "wof:name":"Kitale",
     "wof:parent_id":1092072911,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Kijura"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1243202871,
-    "wof:lastmodified":1537575042,
+    "wof:lastmodified":1564202034,
     "wof:name":"Kijura",
     "wof:parent_id":1092069721,
     "wof:placetype":"locality",

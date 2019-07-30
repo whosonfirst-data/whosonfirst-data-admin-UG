@@ -28,6 +28,12 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Bukomero"
+    ],
+    "name:lug_x_preferred":[
+        "Bukomero"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1360215739,
-    "wof:lastmodified":1537575046,
+    "wof:lastmodified":1564201775,
     "wof:name":"Bukomero",
     "wof:parent_id":1092071543,
     "wof:placetype":"locality",

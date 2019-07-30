@@ -28,6 +28,18 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kalungu"
+    ],
+    "name:deu_x_preferred":[
+        "Kalungu"
+    ],
+    "name:lug_x_preferred":[
+        "Kalungu"
+    ],
+    "name:swe_x_preferred":[
+        "Kalungu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1242904879,
-    "wof:lastmodified":1537086178,
+    "wof:lastmodified":1564202028,
     "wof:name":"Kalungu",
     "wof:parent_id":1092069759,
     "wof:placetype":"locality",

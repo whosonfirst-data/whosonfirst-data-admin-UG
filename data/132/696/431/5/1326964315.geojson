@@ -28,6 +28,33 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Butale"
+    ],
+    "name:fra_x_preferred":[
+        "Butale"
+    ],
+    "name:ita_x_preferred":[
+        "Butale"
+    ],
+    "name:mlg_x_preferred":[
+        "Butale"
+    ],
+    "name:nld_x_preferred":[
+        "Butale"
+    ],
+    "name:pol_x_preferred":[
+        "Butale"
+    ],
+    "name:swa_x_preferred":[
+        "Butale"
+    ],
+    "name:swe_x_preferred":[
+        "Butale"
+    ],
+    "name:tsn_x_preferred":[
+        "Butale"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":1326964315,
-    "wof:lastmodified":1536857374,
+    "wof:lastmodified":1564200722,
     "wof:name":"Butale",
     "wof:parent_id":1092070741,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "iso:country":"UG",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Aloi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310016397,
-    "wof:lastmodified":1537575048,
+    "wof:lastmodified":1564201673,
     "wof:name":"Aloi",
     "wof:parent_id":1092072869,
     "wof:placetype":"locality",
