@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NB"
+    ],
     "lbl:latitude":2.445915,
     "lbl:longitude":31.293057,
     "mps:latitude":2.460321,
@@ -281,7 +284,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307631,
+    "wof:lastmodified":1565738409,
     "wof:name":"Nebbi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

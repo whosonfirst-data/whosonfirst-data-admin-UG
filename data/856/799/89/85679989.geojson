@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TR"
+    ],
     "lbl:latitude":0.736075,
     "lbl:longitude":34.06442,
     "mps:latitude":0.724233,
@@ -269,9 +272,6 @@
         }
     ],
     "wof:id":85679989,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -280,7 +280,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307613,
+    "wof:lastmodified":1565738403,
     "wof:name":"Tororo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

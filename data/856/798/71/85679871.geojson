@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QO"
+    ],
     "lbl:latitude":1.023445,
     "lbl:longitude":31.73279,
     "mps:latitude":0.854137,
@@ -216,7 +219,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307631,
+    "wof:lastmodified":1565738409,
     "wof:name":"Kiboga",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

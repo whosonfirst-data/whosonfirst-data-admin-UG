@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LL"
+    ],
     "lbl:latitude":2.208079,
     "lbl:longitude":33.012268,
     "mps:latitude":2.188196,
@@ -272,7 +275,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307616,
+    "wof:lastmodified":1565738404,
     "wof:name":"Lira",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

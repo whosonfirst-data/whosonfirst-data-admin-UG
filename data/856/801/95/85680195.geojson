@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BB"
+    ],
     "lbl:latitude":1.486542,
     "lbl:longitude":34.323867,
     "mps:latitude":1.475845,
@@ -111,7 +114,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307648,
+    "wof:lastmodified":1565738414,
     "wof:name":"Bulambuli",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

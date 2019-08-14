@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NI"
+    ],
     "lbl:latitude":1.844041,
     "lbl:longitude":34.589318,
     "mps:latitude":1.82837,
@@ -213,7 +216,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307641,
+    "wof:lastmodified":1565738412,
     "wof:name":"Nakapiripirit",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AZ"
+    ],
     "lbl:latitude":1.895944,
     "lbl:longitude":34.934722,
     "mps:latitude":1.748265,
@@ -120,7 +123,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307634,
+    "wof:lastmodified":1565738410,
     "wof:name":"Amudat",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

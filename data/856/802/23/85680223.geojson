@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QA"
+    ],
     "lbl:latitude":-0.098724,
     "lbl:longitude":31.80465,
     "mps:latitude":-0.116189,
@@ -352,7 +355,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307636,
+    "wof:lastmodified":1565738411,
     "wof:name":"Kalungu",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

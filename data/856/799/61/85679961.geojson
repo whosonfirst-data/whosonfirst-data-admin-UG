@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SK"
+    ],
     "lbl:latitude":1.169276,
     "lbl:longitude":34.319587,
     "mps:latitude":1.157775,
@@ -221,7 +224,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307609,
+    "wof:lastmodified":1565738401,
     "wof:name":"Sironko",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

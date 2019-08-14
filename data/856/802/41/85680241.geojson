@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BH"
+    ],
     "lbl:latitude":-0.314616,
     "lbl:longitude":30.309681,
     "mps:latitude":-0.351723,
@@ -158,7 +161,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307635,
+    "wof:lastmodified":1565738410,
     "wof:name":"Buhweju",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

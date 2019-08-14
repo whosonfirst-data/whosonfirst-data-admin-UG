@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OT"
+    ],
     "lbl:latitude":2.474537,
     "lbl:longitude":33.356245,
     "mps:latitude":2.482,
@@ -170,7 +173,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307653,
+    "wof:lastmodified":1565738416,
     "wof:name":"Otuke",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

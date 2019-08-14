@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AD"
+    ],
     "lbl:latitude":3.227986,
     "lbl:longitude":31.773657,
     "mps:latitude":3.206269,
@@ -279,9 +282,6 @@
         }
     ],
     "wof:id":85679833,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -290,7 +290,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307624,
+    "wof:lastmodified":1565738407,
     "wof:name":"Adjumani",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

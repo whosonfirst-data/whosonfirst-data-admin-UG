@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AQ"
+    ],
     "lbl:latitude":1.901139,
     "lbl:longitude":32.571033,
     "mps:latitude":1.869726,
@@ -278,7 +281,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307650,
+    "wof:lastmodified":1565738415,
     "wof:name":"Apac",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

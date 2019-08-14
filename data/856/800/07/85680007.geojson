@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AB"
+    ],
     "lbl:latitude":3.620554,
     "lbl:longitude":33.945233,
     "mps:latitude":3.59838,
@@ -120,7 +123,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307643,
+    "wof:lastmodified":1565738412,
     "wof:name":"Kaabong",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

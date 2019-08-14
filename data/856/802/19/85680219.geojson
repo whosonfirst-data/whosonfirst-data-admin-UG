@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BM"
+    ],
     "lbl:latitude":-0.12361,
     "lbl:longitude":31.6255,
     "mps:latitude":-0.11983,
@@ -176,7 +179,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307634,
+    "wof:lastmodified":1565738410,
     "wof:name":"Bukomansimbi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

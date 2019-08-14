@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IB"
+    ],
     "lbl:latitude":2.658061,
     "lbl:longitude":33.708549,
     "mps:latitude":2.649049,
@@ -172,7 +175,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307647,
+    "wof:lastmodified":1565738414,
     "wof:name":"Abim",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

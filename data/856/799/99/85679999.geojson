@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KF"
+    ],
     "lbl:latitude":3.055611,
     "lbl:longitude":34.022392,
     "mps:latitude":2.99209,
@@ -206,9 +209,6 @@
         }
     ],
     "wof:id":85679999,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -217,7 +217,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307618,
+    "wof:lastmodified":1565738404,
     "wof:name":"Kotido",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

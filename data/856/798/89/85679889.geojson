@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RR"
+    ],
     "lbl:latitude":0.588432,
     "lbl:longitude":31.60448,
     "mps:latitude":0.593823,
@@ -273,9 +276,6 @@
         }
     ],
     "wof:id":85679889,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -284,7 +284,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307625,
+    "wof:lastmodified":1565738407,
     "wof:name":"Mubende",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

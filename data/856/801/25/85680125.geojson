@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BV"
+    ],
     "lbl:latitude":-0.397901,
     "lbl:longitude":33.203272,
     "mps:latitude":-0.467554,
@@ -221,7 +224,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307655,
+    "wof:lastmodified":1565738417,
     "wof:name":"Buvuma",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

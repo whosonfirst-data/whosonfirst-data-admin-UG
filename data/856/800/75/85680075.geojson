@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KR"
+    ],
     "lbl:latitude":-1.222783,
     "lbl:longitude":29.684002,
     "mps:latitude":-1.205707,
@@ -194,9 +197,6 @@
         }
     ],
     "wof:id":85680075,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -205,7 +205,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307642,
+    "wof:lastmodified":1565738412,
     "wof:name":"Kisoro",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

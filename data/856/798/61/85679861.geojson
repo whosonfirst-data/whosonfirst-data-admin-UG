@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MH"
+    ],
     "lbl:latitude":3.171886,
     "lbl:longitude":31.094672,
     "mps:latitude":3.239301,
@@ -210,7 +213,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307620,
+    "wof:lastmodified":1565738405,
     "wof:name":"Maracha",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

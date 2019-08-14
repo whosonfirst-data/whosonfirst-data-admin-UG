@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BI"
+    ],
     "lbl:latitude":-0.171587,
     "lbl:longitude":33.815943,
     "mps:latitude":0.538094,
@@ -219,7 +222,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307615,
+    "wof:lastmodified":1565738403,
     "wof:name":"Bugiri",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AM"
+    ],
     "lbl:latitude":-0.076511,
     "lbl:longitude":30.491624,
     "mps:latitude":-0.03494,
@@ -270,9 +273,6 @@
         }
     ],
     "wof:id":85680047,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -281,7 +281,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307647,
+    "wof:lastmodified":1565738414,
     "wof:name":"Ibanda",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

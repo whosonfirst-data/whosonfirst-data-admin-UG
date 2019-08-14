@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QL"
+    ],
     "lbl:latitude":2.288281,
     "lbl:longitude":32.735241,
     "mps:latitude":2.270539,
@@ -172,9 +175,6 @@
         }
     ],
     "wof:id":85680157,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -183,7 +183,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307649,
+    "wof:lastmodified":1565738414,
     "wof:name":"Kole",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

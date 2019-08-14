@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RO"
+    ],
     "lbl:latitude":1.085027,
     "lbl:longitude":33.495089,
     "mps:latitude":1.085926,
@@ -274,9 +277,6 @@
         }
     ],
     "wof:id":85679803,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -285,7 +285,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307621,
+    "wof:lastmodified":1565738407,
     "wof:name":"Kaliro",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

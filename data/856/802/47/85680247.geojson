@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NW"
+    ],
     "lbl:latitude":2.580132,
     "lbl:longitude":31.850426,
     "mps:latitude":2.577817,
@@ -210,7 +213,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307636,
+    "wof:lastmodified":1565738411,
     "wof:name":"Nwoya",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

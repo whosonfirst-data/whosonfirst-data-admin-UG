@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QU"
+    ],
     "lbl:latitude":0.93331,
     "lbl:longitude":33.105818,
     "mps:latitude":0.908533,
@@ -210,7 +213,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307606,
+    "wof:lastmodified":1565738399,
     "wof:name":"Kamuli",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

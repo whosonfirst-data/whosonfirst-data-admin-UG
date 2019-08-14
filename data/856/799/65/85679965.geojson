@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ME"
+    ],
     "lbl:latitude":1.024732,
     "lbl:longitude":34.199425,
     "mps:latitude":1.044061,
@@ -201,9 +204,6 @@
         }
     ],
     "wof:id":85679965,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -212,7 +212,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307617,
+    "wof:lastmodified":1565738404,
     "wof:name":"Mbale",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

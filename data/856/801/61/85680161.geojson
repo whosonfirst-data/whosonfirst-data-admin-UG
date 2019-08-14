@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AL"
+    ],
     "lbl:latitude":2.204949,
     "lbl:longitude":33.279598,
     "mps:latitude":2.226469,
@@ -182,7 +185,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307648,
+    "wof:lastmodified":1565738414,
     "wof:name":"Alebtong",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

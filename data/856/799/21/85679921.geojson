@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MZ"
+    ],
     "lbl:latitude":1.712241,
     "lbl:longitude":31.784611,
     "mps:latitude":1.570099,
@@ -225,7 +228,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307614,
+    "wof:lastmodified":1565738403,
     "wof:name":"Masindi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

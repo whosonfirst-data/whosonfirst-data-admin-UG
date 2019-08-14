@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Pallisa District"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PS"
+    ],
     "lbl:latitude":1.220349,
     "lbl:longitude":33.741609,
     "mps:latitude":1.213072,
@@ -191,7 +194,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307626,
+    "wof:lastmodified":1565738407,
     "wof:name":"Pallisa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

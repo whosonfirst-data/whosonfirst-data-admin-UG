@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "city"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KM"
+    ],
     "lbl:latitude":0.321905,
     "lbl:longitude":32.594887,
     "mps:latitude":0.362649,
@@ -278,9 +281,6 @@
         }
     ],
     "wof:id":85679867,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -289,7 +289,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307623,
+    "wof:lastmodified":1565738407,
     "wof:name":"Kampala",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

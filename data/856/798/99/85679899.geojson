@@ -13,6 +13,9 @@
     "label:eng_x_preferred_longname":[
         "Kitgum District"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QT"
+    ],
     "lbl:latitude":3.482441,
     "lbl:longitude":33.447971,
     "mps:latitude":3.474347,
@@ -191,7 +194,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307630,
+    "wof:lastmodified":1565738409,
     "wof:name":"Kitgum",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

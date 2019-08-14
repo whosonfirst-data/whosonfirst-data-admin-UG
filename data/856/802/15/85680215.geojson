@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LY"
+    ],
     "lbl:latitude":-0.207992,
     "lbl:longitude":31.191551,
     "mps:latitude":-0.237372,
@@ -178,7 +181,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307636,
+    "wof:lastmodified":1565738411,
     "wof:name":"Lyantonde",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

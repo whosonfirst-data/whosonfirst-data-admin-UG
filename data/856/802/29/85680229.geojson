@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RZ"
+    ],
     "lbl:latitude":-0.298329,
     "lbl:longitude":29.889206,
     "mps:latitude":-0.285951,
@@ -110,7 +113,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307633,
+    "wof:lastmodified":1565738410,
     "wof:name":"Rubirizi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

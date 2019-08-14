@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MQ"
+    ],
     "lbl:latitude":-0.424871,
     "lbl:longitude":31.835346,
     "mps:latitude":-0.489092,
@@ -213,7 +216,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307644,
+    "wof:lastmodified":1565738413,
     "wof:name":"Masaka",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

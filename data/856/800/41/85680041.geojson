@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KE"
+    ],
     "lbl:latitude":0.248149,
     "lbl:longitude":30.497934,
     "mps:latitude":0.220082,
@@ -270,9 +273,6 @@
         }
     ],
     "wof:id":85680041,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -281,7 +281,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307646,
+    "wof:lastmodified":1565738413,
     "wof:name":"Kamwenge",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

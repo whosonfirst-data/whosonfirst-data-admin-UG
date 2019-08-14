@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WA"
+    ],
     "lbl:latitude":0.48209,
     "lbl:longitude":32.574866,
     "mps:latitude":0.066111,
@@ -275,9 +278,6 @@
         }
     ],
     "wof:id":85679879,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -286,7 +286,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307630,
+    "wof:lastmodified":1565738409,
     "wof:name":"Wakiso",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

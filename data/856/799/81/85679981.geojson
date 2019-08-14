@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BJ"
+    ],
     "lbl:latitude":0.861625,
     "lbl:longitude":33.867763,
     "mps:latitude":0.854124,
@@ -273,9 +276,6 @@
         }
     ],
     "wof:id":85679981,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -284,7 +284,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307615,
+    "wof:lastmodified":1565738404,
     "wof:name":"Butaleja",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

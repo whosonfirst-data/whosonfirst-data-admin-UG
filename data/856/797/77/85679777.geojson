@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QM"
+    ],
     "lbl:latitude":1.406911,
     "lbl:longitude":33.91506,
     "mps:latitude":1.483831,
@@ -210,7 +213,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307609,
+    "wof:lastmodified":1565738401,
     "wof:name":"Kumi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

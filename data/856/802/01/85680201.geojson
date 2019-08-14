@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NQ"
+    ],
     "lbl:latitude":2.387389,
     "lbl:longitude":34.268594,
     "mps:latitude":2.412504,
@@ -216,7 +219,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307635,
+    "wof:lastmodified":1565738410,
     "wof:name":"Napak",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

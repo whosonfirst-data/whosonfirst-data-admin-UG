@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KN"
+    ],
     "lbl:latitude":-0.575832,
     "lbl:longitude":32.372561,
     "mps:latitude":-0.581673,
@@ -279,9 +282,6 @@
         }
     ],
     "wof:id":85679769,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -290,7 +290,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307606,
+    "wof:lastmodified":1565738399,
     "wof:name":"Kalangala",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QP"
+    ],
     "lbl:latitude":1.364459,
     "lbl:longitude":34.410629,
     "mps:latitude":1.334153,
@@ -209,7 +212,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307611,
+    "wof:lastmodified":1565738402,
     "wof:name":"Kapchorwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

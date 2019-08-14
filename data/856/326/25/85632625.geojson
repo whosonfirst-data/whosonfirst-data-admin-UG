@@ -15,6 +15,9 @@
     "itu:country_code":[
         "256"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UG"
+    ],
     "lbl:latitude":0.90406,
     "lbl:longitude":32.443764,
     "mps:latitude":0.90406,
@@ -902,9 +905,6 @@
         }
     ],
     "wof:id":85632625,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -913,7 +913,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307659,
+    "wof:lastmodified":1565738417,
     "wof:name":"Uganda",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

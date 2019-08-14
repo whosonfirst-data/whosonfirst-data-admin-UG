@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BY"
+    ],
     "lbl:latitude":1.223281,
     "lbl:longitude":33.22296,
     "mps:latitude":1.21975,
@@ -110,7 +113,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307649,
+    "wof:lastmodified":1565738414,
     "wof:name":"Buyende",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

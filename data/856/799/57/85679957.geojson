@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BW"
+    ],
     "lbl:latitude":1.280057,
     "lbl:longitude":34.681209,
     "mps:latitude":1.263336,
@@ -267,7 +270,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307610,
+    "wof:lastmodified":1565738402,
     "wof:name":"Bukwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

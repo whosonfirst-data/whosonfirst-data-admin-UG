@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IC"
+    ],
     "lbl:latitude":0.668242,
     "lbl:longitude":33.536177,
     "mps:latitude":0.650021,
@@ -213,7 +216,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307607,
+    "wof:lastmodified":1565738399,
     "wof:name":"Iganga",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

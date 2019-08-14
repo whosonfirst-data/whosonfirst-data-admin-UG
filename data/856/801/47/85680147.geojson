@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LM"
+    ],
     "lbl:latitude":3.507586,
     "lbl:longitude":32.531728,
     "mps:latitude":3.4936,
@@ -213,7 +216,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307655,
+    "wof:lastmodified":1565738417,
     "wof:name":"Lamwo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

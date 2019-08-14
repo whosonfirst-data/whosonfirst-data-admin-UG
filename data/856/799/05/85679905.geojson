@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GL"
+    ],
     "lbl:latitude":2.825391,
     "lbl:longitude":32.429456,
     "mps:latitude":2.846351,
@@ -261,9 +264,6 @@
         }
     ],
     "wof:id":85679905,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -272,7 +272,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307612,
+    "wof:lastmodified":1565738402,
     "wof:name":"Gulu",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

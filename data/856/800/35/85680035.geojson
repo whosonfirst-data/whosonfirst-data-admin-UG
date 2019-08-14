@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BC"
+    ],
     "lbl:latitude":-0.479903,
     "lbl:longitude":30.135565,
     "mps:latitude":-0.510545,
@@ -269,7 +272,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307638,
+    "wof:lastmodified":1565738411,
     "wof:name":"Bushenyi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

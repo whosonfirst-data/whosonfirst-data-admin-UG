@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SH"
+    ],
     "lbl:latitude":-0.603844,
     "lbl:longitude":30.368064,
     "mps:latitude":-0.600411,
@@ -158,7 +161,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1564200937,
+    "wof:lastmodified":1565738410,
     "wof:name":"Sheema",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

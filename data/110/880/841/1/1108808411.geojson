@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KH"
+    ],
     "lbl:latitude":-0.198015,
     "lbl:longitude":30.848655,
     "mz:hierarchy_label":1,
@@ -70,7 +73,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553551430,
+    "wof:lastmodified":1565738512,
     "wof:name":"Kiruhura",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

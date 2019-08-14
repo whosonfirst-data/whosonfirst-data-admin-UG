@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BZ"
+    ],
     "lbl:latitude":0.293032,
     "lbl:longitude":33.039674,
     "mps:latitude":-0.020671,
@@ -178,7 +181,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307652,
+    "wof:lastmodified":1565738416,
     "wof:name":"Buikwe",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

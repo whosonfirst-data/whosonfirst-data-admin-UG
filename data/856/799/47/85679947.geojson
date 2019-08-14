@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KI"
+    ],
     "lbl:latitude":0.911179,
     "lbl:longitude":31.112664,
     "mps:latitude":0.915194,
@@ -265,9 +268,6 @@
         }
     ],
     "wof:id":85679947,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -276,7 +276,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307619,
+    "wof:lastmodified":1565738405,
     "wof:name":"Kibale",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

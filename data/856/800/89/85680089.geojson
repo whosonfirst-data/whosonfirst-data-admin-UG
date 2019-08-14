@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NR"
+    ],
     "lbl:latitude":1.504594,
     "lbl:longitude":33.76785,
     "mps:latitude":1.484636,
@@ -169,7 +172,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307640,
+    "wof:lastmodified":1565738412,
     "wof:name":"Ngora",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

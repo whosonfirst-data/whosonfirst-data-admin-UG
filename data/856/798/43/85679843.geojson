@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BL"
+    ],
     "lbl:latitude":1.954967,
     "lbl:longitude":31.397099,
     "mps:latitude":1.968969,
@@ -116,7 +119,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307627,
+    "wof:lastmodified":1565738408,
     "wof:name":"Buliisa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

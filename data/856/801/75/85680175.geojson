@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QD"
+    ],
     "lbl:latitude":2.016611,
     "lbl:longitude":32.096042,
     "mps:latitude":2.028386,
@@ -165,9 +168,6 @@
         }
     ],
     "wof:id":85680175,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -176,7 +176,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307652,
+    "wof:lastmodified":1565738416,
     "wof:name":"Kiryandongo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

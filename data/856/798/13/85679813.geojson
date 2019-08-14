@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ST"
+    ],
     "lbl:latitude":1.773555,
     "lbl:longitude":33.586307,
     "mps:latitude":1.745052,
@@ -209,7 +212,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307632,
+    "wof:lastmodified":1565738409,
     "wof:name":"Soroti",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NA"
+    ],
     "lbl:latitude":1.378465,
     "lbl:longitude":32.430668,
     "mps:latitude":1.360145,
@@ -273,9 +276,6 @@
         }
     ],
     "wof:id":85679875,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -284,7 +284,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307626,
+    "wof:lastmodified":1565738408,
     "wof:name":"Nakasongola",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

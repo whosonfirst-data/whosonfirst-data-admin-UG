@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NT"
+    ],
     "lbl:latitude":-0.90465,
     "lbl:longitude":30.321594,
     "mps:latitude":-0.94552,
@@ -273,9 +276,6 @@
         }
     ],
     "wof:id":85680059,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -284,7 +284,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307638,
+    "wof:lastmodified":1565738411,
     "wof:name":"Ntungamo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

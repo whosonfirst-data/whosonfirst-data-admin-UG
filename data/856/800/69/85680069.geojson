@@ -14,6 +14,9 @@
     "label:eng_x_preferred_longname":[
         "Mbarara County"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RR"
+    ],
     "lbl:latitude":-0.513415,
     "lbl:longitude":30.593305,
     "mps:latitude":-0.493624,
@@ -189,7 +192,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307639,
+    "wof:lastmodified":1565738411,
     "wof:name":"Mbarara",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

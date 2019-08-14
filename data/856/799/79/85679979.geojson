@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BU"
+    ],
     "lbl:latitude":0.414483,
     "lbl:longitude":34.007759,
     "mps:latitude":0.41261,
@@ -277,9 +280,6 @@
         }
     ],
     "wof:id":85679979,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -288,7 +288,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307618,
+    "wof:lastmodified":1565738404,
     "wof:name":"Busia",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

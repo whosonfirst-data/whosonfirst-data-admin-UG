@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BX"
+    ],
     "lbl:latitude":0.718206,
     "lbl:longitude":30.059135,
     "mps:latitude":0.72529,
@@ -271,9 +274,6 @@
         }
     ],
     "wof:id":85679929,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -282,7 +282,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307613,
+    "wof:lastmodified":1565738403,
     "wof:name":"Bundibugyo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GM"
+    ],
     "lbl:latitude":0.18097,
     "lbl:longitude":31.637914,
     "mps:latitude":0.188974,
@@ -205,7 +208,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307650,
+    "wof:lastmodified":1565738415,
     "wof:name":"Gomba",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

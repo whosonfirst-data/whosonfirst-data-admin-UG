@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BA"
+    ],
     "lbl:latitude":1.045423,
     "lbl:longitude":34.394372,
     "mps:latitude":1.056216,
@@ -183,7 +186,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307632,
+    "wof:lastmodified":1565738410,
     "wof:name":"Bududa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

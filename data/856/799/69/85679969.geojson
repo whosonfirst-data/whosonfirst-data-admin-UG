@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MW"
+    ],
     "lbl:latitude":0.886224,
     "lbl:longitude":34.339243,
     "mps:latitude":0.88598,
@@ -116,7 +119,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307610,
+    "wof:lastmodified":1565738402,
     "wof:name":"Manafwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

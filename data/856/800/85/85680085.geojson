@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ZO"
+    ],
     "lbl:latitude":2.528714,
     "lbl:longitude":30.884755,
     "mps:latitude":2.537716,
@@ -346,9 +349,6 @@
         }
     ],
     "wof:id":85680085,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -357,7 +357,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307646,
+    "wof:lastmodified":1565738413,
     "wof:name":"Zombo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RI"
+    ],
     "lbl:latitude":-0.774149,
     "lbl:longitude":31.527958,
     "mps:latitude":-0.796638,
@@ -274,7 +277,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307647,
+    "wof:lastmodified":1565738414,
     "wof:name":"Rakai",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LK"
+    ],
     "lbl:latitude":0.73376,
     "lbl:longitude":33.312672,
     "mps:latitude":0.753535,
@@ -214,7 +217,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307645,
+    "wof:lastmodified":1565738413,
     "wof:name":"Luuka",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

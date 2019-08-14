@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MJ"
+    ],
     "lbl:latitude":-0.013271,
     "lbl:longitude":32.09276,
     "mps:latitude":-0.025462,
@@ -275,7 +278,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307624,
+    "wof:lastmodified":1565738407,
     "wof:name":"Mpigi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

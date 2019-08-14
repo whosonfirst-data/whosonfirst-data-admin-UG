@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "UU"
+    ],
     "lbl:latitude":-0.874111,
     "lbl:longitude":29.742142,
     "mps:latitude":-0.79289,
@@ -272,9 +275,6 @@
         }
     ],
     "wof:id":85680079,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -283,7 +283,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307645,
+    "wof:lastmodified":1565738413,
     "wof:name":"Kanungu",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

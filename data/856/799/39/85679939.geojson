@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BR"
+    ],
     "lbl:latitude":0.597915,
     "lbl:longitude":30.260868,
     "mps:latitude":0.550202,
@@ -273,7 +276,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307617,
+    "wof:lastmodified":1565738404,
     "wof:name":"Kabarole",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

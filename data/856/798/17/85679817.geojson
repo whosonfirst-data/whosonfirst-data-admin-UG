@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MV"
+    ],
     "lbl:latitude":0.030377,
     "lbl:longitude":32.746649,
     "mps:latitude":0.41086,
@@ -218,7 +221,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307625,
+    "wof:lastmodified":1565738407,
     "wof:name":"Mukono",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SX"
+    ],
     "lbl:latitude":1.487436,
     "lbl:longitude":33.371992,
     "mps:latitude":1.517021,
@@ -119,7 +122,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307651,
+    "wof:lastmodified":1565738416,
     "wof:name":"Serere",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

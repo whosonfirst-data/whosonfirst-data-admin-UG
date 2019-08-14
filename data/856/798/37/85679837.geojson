@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AX"
+    ],
     "lbl:latitude":2.816288,
     "lbl:longitude":31.132097,
     "mps:latitude":2.95933,
@@ -199,9 +202,6 @@
         }
     ],
     "wof:id":85679837,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -210,7 +210,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307629,
+    "wof:lastmodified":1565738409,
     "wof:name":"Arua",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

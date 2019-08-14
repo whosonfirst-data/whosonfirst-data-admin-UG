@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KA"
+    ],
     "lbl:latitude":-1.211957,
     "lbl:longitude":29.956997,
     "mps:latitude":-1.234491,
@@ -263,9 +266,6 @@
         }
     ],
     "wof:id":85680073,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -274,7 +274,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307640,
+    "wof:lastmodified":1565738412,
     "wof:name":"Kabale",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

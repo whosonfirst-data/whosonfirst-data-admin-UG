@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AG"
+    ],
     "lbl:latitude":2.875261,
     "lbl:longitude":33.375621,
     "mps:latitude":2.965664,
@@ -114,7 +117,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307649,
+    "wof:lastmodified":1565738415,
     "wof:name":"Agago",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

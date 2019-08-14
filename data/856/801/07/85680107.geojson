@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BD"
+    ],
     "lbl:latitude":1.084388,
     "lbl:longitude":33.998917,
     "mps:latitude":1.062627,
@@ -270,9 +273,6 @@
         }
     ],
     "wof:id":85680107,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -281,7 +281,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307652,
+    "wof:lastmodified":1565738416,
     "wof:name":"Budaka",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

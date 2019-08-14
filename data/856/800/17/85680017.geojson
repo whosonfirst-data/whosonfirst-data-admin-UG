@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MX"
+    ],
     "lbl:latitude":2.694561,
     "lbl:longitude":34.607825,
     "mps:latitude":2.751684,
@@ -213,7 +216,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307641,
+    "wof:lastmodified":1565738412,
     "wof:name":"Moroto",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

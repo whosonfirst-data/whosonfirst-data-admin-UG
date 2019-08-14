@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KK"
+    ],
     "lbl:latitude":1.933785,
     "lbl:longitude":34.058106,
     "mps:latitude":1.926712,
@@ -179,7 +182,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307610,
+    "wof:lastmodified":1565738402,
     "wof:name":"Katakwi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

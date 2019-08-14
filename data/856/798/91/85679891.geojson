@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TY"
+    ],
     "lbl:latitude":0.452698,
     "lbl:longitude":32.074774,
     "mps:latitude":0.430348,
@@ -270,9 +273,6 @@
         }
     ],
     "wof:id":85679891,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -281,7 +281,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307628,
+    "wof:lastmodified":1565738408,
     "wof:name":"Mityana",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AY"
+    ],
     "lbl:latitude":2.991178,
     "lbl:longitude":32.048633,
     "mps:latitude":2.94343,
@@ -116,7 +119,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307653,
+    "wof:lastmodified":1565738416,
     "wof:name":"Amuru",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

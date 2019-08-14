@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "BT"
+    ],
     "lbl:latitude":0.196608,
     "lbl:longitude":32.159346,
     "mps:latitude":0.180309,
@@ -152,7 +155,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550556,
+    "wof:lastmodified":1565738416,
     "wof:name":"Butambala",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

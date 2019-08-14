@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QJ"
+    ],
     "lbl:latitude":0.680436,
     "lbl:longitude":30.656879,
     "mps:latitude":0.616483,
@@ -275,7 +278,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307616,
+    "wof:lastmodified":1565738404,
     "wof:name":"Kyenjojo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

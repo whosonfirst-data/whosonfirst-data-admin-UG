@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KY"
+    ],
     "lbl:latitude":0.879963,
     "lbl:longitude":32.88733,
     "mps:latitude":0.995276,
@@ -285,9 +288,6 @@
         }
     ],
     "wof:id":85679787,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "swa",
         "eng"
@@ -296,7 +296,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307608,
+    "wof:lastmodified":1565738401,
     "wof:name":"Kayunga",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

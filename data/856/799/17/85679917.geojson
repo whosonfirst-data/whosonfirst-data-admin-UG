@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PR"
+    ],
     "lbl:latitude":2.942682,
     "lbl:longitude":32.845868,
     "mps:latitude":2.889602,
@@ -150,7 +153,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307614,
+    "wof:lastmodified":1565738403,
     "wof:name":"Pader",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

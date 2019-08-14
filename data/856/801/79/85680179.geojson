@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NO"
+    ],
     "lbl:latitude":1.024958,
     "lbl:longitude":30.363318,
     "mps:latitude":1.025011,
@@ -166,7 +169,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1563307654,
+    "wof:lastmodified":1565738416,
     "wof:name":"Ntoroko",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

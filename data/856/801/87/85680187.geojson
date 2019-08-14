@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "district"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QW"
+    ],
     "lbl:latitude":1.450162,
     "lbl:longitude":34.590576,
     "mps:latitude":1.457353,
@@ -151,7 +154,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1553550555,
+    "wof:lastmodified":1565738415,
     "wof:name":"Kween",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
