@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.81362,3.01868,30.85362,3.05868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nvio",
         "Nyio"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1327250149,
-    "wof:lastmodified":1537712065,
+    "wof:lastmodified":1566594726,
     "wof:name":"Nyio",
     "wof:parent_id":1092068591,
     "wof:placetype":"locality",

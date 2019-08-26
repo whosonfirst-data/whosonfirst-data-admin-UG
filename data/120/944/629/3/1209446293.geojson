@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.03625,0.73071,34.07625,0.77071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Namwaya"
     ],
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1209446293,
-    "wof:lastmodified":1537712178,
+    "wof:lastmodified":1566595240,
     "wof:name":"Namwaya",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",

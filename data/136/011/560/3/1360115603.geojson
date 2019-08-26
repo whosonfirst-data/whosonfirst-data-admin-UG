@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.1117,0.25042,33.1517,0.29042",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buzama"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360115603,
-    "wof:lastmodified":1537712138,
+    "wof:lastmodified":1566595407,
     "wof:name":"Buzama",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",

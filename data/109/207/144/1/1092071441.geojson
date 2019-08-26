@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.999094,
     "lbl:longitude":32.572233,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"LUWERO",
     "meso:admin_1r":"CENTRAL 2",
     "meso:dissme":"KATIKAMULUWEROCENTRAL 2",
@@ -32,6 +34,7 @@
     "mps:longitude":32.572233,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Katikamu"
     ],
@@ -40,7 +43,7 @@
         "KATIKAMU"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092071441,
-    "wof:lastmodified":1555092061,
+    "wof:lastmodified":1566595440,
     "wof:name":"Katikamu",
     "wof:parent_id":85679881,
     "wof:placetype":"county",

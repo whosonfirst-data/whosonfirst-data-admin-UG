@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.2863,1.70953,31.3263,1.74953",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Runga"
     ],
@@ -41,8 +45,7 @@
         "Runga"
     ],
     "name:und_x_variant":[
-        "Lunga",
-        "Runga"
+        "Lunga"
     ],
     "name:vie_x_preferred":[
         "Runga"
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1343693201,
-    "wof:lastmodified":1564200878,
+    "wof:lastmodified":1566594862,
     "wof:name":"Runga",
     "wof:parent_id":1092068961,
     "wof:placetype":"locality",

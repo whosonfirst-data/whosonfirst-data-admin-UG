@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.59589,3.24514,31.63589,3.28514",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -37,7 +41,7 @@
         "gn:id":8141107
     },
     "wof:country":"UG",
-    "wof:geomhash":"c8345d673766d25c5e9988ab1af2e286",
+    "wof:geomhash":"d052c6569dd59be8b951744eb4ae8428",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209333363,
-    "wof:lastmodified":1536290301,
+    "wof:lastmodified":1566595228,
     "wof:name":"Maaji",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.615890000000004,
+    31.61589,
     3.26514,
-    31.615890000000004,
+    31.61589,
     3.26514
 ],
   "geometry": {"coordinates":[31.61589,3.26514],"type":"Point"}

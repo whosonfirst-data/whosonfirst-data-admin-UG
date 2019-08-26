@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.9139,0.69871,33.9539,0.73871",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1260220187,
-    "wof:lastmodified":1536797999,
+    "wof:lastmodified":1566595281,
     "wof:name":"Yokolo",
     "wof:parent_id":1092074289,
     "wof:placetype":"locality",

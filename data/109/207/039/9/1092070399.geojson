@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":3.620554,
     "lbl:longitude":33.945233,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KAABONG",
     "meso:admin_1r":"KARAMOJA",
     "meso:dissme":"DODOTHKAABONGKARAMOJA",
@@ -32,6 +34,7 @@
     "mps:longitude":33.945233,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Dodoth"
     ],
@@ -40,7 +43,7 @@
         "DODOTH"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632625,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1092070399,
-    "wof:lastmodified":1555047750,
+    "wof:lastmodified":1566595439,
     "wof:name":"Dodoth",
     "wof:parent_id":85680007,
     "wof:placetype":"county",

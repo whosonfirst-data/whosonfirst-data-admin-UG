@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.24947,2.29689,31.28947,2.33689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193155645,
-    "wof:lastmodified":1536373528,
+    "wof:lastmodified":1566595261,
     "wof:name":"Ayugl",
     "wof:parent_id":1092073489,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.28103,0.62449,30.32103,0.66449",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276478755,
-    "wof:lastmodified":1537078020,
+    "wof:lastmodified":1566595082,
     "wof:name":"Nyakagongo",
     "wof:parent_id":421174009,
     "wof:placetype":"locality",

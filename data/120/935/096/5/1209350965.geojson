@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.94667,0.61333,31.98667,0.65333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -37,7 +41,7 @@
         "gn:id":228390
     },
     "wof:country":"UG",
-    "wof:geomhash":"ca15e9a8be7978e57f34acba126583bc",
+    "wof:geomhash":"79bbcce44b377b8f39392e697e728a83",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209350965,
-    "wof:lastmodified":1536289742,
+    "wof:lastmodified":1566595207,
     "wof:name":"Nakawere",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     31.96667,
-    0.6333300000000001,
+    0.63333,
     31.96667,
-    0.6333300000000001
+    0.63333
 ],
   "geometry": {"coordinates":[31.96667,0.63333],"type":"Point"}
 }

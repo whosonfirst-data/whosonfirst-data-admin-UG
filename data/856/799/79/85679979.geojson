@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":0.414483,
     "lbl:longitude":34.007759,
+    "lbl:min_zoom":8.0,
     "mps:latitude":0.41261,
     "mps:longitude":33.997363,
     "mz:hierarchy_label":1,
@@ -151,9 +152,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u0411\u0443\u0441\u0456\u0430"
     ],
-    "name:unk_x_variant":[
-        "Busia District"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0633\u06cc\u0627 \u0636\u0644\u0639"
     ],
@@ -240,9 +238,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"734",
     "statoids:area_mi":"283",
     "statoids:as_of_date":"2014-08-27",
@@ -267,7 +265,7 @@
         "gp:id":20070454,
         "hasc:id":"UG.BU",
         "iso:id":"UG-202",
-        "qs:id":44634,
+        "qs_pg:id":44634,
         "wd:id":"Q1229800"
     },
     "wof:country":"UG",
@@ -288,11 +286,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738404,
+    "wof:lastmodified":1566594903,
     "wof:name":"Busia",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":323662,
     "wof:population_rank":10,

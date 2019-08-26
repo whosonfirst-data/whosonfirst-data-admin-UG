@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.2862,2.96197,31.3262,3.00197",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1292918669,
-    "wof:lastmodified":1536610278,
+    "wof:lastmodified":1566595007,
     "wof:name":"Mailo",
     "wof:parent_id":1092074425,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.11504,0.35845,33.15504,0.39845",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kigudu"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242809095,
-    "wof:lastmodified":1537712134,
+    "wof:lastmodified":1566595527,
     "wof:name":"Kigudu",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",

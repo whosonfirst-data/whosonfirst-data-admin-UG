@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.25586,0.92594,34.29586,0.96594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bumuririnyi"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293619357,
-    "wof:lastmodified":1537712163,
+    "wof:lastmodified":1566594982,
     "wof:name":"Bumuririnyi",
     "wof:parent_id":1092068753,
     "wof:placetype":"locality",

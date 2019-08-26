@@ -9,15 +9,18 @@
     "geom:bbox":"33.17306,0.41861,33.17306,0.41861",
     "geom:latitude":0.41861,
     "geom:longitude":33.17306,
-    "gn:gn_country":"UG",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":61952,
+    "gn:country":"UG",
+    "gn:fcode":"PPL",
     "gn:population":61952,
     "iso:country":"UG",
+    "lbl:bbox":"33.15306,0.39861,33.19306,0.43861",
     "lbl:latitude":0.41861,
     "lbl:longitude":33.17306,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0646\u062c\u064a\u0631\u0648"
@@ -121,7 +124,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0434\u0436\u0435\u0440\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Daru"
     ],
     "name:urd_x_preferred":[
@@ -142,7 +145,7 @@
     "qs_pg:qs_id":1026668,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191573,
@@ -169,7 +172,7 @@
         }
     ],
     "wof:id":1125898067,
-    "wof:lastmodified":1563308578,
+    "wof:lastmodified":1566595503,
     "wof:name":"Njeru",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",

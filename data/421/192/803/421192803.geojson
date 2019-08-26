@@ -10,6 +10,9 @@
     "geom:latitude":0.4175,
     "geom:longitude":32.02278,
     "iso:country":"UG",
+    "lbl:bbox":"32.00278,0.3975,32.04278,0.4375",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -116,7 +119,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u0456\u0442\u044c\u044f\u043d\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mitiyana"
     ],
     "name:urd_x_preferred":[
@@ -247,7 +250,7 @@
     "wof:concordances":{
         "gn:id":229139,
         "gp:id":1453815,
-        "qs:id":1175300,
+        "qs_pg:id":1175300,
         "wd:id":"Q2267729",
         "wk:page":"Mityana"
     },
@@ -264,7 +267,7 @@
         }
     ],
     "wof:id":421192803,
-    "wof:lastmodified":1563308545,
+    "wof:lastmodified":1566595495,
     "wof:name":"Mityana",
     "wof:parent_id":1092072811,
     "wof:placetype":"locality",

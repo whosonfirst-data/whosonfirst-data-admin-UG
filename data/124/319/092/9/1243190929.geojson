@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.71858,1.62704,32.75858,1.66704",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Turukang"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243190929,
-    "wof:lastmodified":1537712053,
+    "wof:lastmodified":1566595601,
     "wof:name":"Turukang",
     "wof:parent_id":1092071719,
     "wof:placetype":"locality",

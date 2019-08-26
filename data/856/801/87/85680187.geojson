@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":1.450162,
     "lbl:longitude":34.590576,
+    "lbl:min_zoom":8.0,
     "mps:latitude":1.457353,
     "mps:longitude":34.600376,
     "mz:hierarchy_label":1,
@@ -30,7 +31,7 @@
     "name:eng_x_preferred":[
         "Kapchorwa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kween District"
     ],
     "ne:abbrev":"",
@@ -107,9 +108,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"850",
     "statoids:area_mi":"328",
     "statoids:as_of_date":"2014-08-27",
@@ -154,11 +155,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738415,
+    "wof:lastmodified":1566594922,
     "wof:name":"Kween",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":93667,
     "wof:population_rank":8,

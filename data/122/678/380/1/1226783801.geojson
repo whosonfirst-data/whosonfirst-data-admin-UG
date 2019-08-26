@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.90177,0.27903,33.94177,0.31903",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nanjese"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226783801,
-    "wof:lastmodified":1537712127,
+    "wof:lastmodified":1566595745,
     "wof:name":"Nanjese",
     "wof:parent_id":1092073897,
     "wof:placetype":"locality",

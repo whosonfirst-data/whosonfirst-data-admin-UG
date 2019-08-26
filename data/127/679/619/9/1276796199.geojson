@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.96658,1.87429,34.00658,1.91429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lale"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1276796199,
-    "wof:lastmodified":1564201235,
+    "wof:lastmodified":1566595102,
     "wof:name":"Lale",
     "wof:parent_id":1092074245,
     "wof:placetype":"locality",

@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.34667,-0.70333,30.38667,-0.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kashozi"
     ],
     "name:und_x_variant":[
-        "Kasozi",
-        "Kashozi"
+        "Kasozi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1343295699,
-    "wof:lastmodified":1564200904,
+    "wof:lastmodified":1566594877,
     "wof:name":"Kashozi",
     "wof:parent_id":1092073983,
     "wof:placetype":"locality",

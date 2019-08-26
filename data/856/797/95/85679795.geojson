@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":0.93331,
     "lbl:longitude":33.105818,
+    "lbl:min_zoom":8.0,
     "mps:latitude":0.908533,
     "mps:longitude":33.122425,
     "mz:hierarchy_label":1,
@@ -127,7 +128,7 @@
         "Kamulidistriktet"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0bc1\u0bae\u0bc1\u0bb3\u0bbf  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b95\u0bc1\u0bae\u0bc1\u0bb3\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c2e\u0c42\u0c32\u0c3f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -167,9 +168,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"1,514",
     "statoids:area_mi":"585",
     "statoids:as_of_date":"2014-08-27",
@@ -213,11 +214,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738399,
+    "wof:lastmodified":1566594897,
     "wof:name":"Kamuli",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":486319,
     "wof:population_rank":10,

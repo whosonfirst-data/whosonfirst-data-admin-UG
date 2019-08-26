@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.05436,0.6676,34.09436,0.7076",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bira"
     ],
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":1326863815,
-    "wof:lastmodified":1564200618,
+    "wof:lastmodified":1566594697,
     "wof:name":"Bira",
     "wof:parent_id":1092074289,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.92609,0.31075,33.96609,0.35075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buhwama"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360322215,
-    "wof:lastmodified":1537712127,
+    "wof:lastmodified":1566595423,
     "wof:name":"Buhwama",
     "wof:parent_id":1092073897,
     "wof:placetype":"locality",

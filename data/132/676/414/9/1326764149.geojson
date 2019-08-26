@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.09183,0.52712,30.13183,0.56712",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Butyoka"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326764149,
-    "wof:lastmodified":1537712146,
+    "wof:lastmodified":1566594742,
     "wof:name":"Butyoka",
     "wof:parent_id":1092069635,
     "wof:placetype":"locality",

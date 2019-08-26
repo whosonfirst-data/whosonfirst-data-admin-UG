@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.585209,
     "lbl:longitude":30.355202,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KABAROLE",
     "meso:admin_1r":"WESTERN",
     "meso:dissme":"BURAHYAKABAROLEWESTERN",
@@ -32,6 +34,7 @@
     "mps:longitude":30.355202,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Burahya"
     ],
@@ -40,7 +43,7 @@
         "BURAHYA"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092069721,
-    "wof:lastmodified":1555092058,
+    "wof:lastmodified":1566595464,
     "wof:name":"Burahya",
     "wof:parent_id":85679939,
     "wof:placetype":"county",

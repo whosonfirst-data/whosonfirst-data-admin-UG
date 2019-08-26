@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"29.77639,-0.83417,29.81639,-0.79417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243485127,
-    "wof:lastmodified":1536749719,
+    "wof:lastmodified":1566595553,
     "wof:name":"Kambuga",
     "wof:parent_id":1092071685,
     "wof:placetype":"locality",

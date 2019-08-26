@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.35223,0.82225,34.39223,0.86225",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Butoboso"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1210050311,
-    "wof:lastmodified":1537712166,
+    "wof:lastmodified":1566595255,
     "wof:name":"Butoboso",
     "wof:parent_id":1092068753,
     "wof:placetype":"locality",

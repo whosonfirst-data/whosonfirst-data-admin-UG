@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.99384,0.30434,33.03384,0.34434",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Salye"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327369997,
-    "wof:lastmodified":1537712137,
+    "wof:lastmodified":1566594681,
     "wof:name":"Salye",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",

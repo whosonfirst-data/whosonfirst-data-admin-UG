@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.011,0.69976,33.051,0.73976",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -37,7 +41,7 @@
         "gn:id":228402
     },
     "wof:country":"UG",
-    "wof:geomhash":"d6ae6a7b2c51821c540eef7847f4a241",
+    "wof:geomhash":"3c7bc3c6dace24b5281bcc53d2176e7d",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209244467,
-    "wof:lastmodified":1536293212,
+    "wof:lastmodified":1566595175,
     "wof:name":"Nakatoke",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     33.031,
-    0.7197600000000001,
+    0.71976,
     33.031,
-    0.7197600000000001
+    0.71976
 ],
   "geometry": {"coordinates":[33.031,0.71976],"type":"Point"}
 }

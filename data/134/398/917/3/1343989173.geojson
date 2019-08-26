@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.15236,0.45084,33.19236,0.49084",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Buwenda"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343989173,
-    "wof:lastmodified":1564200770,
+    "wof:lastmodified":1566594793,
     "wof:name":"Buwenda",
     "wof:parent_id":1092070051,
     "wof:placetype":"locality",

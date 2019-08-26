@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.85242,3.36,31.89242,3.4",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293210847,
-    "wof:lastmodified":1536688868,
+    "wof:lastmodified":1566595019,
     "wof:name":"Jurumini",
     "wof:parent_id":1092070471,
     "wof:placetype":"locality",

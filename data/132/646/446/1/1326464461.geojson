@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.13139,0.25676,32.17139,0.29676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326464461,
-    "wof:lastmodified":1537078515,
+    "wof:lastmodified":1566594751,
     "wof:name":"Ngugulo",
     "wof:parent_id":1092069929,
     "wof:placetype":"locality",

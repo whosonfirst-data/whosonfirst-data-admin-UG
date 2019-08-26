@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.84667,-0.95333,30.88667,-0.91333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u06a9\u0627\u062a\u0648\u0647"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259820707,
-    "wof:lastmodified":1564202131,
+    "wof:lastmodified":1566595633,
     "wof:name":"Katwe",
     "wof:parent_id":1092069267,
     "wof:placetype":"locality",

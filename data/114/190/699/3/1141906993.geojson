@@ -10,10 +10,14 @@
     "geom:latitude":2.470378,
     "geom:longitude":31.47998,
     "iso:country":"UG",
+    "lbl:bbox":"31.4599800199,2.4503776234,31.4999800199,2.4903776234",
     "lbl:latitude":2.470378,
     "lbl:longitude":31.47998,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Pakwach"
     ],
@@ -169,7 +173,7 @@
         }
     ],
     "wof:id":1141906993,
-    "wof:lastmodified":1563309041,
+    "wof:lastmodified":1566595775,
     "wof:name":"Pakwach",
     "wof:parent_id":1092070857,
     "wof:placetype":"locality",

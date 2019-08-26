@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.92857,2.43995,30.96857,2.47995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nyapea"
     ],
     "name:und_x_variant":[
-        "Niapea",
-        "Nyapea"
+        "Niapea"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1259802343,
-    "wof:lastmodified":1564202166,
+    "wof:lastmodified":1566595652,
     "wof:name":"Nyapea",
     "wof:parent_id":1092073339,
     "wof:placetype":"locality",

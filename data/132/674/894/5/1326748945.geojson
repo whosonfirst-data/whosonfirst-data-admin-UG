@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.17768,3.11658,33.21768,3.15658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Wol"
     ],
@@ -35,8 +39,7 @@
         "Wol"
     ],
     "name:und_x_variant":[
-        "Waal",
-        "Wol"
+        "Waal"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1326748945,
-    "wof:lastmodified":1564200623,
+    "wof:lastmodified":1566594701,
     "wof:name":"Wol",
     "wof:parent_id":1092068365,
     "wof:placetype":"locality",

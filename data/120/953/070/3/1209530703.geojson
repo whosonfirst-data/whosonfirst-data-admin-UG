@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.04184,1.79217,33.08184,1.83217",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -37,7 +41,7 @@
         "gn:id":234907
     },
     "wof:country":"UG",
-    "wof:geomhash":"267f4a86b2d8c14a0596e7dee7b94aaf",
+    "wof:geomhash":"3b20db39accba9c46d695b986debc560",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209530703,
-    "wof:lastmodified":1536284289,
+    "wof:lastmodified":1566595148,
     "wof:name":"Ayoni",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.061840000000004,
+    33.06184,
     1.81217,
-    33.061840000000004,
+    33.06184,
     1.81217
 ],
   "geometry": {"coordinates":[33.06184,1.81217],"type":"Point"}

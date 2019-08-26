@@ -18,6 +18,7 @@
     ],
     "lbl:latitude":3.482441,
     "lbl:longitude":33.447971,
+    "lbl:min_zoom":8.0,
     "mps:latitude":3.474347,
     "mps:longitude":33.468008,
     "mz:hierarchy_label":1,
@@ -164,7 +165,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":408,
     "wof:belongsto":[
         102191573,
@@ -194,7 +195,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738409,
+    "wof:lastmodified":1566594910,
     "wof:name":"Kitgum",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

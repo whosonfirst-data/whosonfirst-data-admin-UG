@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.12576,2.63219,31.16576,2.67219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Okollo"
     ],
     "name:und_x_variant":[
-        "Okolo",
-        "Okollo"
+        "Okolo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1242981415,
-    "wof:lastmodified":1564202016,
+    "wof:lastmodified":1566595575,
     "wof:name":"Okollo",
     "wof:parent_id":1092074425,
     "wof:placetype":"locality",

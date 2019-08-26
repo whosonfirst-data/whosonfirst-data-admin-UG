@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.51111,0.76417,30.55111,0.80417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360116303,
-    "wof:lastmodified":1536900713,
+    "wof:lastmodified":1566595411,
     "wof:name":"Kyarusozi",
     "wof:parent_id":1092072955,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":32.66722,
     "gn:country":"UG",
     "gn:fcode":"PPL",
-    "gn:pop":11473,
+    "gn:population":11473,
     "iso:country":"UG",
+    "lbl:bbox":"32.64722,0.33583,32.68722,0.37583",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Bweyogerere"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":233738,
         "gp:id":1453938,
-        "qs:id":123624,
+        "qs_pg:id":123624,
         "wd:id":"Q5003681",
         "wk:page":"Bweyogerere"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890433287,
-    "wof:lastmodified":1563308572,
+    "wof:lastmodified":1566595502,
     "wof:name":"Bweyogerere",
     "wof:parent_id":1092072041,
     "wof:placetype":"locality",

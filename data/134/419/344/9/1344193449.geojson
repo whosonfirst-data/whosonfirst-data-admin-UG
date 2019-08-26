@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.43966,0.66351,30.47966,0.70351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Karongo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344193449,
-    "wof:lastmodified":1537712150,
+    "wof:lastmodified":1566594870,
     "wof:name":"Karongo",
     "wof:parent_id":1092072955,
     "wof:placetype":"locality",

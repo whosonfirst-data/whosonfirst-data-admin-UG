@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":1.024732,
     "lbl:longitude":34.199425,
+    "lbl:min_zoom":8.0,
     "mps:latitude":1.044061,
     "mps:longitude":34.196336,
     "mz:hierarchy_label":1,
@@ -92,7 +93,7 @@
         "Mbale"
     ],
     "name:mar_x_preferred":[
-        "\u092e\u094d\u092c\u0932\u0947  \u091c\u093f\u0932\u094d\u0939\u093e"
+        "\u092e\u094d\u092c\u0932\u0947 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
     "name:msa_x_preferred":[
         "Mbale District"
@@ -128,7 +129,7 @@
         "Mbaledistriktet"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bcd\u0baa\u0bb2\u0bc7  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0bae\u0bcd\u0baa\u0bb2\u0bc7 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c02\u0c2c\u0c47\u0c32\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -166,9 +167,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"517",
     "statoids:area_mi":"200",
     "statoids:as_of_date":"2014-08-27",
@@ -191,7 +192,7 @@
         "gp:id":20070433,
         "hasc:id":"UG.ME",
         "iso:id":"UG-209",
-        "qs:id":1087218,
+        "qs_pg:id":1087218,
         "wd:id":"Q581822"
     },
     "wof:country":"UG",
@@ -212,11 +213,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738404,
+    "wof:lastmodified":1566594903,
     "wof:name":"Mbale",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":488960,
     "wof:population_rank":10,

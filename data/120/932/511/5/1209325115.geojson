@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.65328,1.85155,32.69328,1.89155",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Acamanumu"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209325115,
-    "wof:lastmodified":1537712112,
+    "wof:lastmodified":1566595206,
     "wof:name":"Acamanumu",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",

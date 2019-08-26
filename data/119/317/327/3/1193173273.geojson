@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.3821,0.17816,32.4221,0.21816",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Sokolo"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1193173273,
-    "wof:lastmodified":1564201543,
+    "wof:lastmodified":1566595280,
     "wof:name":"Sokolo",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

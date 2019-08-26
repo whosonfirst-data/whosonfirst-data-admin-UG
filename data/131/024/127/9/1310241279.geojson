@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.76387,0.22373,32.80387,0.26373",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:epo_x_preferred":[
         "Bukusuoj"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310241279,
-    "wof:lastmodified":1564201610,
+    "wof:lastmodified":1566595317,
     "wof:name":"Bukusu",
     "wof:parent_id":1092072911,
     "wof:placetype":"locality",

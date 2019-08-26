@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.24667,0.56333,31.28667,0.60333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Moya"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1326466591,
-    "wof:lastmodified":1564200708,
+    "wof:lastmodified":1566594753,
     "wof:name":"Moya",
     "wof:parent_id":1092070137,
     "wof:placetype":"locality",

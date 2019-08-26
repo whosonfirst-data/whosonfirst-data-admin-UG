@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.8146,3.78202,33.8546,3.82202",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Taan",
         "Taan Valley"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326945273,
-    "wof:lastmodified":1537712054,
+    "wof:lastmodified":1566594711,
     "wof:name":"Taan Valley",
     "wof:parent_id":1092070399,
     "wof:placetype":"locality",

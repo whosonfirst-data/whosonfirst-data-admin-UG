@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.78833,2.02722,33.82833,2.06722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327064171,
-    "wof:lastmodified":1536714958,
+    "wof:lastmodified":1566594674,
     "wof:name":"Achwa",
     "wof:parent_id":1092071245,
     "wof:placetype":"locality",

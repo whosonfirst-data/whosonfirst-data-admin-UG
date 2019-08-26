@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-0.298329,
     "lbl:longitude":29.889206,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-0.285951,
     "mps:longitude":29.915448,
     "mz:hierarchy_label":1,
@@ -65,9 +66,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"1,092",
     "statoids:area_mi":"422",
     "statoids:as_of_date":"2014-08-27",
@@ -113,11 +114,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738410,
+    "wof:lastmodified":1566594912,
     "wof:name":"Rubirizi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":129149,
     "wof:population_rank":9,

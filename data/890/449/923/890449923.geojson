@@ -11,8 +11,11 @@
     "geom:longitude":32.31361,
     "gn:country":"UG",
     "gn:fcode":"PPLA2",
-    "gn:pop":11082,
+    "gn:population":11082,
     "iso:country":"UG",
+    "lbl:bbox":"32.29361,0.205,32.33361,0.245",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -235,10 +238,12 @@
     "wof:concordances":{
         "gn:id":229024,
         "gp:id":1453858,
-        "qs:id":73683,
-        "qs_pg:id":1117187,
+        "qs_pg:id":73683,
         "wd:id":"Q933338",
         "wk:page":"Mpigi"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1117187
     },
     "wof:country":"UG",
     "wof:created":1469052716,
@@ -253,7 +258,7 @@
         }
     ],
     "wof:id":890449923,
-    "wof:lastmodified":1563308565,
+    "wof:lastmodified":1566595499,
     "wof:name":"Mpigi",
     "wof:parent_id":1092072705,
     "wof:placetype":"locality",

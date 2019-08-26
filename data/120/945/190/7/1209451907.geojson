@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.15466,0.03502,32.19466,0.07502",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -35,7 +39,7 @@
         "gn:id":11552383
     },
     "wof:country":"UG",
-    "wof:geomhash":"52efac2d67258171a0655a95aa6a2e18",
+    "wof:geomhash":"f84c0a8547fe21d43652b5b5cdffd7b7",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209451907,
-    "wof:lastmodified":1536286647,
+    "wof:lastmodified":1566595238,
     "wof:name":"Mayirikiti",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     32.17466,
-    0.055020000000000006,
+    0.05502,
     32.17466,
-    0.055020000000000006
+    0.05502
 ],
   "geometry": {"coordinates":[32.17466,0.05502],"type":"Point"}
 }

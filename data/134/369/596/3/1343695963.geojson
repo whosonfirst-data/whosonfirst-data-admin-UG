@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.25332,0.69042,30.29332,0.73042",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nyamaya"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343695963,
-    "wof:lastmodified":1537712149,
+    "wof:lastmodified":1566594859,
     "wof:name":"Nyamaya",
     "wof:parent_id":1092069721,
     "wof:placetype":"locality",

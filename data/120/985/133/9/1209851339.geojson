@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.86692,0.24411,32.90692,0.28411",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209851339,
-    "wof:lastmodified":1536388292,
+    "wof:lastmodified":1566595180,
     "wof:name":"Ntove",
     "wof:parent_id":1092072911,
     "wof:placetype":"locality",

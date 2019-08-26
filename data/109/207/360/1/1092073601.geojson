@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.895944,
     "lbl:longitude":34.934722,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"AMUDAT",
     "meso:admin_1r":"KARAMOJA",
     "meso:dissme":"POKOTAMUDATKARAMOJA",
@@ -32,6 +34,7 @@
     "mps:longitude":34.934722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Upe"
     ],
@@ -41,7 +44,7 @@
         "POKOT"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632625,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1092073601,
-    "wof:lastmodified":1555047751,
+    "wof:lastmodified":1566595444,
     "wof:name":"Upe",
     "wof:parent_id":85680209,
     "wof:placetype":"county",

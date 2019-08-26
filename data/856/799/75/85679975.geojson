@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-0.171587,
     "lbl:longitude":33.815943,
+    "lbl:min_zoom":8.0,
     "mps:latitude":0.538094,
     "mps:longitude":33.770074,
     "mz:hierarchy_label":1,
@@ -86,9 +87,6 @@
     ],
     "name:swa_x_preferred":[
         "Bugiri"
-    ],
-    "name:unk_x_variant":[
-        "Bugiri District"
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u06af\u06cc\u0631\u06cc"
@@ -173,9 +171,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"1,038",
     "statoids:area_mi":"401",
     "statoids:as_of_date":"2014-08-27",
@@ -222,11 +220,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738403,
+    "wof:lastmodified":1566594902,
     "wof:name":"Bugiri",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":382913,
     "wof:population_rank":10,

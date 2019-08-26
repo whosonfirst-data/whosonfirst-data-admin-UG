@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.19333,-1.17306,30.23333,-1.13306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Ngoma"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1310341133,
-    "wof:lastmodified":1564201718,
+    "wof:lastmodified":1566595380,
     "wof:name":"Ngoma",
     "wof:parent_id":1092073825,
     "wof:placetype":"locality",

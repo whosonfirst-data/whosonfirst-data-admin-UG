@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-0.603844,
     "lbl:longitude":30.368064,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-0.600411,
     "mps:longitude":30.375876,
     "mz:hierarchy_label":1,
@@ -33,7 +34,7 @@
     "name:lug_x_preferred":[
         "Kabwohe"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sheema District"
     ],
     "name:urd_x_preferred":[
@@ -114,9 +115,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"696",
     "statoids:area_mi":"269",
     "statoids:as_of_date":"2014-08-27",
@@ -161,11 +162,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738410,
+    "wof:lastmodified":1566594913,
     "wof:name":"Sheema",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":207343,
     "wof:population_rank":10,

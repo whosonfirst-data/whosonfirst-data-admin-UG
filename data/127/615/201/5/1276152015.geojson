@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.66333,1.09667,32.70333,1.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Nkinga"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276152015,
-    "wof:lastmodified":1564201230,
+    "wof:lastmodified":1566595099,
     "wof:name":"Nkinga",
     "wof:parent_id":1092069759,
     "wof:placetype":"locality",

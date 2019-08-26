@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":1.084832,
     "lbl:longitude":32.168243,
+    "lbl:min_zoom":8.0,
     "mps:latitude":1.050916,
     "mps:longitude":32.193072,
     "mz:hierarchy_label":1,
@@ -77,9 +78,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"3,461",
     "statoids:area_mi":"1,336",
     "statoids:as_of_date":"2014-08-27",
@@ -104,7 +105,7 @@
         "gp:id":20070453,
         "hasc:id":"UG.NK",
         "iso:id":"UG-115",
-        "qs:id":1084703,
+        "qs_pg:id":1084703,
         "unlc:id":"UG-115",
         "wd:id":"Q3529595"
     },
@@ -126,11 +127,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738406,
+    "wof:lastmodified":1566594905,
     "wof:name":"Nakaseke",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":197369,
     "wof:population_rank":9,

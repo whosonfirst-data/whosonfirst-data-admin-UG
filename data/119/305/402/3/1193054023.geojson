@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.29333,0.60722,32.33333,0.64722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lug_x_preferred":[
         "Ssemuto"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1193054023,
-    "wof:lastmodified":1564201526,
+    "wof:lastmodified":1566595271,
     "wof:name":"Semuto",
     "wof:parent_id":1092072985,
     "wof:placetype":"locality",

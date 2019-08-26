@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.542866,
     "lbl:longitude":33.282972,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"JINJA",
     "meso:admin_1r":"EAST CENTRAL",
     "meso:dissme":"BUTEMBEJINJAEAST CENTRAL",
@@ -32,6 +34,7 @@
     "mps:longitude":33.282972,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Butembe"
     ],
@@ -40,7 +43,7 @@
         "BUTEMBE"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092070051,
-    "wof:lastmodified":1555092059,
+    "wof:lastmodified":1566595451,
     "wof:name":"Butembe",
     "wof:parent_id":85679773,
     "wof:placetype":"county",

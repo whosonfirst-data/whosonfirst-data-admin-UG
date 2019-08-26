@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.31,0.89889,34.35,0.93889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bukhaweka"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260110735,
-    "wof:lastmodified":1537712101,
+    "wof:lastmodified":1566595301,
     "wof:name":"Bukhaweka",
     "wof:parent_id":1092068753,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":3.171886,
     "lbl:longitude":31.094672,
+    "lbl:min_zoom":8.0,
     "mps:latitude":3.239301,
     "mps:longitude":30.916197,
     "mz:hierarchy_label":1,
@@ -164,9 +165,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"438",
     "statoids:area_mi":"169",
     "statoids:as_of_date":"2014-08-27",
@@ -191,7 +192,7 @@
         "gp:id":20070412,
         "hasc:id":"UG.MH",
         "iso:id":"UG-320",
-        "qs:id":237422,
+        "qs_pg:id":237422,
         "unlc:id":"UG-320",
         "wd:id":"Q1229758"
     },
@@ -213,11 +214,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738405,
+    "wof:lastmodified":1566594905,
     "wof:name":"Maracha",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":186134,
     "wof:population_rank":9,

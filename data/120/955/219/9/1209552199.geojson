@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.12174,0.25618,32.16174,0.29618",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -35,7 +39,7 @@
         "gn:id":11551843
     },
     "wof:country":"UG",
-    "wof:geomhash":"288c40401263c8ba0cb668a14421ce36",
+    "wof:geomhash":"6e8926ca5ed05b6d12141d315b175174",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209552199,
-    "wof:lastmodified":1536283658,
+    "wof:lastmodified":1566595163,
     "wof:name":"Mailye",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     32.14174000000001,
-    0.27618000000000004,
+    0.27618,
     32.14174000000001,
-    0.27618000000000004
+    0.27618
 ],
   "geometry": {"coordinates":[32.14174000000001,0.27618],"type":"Point"}
 }

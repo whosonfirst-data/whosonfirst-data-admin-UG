@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.16982,0.9446,34.20982,0.9846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nashisaka"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343692473,
-    "wof:lastmodified":1537712170,
+    "wof:lastmodified":1566594860,
     "wof:name":"Nashisaka",
     "wof:parent_id":1092069563,
     "wof:placetype":"locality",

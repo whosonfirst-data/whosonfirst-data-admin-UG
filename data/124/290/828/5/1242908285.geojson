@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.11438,0.46869,33.15438,0.50869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Malindi"
     ],
@@ -189,7 +193,7 @@
         }
     ],
     "wof:id":1242908285,
-    "wof:lastmodified":1564202022,
+    "wof:lastmodified":1566595578,
     "wof:name":"Malindi",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",

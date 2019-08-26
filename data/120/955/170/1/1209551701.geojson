@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.02029,0.30058,32.06029,0.34058",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -35,7 +39,7 @@
         "gn:id":11551789
     },
     "wof:country":"UG",
-    "wof:geomhash":"4f7bf97c035d5eff7efc5aef7bef0863",
+    "wof:geomhash":"ab08663578fbbbd6d23201ba3f1f1072",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209551701,
-    "wof:lastmodified":1536283673,
+    "wof:lastmodified":1566595166,
     "wof:name":"Kigogolo",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     32.04029,
-    0.32058000000000003,
+    0.32058,
     32.04029,
-    0.32058000000000003
+    0.32058
 ],
   "geometry": {"coordinates":[32.04029,0.32058],"type":"Point"}
 }

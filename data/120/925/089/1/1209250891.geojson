@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.98872,0.89,33.02872,0.93",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -35,7 +39,7 @@
         "gn:id":11553118
     },
     "wof:country":"UG",
-    "wof:geomhash":"d2d6fe04f338d4edeaf8ab900bd31e2d",
+    "wof:geomhash":"993aebe41575f222bc6eb48deb924419",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209250891,
-    "wof:lastmodified":1536293008,
+    "wof:lastmodified":1566595189,
     "wof:name":"Busuyi",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.008720000000004,
+    33.00872,
     0.91,
-    33.008720000000004,
+    33.00872,
     0.91
 ],
   "geometry": {"coordinates":[33.00872,0.91],"type":"Point"}

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":1.373391,
     "lbl:longitude":34.135568,
+    "lbl:min_zoom":8.0,
     "mps:latitude":1.340743,
     "mps:longitude":34.126485,
     "mz:hierarchy_label":1,
@@ -142,9 +143,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"1,032",
     "statoids:area_mi":"398",
     "statoids:as_of_date":"2014-08-27",
@@ -191,11 +192,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738411,
+    "wof:lastmodified":1566594914,
     "wof:name":"Bukedea",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":203600,
     "wof:population_rank":10,

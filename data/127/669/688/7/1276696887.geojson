@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.09664,0.74312,30.13664,0.78312",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kabango"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276696887,
-    "wof:lastmodified":1537712092,
+    "wof:lastmodified":1566595062,
     "wof:name":"Kabango",
     "wof:parent_id":1092074383,
     "wof:placetype":"locality",

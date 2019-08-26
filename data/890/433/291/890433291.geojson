@@ -11,10 +11,14 @@
     "geom:longitude":33.23444,
     "gn:country":"UG",
     "gn:fcode":"PPL",
-    "gn:pop":11598,
+    "gn:population":11598,
     "iso:country":"UG",
+    "lbl:bbox":"33.21444,0.45972,33.25444,0.49972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:bul_x_preferred":[
         "\u0411\u0443\u0433\u0435\u043c\u0431\u0435"
     ],
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":234578,
         "gp:id":1450671,
-        "qs:id":123634,
+        "qs_pg:id":123634,
         "wd:id":"Q4986157",
         "wk:page":"Bugembe"
     },
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":890433291,
-    "wof:lastmodified":1563308575,
+    "wof:lastmodified":1566595502,
     "wof:name":"Bugembe",
     "wof:parent_id":1092070051,
     "wof:placetype":"locality",

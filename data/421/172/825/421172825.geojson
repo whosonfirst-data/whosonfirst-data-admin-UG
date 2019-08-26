@@ -10,8 +10,12 @@
     "geom:latitude":0.26472,
     "geom:longitude":32.62722,
     "iso:country":"UG",
+    "lbl:bbox":"32.60722,0.24472,32.64722,0.28472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Gaba"
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":443180,
         "gp:id":1451396,
-        "qs:id":479087
+        "qs_pg:id":479087
     },
     "wof:country":"UG",
     "wof:created":1459008956,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421172825,
-    "wof:lastmodified":1564201875,
+    "wof:lastmodified":1566595497,
     "wof:name":"Gaba",
     "wof:parent_id":1092071203,
     "wof:placetype":"locality",

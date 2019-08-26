@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.69667,-0.97,30.73667,-0.93",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Butale"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1326964315,
-    "wof:lastmodified":1564200722,
+    "wof:lastmodified":1566594763,
     "wof:name":"Butale",
     "wof:parent_id":1092070741,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.12472,3.25093,31.16472,3.29093",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293902287,
-    "wof:lastmodified":1536686267,
+    "wof:lastmodified":1566594948,
     "wof:name":"Utumbari",
     "wof:parent_id":1092074097,
     "wof:placetype":"locality",

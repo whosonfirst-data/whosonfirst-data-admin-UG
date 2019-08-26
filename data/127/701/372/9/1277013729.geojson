@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.39648,2.14031,31.43648,2.18031",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277013729,
-    "wof:lastmodified":1536860371,
+    "wof:lastmodified":1566595039,
     "wof:name":"Bikongoro",
     "wof:parent_id":1092069517,
     "wof:placetype":"locality",

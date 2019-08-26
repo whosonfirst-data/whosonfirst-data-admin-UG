@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.57984,2.32394,31.61984,2.36394",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -37,7 +41,7 @@
         "gn:id":8200510
     },
     "wof:country":"UG",
-    "wof:geomhash":"9af71c3a176c68f81d405a8c48a94979",
+    "wof:geomhash":"387a2cdef2b55db10b4d2355891dbfb6",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209329683,
-    "wof:lastmodified":1536290412,
+    "wof:lastmodified":1566595206,
     "wof:name":"Te-Okuto",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -55,10 +59,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.599840000000004,
-    2.3439400000000004,
-    31.599840000000004,
-    2.3439400000000004
+    31.59984,
+    2.34394,
+    31.59984,
+    2.34394
 ],
   "geometry": {"coordinates":[31.59984,2.34394],"type":"Point"}
 }

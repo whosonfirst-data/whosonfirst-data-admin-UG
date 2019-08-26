@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":1.024958,
     "lbl:longitude":30.363318,
+    "lbl:min_zoom":8.0,
     "mps:latitude":1.025011,
     "mps:longitude":30.357521,
     "mz:hierarchy_label":1,
@@ -39,7 +40,7 @@
     "name:nld_x_preferred":[
         "Ntoroko"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ntoroko District"
     ],
     "name:urd_x_preferred":[
@@ -120,9 +121,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"1,239",
     "statoids:area_mi":"478",
     "statoids:as_of_date":"2014-08-27",
@@ -169,11 +170,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738416,
+    "wof:lastmodified":1566594924,
     "wof:name":"Ntoroko",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":67005,
     "wof:population_rank":8,

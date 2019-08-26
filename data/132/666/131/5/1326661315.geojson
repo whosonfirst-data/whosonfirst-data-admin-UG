@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.3393,1.01896,34.3793,1.05896",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326661315,
-    "wof:lastmodified":1536798095,
+    "wof:lastmodified":1566594717,
     "wof:name":"Bunakhayoti",
     "wof:parent_id":1092072481,
     "wof:placetype":"locality",

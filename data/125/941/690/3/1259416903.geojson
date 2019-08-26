@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.94248,1.77337,31.98248,1.81337",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1259416903,
-    "wof:lastmodified":1536954549,
+    "wof:lastmodified":1566595623,
     "wof:name":"Kidima",
     "wof:parent_id":1092071513,
     "wof:placetype":"locality",

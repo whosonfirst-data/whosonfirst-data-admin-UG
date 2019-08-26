@@ -19,6 +19,7 @@
     ],
     "lbl:latitude":-0.513415,
     "lbl:longitude":30.593305,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-0.493624,
     "mps:longitude":30.599535,
     "mz:hierarchy_label":1,
@@ -161,7 +162,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":1091,
     "wof:belongsto":[
         102191573,
@@ -171,7 +172,7 @@
     "wof:concordances":{
         "gp:id":20070434,
         "hasc:id":"UG.RR",
-        "qs:id":1087219,
+        "qs_pg:id":1087219,
         "wd:id":"Q1091595"
     },
     "wof:country":"UG",
@@ -192,7 +193,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738411,
+    "wof:lastmodified":1566594915,
     "wof:name":"Mbarara",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

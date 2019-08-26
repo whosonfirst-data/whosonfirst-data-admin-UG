@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.89389,1.34111,33.93389,1.38111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kanyumu",
         "Kanyum"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293135443,
-    "wof:lastmodified":1537712089,
+    "wof:lastmodified":1566594977,
     "wof:name":"Kanyum",
     "wof:parent_id":1092071937,
     "wof:placetype":"locality",

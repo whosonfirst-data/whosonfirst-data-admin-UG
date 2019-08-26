@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"29.96333,-0.63667,30.00333,-0.59667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -37,7 +41,7 @@
         "gn:id":230520
     },
     "wof:country":"UG",
-    "wof:geomhash":"86601e46ae1994d1d54f99d09918a4d2",
+    "wof:geomhash":"28c9ba952f3fd3f8e809de227c0188d5",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209645997,
-    "wof:lastmodified":1536280734,
+    "wof:lastmodified":1566595159,
     "wof:name":"Kyabuzigye",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     29.98333,
-    -0.6166699999999999,
+    -0.61667,
     29.98333,
-    -0.6166699999999999
+    -0.61667
 ],
   "geometry": {"coordinates":[29.98333,-0.61667],"type":"Point"}
 }

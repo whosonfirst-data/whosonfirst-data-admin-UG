@@ -10,6 +10,9 @@
     "geom:latitude":1.145,
     "geom:longitude":33.70944,
     "iso:country":"UG",
+    "lbl:bbox":"33.68944,1.125,33.72944,1.165",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -56,7 +59,7 @@
     "name:swa_x_preferred":[
         "Pallisa"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Palissa"
     ],
     "name:urd_x_preferred":[
@@ -184,7 +187,7 @@
     "wof:concordances":{
         "gn:id":226823,
         "gp:id":1455061,
-        "qs:id":273750,
+        "qs_pg:id":273750,
         "wd:id":"Q2297538",
         "wk:page":"Pallisa"
     },
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":421179949,
-    "wof:lastmodified":1563308562,
+    "wof:lastmodified":1566595499,
     "wof:name":"Pallisa",
     "wof:parent_id":1092073523,
     "wof:placetype":"locality",

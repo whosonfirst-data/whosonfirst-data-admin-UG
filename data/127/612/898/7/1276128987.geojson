@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.92389,2.91972,32.96389,2.95972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276128987,
-    "wof:lastmodified":1537050223,
+    "wof:lastmodified":1566595093,
     "wof:name":"Pajule",
     "wof:parent_id":1092068503,
     "wof:placetype":"locality",

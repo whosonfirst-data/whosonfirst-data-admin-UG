@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.20818,0.10406,32.24818,0.14406",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344093699,
-    "wof:lastmodified":1536826625,
+    "wof:lastmodified":1566594815,
     "wof:name":"Butolo",
     "wof:parent_id":1092072705,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.8476,3.0966,30.8876,3.1366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u064a\u062a\u0634\u0648"
     ],
@@ -107,8 +111,7 @@
         "Michu"
     ],
     "name:und_x_variant":[
-        "Micu",
-        "Michu"
+        "Micu"
     ],
     "name:vie_x_preferred":[
         "Michu"
@@ -136,7 +139,7 @@
         }
     ],
     "wof:id":1242788349,
-    "wof:lastmodified":1564202003,
+    "wof:lastmodified":1566595568,
     "wof:name":"Michu",
     "wof:parent_id":1092068591,
     "wof:placetype":"locality",

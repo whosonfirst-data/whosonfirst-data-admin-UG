@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.25859,0.81395,34.29859,0.85395",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bumuketsi"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1343390561,
-    "wof:lastmodified":1537712167,
+    "wof:lastmodified":1566594800,
     "wof:name":"Bumuketsi",
     "wof:parent_id":1092068753,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.29904,0.25914,32.33904,0.29914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nono"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1209646387,
-    "wof:lastmodified":1564201335,
+    "wof:lastmodified":1566595161,
     "wof:name":"Nono",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",

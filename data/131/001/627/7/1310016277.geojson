@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.92347,3.02986,30.96347,3.06986",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ombache",
         "Ombachi"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310016277,
-    "wof:lastmodified":1537712062,
+    "wof:lastmodified":1566595354,
     "wof:name":"Ombachi",
     "wof:parent_id":1092068591,
     "wof:placetype":"locality",

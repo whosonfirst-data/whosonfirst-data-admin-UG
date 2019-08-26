@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.16878,0.80898,33.20878,0.84898",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lug_x_preferred":[
         "Busobya"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1242709039,
-    "wof:lastmodified":1564201997,
+    "wof:lastmodified":1566595564,
     "wof:name":"Busobya",
     "wof:parent_id":1092070253,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":31.45667,
     "gn:country":"UG",
     "gn:fcode":"PPLA2",
-    "gn:pop":4320,
+    "gn:population":4320,
     "iso:country":"UG",
+    "lbl:bbox":"31.43667,-0.09722,31.47667,-0.05722",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Sembabule"
     ],
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":226361,
         "gp:id":1455302,
-        "qs:id":123589,
+        "qs_pg:id":123589,
         "wd:id":"Q1820455",
         "wk:page":"Sembabule"
     },
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":890433281,
-    "wof:lastmodified":1563308573,
+    "wof:lastmodified":1566595502,
     "wof:name":"Sembabule",
     "wof:parent_id":1092072661,
     "wof:placetype":"locality",

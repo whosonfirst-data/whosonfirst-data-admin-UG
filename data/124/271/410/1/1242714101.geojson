@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.91622,0.85424,33.95622,0.89424",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242714101,
-    "wof:lastmodified":1536865808,
+    "wof:lastmodified":1566595572,
     "wof:name":"Bumwami",
     "wof:parent_id":1092069677,
     "wof:placetype":"locality",

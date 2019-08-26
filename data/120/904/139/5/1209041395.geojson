@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.20214,0.81658,33.24214,0.85658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -35,7 +39,7 @@
         "gn:id":11552978
     },
     "wof:country":"UG",
-    "wof:geomhash":"53a218e35159f5a2d5d48d06ec4d749f",
+    "wof:geomhash":"98caa6977b21b57438d95a938691f309",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209041395,
-    "wof:lastmodified":1536299534,
+    "wof:lastmodified":1566595216,
     "wof:name":"Kalbanda",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     33.22214,
-    0.8365799999999999,
+    0.83658,
     33.22214,
-    0.8365799999999999
+    0.83658
 ],
   "geometry": {"coordinates":[33.22214,0.83658],"type":"Point"}
 }

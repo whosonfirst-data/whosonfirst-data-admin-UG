@@ -10,6 +10,9 @@
     "geom:latitude":-0.60467,
     "geom:longitude":30.64851,
     "iso:country":"UG",
+    "lbl:bbox":"30.62851,-0.62467,30.66851,-0.58467",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -271,7 +274,7 @@
     "wof:concordances":{
         "gn:id":229268,
         "gp:id":1453747,
-        "qs:id":901825,
+        "qs_pg:id":901825,
         "wd:id":"Q731039",
         "wk:page":"Mbarara"
     },
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":421174865,
-    "wof:lastmodified":1563308549,
+    "wof:lastmodified":1566595496,
     "wof:name":"Mbarara",
     "wof:parent_id":1092072775,
     "wof:placetype":"locality",

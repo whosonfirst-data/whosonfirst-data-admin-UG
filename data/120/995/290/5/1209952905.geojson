@@ -26,8 +26,12 @@
     "gn:population":31000,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.47616,-0.15398,30.51616,-0.11398",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ceb_x_preferred":[
         "Ibanda"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1209952905,
-    "wof:lastmodified":1564201410,
+    "wof:lastmodified":1566595204,
     "wof:name":"Ibanda",
     "wof:parent_id":1092070677,
     "wof:placetype":"locality",

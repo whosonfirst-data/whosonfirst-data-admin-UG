@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.06161,0.72362,33.10161,0.76362",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lug_x_preferred":[
         "Kisozi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309834713,
-    "wof:lastmodified":1564201816,
+    "wof:lastmodified":1566595466,
     "wof:name":"Kisozi",
     "wof:parent_id":1092070253,
     "wof:placetype":"locality",

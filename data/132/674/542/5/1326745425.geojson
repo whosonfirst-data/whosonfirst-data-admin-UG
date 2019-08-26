@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.89543,2.70071,30.93543,2.74071",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326745425,
-    "wof:lastmodified":1536676617,
+    "wof:lastmodified":1566594701,
     "wof:name":"Lazebu",
     "wof:parent_id":1092074259,
     "wof:placetype":"locality",

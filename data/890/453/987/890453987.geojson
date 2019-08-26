@@ -11,11 +11,15 @@
     "geom:longitude":31.40639,
     "gn:country":"UG",
     "gn:fcode":"PPL",
-    "gn:pop":7608,
+    "gn:population":7608,
     "iso:country":"UG",
+    "lbl:bbox":"31.38639,-0.7625,31.42639,-0.7225",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Kyakabanda"
     ],
     "qs:name":"Byakabanda",
@@ -33,7 +37,7 @@
     "wof:concordances":{
         "gn:id":233725,
         "gp:id":1455121,
-        "qs:id":123622
+        "qs_pg:id":123622
     },
     "wof:country":"UG",
     "wof:created":1469052881,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890453987,
-    "wof:lastmodified":1505343654,
+    "wof:lastmodified":1566595501,
     "wof:name":"Byakabanda",
     "wof:parent_id":1092071897,
     "wof:placetype":"locality",

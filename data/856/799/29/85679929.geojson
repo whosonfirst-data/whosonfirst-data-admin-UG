@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":0.718206,
     "lbl:longitude":30.059135,
+    "lbl:min_zoom":8.0,
     "mps:latitude":0.72529,
     "mps:longitude":30.047056,
     "mz:hierarchy_label":1,
@@ -145,9 +146,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u0411\u0443\u043d\u0434\u0456\u0431\u0443\u0433\u0456\u043e"
     ],
-    "name:unk_x_variant":[
-        "Bundibugyo District"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0646\u062f\u06cc\u0628\u0648\u06af\u06cc\u0648"
     ],
@@ -234,9 +232,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"848",
     "statoids:area_mi":"327",
     "statoids:as_of_date":"2014-08-27",
@@ -261,7 +259,7 @@
         "gp:id":20070413,
         "hasc:id":"UG.BX",
         "iso:id":"UG-401",
-        "qs:id":1087213,
+        "qs_pg:id":1087213,
         "wd:id":"Q1362129"
     },
     "wof:country":"UG",
@@ -282,11 +280,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738403,
+    "wof:lastmodified":1566594900,
     "wof:name":"Bundibugyo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":224387,
     "wof:population_rank":10,

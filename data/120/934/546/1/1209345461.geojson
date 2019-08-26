@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.8063,1.53452,33.8463,1.57452",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ajeruku",
         "Ajeruk"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209345461,
-    "wof:lastmodified":1537712111,
+    "wof:lastmodified":1566595228,
     "wof:name":"Ajeruk",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",

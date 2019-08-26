@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.34667,-0.48667,30.38667,-0.44667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -37,7 +41,7 @@
         "gn:id":228664
     },
     "wof:country":"UG",
-    "wof:geomhash":"c12c6307ae9581109741d99431f436c7",
+    "wof:geomhash":"32e475abb40831e34050a9f0930abf49",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209139935,
-    "wof:lastmodified":1536296537,
+    "wof:lastmodified":1566595192,
     "wof:name":"Muzira",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.366670000000006,
+    30.36667000000001,
     -0.46667,
-    30.366670000000006,
+    30.36667000000001,
     -0.46667
 ],
   "geometry": {"coordinates":[30.36667000000001,-0.46667],"type":"Point"}

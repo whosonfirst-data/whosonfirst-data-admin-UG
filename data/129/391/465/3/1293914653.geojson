@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.35186,1.82187,33.39186,1.86187",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Opokoro",
         "Apokoro"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293914653,
-    "wof:lastmodified":1537712107,
+    "wof:lastmodified":1566594929,
     "wof:name":"Apokoro",
     "wof:parent_id":1092071127,
     "wof:placetype":"locality",

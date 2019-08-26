@@ -10,6 +10,9 @@
     "geom:latitude":3.02013,
     "geom:longitude":30.91105,
     "iso:country":"UG",
+    "lbl:bbox":"30.89105,3.00013,30.93105,3.04013",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -268,7 +271,7 @@
     "wof:concordances":{
         "gn:id":235039,
         "gp:id":1450394,
-        "qs:id":479058,
+        "qs_pg:id":479058,
         "wd:id":"Q500111",
         "wk:page":"Arua"
     },
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":421172823,
-    "wof:lastmodified":1563308556,
+    "wof:lastmodified":1566595497,
     "wof:name":"Arua",
     "wof:parent_id":1092068475,
     "wof:placetype":"locality",

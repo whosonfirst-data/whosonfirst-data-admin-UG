@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.26333,-0.88028,30.30333,-0.84028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Ruhanga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243399913,
-    "wof:lastmodified":1564201912,
+    "wof:lastmodified":1566595521,
     "wof:name":"Ruhanga",
     "wof:parent_id":1092073713,
     "wof:placetype":"locality",

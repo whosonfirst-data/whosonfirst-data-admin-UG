@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.28,2.01333,33.32,2.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Papai",
         "Apapai"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242713045,
-    "wof:lastmodified":1537712108,
+    "wof:lastmodified":1566595572,
     "wof:name":"Apapai",
     "wof:parent_id":1092071127,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.12972,-0.3575,31.16972,-0.3175",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swa_x_preferred":[
         "Kabula"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209042869,
-    "wof:lastmodified":1564201429,
+    "wof:lastmodified":1566595215,
     "wof:name":"Kabula",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",

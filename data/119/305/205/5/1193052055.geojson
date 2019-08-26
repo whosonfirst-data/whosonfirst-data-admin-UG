@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.12798,0.28869,33.16798,0.32869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buyombo"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193052055,
-    "wof:lastmodified":1537712136,
+    "wof:lastmodified":1566595269,
     "wof:name":"Buyombo",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",
