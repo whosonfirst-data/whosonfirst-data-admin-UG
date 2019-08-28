@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.10389,-1.13944,30.14389,-1.09944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03b3\u03b9\u03cc\u03bd\u03b6\u03b1"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1226579659,
-    "wof:lastmodified":1564202245,
+    "wof:lastmodified":1566595698,
     "wof:name":"Kayonza",
     "wof:parent_id":1092073825,
     "wof:placetype":"locality",

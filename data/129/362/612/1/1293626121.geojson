@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.04441,0.5409,34.08441,0.5809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Agata"
     ],
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":1293626121,
-    "wof:lastmodified":1564200961,
+    "wof:lastmodified":1566594939,
     "wof:name":"Agata",
     "wof:parent_id":1092073897,
     "wof:placetype":"locality",

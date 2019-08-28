@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.71687,0.50138,33.75687,0.54138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1293918407,
-    "wof:lastmodified":1536663011,
+    "wof:lastmodified":1566594932,
     "wof:name":"Kikabala",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

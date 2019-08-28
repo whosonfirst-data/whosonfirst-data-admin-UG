@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.0056,0.52353,34.0456,0.56353",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bukade"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326864269,
-    "wof:lastmodified":1537712102,
+    "wof:lastmodified":1566594693,
     "wof:name":"Bukade",
     "wof:parent_id":1092073897,
     "wof:placetype":"locality",

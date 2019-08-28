@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.49234,3.3956,32.53234,3.4356",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327246567,
-    "wof:lastmodified":1536949281,
+    "wof:lastmodified":1566594731,
     "wof:name":"Lugwa",
     "wof:parent_id":1092072341,
     "wof:placetype":"locality",

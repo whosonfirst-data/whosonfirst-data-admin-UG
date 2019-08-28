@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.84667,0.86333,30.88667,0.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swa_x_preferred":[
         "Ntuntu"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1259416837,
-    "wof:lastmodified":1564202109,
+    "wof:lastmodified":1566595622,
     "wof:name":"Ntuntu",
     "wof:parent_id":1092070183,
     "wof:placetype":"locality",

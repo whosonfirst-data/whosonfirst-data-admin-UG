@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.733757,
     "lbl:longitude":33.312659,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"LUUKA",
     "meso:admin_1r":"EAST CENTRAL",
     "meso:dissme":"LUUKALUUKAEAST CENTRAL",
@@ -32,6 +34,7 @@
     "mps:longitude":33.312659,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0636\u0627\u062d\u064a\u0629 \u0644\u0648\u0643\u0627"
     ],
@@ -154,7 +157,7 @@
         "\u76e7\u5361\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":1092072403,
-    "wof:lastmodified":1563308470,
+    "wof:lastmodified":1566595447,
     "wof:name":"Luuka",
     "wof:parent_id":85680097,
     "wof:placetype":"county",

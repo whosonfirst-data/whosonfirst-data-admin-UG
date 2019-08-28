@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":2.445915,
     "lbl:longitude":31.293057,
+    "lbl:min_zoom":8.0,
     "mps:latitude":2.460321,
     "mps:longitude":31.269854,
     "mz:hierarchy_label":1,
@@ -133,7 +134,7 @@
         "Nebbidistriktet"
     ],
     "name:tam_x_preferred":[
-        "\u0ba8\u0bc7\u0baa\u0bcd\u0baa\u0bbf  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0ba8\u0bc7\u0baa\u0bcd\u0baa\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c46\u0c2c\u0c4d\u0c2c\u0c3f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -146,9 +147,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u041d\u0435\u0431\u0431\u0456"
-    ],
-    "name:unk_x_variant":[
-        "Nebbi District"
     ],
     "name:urd_x_preferred":[
         "\u0646\u06cc\u0628\u06cc"
@@ -237,9 +235,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"1,915",
     "statoids:area_mi":"739",
     "statoids:as_of_date":"2014-08-27",
@@ -284,11 +282,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738409,
+    "wof:lastmodified":1566594911,
     "wof:name":"Nebbi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":396794,
     "wof:population_rank":10,

@@ -11,8 +11,11 @@
     "geom:longitude":31.7909,
     "gn:country":"UG",
     "gn:fcode":"PPLA2",
-    "gn:pop":28700,
+    "gn:population":28700,
     "iso:country":"UG",
+    "lbl:bbox":"31.7709,3.35786,31.8109,3.39786",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -70,7 +73,7 @@
     "name:swa_x_preferred":[
         "Adjumani"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ajumani"
     ],
     "name:urd_x_preferred":[
@@ -184,7 +187,7 @@
     "wof:concordances":{
         "gn:id":235489,
         "gp:id":1450138,
-        "qs:id":274636,
+        "qs_pg:id":274636,
         "wd:id":"Q3499673",
         "wk:page":"Adjumani"
     },
@@ -201,7 +204,7 @@
         }
     ],
     "wof:id":890454723,
-    "wof:lastmodified":1563308567,
+    "wof:lastmodified":1566595500,
     "wof:name":"Adjumani",
     "wof:parent_id":1092070471,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.28198,0.58494,33.32198,0.62494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -35,7 +39,7 @@
         "gn:id":11553583
     },
     "wof:country":"UG",
-    "wof:geomhash":"dad84e502755d9f91487ad441b06ab68",
+    "wof:geomhash":"54575cc1d6a0e343254ed8d2a36ebbdf",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209449881,
-    "wof:lastmodified":1536286705,
+    "wof:lastmodified":1566595244,
     "wof:name":"Nafugaki",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     33.30198,
-    0.6049399999999999,
+    0.60494,
     33.30198,
-    0.6049399999999999
+    0.60494
 ],
   "geometry": {"coordinates":[33.30198,0.60494],"type":"Point"}
 }

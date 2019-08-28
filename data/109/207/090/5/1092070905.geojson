@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-1.25299,
     "lbl:longitude":29.992227,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KABALE",
     "meso:admin_1r":"SOUTH WESTERN",
     "meso:dissme":"KABALE MUNICIPALITYKABALESOUTH WESTERN",
@@ -32,6 +34,7 @@
     "mps:longitude":29.992227,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0643\u0627\u0628\u0627\u0644\u064a"
     ],
@@ -132,7 +135,7 @@
         "Kabale dirstriktet"
     ],
     "name:tam_x_preferred":[
-        "\u0b95\u0baa\u0bbe\u0bb2\u0bbf  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b95\u0baa\u0bbe\u0bb2\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3e\u0c2c\u0c47\u0c32\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -156,7 +159,7 @@
         "\u5361\u5df4\u840a\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":1092070905,
-    "wof:lastmodified":1561777340,
+    "wof:lastmodified":1566595438,
     "wof:name":"Kabale Municipality",
     "wof:parent_id":85680073,
     "wof:placetype":"county",

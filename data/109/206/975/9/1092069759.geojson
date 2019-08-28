@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.378465,
     "lbl:longitude":32.430668,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"NAKASONGOLA",
     "meso:admin_1r":"CENTRAL 2",
     "meso:dissme":"BURULINAKASONGOLACENTRAL 2",
@@ -32,6 +34,7 @@
     "mps:longitude":32.430668,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Buruli"
     ],
@@ -40,7 +43,7 @@
         "BURULI"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632625,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1092069759,
-    "wof:lastmodified":1555047750,
+    "wof:lastmodified":1566595464,
     "wof:name":"Buruli",
     "wof:parent_id":85679875,
     "wof:placetype":"county",

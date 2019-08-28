@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.24116,3.25796,33.28116,3.29796",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Umia Anyima",
         "Umia Anyema",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1226461303,
-    "wof:lastmodified":1537712061,
+    "wof:lastmodified":1566595747,
     "wof:name":"Omiya-Anyma",
     "wof:parent_id":1092070355,
     "wof:placetype":"locality",

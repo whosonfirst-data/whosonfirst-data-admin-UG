@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-0.314616,
     "lbl:longitude":30.309681,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-0.351723,
     "mps:longitude":30.321588,
     "mz:hierarchy_label":1,
@@ -36,7 +37,7 @@
     "name:jpn_x_preferred":[
         "\u30d6\u30d5\u30a6\u30a7\u30b8\u30e5\u738b\u56fd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Buhweju District"
     ],
     "ne:abbrev":"",
@@ -114,9 +115,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"748",
     "statoids:area_mi":"289",
     "statoids:as_of_date":"2014-08-27",
@@ -161,11 +162,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738410,
+    "wof:lastmodified":1566594913,
     "wof:name":"Buhweju",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":120720,
     "wof:population_rank":9,

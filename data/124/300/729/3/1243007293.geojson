@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.16519,1.56126,32.20519,1.60126",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243007293,
-    "wof:lastmodified":1536942276,
+    "wof:lastmodified":1566595514,
     "wof:name":"Mirije",
     "wof:parent_id":1092069759,
     "wof:placetype":"locality",

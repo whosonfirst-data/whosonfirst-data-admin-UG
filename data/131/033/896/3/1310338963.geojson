@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.22255,0.84184,34.26255,0.88184",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bukhonzo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310338963,
-    "wof:lastmodified":1537712175,
+    "wof:lastmodified":1566595385,
     "wof:name":"Bukhonzo",
     "wof:parent_id":1092068753,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.720629,
     "lbl:longitude":33.608204,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SOROTI",
     "meso:admin_1r":"TESO",
     "meso:dissme":"SOROTI MUNICIPALITYSOROTITESO",
@@ -32,6 +34,7 @@
     "mps:longitude":33.608204,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u0648\u0631\u0648\u062a\u064a"
     ],
@@ -132,7 +135,7 @@
         "Sorotidistriktet"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bca\u0bb0\u0bca\u0b9f\u0bcd\u0b9f\u0bbf   \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b9a\u0bca\u0bb0\u0bca\u0b9f\u0bcd\u0b9f\u0bbf  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c4b\u0c30\u0c4b\u0c1f\u0c3f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -156,7 +159,7 @@
         "\u7d22\u7f85\u63d0\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632625,
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":1092074017,
-    "wof:lastmodified":1561777340,
+    "wof:lastmodified":1566595435,
     "wof:name":"Soroti Municipality",
     "wof:parent_id":85679813,
     "wof:placetype":"county",

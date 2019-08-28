@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.42413,2.36858,31.46413,2.40858",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Akela"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1344272303,
-    "wof:lastmodified":1564200901,
+    "wof:lastmodified":1566594876,
     "wof:name":"Akela",
     "wof:parent_id":1092070857,
     "wof:placetype":"locality",

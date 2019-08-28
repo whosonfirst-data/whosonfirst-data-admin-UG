@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.34579,0.32392,33.38579,0.36392",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nakalanga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293236681,
-    "wof:lastmodified":1537712131,
+    "wof:lastmodified":1566594961,
     "wof:name":"Nakalanga",
     "wof:parent_id":1092069607,
     "wof:placetype":"locality",

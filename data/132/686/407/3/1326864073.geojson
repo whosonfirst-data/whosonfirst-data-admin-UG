@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.51333,1.39667,34.55333,1.43667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Binyiny"
     ],
@@ -35,7 +39,6 @@
         "Binyiny"
     ],
     "name:und_x_variant":[
-        "Binyiny",
         "Binyin"
     ],
     "name:urd_x_preferred":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1326864073,
-    "wof:lastmodified":1564200608,
+    "wof:lastmodified":1566594691,
     "wof:name":"Binyin",
     "wof:parent_id":1092072009,
     "wof:placetype":"locality",

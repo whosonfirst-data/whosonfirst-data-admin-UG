@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.04529,-0.16797,30.08529,-0.12797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Katunguru"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1225981087,
-    "wof:lastmodified":1564202291,
+    "wof:lastmodified":1566595726,
     "wof:name":"Katunguru",
     "wof:parent_id":1092074343,
     "wof:placetype":"locality",

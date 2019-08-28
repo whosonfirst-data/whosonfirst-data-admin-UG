@@ -10,10 +10,14 @@
     "geom:latitude":3.520391,
     "geom:longitude":34.120026,
     "iso:country":"UG",
+    "lbl:bbox":"34.1000255928,3.50039105114,34.1400255928,3.54039105114",
     "lbl:latitude":3.520391,
     "lbl:longitude":34.120026,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kaabong"
     ],
@@ -160,7 +164,7 @@
         }
     ],
     "wof:id":1141907001,
-    "wof:lastmodified":1563309039,
+    "wof:lastmodified":1566595774,
     "wof:name":"Kaabong",
     "wof:parent_id":1092070399,
     "wof:placetype":"locality",

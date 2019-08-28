@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.09735,0.4304,33.13735,0.4704",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Scoul"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226682541,
-    "wof:lastmodified":1537712133,
+    "wof:lastmodified":1566595696,
     "wof:name":"Scoul",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",

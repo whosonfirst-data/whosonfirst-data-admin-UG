@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.88152,3.4652,31.92152,3.5052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Origo"
     ],
@@ -39,8 +43,7 @@
     ],
     "name:und_x_variant":[
         "Oningo",
-        "Onigo",
-        "Origo"
+        "Onigo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1293705437,
-    "wof:lastmodified":1564200994,
+    "wof:lastmodified":1566594957,
     "wof:name":"Origo",
     "wof:parent_id":1092070471,
     "wof:placetype":"locality",

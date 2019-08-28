@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.85111,0.22528,33.89111,0.26528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Banda"
     ],
@@ -144,7 +148,7 @@
         }
     ],
     "wof:id":1276912109,
-    "wof:lastmodified":1564201277,
+    "wof:lastmodified":1566595124,
     "wof:name":"Banda",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

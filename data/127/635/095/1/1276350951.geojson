@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.00561,2.66888,31.04561,2.70888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Uchebu",
         "Ochebu"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276350951,
-    "wof:lastmodified":1537712064,
+    "wof:lastmodified":1566595078,
     "wof:name":"Ochebu",
     "wof:parent_id":1092074425,
     "wof:placetype":"locality",

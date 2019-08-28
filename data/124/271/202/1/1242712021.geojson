@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.95607,1.50748,33.99607,1.54748",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242712021,
-    "wof:lastmodified":1536869025,
+    "wof:lastmodified":1566595571,
     "wof:name":"Achaboi",
     "wof:parent_id":1092071937,
     "wof:placetype":"locality",

@@ -10,10 +10,14 @@
     "geom:latitude":1.891111,
     "geom:longitude":33.966111,
     "iso:country":"UG",
+    "lbl:bbox":"33.9461111,1.8711111,33.9861111,1.9111111",
     "lbl:latitude":1.891111,
     "lbl:longitude":33.966111,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Katakwi"
     ],
@@ -160,7 +164,7 @@
         }
     ],
     "wof:id":1141906029,
-    "wof:lastmodified":1563309039,
+    "wof:lastmodified":1566595774,
     "wof:name":"Katakwi",
     "wof:parent_id":1092074245,
     "wof:placetype":"locality",

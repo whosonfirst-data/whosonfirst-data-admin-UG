@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.72083,0.45073,32.76083,0.49073",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225875373,
-    "wof:lastmodified":1536970714,
+    "wof:lastmodified":1566595712,
     "wof:name":"Kiyunga",
     "wof:parent_id":1092072911,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.16579,-0.55695,30.20579,-0.51695",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bushenyi"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1225974767,
-    "wof:lastmodified":1564202278,
+    "wof:lastmodified":1566595718,
     "wof:name":"Bushenyi",
     "wof:parent_id":1092070703,
     "wof:placetype":"locality",

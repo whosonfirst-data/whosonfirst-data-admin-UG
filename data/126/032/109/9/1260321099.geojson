@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.27383,0.83184,33.31383,0.87184",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1260321099,
-    "wof:lastmodified":1536661490,
+    "wof:lastmodified":1566595313,
     "wof:name":"Buganza",
     "wof:parent_id":1092068917,
     "wof:placetype":"locality",

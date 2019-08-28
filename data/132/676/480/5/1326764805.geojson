@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.45976,0.46763,32.49976,0.50763",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326764805,
-    "wof:lastmodified":1536648423,
+    "wof:lastmodified":1566594747,
     "wof:name":"Buwonzi",
     "wof:parent_id":1092072041,
     "wof:placetype":"locality",

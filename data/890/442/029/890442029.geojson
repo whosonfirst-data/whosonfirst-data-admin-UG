@@ -11,8 +11,11 @@
     "geom:longitude":30.26417,
     "gn:country":"UG",
     "gn:fcode":"PPLA2",
-    "gn:pop":15300,
+    "gn:population":15300,
     "iso:country":"UG",
+    "lbl:bbox":"30.24417,-0.89944,30.28417,-0.85944",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -178,7 +181,7 @@
     "wof:concordances":{
         "gn:id":227593,
         "gp:id":1519636,
-        "qs:id":273751,
+        "qs_pg:id":273751,
         "wd:id":"Q938145",
         "wk:page":"Ntungamo"
     },
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":890442029,
-    "wof:lastmodified":1563308570,
+    "wof:lastmodified":1566595501,
     "wof:name":"Ntungamo",
     "wof:parent_id":1092073713,
     "wof:placetype":"locality",

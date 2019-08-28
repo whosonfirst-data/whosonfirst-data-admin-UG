@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.30403,2.24131,31.34403,2.28131",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Situ"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226457627,
-    "wof:lastmodified":1564202200,
+    "wof:lastmodified":1566595673,
     "wof:name":"Situ",
     "wof:parent_id":1092070857,
     "wof:placetype":"locality",

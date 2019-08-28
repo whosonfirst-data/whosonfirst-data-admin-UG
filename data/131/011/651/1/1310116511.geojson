@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.49667,2.89667,34.53667,2.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mogosi",
         "Magosi"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310116511,
-    "wof:lastmodified":1537712076,
+    "wof:lastmodified":1566595355,
     "wof:name":"Magosi",
     "wof:parent_id":1092072625,
     "wof:placetype":"locality",

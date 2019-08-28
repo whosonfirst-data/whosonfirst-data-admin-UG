@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.24667,-0.58667,30.28667,-0.54667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kyezioba",
         "Kyeizoba",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326463967,
-    "wof:lastmodified":1537712080,
+    "wof:lastmodified":1566594750,
     "wof:name":"Kyeizobo",
     "wof:parent_id":1092070703,
     "wof:placetype":"locality",

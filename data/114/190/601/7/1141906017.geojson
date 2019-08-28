@@ -10,10 +10,14 @@
     "geom:latitude":1.738889,
     "geom:longitude":33.159444,
     "iso:country":"UG",
+    "lbl:bbox":"33.1394444,1.7188889,33.1794444,1.7588889",
     "lbl:latitude":1.738889,
     "lbl:longitude":33.159444,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kaberamaido"
     ],
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":1141906017,
-    "wof:lastmodified":1563309042,
+    "wof:lastmodified":1566595776,
     "wof:name":"Kaberamaido",
     "wof:parent_id":1092070941,
     "wof:placetype":"locality",

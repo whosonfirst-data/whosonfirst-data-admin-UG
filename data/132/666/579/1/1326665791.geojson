@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.30303,0.52494,30.34303,0.56494",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Durama"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326665791,
-    "wof:lastmodified":1537712095,
+    "wof:lastmodified":1566594722,
     "wof:name":"Durama",
     "wof:parent_id":1092069721,
     "wof:placetype":"locality",

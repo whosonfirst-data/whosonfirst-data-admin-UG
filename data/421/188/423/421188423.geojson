@@ -10,8 +10,12 @@
     "geom:latitude":-0.54694,
     "geom:longitude":30.61889,
     "iso:country":"UG",
+    "lbl:bbox":"30.59889,-0.56694,30.63889,-0.52694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sanga"
@@ -31,7 +35,7 @@
     "name:swe_x_preferred":[
         "Sanga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sunga"
     ],
     "qs:gn_country":"UG",
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":226401,
         "gp:id":1455286,
-        "qs:id":1096497
+        "qs_pg:id":1096497
     },
     "wof:country":"UG",
     "wof:created":1459009555,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421188423,
-    "wof:lastmodified":1564201874,
+    "wof:lastmodified":1566595497,
     "wof:name":"Sanga",
     "wof:parent_id":1092071287,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":2.41669,
     "geom:longitude":30.98551,
     "iso:country":"UG",
+    "lbl:bbox":"30.96551,2.39669,31.00551,2.43669",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Paidha"
@@ -31,7 +35,7 @@
     "name:nld_x_preferred":[
         "Paidha"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Payida"
     ],
     "name:urd_x_preferred":[
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":226853,
         "gp:id":1455038,
-        "qs:id":1298908,
+        "qs_pg:id":1298908,
         "wd:id":"Q7124680",
         "wk:page":"Paidha"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421168613,
-    "wof:lastmodified":1563308543,
+    "wof:lastmodified":1566595494,
     "wof:name":"Paidha",
     "wof:parent_id":1092073339,
     "wof:placetype":"locality",

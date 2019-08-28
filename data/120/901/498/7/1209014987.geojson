@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.94196,3.05618,30.98196,3.09618",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Iola"
     ],
@@ -44,8 +48,7 @@
         "Yola"
     ],
     "name:und_x_variant":[
-        "Yaule",
-        "Yole"
+        "Yaule"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1209014987,
-    "wof:lastmodified":1564201325,
+    "wof:lastmodified":1566595155,
     "wof:name":"Yole",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.50333,-0.76083,30.54333,-0.72083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lug_x_preferred":[
         "Bugamba"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1326566957,
-    "wof:lastmodified":1564200631,
+    "wof:lastmodified":1566594706,
     "wof:name":"Bugamba",
     "wof:parent_id":1092073881,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"29.95824,0.55405,29.99824,0.59405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buboni"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1310439523,
-    "wof:lastmodified":1537712146,
+    "wof:lastmodified":1566595360,
     "wof:name":"Buboni",
     "wof:parent_id":1092074383,
     "wof:placetype":"locality",

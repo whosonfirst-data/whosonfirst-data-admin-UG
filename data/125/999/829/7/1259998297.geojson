@@ -27,15 +27,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.92694,2.57806,32.96694,2.61806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lug_x_preferred":[
         "Putanga"
     ],
     "name:und_x_variant":[
         "Puranga",
-        "Paranga",
-        "Putanga"
+        "Paranga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1259998297,
-    "wof:lastmodified":1564202094,
+    "wof:lastmodified":1566595613,
     "wof:name":"Putanga",
     "wof:parent_id":1092070567,
     "wof:placetype":"locality",

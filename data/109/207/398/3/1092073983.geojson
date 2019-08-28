@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-0.603844,
     "lbl:longitude":30.368064,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KIBINGO",
     "meso:admin_1r":"SOUTH WESTERN",
     "meso:dissme":"SHEEMAKIBINGOSOUTH WESTERN",
@@ -32,6 +34,7 @@
     "mps:longitude":30.368064,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0634\u064a\u0645\u0627"
     ],
@@ -122,7 +125,7 @@
         "Sheema"
     ],
     "name:tam_x_preferred":[
-        "\u0bb7\u0bc0\u0bae\u0bbe  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0bb7\u0bc0\u0bae\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c37\u0c40\u0c2e\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -146,7 +149,7 @@
         "\u8b1d\u99ac\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":1092073983,
-    "wof:lastmodified":1561777339,
+    "wof:lastmodified":1566595430,
     "wof:name":"Sheema",
     "wof:parent_id":85680237,
     "wof:placetype":"county",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.933785,
     "lbl:longitude":34.058106,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KATAKWI",
     "meso:admin_1r":"TESO",
     "meso:dissme":"USUKKATAKWITESO",
@@ -32,6 +34,7 @@
     "mps:longitude":34.058106,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Usuk"
     ],
@@ -40,7 +43,7 @@
         "USUK"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092074245,
-    "wof:lastmodified":1555092065,
+    "wof:lastmodified":1566595435,
     "wof:name":"Usuk",
     "wof:parent_id":85679995,
     "wof:placetype":"county",

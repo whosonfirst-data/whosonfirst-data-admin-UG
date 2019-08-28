@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.32394,1.60059,31.36394,1.64059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293234871,
-    "wof:lastmodified":1536654288,
+    "wof:lastmodified":1566594964,
     "wof:name":"Kyabisigazi",
     "wof:parent_id":1092068961,
     "wof:placetype":"locality",

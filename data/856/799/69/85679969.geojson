@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":0.886224,
     "lbl:longitude":34.339243,
+    "lbl:min_zoom":8.0,
     "mps:latitude":0.88598,
     "mps:longitude":34.314762,
     "mz:hierarchy_label":1,
@@ -70,9 +71,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"533",
     "statoids:area_mi":"206",
     "statoids:as_of_date":"2014-08-27",
@@ -97,7 +98,7 @@
         "gp:id":20070433,
         "hasc:id":"UG.MW",
         "iso:id":"UG-221",
-        "qs:id":1087218,
+        "qs_pg:id":1087218,
         "unlc:id":"UG-221",
         "wd:id":"Q6272973"
     },
@@ -119,11 +120,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738402,
+    "wof:lastmodified":1566594899,
     "wof:name":"Manafwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":353825,
     "wof:population_rank":10,

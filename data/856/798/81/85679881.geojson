@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":0.817725,
     "lbl:longitude":32.610557,
+    "lbl:min_zoom":8.0,
     "mps:latitude":0.803743,
     "mps:longitude":32.624035,
     "mz:hierarchy_label":1,
@@ -180,9 +181,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"2,216",
     "statoids:area_mi":"856",
     "statoids:as_of_date":"2014-08-27",
@@ -206,7 +207,7 @@
         "gp:id":20070453,
         "hasc:id":"UG.LW",
         "iso:id":"UG-104",
-        "qs:id":1084703,
+        "qs_pg:id":1084703,
         "wd:id":"Q1364817"
     },
     "wof:country":"UG",
@@ -227,11 +228,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738408,
+    "wof:lastmodified":1566594908,
     "wof:name":"Luweero",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":456958,
     "wof:population_rank":10,

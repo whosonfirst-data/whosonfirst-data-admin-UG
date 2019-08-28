@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.91133,0.48615,33.95133,0.52615",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209248707,
-    "wof:lastmodified":1536293075,
+    "wof:lastmodified":1566595178,
     "wof:name":"Lulonda",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",

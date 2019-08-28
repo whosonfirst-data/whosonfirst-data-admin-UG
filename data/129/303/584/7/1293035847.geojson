@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.19345,0.88462,34.23345,0.92462",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Syeba"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1293035847,
-    "wof:lastmodified":1537712172,
+    "wof:lastmodified":1566594992,
     "wof:name":"Syeba",
     "wof:parent_id":1092069563,
     "wof:placetype":"locality",

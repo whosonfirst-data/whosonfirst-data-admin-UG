@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.62738,1.50914,32.66738,1.54914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kakira"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1259593815,
-    "wof:lastmodified":1564202150,
+    "wof:lastmodified":1566595643,
     "wof:name":"Kakira",
     "wof:parent_id":1092071719,
     "wof:placetype":"locality",

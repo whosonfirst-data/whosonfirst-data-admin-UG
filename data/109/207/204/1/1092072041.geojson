@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.48209,
     "lbl:longitude":32.574866,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"WAKISO",
     "meso:admin_1r":"CENTRAL 1",
     "meso:dissme":"KYADONDOWAKISOCENTRAL 1",
@@ -32,6 +34,7 @@
     "mps:longitude":32.574866,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0636\u0627\u062d\u064a\u0629 \u062c\u064a\u0646\u062c\u0627"
     ],
@@ -135,7 +138,7 @@
         "Jinja"
     ],
     "name:tam_x_preferred":[
-        "\u0b9c\u0bbf\u0b9e\u0bcd\u0b9a\u0bbe  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b9c\u0bbf\u0b9e\u0bcd\u0b9a\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c3f\u0c02\u0c1c\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -159,7 +162,7 @@
         "\u91d1\u8cc8\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632625,
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":1092072041,
-    "wof:lastmodified":1561777340,
+    "wof:lastmodified":1566595437,
     "wof:name":"Kyadondo",
     "wof:parent_id":85679879,
     "wof:placetype":"county",

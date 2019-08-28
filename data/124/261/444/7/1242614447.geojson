@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.41176,0.42561,33.45176,0.46561",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lwanda"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242614447,
-    "wof:lastmodified":1537712131,
+    "wof:lastmodified":1566595541,
     "wof:name":"Lwanda",
     "wof:parent_id":1092069607,
     "wof:placetype":"locality",

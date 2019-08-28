@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.10373,2.61514,31.14373,2.65514",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -37,7 +41,7 @@
         "gn:id":8081101
     },
     "wof:country":"UG",
-    "wof:geomhash":"0a4b2a0fbcad66eaebdf7c1da84a4bca",
+    "wof:geomhash":"1ba19882dade29585be385e650a1af96",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209121369,
-    "wof:lastmodified":1536297087,
+    "wof:lastmodified":1566595173,
     "wof:name":"Oyua",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     31.12373,
-    2.6351400000000003,
+    2.63514,
     31.12373,
-    2.6351400000000003
+    2.63514
 ],
   "geometry": {"coordinates":[31.12373,2.63514],"type":"Point"}
 }

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":2.387389,
     "lbl:longitude":34.268594,
+    "lbl:min_zoom":8.0,
     "mps:latitude":2.412504,
     "mps:longitude":34.313372,
     "mz:hierarchy_label":1,
@@ -130,7 +131,7 @@
         "Morotodistriktet"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bcb\u0bb0\u0bcb\u0b9f\u0bcb  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0bae\u0bcb\u0bb0\u0bcb\u0b9f\u0bcb \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c4a\u0c30\u0c4b\u0c1f\u0c4b \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -173,9 +174,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"4,901",
     "statoids:area_mi":"1,892",
     "statoids:as_of_date":"2014-08-27",
@@ -219,11 +220,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738410,
+    "wof:lastmodified":1566594913,
     "wof:name":"Napak",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":142224,
     "wof:population_rank":9,

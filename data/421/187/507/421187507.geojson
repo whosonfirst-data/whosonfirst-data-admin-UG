@@ -10,8 +10,12 @@
     "geom:latitude":0.11457,
     "geom:longitude":30.03588,
     "iso:country":"UG",
+    "lbl:bbox":"30.01588,0.09457,30.05588,0.13457",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0627\u0633\u064a\u0633"
@@ -130,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0441\u0435\u0441\u0435"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Busongora"
     ],
     "name:urd_x_preferred":[
@@ -174,7 +178,7 @@
     "wof:concordances":{
         "gn:id":234040,
         "gp:id":1452154,
-        "qs:id":1083595,
+        "qs_pg:id":1083595,
         "wd:id":"Q1232016"
     },
     "wof:country":"UG",
@@ -190,7 +194,7 @@
         }
     ],
     "wof:id":421187507,
-    "wof:lastmodified":1563308551,
+    "wof:lastmodified":1566595496,
     "wof:name":"Kasese",
     "wof:parent_id":1092069895,
     "wof:placetype":"locality",

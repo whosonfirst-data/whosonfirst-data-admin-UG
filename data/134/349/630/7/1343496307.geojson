@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.02061,0.31724,33.06061,0.35724",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lweru"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343496307,
-    "wof:lastmodified":1537712135,
+    "wof:lastmodified":1566594837,
     "wof:name":"Lweru",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",

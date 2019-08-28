@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.49067,0.96716,33.53067,1.00716",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bulyakubi",
         "Bulyaikubi"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1277111701,
-    "wof:lastmodified":1537712100,
+    "wof:lastmodified":1566595141,
     "wof:name":"Bulyaikubi",
     "wof:parent_id":1092069483,
     "wof:placetype":"locality",

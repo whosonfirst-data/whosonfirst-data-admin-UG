@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.18719,3.44468,31.22719,3.48468",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u3058\u3083\u3070\u3089"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293506075,
-    "wof:lastmodified":1564201041,
+    "wof:lastmodified":1566594985,
     "wof:name":"Jabara",
     "wof:parent_id":1092068435,
     "wof:placetype":"locality",

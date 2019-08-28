@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.39833,3.03444,31.43833,3.07444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Agbo"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343680493,
-    "wof:lastmodified":1564200863,
+    "wof:lastmodified":1566594852,
     "wof:name":"Agbo",
     "wof:parent_id":1092074425,
     "wof:placetype":"locality",

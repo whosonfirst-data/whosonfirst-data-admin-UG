@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.414483,
     "lbl:longitude":34.007759,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"BUSIA",
     "meso:admin_1r":"EAST CENTRAL",
     "meso:dissme":"SAMIA-BUGWEBUSIAEAST CENTRAL",
@@ -32,6 +34,7 @@
     "mps:longitude":34.007759,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Samia-bugwe"
     ],
@@ -42,7 +45,7 @@
         "Samia Bugwe"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1092073897,
-    "wof:lastmodified":1555092065,
+    "wof:lastmodified":1566595453,
     "wof:name":"Samia-bugwe",
     "wof:parent_id":85679979,
     "wof:placetype":"county",

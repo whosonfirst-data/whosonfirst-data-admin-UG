@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.56333,0.58,32.60333,0.62",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lug_x_preferred":[
         "Kireka"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193052031,
-    "wof:lastmodified":1564201521,
+    "wof:lastmodified":1566595268,
     "wof:name":"Kireka",
     "wof:parent_id":1092068633,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.34456,0.84255,34.38456,0.88255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bukoto"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209951163,
-    "wof:lastmodified":1537712166,
+    "wof:lastmodified":1566595201,
     "wof:name":"Bukoto",
     "wof:parent_id":1092068753,
     "wof:placetype":"locality",

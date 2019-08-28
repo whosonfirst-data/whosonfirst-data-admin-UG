@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.98,0.86333,31.02,0.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327367289,
-    "wof:lastmodified":1536775556,
+    "wof:lastmodified":1566594687,
     "wof:name":"Kasimbi",
     "wof:parent_id":1092070207,
     "wof:placetype":"locality",

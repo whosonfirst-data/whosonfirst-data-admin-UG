@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.1725,0.45722,30.2125,0.49722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Kibiito"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1326563875,
-    "wof:lastmodified":1564200638,
+    "wof:lastmodified":1566594710,
     "wof:name":"Kibiito",
     "wof:parent_id":1092069635,
     "wof:placetype":"locality",

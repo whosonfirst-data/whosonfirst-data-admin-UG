@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.93605,0.27438,33.97605,0.31438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Porth Bud"
     ],
@@ -83,8 +87,7 @@
         "Bude"
     ],
     "name:und_x_variant":[
-        "Ebude",
-        "Bude"
+        "Ebude"
     ],
     "name:vol_x_preferred":[
         "Bude"
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1326566203,
-    "wof:lastmodified":1564200628,
+    "wof:lastmodified":1566594704,
     "wof:name":"Bude",
     "wof:parent_id":1092073897,
     "wof:placetype":"locality",

@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":2.204949,
     "lbl:longitude":33.279598,
+    "lbl:min_zoom":8.0,
     "mps:latitude":2.226469,
     "mps:longitude":33.26192,
     "mz:hierarchy_label":1,
@@ -57,7 +58,7 @@
     "name:swa_x_preferred":[
         "Alebtong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Alebtong District"
     ],
     "name:urd_x_preferred":[
@@ -138,9 +139,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"1,535",
     "statoids:area_mi":"593",
     "statoids:as_of_date":"2014-08-27",
@@ -185,11 +186,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738414,
+    "wof:lastmodified":1566594920,
     "wof:name":"Alebtong",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":227541,
     "wof:population_rank":10,

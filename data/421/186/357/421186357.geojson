@@ -10,8 +10,12 @@
     "geom:latitude":1.30972,
     "geom:longitude":34.37417,
     "iso:country":"UG",
+    "lbl:bbox":"34.35417,1.28972,34.39417,1.32972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sipi"
@@ -49,7 +53,7 @@
     "wof:concordances":{
         "gn:id":226272,
         "gp:id":1455340,
-        "qs:id":1064586
+        "qs_pg:id":1064586
     },
     "wof:country":"UG",
     "wof:created":1459009478,
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":421186357,
-    "wof:lastmodified":1564201875,
+    "wof:lastmodified":1566595497,
     "wof:name":"Sipi",
     "wof:parent_id":1092074137,
     "wof:placetype":"locality",

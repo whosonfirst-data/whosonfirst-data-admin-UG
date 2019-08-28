@@ -12,6 +12,8 @@
     "iso:country":"UG",
     "lbl:latitude":0.31628,
     "lbl:longitude":32.58219,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -578,7 +580,7 @@
         "gn:id":232422,
         "gp:id":1451962,
         "loc:id":"n80076329",
-        "qs:id":492935,
+        "qs_pg:id":492935,
         "wd:id":"Q3894",
         "wk:page":"Kampala"
     },
@@ -595,7 +597,7 @@
         }
     ],
     "wof:id":421173185,
-    "wof:lastmodified":1563308555,
+    "wof:lastmodified":1566595497,
     "wof:name":"Kampala",
     "wof:parent_id":1092071203,
     "wof:placetype":"locality",

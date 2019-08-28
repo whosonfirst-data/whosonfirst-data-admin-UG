@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.29005,0.94522,34.33005,0.98522",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Buwagogo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1326964619,
-    "wof:lastmodified":1537712161,
+    "wof:lastmodified":1566594767,
     "wof:name":"Buwagogo",
     "wof:parent_id":1092068753,
     "wof:placetype":"locality",

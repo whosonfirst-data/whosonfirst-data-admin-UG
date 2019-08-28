@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.1319,0.96374,34.1719,1.00374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mako"
     ],
@@ -106,7 +110,7 @@
         }
     ],
     "wof:id":1226073701,
-    "wof:lastmodified":1564202366,
+    "wof:lastmodified":1566595769,
     "wof:name":"Mako",
     "wof:parent_id":1092069563,
     "wof:placetype":"locality",

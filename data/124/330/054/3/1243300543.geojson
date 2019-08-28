@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.45,1.08,30.49,1.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hin_x_preferred":[
         "\u0915\u0930\u093e\u0935\u0932\u0940"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1243300543,
-    "wof:lastmodified":1564201903,
+    "wof:lastmodified":1566595517,
     "wof:name":"Kanara",
     "wof:parent_id":1092073179,
     "wof:placetype":"locality",

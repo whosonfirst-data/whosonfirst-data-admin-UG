@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.15329,0.53537,30.19329,0.57537",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rubona"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1309842417,
-    "wof:lastmodified":1564201829,
+    "wof:lastmodified":1566595472,
     "wof:name":"Rubona",
     "wof:parent_id":1092069635,
     "wof:placetype":"locality",

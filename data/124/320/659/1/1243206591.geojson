@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.75309,1.68395,31.79309,1.72395",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243206591,
-    "wof:lastmodified":1536654405,
+    "wof:lastmodified":1566595585,
     "wof:name":"Kikonya",
     "wof:parent_id":1092069799,
     "wof:placetype":"locality",

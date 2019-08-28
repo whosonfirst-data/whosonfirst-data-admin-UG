@@ -10,10 +10,14 @@
     "geom:latitude":0.583299,
     "geom:longitude":32.5333,
     "iso:country":"UG",
+    "lbl:bbox":"32.5132995249,0.563299105615,32.5532995249,0.603299105615",
     "lbl:latitude":0.583299,
     "lbl:longitude":32.5333,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u0648\u0645\u0628\u0648\u060c \u0623\u0648\u063a\u0646\u062f\u0627"
     ],
@@ -163,7 +167,7 @@
         }
     ],
     "wof:id":1141906025,
-    "wof:lastmodified":1563309040,
+    "wof:lastmodified":1566595774,
     "wof:name":"Bombo",
     "wof:parent_id":1092071399,
     "wof:placetype":"locality",

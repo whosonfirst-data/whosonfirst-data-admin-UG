@@ -10,8 +10,12 @@
     "geom:latitude":0.29111,
     "geom:longitude":32.65972,
     "iso:country":"UG",
+    "lbl:bbox":"32.63972,0.27111,32.67972,0.31111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Port Bell"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":226744,
         "gp:id":1455114,
-        "qs:id":1083602,
+        "qs_pg:id":1083602,
         "wd:id":"Q492275",
         "wk:page":"Port Bell"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":421187511,
-    "wof:lastmodified":1563308550,
+    "wof:lastmodified":1566595496,
     "wof:name":"Port Bell",
     "wof:parent_id":1092071203,
     "wof:placetype":"locality",

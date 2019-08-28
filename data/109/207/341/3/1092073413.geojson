@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":2.474537,
     "lbl:longitude":33.356245,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"OTUKE",
     "meso:admin_1r":"LANGO",
     "meso:dissme":"OTUKEOTUKELANGO",
@@ -32,6 +34,7 @@
     "mps:longitude":33.356245,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0648\u062a\u0648\u0643"
     ],
@@ -125,7 +128,7 @@
         "Otukedistriktet"
     ],
     "name:tam_x_preferred":[
-        "\u0b92\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc7  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b92\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bcd\u0b95\u0bc7 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c13\u0c1f\u0c41\u0c15\u0c46 \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -149,7 +152,7 @@
         "\u5967\u5716\u51f1\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":1092073413,
-    "wof:lastmodified":1561777340,
+    "wof:lastmodified":1566595439,
     "wof:name":"Otuke",
     "wof:parent_id":85680165,
     "wof:placetype":"county",

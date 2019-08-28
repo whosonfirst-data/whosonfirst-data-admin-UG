@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.17472,-1.20944,30.21472,-1.16944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lwentobo",
         "Rwentobo"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1360321535,
-    "wof:lastmodified":1537712055,
+    "wof:lastmodified":1566595425,
     "wof:name":"Rwentobo",
     "wof:parent_id":1092073825,
     "wof:placetype":"locality",

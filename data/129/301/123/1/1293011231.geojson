@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.65569,3.35384,31.69569,3.39384",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Lowa"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1293011231,
-    "wof:lastmodified":1564200966,
+    "wof:lastmodified":1566594943,
     "wof:name":"Lowa",
     "wof:parent_id":1092070471,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.1164,0.85414,33.1564,0.89414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -35,7 +39,7 @@
         "gn:id":11553060
     },
     "wof:country":"UG",
-    "wof:geomhash":"bffb7b4fc1cd9a04f357a4ba20204d1e",
+    "wof:geomhash":"1eeb842f61b7f57d4e79d8d315ef9dfd",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209651709,
-    "wof:lastmodified":1536280559,
+    "wof:lastmodified":1566595153,
     "wof:name":"Bumyuka",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -54,9 +58,9 @@
 },
   "bbox": [
     33.1364,
-    0.8741399999999999,
+    0.87414,
     33.1364,
-    0.8741399999999999
+    0.87414
 ],
   "geometry": {"coordinates":[33.1364,0.87414],"type":"Point"}
 }

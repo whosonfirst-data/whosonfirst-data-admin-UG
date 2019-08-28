@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.9754,0.0955,33.0154,0.1355",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bukunja",
         "Nansagazi"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293723991,
-    "wof:lastmodified":1537712068,
+    "wof:lastmodified":1566595026,
     "wof:name":"Nansagazi",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",

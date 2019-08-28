@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":3.227986,
     "lbl:longitude":31.773657,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"ADJUMANI",
     "meso:admin_1r":"WEST NILE",
     "meso:dissme":"EAST MOYOADJUMANIWEST NILE",
@@ -32,6 +34,7 @@
     "mps:longitude":31.773657,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u062f\u064a\u0648\u0645\u0627\u0646\u064a"
     ],
@@ -132,7 +135,7 @@
         "Adjumani"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bbe\u0b9f\u0bcd\u0b9c\u0bc1\u0bae\u0ba3\u0bbf  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0bb2\u0bbe\u0b9f\u0bcd\u0b9c\u0bc1\u0bae\u0ba3\u0bbf \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c21\u0c4d\u0c1c\u0c42\u0c2e\u0c3e\u0c28\u0c3f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -156,7 +159,7 @@
         "\u963f\u6731\u99ac\u5c3c\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -189,7 +192,7 @@
         }
     ],
     "wof:id":1092070471,
-    "wof:lastmodified":1561777340,
+    "wof:lastmodified":1566595435,
     "wof:name":"Adjumani",
     "wof:parent_id":85679833,
     "wof:placetype":"county",

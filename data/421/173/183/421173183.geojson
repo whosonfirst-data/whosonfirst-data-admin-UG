@@ -10,6 +10,9 @@
     "geom:latitude":1.08209,
     "geom:longitude":34.17503,
     "iso:country":"UG",
+    "lbl:bbox":"34.15503,1.06209,34.19503,1.10209",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -268,7 +271,7 @@
     "wof:concordances":{
         "gn:id":229278,
         "gp:id":1453742,
-        "qs:id":492934,
+        "qs_pg:id":492934,
         "wd:id":"Q1015727",
         "wk:page":"Mbale"
     },
@@ -285,7 +288,7 @@
         }
     ],
     "wof:id":421173183,
-    "wof:lastmodified":1563308553,
+    "wof:lastmodified":1566595497,
     "wof:name":"Mbale",
     "wof:parent_id":1092072743,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":2.216291,
     "lbl:longitude":33.018044,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"LIRA",
     "meso:admin_1r":"LANGO",
     "meso:dissme":"ERUTELIRALANGO",
@@ -32,6 +34,7 @@
     "mps:longitude":33.018044,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Erute"
     ],
@@ -40,7 +43,7 @@
         "ERUTE"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092070567,
-    "wof:lastmodified":1555092060,
+    "wof:lastmodified":1566595451,
     "wof:name":"Erute",
     "wof:parent_id":85679909,
     "wof:placetype":"county",

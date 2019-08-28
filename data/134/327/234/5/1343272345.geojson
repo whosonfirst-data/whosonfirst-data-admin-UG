@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.53839,3.44177,31.57839,3.48177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Kali"
     ],
@@ -249,7 +253,7 @@
         }
     ],
     "wof:id":1343272345,
-    "wof:lastmodified":1564200903,
+    "wof:lastmodified":1566594876,
     "wof:name":"Kali",
     "wof:parent_id":1092073299,
     "wof:placetype":"locality",

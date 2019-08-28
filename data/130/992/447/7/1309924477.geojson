@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.81731,2.62682,30.85731,2.66682",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041a\u0430\u043d\u0433\u043e"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1309924477,
-    "wof:lastmodified":1564201835,
+    "wof:lastmodified":1566595475,
     "wof:name":"Kango",
     "wof:parent_id":1092073339,
     "wof:placetype":"locality",

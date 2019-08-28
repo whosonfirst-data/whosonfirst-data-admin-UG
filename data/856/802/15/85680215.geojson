@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-0.207992,
     "lbl:longitude":31.191551,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-0.237372,
     "mps:longitude":31.168115,
     "mz:hierarchy_label":1,
@@ -51,7 +52,7 @@
     "name:swa_x_preferred":[
         "Lyantonde"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lyantonde District"
     ],
     "name:urd_x_preferred":[
@@ -132,9 +133,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"883",
     "statoids:area_mi":"341",
     "statoids:as_of_date":"2014-08-27",
@@ -181,11 +182,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738411,
+    "wof:lastmodified":1566594914,
     "wof:name":"Lyantonde",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":93753,
     "wof:population_rank":8,

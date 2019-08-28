@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.1001,0.59886,33.1401,0.63886",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327468371,
-    "wof:lastmodified":1536627032,
+    "wof:lastmodified":1566594737,
     "wof:name":"Lubanyi",
     "wof:parent_id":1092071019,
     "wof:placetype":"locality",

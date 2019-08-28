@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.60706,0.73341,33.64706,0.77341",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Namunyuma",
         "Namunyumya",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1327368197,
-    "wof:lastmodified":1537712068,
+    "wof:lastmodified":1566594681,
     "wof:name":"Namunyumya Mairo",
     "wof:parent_id":1092069033,
     "wof:placetype":"locality",

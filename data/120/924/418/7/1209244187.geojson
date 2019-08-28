@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.24734,0.63312,33.28734,0.67312",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -35,7 +39,7 @@
         "gn:id":11553593
     },
     "wof:country":"UG",
-    "wof:geomhash":"0a8f0c7bd81706f7c3220fd8d86e1619",
+    "wof:geomhash":"992681dfad4432349c3a4ea501bf3ba6",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209244187,
-    "wof:lastmodified":1536293221,
+    "wof:lastmodified":1566595178,
     "wof:name":"Nabulagala",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.267340000000004,
+    33.26734,
     0.65312,
-    33.267340000000004,
+    33.26734,
     0.65312
 ],
   "geometry": {"coordinates":[33.26734,0.65312],"type":"Point"}

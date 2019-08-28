@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":2.208079,
     "lbl:longitude":33.012268,
+    "lbl:min_zoom":8.0,
     "mps:latitude":2.188196,
     "mps:longitude":32.94118,
     "mz:hierarchy_label":1,
@@ -127,7 +128,7 @@
         "Liradistriktet"
     ],
     "name:tam_x_preferred":[
-        "\u0bb2\u0bbf\u0bb0\u0bbe  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0bb2\u0bbf\u0bb0\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c32\u0c40\u0c30\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -140,9 +141,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u041b\u0456\u0440\u0430"
-    ],
-    "name:unk_x_variant":[
-        "Lira District"
     ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0631\u0627 \u0636\u0644\u0639"
@@ -228,9 +226,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"1,327",
     "statoids:area_mi":"512",
     "statoids:as_of_date":"2014-08-27",
@@ -275,11 +273,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738404,
+    "wof:lastmodified":1566594903,
     "wof:name":"Lira",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":408043,
     "wof:population_rank":10,

@@ -11,10 +11,14 @@
     "geom:longitude":30.62861,
     "gn:country":"UG",
     "gn:fcode":"PPL",
-    "gn:pop":79157,
+    "gn:population":79157,
     "iso:country":"UG",
+    "lbl:bbox":"30.60861,-0.61167,30.64861,-0.57167",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Bwizibwera"
     ],
@@ -43,7 +47,7 @@
     "wof:concordances":{
         "gn:id":233730,
         "gp:id":1453747,
-        "qs:id":123623,
+        "qs_pg:id":123623,
         "wd:id":"Q5003690",
         "wk:page":"Bwizibwera"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890433285,
-    "wof:lastmodified":1563308575,
+    "wof:lastmodified":1566595502,
     "wof:name":"Bwizibwera",
     "wof:parent_id":1092072775,
     "wof:placetype":"locality",

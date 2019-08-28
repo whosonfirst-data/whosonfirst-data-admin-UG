@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.43215,0.32249,32.47215,0.36249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bukusu"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226576941,
-    "wof:lastmodified":1537712101,
+    "wof:lastmodified":1566595700,
     "wof:name":"Bukasa",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

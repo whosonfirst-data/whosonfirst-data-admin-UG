@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.86884,2.58038,30.90884,2.62038",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Oorlog"
     ],
@@ -422,8 +426,7 @@
         "\u0412\u0456\u0439\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Warr",
-        "War"
+        "Warr"
     ],
     "name:urd_x_preferred":[
         "\u062c\u0646\u06af"
@@ -481,7 +484,7 @@
         }
     ],
     "wof:id":1226461103,
-    "wof:lastmodified":1564202330,
+    "wof:lastmodified":1566595747,
     "wof:name":"War",
     "wof:parent_id":1092073339,
     "wof:placetype":"locality",

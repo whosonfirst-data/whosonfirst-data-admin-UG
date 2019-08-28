@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.060592,
     "lbl:longitude":29.820549,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KASESE",
     "meso:admin_1r":"WESTERN",
     "meso:dissme":"BUKONJOKASESEWESTERN",
@@ -32,6 +34,7 @@
     "mps:longitude":29.820549,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Bukonjo"
     ],
@@ -41,7 +44,7 @@
         "Bukonzo"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1092069357,
-    "wof:lastmodified":1555092058,
+    "wof:lastmodified":1566595459,
     "wof:name":"Bukonjo",
     "wof:parent_id":85680037,
     "wof:placetype":"county",

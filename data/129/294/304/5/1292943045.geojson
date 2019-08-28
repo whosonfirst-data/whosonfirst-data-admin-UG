@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.53,0.53,32.57,0.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Bibo"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1292943045,
-    "wof:lastmodified":1564200982,
+    "wof:lastmodified":1566594951,
     "wof:name":"Bibo",
     "wof:parent_id":1092072041,
     "wof:placetype":"locality",

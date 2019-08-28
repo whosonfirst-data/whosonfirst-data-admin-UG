@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"29.7048,0.02008,29.7448,0.06008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u041c\u043f\u043e\u043d\u0434\u0432\u0435"
     ],
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":1326966415,
-    "wof:lastmodified":1564200726,
+    "wof:lastmodified":1566594765,
     "wof:name":"Mpondwe",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

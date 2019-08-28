@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.08759,0.67388,30.12759,0.71388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bukangama"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1344092599,
-    "wof:lastmodified":1537712142,
+    "wof:lastmodified":1566594813,
     "wof:name":"Bukangama",
     "wof:parent_id":1092074383,
     "wof:placetype":"locality",

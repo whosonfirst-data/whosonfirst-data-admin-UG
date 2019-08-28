@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.21157,2.53838,31.25157,2.57838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:vie_x_preferred":[
         "Awaradi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1360295915,
-    "wof:lastmodified":1564201769,
+    "wof:lastmodified":1566595413,
     "wof:name":"Awaradi",
     "wof:parent_id":1092073489,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.51437,0.37725,33.55437,0.41725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kafumita"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225881403,
-    "wof:lastmodified":1537712118,
+    "wof:lastmodified":1566595709,
     "wof:name":"Kafumita",
     "wof:parent_id":1092069607,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":0.589081,
     "lbl:longitude":32.830316,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MUKONO",
     "meso:admin_1r":"CENTRAL 2",
     "meso:dissme":"NAKIFUMAMUKONOCENTRAL 2",
@@ -32,6 +34,7 @@
     "mps:longitude":32.830316,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Nakifuma"
     ],
@@ -40,7 +43,7 @@
         "NAKIFUMA"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1092073015,
-    "wof:lastmodified":1555092064,
+    "wof:lastmodified":1566595430,
     "wof:name":"Nakifuma",
     "wof:parent_id":85679817,
     "wof:placetype":"county",

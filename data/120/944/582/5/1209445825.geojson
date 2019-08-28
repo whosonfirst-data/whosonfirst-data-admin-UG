@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.69639,0.83443,33.73639,0.87443",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -35,7 +39,7 @@
         "gn:id":11430078
     },
     "wof:country":"UG",
-    "wof:geomhash":"357fcc934332ced0f22f2b7a438e108a",
+    "wof:geomhash":"00d7652246eebebd723e539695be5911",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":1209445825,
-    "wof:lastmodified":1536286822,
+    "wof:lastmodified":1566595243,
     "wof:name":"Bunyagwe",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -53,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.716390000000004,
-    0.8544299999999999,
-    33.716390000000004,
-    0.8544299999999999
+    33.71639,
+    0.85443,
+    33.71639,
+    0.85443
 ],
   "geometry": {"coordinates":[33.71639,0.85443],"type":"Point"}
 }

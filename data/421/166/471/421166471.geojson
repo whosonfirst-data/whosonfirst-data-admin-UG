@@ -10,8 +10,12 @@
     "geom:latitude":-0.78828,
     "geom:longitude":29.73283,
     "iso:country":"UG",
+    "lbl:bbox":"29.71283,-0.80828,29.75283,-0.76828",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kanungu"
@@ -46,7 +50,7 @@
     "name:swa_x_preferred":[
         "Kanungu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kinkizi"
     ],
     "name:urd_x_preferred":[
@@ -84,9 +88,11 @@
     "wof:concordances":{
         "gn:id":232287,
         "gp:id":1452027,
-        "qs:id":266872,
         "qs_pg:id":123615,
         "wd:id":"Q2470025"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":266872
     },
     "wof:country":"UG",
     "wof:created":1459008691,
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":421166471,
-    "wof:lastmodified":1563308545,
+    "wof:lastmodified":1566595495,
     "wof:name":"Kanungu",
     "wof:parent_id":1092071685,
     "wof:placetype":"locality",

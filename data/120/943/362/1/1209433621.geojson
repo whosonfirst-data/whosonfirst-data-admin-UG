@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.04912,2.48594,31.08912,2.52594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -37,7 +41,7 @@
         "gn:id":8081141
     },
     "wof:country":"UG",
-    "wof:geomhash":"590f631a6b90452342152caf7c953db9",
+    "wof:geomhash":"34ce711337ce2fd22e4d3254058299e5",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209433621,
-    "wof:lastmodified":1536287165,
+    "wof:lastmodified":1566595244,
     "wof:name":"Jupombalya",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     31.06912,
-    2.5059400000000003,
+    2.50594,
     31.06912,
-    2.5059400000000003
+    2.50594
 ],
   "geometry": {"coordinates":[31.06912,2.50594],"type":"Point"}
 }

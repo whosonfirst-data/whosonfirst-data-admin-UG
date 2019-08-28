@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.44964,0.62665,30.48964,0.66665",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kasamba"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276796521,
-    "wof:lastmodified":1537712151,
+    "wof:lastmodified":1566595105,
     "wof:name":"Kasamba",
     "wof:parent_id":1092072955,
     "wof:placetype":"locality",

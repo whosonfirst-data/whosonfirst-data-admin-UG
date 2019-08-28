@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-0.527705,
     "lbl:longitude":29.831134,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"RUKUNGIRI",
     "meso:admin_1r":"SOUTH WESTERN",
     "meso:dissme":"BUJUMBURARUKUNGIRISOUTH WESTERN",
@@ -32,6 +34,7 @@
     "mps:longitude":29.831134,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Rujumbura"
     ],
@@ -41,7 +44,7 @@
         "BUJUMBURA"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632625,
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1092069223,
-    "wof:lastmodified":1555047750,
+    "wof:lastmodified":1566595459,
     "wof:name":"Rujumbura",
     "wof:parent_id":85680061,
     "wof:placetype":"county",

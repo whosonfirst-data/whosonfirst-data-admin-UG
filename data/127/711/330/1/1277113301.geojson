@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.5525,0.30611,31.5925,0.34611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bujunzuzi",
         "Bujunjuzi"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1277113301,
-    "wof:lastmodified":1537712102,
+    "wof:lastmodified":1566595135,
     "wof:name":"Bujunjuzi",
     "wof:parent_id":1092070589,
     "wof:placetype":"locality",

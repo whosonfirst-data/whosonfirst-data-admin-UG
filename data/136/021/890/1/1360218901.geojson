@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.24236,0.64194,30.28236,0.68194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kanywankoko"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1360218901,
-    "wof:lastmodified":1537712151,
+    "wof:lastmodified":1566595421,
     "wof:name":"Kanywankoko",
     "wof:parent_id":421174009,
     "wof:placetype":"locality",

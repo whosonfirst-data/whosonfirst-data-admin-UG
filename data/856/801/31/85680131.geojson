@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":0.196608,
     "lbl:longitude":32.159346,
+    "lbl:min_zoom":8.0,
     "mps:latitude":0.180309,
     "mps:longitude":32.116666,
     "mz:hierarchy_label":1,
@@ -108,9 +109,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"403",
     "statoids:area_mi":"156",
     "statoids:as_of_date":"2014-08-27",
@@ -155,11 +156,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738416,
+    "wof:lastmodified":1566594923,
     "wof:name":"Butambala",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":100840,
     "wof:population_rank":9,

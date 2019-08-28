@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.37728,1.95799,32.41728,1.99799",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343477599,
-    "wof:lastmodified":1536721738,
+    "wof:lastmodified":1566594840,
     "wof:name":"Apele",
     "wof:parent_id":1092072551,
     "wof:placetype":"locality",

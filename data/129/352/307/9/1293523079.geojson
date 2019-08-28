@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"31.38361,-0.02389,31.42361,0.01611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lwantale",
         "Lwentale"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293523079,
-    "wof:lastmodified":1537712076,
+    "wof:lastmodified":1566594943,
     "wof:name":"Lwentale",
     "wof:parent_id":1092072661,
     "wof:placetype":"locality",

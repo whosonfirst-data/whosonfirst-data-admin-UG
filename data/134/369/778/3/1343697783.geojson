@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.78848,0.21859,32.82848,0.25859",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Kiganda"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343697783,
-    "wof:lastmodified":1564200871,
+    "wof:lastmodified":1566594857,
     "wof:name":"Kiganda",
     "wof:parent_id":1092072911,
     "wof:placetype":"locality",

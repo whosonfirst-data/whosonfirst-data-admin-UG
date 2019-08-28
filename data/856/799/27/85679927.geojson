@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":2.301758,
     "lbl:longitude":32.432435,
+    "lbl:min_zoom":8.0,
     "mps:latitude":2.313287,
     "mps:longitude":32.433238,
     "mz:hierarchy_label":1,
@@ -142,9 +143,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u041e\u0439\u0430\u043c"
     ],
-    "name:unk_x_variant":[
-        "Oyam District"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u06cc\u0627\u0645 \u0636\u0644\u0639"
     ],
@@ -228,9 +226,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"2,190",
     "statoids:area_mi":"846",
     "statoids:as_of_date":"2014-08-27",
@@ -256,7 +254,7 @@
         "gp:id":56190213,
         "hasc:id":"UG.OY",
         "iso:id":"UG-321",
-        "qs:id":923445,
+        "qs_pg:id":923445,
         "unlc:id":"UG-321",
         "wd:id":"Q1318833"
     },
@@ -278,11 +276,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738402,
+    "wof:lastmodified":1566594900,
     "wof:name":"Oyam",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":383644,
     "wof:population_rank":10,

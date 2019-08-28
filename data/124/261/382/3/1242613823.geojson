@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.00011,0.24753,33.04011,0.28753",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Bugwisa"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242613823,
-    "wof:lastmodified":1537712137,
+    "wof:lastmodified":1566595540,
     "wof:name":"Bugwisa",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",

@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.15112,0.94961,34.19112,0.98961",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nalondo"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1276265805,
-    "wof:lastmodified":1537712170,
+    "wof:lastmodified":1566595046,
     "wof:name":"Nalondo",
     "wof:parent_id":1092069563,
     "wof:placetype":"locality",

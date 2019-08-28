@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.46111,1.02111,30.50111,1.06111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:urd_x_preferred":[
         "\u0646\u062a\u0648\u0631\u0648\u06a9\u0648"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310635141,
-    "wof:lastmodified":1564201672,
+    "wof:lastmodified":1566595353,
     "wof:name":"Ntoroko",
     "wof:parent_id":1092073179,
     "wof:placetype":"locality",

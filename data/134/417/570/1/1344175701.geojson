@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.79948,3.15913,30.83948,3.19913",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344175701,
-    "wof:lastmodified":1536709590,
+    "wof:lastmodified":1566594872,
     "wof:name":"Aterodri",
     "wof:parent_id":1092072511,
     "wof:placetype":"locality",

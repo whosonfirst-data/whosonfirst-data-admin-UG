@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":-0.479903,
     "lbl:longitude":30.135565,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-0.510545,
     "mps:longitude":30.168764,
     "mz:hierarchy_label":1,
@@ -138,9 +139,6 @@
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u0411\u0443\u0448\u0435\u043d\u0456\u0439"
     ],
-    "name:unk_x_variant":[
-        "Bushenyi District"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0634\u06cc\u0646\u0626\u06cc \u0636\u0644\u0639"
     ],
@@ -225,9 +223,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"844",
     "statoids:area_mi":"326",
     "statoids:as_of_date":"2014-08-27",
@@ -272,11 +270,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738411,
+    "wof:lastmodified":1566594915,
     "wof:name":"Bushenyi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":234440,
     "wof:population_rank":10,

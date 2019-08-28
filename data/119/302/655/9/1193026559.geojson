@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"32.91333,2.41333,32.95333,2.45333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Agur"
     ],
@@ -41,8 +45,7 @@
         "Agur"
     ],
     "name:und_x_variant":[
-        "Ogur",
-        "Agur"
+        "Ogur"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1193026559,
-    "wof:lastmodified":1564201529,
+    "wof:lastmodified":1566595273,
     "wof:name":"Agur",
     "wof:parent_id":1092070567,
     "wof:placetype":"locality",

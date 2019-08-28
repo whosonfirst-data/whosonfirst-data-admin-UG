@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.77767,0.70537,33.81767,0.74537",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lin_x_preferred":[
         "Makoma"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343894315,
-    "wof:lastmodified":1564200922,
+    "wof:lastmodified":1566594888,
     "wof:name":"Makoma",
     "wof:parent_id":1092069849,
     "wof:placetype":"locality",

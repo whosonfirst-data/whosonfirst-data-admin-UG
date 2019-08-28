@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":0.48209,
     "lbl:longitude":32.574866,
+    "lbl:min_zoom":8.0,
     "mps:latitude":0.066111,
     "mps:longitude":32.470521,
     "mz:hierarchy_label":1,
@@ -137,7 +138,7 @@
         "Wakiso"
     ],
     "name:tam_x_preferred":[
-        "\u0bb5\u0bbe\u0b95\u0bbf\u0bb8\u0bcb  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0bb5\u0bbe\u0b95\u0bbf\u0bb8\u0bcb \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c35\u0c3e\u0c15\u0c3f\u0c38\u0c4b \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -150,9 +151,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u0412\u0430\u043a\u0456\u0441\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Wakiso District"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0627\u06a9\u06cc\u0633\u0648 \u0636\u0644\u0639"
@@ -237,9 +235,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"1,882",
     "statoids:area_mi":"727",
     "statoids:as_of_date":"2014-08-27",
@@ -264,7 +262,7 @@
         "gp:id":24550740,
         "hasc:id":"UG.WA",
         "iso:id":"UG-113",
-        "qs:id":1196802,
+        "qs_pg:id":1196802,
         "unlc:id":"UG-113",
         "wd:id":"Q976848"
     },
@@ -286,11 +284,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738409,
+    "wof:lastmodified":1566594910,
     "wof:name":"Wakiso",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":1997418,
     "wof:population_rank":12,

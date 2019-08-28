@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.478317,
     "lbl:longitude":33.543473,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"SERERE",
     "meso:admin_1r":"TESO",
     "meso:dissme":"SERERESERERETESO",
@@ -32,6 +34,7 @@
     "mps:longitude":33.543473,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0633\u064a\u0631\u064a\u0631"
     ],
@@ -125,7 +128,7 @@
         "Serere distriktet"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc7\u0bb0\u0bc7\u0bb1\u0bc7  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0b9a\u0bc7\u0bb0\u0bc7\u0bb1\u0bc7 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c30\u0c46\u0c30\u0c3f \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -149,7 +152,7 @@
         "\u585e\u96f7\u96f7\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -182,7 +185,7 @@
         }
     ],
     "wof:id":1092073939,
-    "wof:lastmodified":1561777341,
+    "wof:lastmodified":1566595444,
     "wof:name":"Serere",
     "wof:parent_id":85680119,
     "wof:placetype":"county",

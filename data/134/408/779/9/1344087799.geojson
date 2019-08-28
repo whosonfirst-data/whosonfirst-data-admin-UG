@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.12162,0.62784,33.16162,0.66784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1344087799,
-    "wof:lastmodified":1536835203,
+    "wof:lastmodified":1566594809,
     "wof:name":"Butagana",
     "wof:parent_id":1092071019,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.828,3.09073,30.868,3.13073",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632625
@@ -37,7 +41,7 @@
         "gn:id":227336
     },
     "wof:country":"UG",
-    "wof:geomhash":"d4637c43dffa318cd8c6286a3f3162f9",
+    "wof:geomhash":"178c765e2e034b11bb66fe8b844fb2fe",
     "wof:hierarchy":[
         {
             "country_id":85632625,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209633919,
-    "wof:lastmodified":1536281102,
+    "wof:lastmodified":1566595155,
     "wof:name":"Nyaute",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",
@@ -55,9 +59,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    30.848000000000006,
+    30.84800000000001,
     3.11073,
-    30.848000000000006,
+    30.84800000000001,
     3.11073
 ],
   "geometry": {"coordinates":[30.84800000000001,3.11073],"type":"Point"}

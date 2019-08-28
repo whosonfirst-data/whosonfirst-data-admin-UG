@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":1.079135,
     "lbl:longitude":34.174727,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"MBALE",
     "meso:admin_1r":"ELGON",
     "meso:dissme":"MBALE MUNICIPALITYMBALEELGON",
@@ -32,6 +34,7 @@
     "mps:longitude":34.174727,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u0628\u0627\u0644\u064a"
     ],
@@ -96,7 +99,7 @@
         "Mbale"
     ],
     "name:mar_x_preferred":[
-        "\u092e\u094d\u092c\u0932\u0947  \u091c\u093f\u0932\u094d\u0939\u093e"
+        "\u092e\u094d\u092c\u0932\u0947 \u091c\u093f\u0932\u094d\u0939\u093e"
     ],
     "name:msa_x_preferred":[
         "Mbale District"
@@ -132,7 +135,7 @@
         "Mbaledistriktet"
     ],
     "name:tam_x_preferred":[
-        "\u0bae\u0bcd\u0baa\u0bb2\u0bc7  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0bae\u0bcd\u0baa\u0bb2\u0bc7 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c0e\u0c02\u0c2c\u0c47\u0c32\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -156,7 +159,7 @@
         "\u59c6\u5df4\u840a\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191573,
         85632625,
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":1092072743,
-    "wof:lastmodified":1561777339,
+    "wof:lastmodified":1566595432,
     "wof:name":"Mbale Municipality",
     "wof:parent_id":85679965,
     "wof:placetype":"county",

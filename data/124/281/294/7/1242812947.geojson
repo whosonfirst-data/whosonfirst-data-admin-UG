@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.44667,0.74667,33.48667,0.78667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:pol_x_preferred":[
         "Nambale"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1242812947,
-    "wof:lastmodified":1564201933,
+    "wof:lastmodified":1566595532,
     "wof:name":"Nambale",
     "wof:parent_id":1092071603,
     "wof:placetype":"locality",

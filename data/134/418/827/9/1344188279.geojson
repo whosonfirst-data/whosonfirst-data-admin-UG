@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.20952,0.42871,33.24952,0.46871",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Masese"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1344188279,
-    "wof:lastmodified":1537712074,
+    "wof:lastmodified":1566594873,
     "wof:name":"Masese",
     "wof:parent_id":1092070823,
     "wof:placetype":"locality",

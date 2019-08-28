@@ -11,10 +11,14 @@
     "geom:longitude":33.17444,
     "gn:country":"UG",
     "gn:fcode":"PPL",
-    "gn:pop":15130,
+    "gn:population":15130,
     "iso:country":"UG",
+    "lbl:bbox":"33.15444,0.62222,33.19444,0.66222",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Buwenge"
     ],
@@ -46,7 +50,7 @@
     "wof:concordances":{
         "gn:id":233886,
         "gp:id":1451187,
-        "qs:id":79694,
+        "qs_pg:id":79694,
         "wd:id":"Q5003228",
         "wk:page":"Buwenge"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890450035,
-    "wof:lastmodified":1563308575,
+    "wof:lastmodified":1566595502,
     "wof:name":"Buwenge",
     "wof:parent_id":1092071019,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.46375,0.35418,33.50375,0.39418",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Wambete"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209953231,
-    "wof:lastmodified":1537712132,
+    "wof:lastmodified":1566595201,
     "wof:name":"Wambete",
     "wof:parent_id":1092069607,
     "wof:placetype":"locality",

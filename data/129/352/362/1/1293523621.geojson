@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"29.89194,0.10444,29.93194,0.14444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293523621,
-    "wof:lastmodified":1536735100,
+    "wof:lastmodified":1566594944,
     "wof:name":"Bukonyo",
     "wof:parent_id":1092069357,
     "wof:placetype":"locality",

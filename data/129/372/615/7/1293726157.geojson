@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"34.64667,1.31333,34.68667,1.35333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chesoweri",
         "Kyesoweri",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293726157,
-    "wof:lastmodified":1537712079,
+    "wof:lastmodified":1566595030,
     "wof:name":"Kyosoweri",
     "wof:parent_id":1092071861,
     "wof:placetype":"locality",

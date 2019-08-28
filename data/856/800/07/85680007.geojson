@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":3.620554,
     "lbl:longitude":33.945233,
+    "lbl:min_zoom":8.0,
     "mps:latitude":3.59838,
     "mps:longitude":33.942769,
     "mz:hierarchy_label":1,
@@ -74,9 +75,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"7,298",
     "statoids:area_mi":"2,818",
     "statoids:as_of_date":"2014-08-27",
@@ -101,7 +102,7 @@
         "gp:id":20070429,
         "hasc:id":"UG.AB",
         "iso:id":"UG-315",
-        "qs:id":902960,
+        "qs_pg:id":902960,
         "unlc:id":"UG-315",
         "wd:id":"Q6272909"
     },
@@ -123,11 +124,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738412,
+    "wof:lastmodified":1566594917,
     "wof:name":"Kaabong",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":167879,
     "wof:population_rank":9,

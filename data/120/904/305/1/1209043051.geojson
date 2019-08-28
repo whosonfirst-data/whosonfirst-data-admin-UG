@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"29.75432,-0.43241,29.79432,-0.39241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Rwensama",
         "Rwenshama"
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1209043051,
-    "wof:lastmodified":1537712056,
+    "wof:lastmodified":1566595216,
     "wof:name":"Rwenshama",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",

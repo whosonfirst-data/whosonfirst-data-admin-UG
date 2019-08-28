@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"33.78048,0.49486,33.82048,0.53486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1242613685,
-    "wof:lastmodified":1537010943,
+    "wof:lastmodified":1566595540,
     "wof:name":"Namayemba",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

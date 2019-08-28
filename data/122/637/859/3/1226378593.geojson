@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.36444,-1.08694,30.40444,-1.04694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Ruchama"
     ],
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1226378593,
-    "wof:lastmodified":1564202344,
+    "wof:lastmodified":1566595755,
     "wof:name":"Ruhama",
     "wof:parent_id":421193621,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":-0.90465,
     "lbl:longitude":30.321594,
+    "lbl:min_zoom":8.0,
     "mps:latitude":-0.94552,
     "mps:longitude":30.26837,
     "mz:hierarchy_label":1,
@@ -131,7 +132,7 @@
         "Ntungamodistriktet"
     ],
     "name:tam_x_preferred":[
-        "\u0ba8\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bae\u0bcb  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+        "\u0ba8\u0b9f\u0bc1\u0b99\u0bcd\u0b95\u0bae\u0bcb \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
@@ -144,9 +145,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0420\u0430\u0439\u043e\u043d \u041d\u0442\u0443\u043d\u0433\u0430\u043c\u043e"
-    ],
-    "name:unk_x_variant":[
-        "Ntungamo District"
     ],
     "name:urd_x_preferred":[
         "\u0646\u062a\u0648\u0646\u06af\u0627\u0645\u0648"
@@ -234,9 +232,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2014-08-27",
+    "src:population_date":"2014-08-27",
     "statoids:area_km":"2,048",
     "statoids:area_mi":"791",
     "statoids:as_of_date":"2014-08-27",
@@ -262,7 +260,7 @@
         "gp:id":20070440,
         "hasc:id":"UG.NT",
         "iso:id":"UG-411",
-        "qs:id":967618,
+        "qs_pg:id":967618,
         "unlc:id":"UG-411",
         "wd:id":"Q204642"
     },
@@ -284,11 +282,10 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1565738411,
+    "wof:lastmodified":1566594915,
     "wof:name":"Ntungamo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"district",
     "wof:population":483841,
     "wof:population_rank":10,

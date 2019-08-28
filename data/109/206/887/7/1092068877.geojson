@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-1.222783,
     "lbl:longitude":29.684002,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"KISORO",
     "meso:admin_1r":"SOUTH WESTERN",
     "meso:dissme":"BUFUMBIRAKISOROSOUTH WESTERN",
@@ -32,6 +34,7 @@
     "mps:longitude":29.684002,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "Kisoro District"
     ],
@@ -86,7 +89,7 @@
         "\u57fa\u7d22\u7f85\u5340"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
     "statoids:as_of_date":"",
     "statoids:capital":"",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1092068877,
-    "wof:lastmodified":1563308480,
+    "wof:lastmodified":1566595456,
     "wof:name":"Bufumbira",
     "wof:parent_id":85680075,
     "wof:placetype":"county",

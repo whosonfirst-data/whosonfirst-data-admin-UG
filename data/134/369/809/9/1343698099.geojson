@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kampala",
     "iso:country":"UG",
+    "lbl:bbox":"30.0483,0.64759,30.0883,0.68759",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Kisongo"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343698099,
-    "wof:lastmodified":1564200875,
+    "wof:lastmodified":1566594860,
     "wof:name":"Kisongo",
     "wof:parent_id":1092074383,
     "wof:placetype":"locality",
