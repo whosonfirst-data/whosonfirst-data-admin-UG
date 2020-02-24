@@ -253,6 +253,9 @@
         "wd:id":"Q1028215"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9414e89c89ddba34375777529d2031ee",
     "wof:hierarchy":[
         {
@@ -270,7 +273,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594900,
+    "wof:lastmodified":1582350011,
     "wof:name":"Gulu",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

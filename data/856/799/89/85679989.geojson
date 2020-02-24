@@ -261,6 +261,9 @@
         "wd:id":"Q1186541"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"af3ffbe97c2e438cf002202831b86c3c",
     "wof:hierarchy":[
         {
@@ -278,7 +281,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594901,
+    "wof:lastmodified":1582350012,
     "wof:name":"Tororo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

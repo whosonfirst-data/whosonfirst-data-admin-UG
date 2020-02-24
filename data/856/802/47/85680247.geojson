@@ -197,6 +197,9 @@
         "wd:id":"Q1028215"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"60963ecac8503ba349e853c32e7bfab5",
     "wof:hierarchy":[
         {
@@ -214,7 +217,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594914,
+    "wof:lastmodified":1582350015,
     "wof:name":"Nwoya",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

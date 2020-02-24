@@ -197,6 +197,9 @@
         "wd:id":"Q1229758"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c12cabe7b8792aba9edb9b78ea0ccc41",
     "wof:hierarchy":[
         {
@@ -214,7 +217,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594905,
+    "wof:lastmodified":1582350013,
     "wof:name":"Maracha",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

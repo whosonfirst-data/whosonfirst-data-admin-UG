@@ -303,6 +303,9 @@
     },
     "wof:country":"UG",
     "wof:created":1459010121,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d5a0f52c33b10c36596b4c38b8edbc62",
     "wof:hierarchy":[
         {
@@ -313,7 +316,7 @@
         }
     ],
     "wof:id":421202527,
-    "wof:lastmodified":1566595495,
+    "wof:lastmodified":1582350030,
     "wof:name":"Kibale",
     "wof:parent_id":85680041,
     "wof:placetype":"county",

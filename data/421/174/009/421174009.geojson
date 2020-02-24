@@ -357,6 +357,9 @@
     },
     "wof:country":"UG",
     "wof:created":1459009017,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1aa55fed2b5d17bc8b5bdb853a872239",
     "wof:hierarchy":[
         {
@@ -367,7 +370,7 @@
         }
     ],
     "wof:id":421174009,
-    "wof:lastmodified":1566595496,
+    "wof:lastmodified":1582350030,
     "wof:name":"Fort Portal Municipality",
     "wof:parent_id":85679939,
     "wof:placetype":"county",

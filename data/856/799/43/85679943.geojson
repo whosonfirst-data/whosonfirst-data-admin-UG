@@ -262,6 +262,9 @@
         "wd:id":"Q1318815"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"803ff3be9bcfc8e742010f2fa88080d6",
     "wof:hierarchy":[
         {
@@ -279,7 +282,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594902,
+    "wof:lastmodified":1582350012,
     "wof:name":"Kyenjojo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

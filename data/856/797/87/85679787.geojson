@@ -277,6 +277,9 @@
         "wd:id":"Q1207391"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"205b7197b7a13e5e7623d199471d4c85",
     "wof:hierarchy":[
         {
@@ -294,7 +297,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594898,
+    "wof:lastmodified":1582350011,
     "wof:name":"Kayunga",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

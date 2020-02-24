@@ -170,6 +170,9 @@
         "wd:id":"Q4985181"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0e7643dc038129083d8d4dc590a90ad0",
     "wof:hierarchy":[
         {
@@ -187,7 +190,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594912,
+    "wof:lastmodified":1582350015,
     "wof:name":"Bududa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

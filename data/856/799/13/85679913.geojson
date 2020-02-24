@@ -262,6 +262,9 @@
         "wd:id":"Q1318872"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"28238f2d41d3e9ed45c0f1558fcba60b",
     "wof:hierarchy":[
         {
@@ -279,7 +282,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594904,
+    "wof:lastmodified":1582350013,
     "wof:name":"Dokolo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

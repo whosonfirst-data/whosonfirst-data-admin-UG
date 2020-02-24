@@ -201,6 +201,9 @@
         "wd:id":"Q1318843"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"287d0cfc56cc4bdc2f4ad98f77d46ac7",
     "wof:hierarchy":[
         {
@@ -218,7 +221,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594903,
+    "wof:lastmodified":1582350012,
     "wof:name":"Kotido",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

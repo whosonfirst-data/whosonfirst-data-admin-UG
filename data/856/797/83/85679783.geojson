@@ -265,6 +265,9 @@
         "wd:id":"Q1229906"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9c84f836be4598c0bfde9572cf161745",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594898,
+    "wof:lastmodified":1582350011,
     "wof:name":"Kaberamaido",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

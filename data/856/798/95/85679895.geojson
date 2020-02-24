@@ -110,6 +110,9 @@
         "wd:id":"Q3529595"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"98c9f8241b782bb07920847932d45fb6",
     "wof:hierarchy":[
         {
@@ -127,7 +130,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594905,
+    "wof:lastmodified":1582350013,
     "wof:name":"Nakaseke",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

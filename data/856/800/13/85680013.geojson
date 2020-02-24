@@ -159,6 +159,9 @@
         "wd:id":"Q16249258"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2cc527504526087f2f27a1ee640a9b6e",
     "wof:hierarchy":[
         {
@@ -176,7 +179,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594919,
+    "wof:lastmodified":1582350017,
     "wof:name":"Abim",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

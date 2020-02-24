@@ -171,6 +171,9 @@
         "wd:id":"Q6272234"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3d0ab3aa8eb1e088fb5c5d112f1864aa",
     "wof:hierarchy":[
         {
@@ -188,7 +191,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594908,
+    "wof:lastmodified":1582350014,
     "wof:name":"Namutumba",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

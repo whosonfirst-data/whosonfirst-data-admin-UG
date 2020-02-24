@@ -196,6 +196,9 @@
         "wd:id":"Q1229921"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7f229cc45520f77d77e7ab0d0591b527",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594899,
+    "wof:lastmodified":1582350011,
     "wof:name":"Kapchorwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

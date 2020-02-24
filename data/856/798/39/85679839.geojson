@@ -274,6 +274,9 @@
         "wd:id":"Q1318857"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"debf200408e600c9d80260d4ece49b8d",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594910,
+    "wof:lastmodified":1582350014,
     "wof:name":"Koboko",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

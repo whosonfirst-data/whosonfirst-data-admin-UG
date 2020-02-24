@@ -107,6 +107,9 @@
         "wd:id":"Q6272909"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5e2ebc2c72c67727376407dc2b23652d",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594917,
+    "wof:lastmodified":1582350016,
     "wof:name":"Kaabong",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

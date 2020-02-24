@@ -208,6 +208,9 @@
         "wd:id":"Q1375835"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6432ff07ed13201efabeafd3bc1d4b78",
     "wof:hierarchy":[
         {
@@ -225,7 +228,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594898,
+    "wof:lastmodified":1582350011,
     "wof:name":"Sironko",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -200,6 +200,9 @@
         "wd:id":"Q1375850"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4fe5f9e050cc2f2de18d74ba2b0d32a4",
     "wof:hierarchy":[
         {
@@ -217,7 +220,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594917,
+    "wof:lastmodified":1582350016,
     "wof:name":"Moroto",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

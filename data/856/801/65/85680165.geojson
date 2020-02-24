@@ -157,6 +157,9 @@
         "wd:id":"Q6696899"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"03a672bcec6c46b2c07106a7a5f7ec27",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594923,
+    "wof:lastmodified":1582350018,
     "wof:name":"Otuke",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

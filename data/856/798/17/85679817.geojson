@@ -205,6 +205,9 @@
         "wd:id":"Q1151066"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"120ae85dd1f17f709191f4e6cb2a4cfc",
     "wof:hierarchy":[
         {
@@ -222,7 +225,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594907,
+    "wof:lastmodified":1582350013,
     "wof:name":"Mukono",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -175,6 +175,9 @@
         "wd:id":"Q4986830"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"41edd696e8ccf46a6d17db871dbdd223",
     "wof:hierarchy":[
         {
@@ -192,7 +195,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594914,
+    "wof:lastmodified":1582350016,
     "wof:name":"Bukedea",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

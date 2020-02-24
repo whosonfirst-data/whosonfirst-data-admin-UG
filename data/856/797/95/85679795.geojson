@@ -197,6 +197,9 @@
         "wd:id":"Q164474"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"78b20fe7aba47ae6fa8ea60799fdb888",
     "wof:hierarchy":[
         {
@@ -214,7 +217,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594897,
+    "wof:lastmodified":1582350010,
     "wof:name":"Kamuli",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

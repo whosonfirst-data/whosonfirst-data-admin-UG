@@ -138,6 +138,9 @@
         "unlc:id":"UG-228"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2e22d5c2d9d03e93a9c039ef9a73c527",
     "wof:hierarchy":[
         {
@@ -155,7 +158,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594922,
+    "wof:lastmodified":1582350018,
     "wof:name":"Kween",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

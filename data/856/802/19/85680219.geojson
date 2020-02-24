@@ -163,6 +163,9 @@
         "wd:id":"Q4986998"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ce20a18cb1904ca57223a747634860f3",
     "wof:hierarchy":[
         {
@@ -180,7 +183,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594912,
+    "wof:lastmodified":1582350015,
     "wof:name":"Bukomansimbi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

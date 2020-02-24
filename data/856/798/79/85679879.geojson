@@ -267,6 +267,9 @@
         "wd:id":"Q976848"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5651b81001e6b6eb23a066450c4188d4",
     "wof:hierarchy":[
         {
@@ -284,7 +287,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594910,
+    "wof:lastmodified":1582350014,
     "wof:name":"Wakiso",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

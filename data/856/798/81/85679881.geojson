@@ -211,6 +211,9 @@
         "wd:id":"Q1364817"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"45eebe58095b593fc56dab8497876747",
     "wof:hierarchy":[
         {
@@ -228,7 +231,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594908,
+    "wof:lastmodified":1582350014,
     "wof:name":"Luweero",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

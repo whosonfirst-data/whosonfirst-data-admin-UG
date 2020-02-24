@@ -265,6 +265,9 @@
         "wd:id":"Q1375825"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cde3bb4eab4f3815f29e0030a062fc09",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594911,
+    "wof:lastmodified":1582350014,
     "wof:name":"Nebbi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

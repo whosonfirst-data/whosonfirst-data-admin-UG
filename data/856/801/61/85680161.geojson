@@ -169,6 +169,9 @@
         "wd:id":"Q4714068"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cc0dc152957de11f30e38ec3a9da9d6f",
     "wof:hierarchy":[
         {
@@ -186,7 +189,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594920,
+    "wof:lastmodified":1582350017,
     "wof:name":"Alebtong",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

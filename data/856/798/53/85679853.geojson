@@ -262,6 +262,9 @@
         "wd:id":"Q2183668"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"85207a935a45f84a62f7118bf892e836",
     "wof:hierarchy":[
         {
@@ -279,7 +282,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594909,
+    "wof:lastmodified":1582350014,
     "wof:name":"Moyo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

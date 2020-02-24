@@ -271,6 +271,9 @@
         "wd:id":"Q867219"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e91e471bf19d92b8bd3a8dbddfa94113",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594897,
+    "wof:lastmodified":1582350010,
     "wof:name":"Kalangala",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

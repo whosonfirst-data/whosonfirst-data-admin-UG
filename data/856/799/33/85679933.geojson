@@ -274,6 +274,9 @@
         "wd:id":"Q1186535"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b044b68ce7e498e80a826a5a070f7be7",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594900,
+    "wof:lastmodified":1582350011,
     "wof:name":"Hoima",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

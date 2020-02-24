@@ -586,6 +586,9 @@
     },
     "wof:country":"UG",
     "wof:created":1459008974,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"499864f295fd2790db41b67af02bb3bd",
     "wof:hierarchy":[
         {
@@ -597,7 +600,7 @@
         }
     ],
     "wof:id":421173185,
-    "wof:lastmodified":1566595497,
+    "wof:lastmodified":1582350030,
     "wof:name":"Kampala",
     "wof:parent_id":1092071203,
     "wof:placetype":"locality",

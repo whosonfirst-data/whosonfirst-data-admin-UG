@@ -896,6 +896,11 @@
     },
     "wof:country":"UG",
     "wof:country_alpha3":"UGA",
+    "wof:geom_alt":[
+        "naturalearth",
+        "meso",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"af98a74ab79ce395052383dcdb42296f",
     "wof:hierarchy":[
         {
@@ -912,7 +917,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594925,
+    "wof:lastmodified":1582350019,
     "wof:name":"Uganda",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

@@ -255,6 +255,9 @@
         "wd:id":"Q1229919"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c495dfe74be575d24ca9d838a608813f",
     "wof:hierarchy":[
         {
@@ -272,7 +275,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594918,
+    "wof:lastmodified":1582350017,
     "wof:name":"Kasese",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -200,6 +200,9 @@
         "wd:id":"Q1375853"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"23732f3f48e38835dda2c23a40cf1cd3",
     "wof:hierarchy":[
         {
@@ -217,7 +220,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594917,
+    "wof:lastmodified":1582350016,
     "wof:name":"Nakapiripirit",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

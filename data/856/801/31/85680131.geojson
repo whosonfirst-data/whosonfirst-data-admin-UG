@@ -139,6 +139,9 @@
         "unlc:id":"UG-119"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f52bc5b6460a27e9fffdac9240859cf3",
     "wof:hierarchy":[
         {
@@ -156,7 +159,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594923,
+    "wof:lastmodified":1582350018,
     "wof:name":"Butambala",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

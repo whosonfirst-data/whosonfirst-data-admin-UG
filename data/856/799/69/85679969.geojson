@@ -103,6 +103,9 @@
         "wd:id":"Q6272973"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a996059fd39cb55415a7b5331902b4b8",
     "wof:hierarchy":[
         {
@@ -120,7 +123,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594899,
+    "wof:lastmodified":1582350011,
     "wof:name":"Manafwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

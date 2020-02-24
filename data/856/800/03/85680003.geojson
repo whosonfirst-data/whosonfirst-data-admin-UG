@@ -179,6 +179,9 @@
         "wd:id":"Q4749005"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eaef45f0b5dec0af2680fbe1af233af6",
     "wof:hierarchy":[
         {
@@ -196,7 +199,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594915,
+    "wof:lastmodified":1582350016,
     "wof:name":"Amuria",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

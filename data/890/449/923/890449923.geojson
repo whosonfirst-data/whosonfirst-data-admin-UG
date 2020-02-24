@@ -247,6 +247,9 @@
     },
     "wof:country":"UG",
     "wof:created":1469052716,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b5985560fbc6856fc6b018deb338b41c",
     "wof:hierarchy":[
         {
@@ -258,7 +261,7 @@
         }
     ],
     "wof:id":890449923,
-    "wof:lastmodified":1566595499,
+    "wof:lastmodified":1582350030,
     "wof:name":"Mpigi",
     "wof:parent_id":1092072705,
     "wof:placetype":"locality",

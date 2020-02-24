@@ -265,6 +265,9 @@
         "wd:id":"Q976883"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"256e972118aff6d4898270649eb5de2f",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594911,
+    "wof:lastmodified":1582350014,
     "wof:name":"Sembabule",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

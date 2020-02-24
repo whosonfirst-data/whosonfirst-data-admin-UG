@@ -97,6 +97,9 @@
         "wd:id":"Q5003357"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"781d2ef61c154194a0a9fcef38cab88a",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594920,
+    "wof:lastmodified":1582350018,
     "wof:name":"Buyende",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -201,6 +201,9 @@
         "wd:id":"Q1229869"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"169be7aa4839dfa4d00018501c4f6ce3",
     "wof:hierarchy":[
         {
@@ -218,7 +221,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594918,
+    "wof:lastmodified":1582350017,
     "wof:name":"Luuka",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -262,6 +262,9 @@
         "wd:id":"Q1362085"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"50f49924f409d83cab0085cae0b51237",
     "wof:hierarchy":[
         {
@@ -279,7 +282,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594923,
+    "wof:lastmodified":1582350018,
     "wof:name":"Budaka",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

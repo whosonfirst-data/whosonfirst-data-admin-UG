@@ -262,6 +262,9 @@
         "wd:id":"Q1362109"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"14c599b64c5f965b20b6452344e2d93e",
     "wof:hierarchy":[
         {
@@ -279,7 +282,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594906,
+    "wof:lastmodified":1582350013,
     "wof:name":"Mpigi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

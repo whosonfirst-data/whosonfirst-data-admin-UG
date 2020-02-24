@@ -262,6 +262,9 @@
         "wd:id":"Q1229750"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5f69409e1b7741e588e413dc268db9b7",
     "wof:hierarchy":[
         {
@@ -279,7 +282,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594921,
+    "wof:lastmodified":1582350018,
     "wof:name":"Apac",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

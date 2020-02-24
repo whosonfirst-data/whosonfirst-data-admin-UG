@@ -196,6 +196,9 @@
         "wd:id":"Q581822"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"716c18a7242d5b33427d03c9336292ec",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594903,
+    "wof:lastmodified":1582350012,
     "wof:name":"Mbale",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -196,6 +196,9 @@
         "wd:id":"Q1091337"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1fea5aa661342cada7fca4039343fdb7",
     "wof:hierarchy":[
         {
@@ -213,7 +216,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594911,
+    "wof:lastmodified":1582350015,
     "wof:name":"Soroti",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

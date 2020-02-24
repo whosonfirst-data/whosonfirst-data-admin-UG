@@ -258,6 +258,9 @@
         "wd:id":"Q3526470"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1ff71d469ba223a8926fdf31046d43b5",
     "wof:hierarchy":[
         {
@@ -275,7 +278,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594916,
+    "wof:lastmodified":1582350016,
     "wof:name":"Kabale",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

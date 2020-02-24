@@ -262,6 +262,9 @@
         "wd:id":"Q1230005"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bd1e7d47c511049d1e5fa4d11b0493da",
     "wof:hierarchy":[
         {
@@ -279,7 +282,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594908,
+    "wof:lastmodified":1582350014,
     "wof:name":"Mityana",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -339,6 +339,9 @@
         "wd:id":"Q15822537"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d37f8f4c1205466f5d203452f10b69dc",
     "wof:hierarchy":[
         {
@@ -356,7 +359,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594914,
+    "wof:lastmodified":1582350015,
     "wof:name":"Kalungu",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -200,6 +200,9 @@
         "wd:id":"Q500162"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"59aeb9b3a66c1dc737c0869b301064a0",
     "wof:hierarchy":[
         {
@@ -217,7 +220,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594924,
+    "wof:lastmodified":1582350019,
     "wof:name":"Lamwo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

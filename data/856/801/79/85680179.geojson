@@ -153,6 +153,9 @@
         "wd:id":"Q16896010"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6c3a561b6473a6f63f5cf57ac5ed9abf",
     "wof:hierarchy":[
         {
@@ -170,7 +173,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594924,
+    "wof:lastmodified":1582350018,
     "wof:name":"Ntoroko",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
