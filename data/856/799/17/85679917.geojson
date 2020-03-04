@@ -137,6 +137,9 @@
         "wd:id":"Q1230035"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e7c7fd1281abce178e3db81cec1f5333",
     "wof:hierarchy":[
         {
@@ -154,7 +157,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594901,
+    "wof:lastmodified":1582350012,
     "wof:name":"Pader",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

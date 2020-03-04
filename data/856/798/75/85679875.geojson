@@ -265,6 +265,9 @@
         "wd:id":"Q976859"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a5a3af373408b51c0e4c88b556772d19",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594907,
+    "wof:lastmodified":1582350013,
     "wof:name":"Nakasongola",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

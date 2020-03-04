@@ -341,6 +341,9 @@
         "wd:id":"Q8073799"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b807e983b1cee7625ce2e792ed4cbcb2",
     "wof:hierarchy":[
         {
@@ -358,7 +361,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594919,
+    "wof:lastmodified":1582350017,
     "wof:name":"Zombo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -256,6 +256,9 @@
         "wd:id":"Q206519"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2d9a1fb899919a41e1d2a71c2a14c102",
     "wof:hierarchy":[
         {
@@ -273,7 +276,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594903,
+    "wof:lastmodified":1582350012,
     "wof:name":"Lira",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

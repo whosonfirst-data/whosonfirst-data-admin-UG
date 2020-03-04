@@ -265,6 +265,9 @@
         "wd:id":"Q1375755"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fada9e652221eb89411c53f8345bb2da",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594902,
+    "wof:lastmodified":1582350012,
     "wof:name":"Butaleja",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

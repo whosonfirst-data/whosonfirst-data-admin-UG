@@ -156,6 +156,9 @@
         "wd:id":"Q6693037"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ad89514cba279897f4cc851e6570349e",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594916,
+    "wof:lastmodified":1582350016,
     "wof:name":"Ngora",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

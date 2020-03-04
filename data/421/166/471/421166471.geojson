@@ -96,6 +96,9 @@
     },
     "wof:country":"UG",
     "wof:created":1459008691,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"41432a061d6da38309ff95afb46627a8",
     "wof:hierarchy":[
         {
@@ -107,7 +110,7 @@
         }
     ],
     "wof:id":421166471,
-    "wof:lastmodified":1566595495,
+    "wof:lastmodified":1582350030,
     "wof:name":"Kanungu",
     "wof:parent_id":1092071685,
     "wof:placetype":"locality",

@@ -262,6 +262,9 @@
         "wd:id":"Q1318887"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2db73d46d5d77584d6477dcd398d3a23",
     "wof:hierarchy":[
         {
@@ -279,7 +282,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594916,
+    "wof:lastmodified":1582350016,
     "wof:name":"Isingiro",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

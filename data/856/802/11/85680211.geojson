@@ -156,6 +156,9 @@
         "wd:id":"Q6687528"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d870782b27983bd52a2d4d5f7b79d8a0",
     "wof:hierarchy":[
         {
@@ -173,7 +176,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594912,
+    "wof:lastmodified":1582350015,
     "wof:name":"Lwengo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

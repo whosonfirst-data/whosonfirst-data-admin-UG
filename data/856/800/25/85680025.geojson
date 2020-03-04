@@ -258,6 +258,9 @@
         "wd:id":"Q976873"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a3d5d4a4c7a921efd27a8d89e0c35727",
     "wof:hierarchy":[
         {
@@ -275,7 +278,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594920,
+    "wof:lastmodified":1582350017,
     "wof:name":"Rakai",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

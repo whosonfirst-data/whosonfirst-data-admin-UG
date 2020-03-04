@@ -145,6 +145,9 @@
         "wd:id":"Q4986330"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0c37b5433960da6ccb9587750b2299cf",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594913,
+    "wof:lastmodified":1582350015,
     "wof:name":"Buhweju",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

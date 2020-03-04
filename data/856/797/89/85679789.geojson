@@ -200,6 +200,9 @@
         "wd:id":"Q1229869"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f94c72828deb3fdf3c295316059f225a",
     "wof:hierarchy":[
         {
@@ -217,7 +220,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594897,
+    "wof:lastmodified":1582350010,
     "wof:name":"Iganga",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

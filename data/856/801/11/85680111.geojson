@@ -202,6 +202,9 @@
         "wd:id":"Q1375843"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1637c854bbf7df986327874b3d719858",
     "wof:hierarchy":[
         {
@@ -219,7 +222,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594921,
+    "wof:lastmodified":1582350018,
     "wof:name":"Kibuku",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

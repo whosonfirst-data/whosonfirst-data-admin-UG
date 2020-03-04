@@ -176,6 +176,9 @@
         "wd:id":"Q1091595"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d9d5855e14c29d4541aa32c8f0ac4c65",
     "wof:hierarchy":[
         {
@@ -193,7 +196,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594915,
+    "wof:lastmodified":1582350016,
     "wof:name":"Mbarara",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

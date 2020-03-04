@@ -257,6 +257,9 @@
         "wd:id":"Q1229910"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2ce4862f439749319ff88be90b159c5f",
     "wof:hierarchy":[
         {
@@ -274,7 +277,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594903,
+    "wof:lastmodified":1582350012,
     "wof:name":"Kabarole",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

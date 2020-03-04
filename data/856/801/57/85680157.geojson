@@ -167,6 +167,9 @@
         "wd:id":"Q3108824"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"00dafb03bfb56289efa1dc0e73d9efbd",
     "wof:hierarchy":[
         {
@@ -184,7 +187,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594920,
+    "wof:lastmodified":1582350017,
     "wof:name":"Kole",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

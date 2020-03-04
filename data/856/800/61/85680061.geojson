@@ -262,6 +262,9 @@
         "wd:id":"Q289419"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9fa580865f2f615134d32a59093890df",
     "wof:hierarchy":[
         {
@@ -279,7 +282,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594914,
+    "wof:lastmodified":1582350015,
     "wof:name":"Rukungiri",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -212,6 +212,9 @@
         "wd:id":"Q1032238"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fa3465d618569fab7d452cbf6b7c1899",
     "wof:hierarchy":[
         {
@@ -229,7 +232,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594902,
+    "wof:lastmodified":1582350012,
     "wof:name":"Masindi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

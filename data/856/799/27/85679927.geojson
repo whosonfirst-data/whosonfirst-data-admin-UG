@@ -259,6 +259,9 @@
         "wd:id":"Q1318833"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cd3cc7628ddda90bafb10e5017b39c13",
     "wof:hierarchy":[
         {
@@ -276,7 +279,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594900,
+    "wof:lastmodified":1582350011,
     "wof:name":"Oyam",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

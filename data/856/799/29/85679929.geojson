@@ -263,6 +263,9 @@
         "wd:id":"Q1362129"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f9f351e90daf296d06e54cd43f3feb62",
     "wof:hierarchy":[
         {
@@ -280,7 +283,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594900,
+    "wof:lastmodified":1582350011,
     "wof:name":"Bundibugyo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

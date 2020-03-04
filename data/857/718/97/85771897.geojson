@@ -81,6 +81,9 @@
         "wk:page":"Mulago"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"727ed031e376cb0b395bfc7e9719f0d8",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566594897,
+    "wof:lastmodified":1582350010,
     "wof:name":"Mulago",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

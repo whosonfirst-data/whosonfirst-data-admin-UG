@@ -257,6 +257,9 @@
         "wd:id":"Q604966"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e0fbf09247fc227631c71a0521a1f516",
     "wof:hierarchy":[
         {
@@ -274,7 +277,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594904,
+    "wof:lastmodified":1582350012,
     "wof:name":"Kibale",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

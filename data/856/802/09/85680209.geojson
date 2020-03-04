@@ -107,6 +107,9 @@
         "wd:id":"Q4748920"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2b29cb28e5ef934fa50fc7245d0ea5b8",
     "wof:hierarchy":[
         {
@@ -124,7 +127,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594912,
+    "wof:lastmodified":1582350015,
     "wof:name":"Amudat",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

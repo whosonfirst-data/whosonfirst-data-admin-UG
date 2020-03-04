@@ -97,6 +97,9 @@
         "wd:id":"Q6700100"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"50ee801a8dfb7fcac561f33e9aba6621",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594912,
+    "wof:lastmodified":1582350015,
     "wof:name":"Rubirizi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

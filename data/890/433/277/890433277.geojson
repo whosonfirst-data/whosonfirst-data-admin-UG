@@ -184,6 +184,9 @@
     },
     "wof:country":"UG",
     "wof:created":1469051974,
+    "wof:geom_alt":[
+        "naturalearth"
+    ],
     "wof:geomhash":"bb6489233aad0350acb2a048f9ca1612",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         }
     ],
     "wof:id":890433277,
-    "wof:lastmodified":1566595502,
+    "wof:lastmodified":1582350030,
     "wof:name":"Sironko",
     "wof:parent_id":1092068781,
     "wof:placetype":"locality",

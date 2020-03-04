@@ -192,6 +192,9 @@
         "wd:id":"Q1011712"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"0ccf8ef8ff7a90beb85eaa2c08ac403a",
     "wof:hierarchy":[
         {
@@ -209,7 +212,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594921,
+    "wof:lastmodified":1582350018,
     "wof:name":"Gomba",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

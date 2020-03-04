@@ -166,6 +166,9 @@
         "wd:id":"Q2544864"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eaa04864a8295e37193bde1bf789910a",
     "wof:hierarchy":[
         {
@@ -183,7 +186,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594899,
+    "wof:lastmodified":1582350011,
     "wof:name":"Katakwi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

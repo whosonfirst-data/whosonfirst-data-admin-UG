@@ -271,6 +271,9 @@
         "wd:id":"Q1229734"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"64bcc0635f62cb0f512fe31f9297c15f",
     "wof:hierarchy":[
         {
@@ -288,7 +291,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594906,
+    "wof:lastmodified":1582350013,
     "wof:name":"Adjumani",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

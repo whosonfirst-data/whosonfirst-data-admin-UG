@@ -253,6 +253,9 @@
         "wd:id":"Q1229797"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"396f70c7aa488e21385d26b4c600b94a",
     "wof:hierarchy":[
         {
@@ -270,7 +273,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594915,
+    "wof:lastmodified":1582350016,
     "wof:name":"Bushenyi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

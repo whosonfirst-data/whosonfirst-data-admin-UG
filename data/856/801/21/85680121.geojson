@@ -165,6 +165,9 @@
         "wd:id":"Q4986374"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a6beeb48b8b62a31faee2359ba0e40d5",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594922,
+    "wof:lastmodified":1582350018,
     "wof:name":"Buikwe",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

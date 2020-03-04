@@ -208,6 +208,9 @@
         "wd:id":"Q1151066"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3388c7e9fc1632942ac18c97b6e7987b",
     "wof:hierarchy":[
         {
@@ -225,7 +228,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594925,
+    "wof:lastmodified":1582350019,
     "wof:name":"Buvuma",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

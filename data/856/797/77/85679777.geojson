@@ -197,6 +197,9 @@
         "wd:id":"Q1151062"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"dc8cc3f58b81df208405d42949912b7d",
     "wof:hierarchy":[
         {
@@ -214,7 +217,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594898,
+    "wof:lastmodified":1582350011,
     "wof:name":"Kumi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

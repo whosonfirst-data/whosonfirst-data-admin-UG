@@ -145,6 +145,9 @@
         "unlc:id":"UG-425"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fb08930c6f5d64f70dd4fe4bd8f1876b",
     "wof:hierarchy":[
         {
@@ -162,7 +165,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594913,
+    "wof:lastmodified":1582350015,
     "wof:name":"Sheema",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

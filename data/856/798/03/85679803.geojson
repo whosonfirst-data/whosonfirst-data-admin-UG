@@ -266,6 +266,9 @@
         "wd:id":"Q1375859"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"266a370d9b31cec861d48e513d1295f8",
     "wof:hierarchy":[
         {
@@ -283,7 +286,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594905,
+    "wof:lastmodified":1582350013,
     "wof:name":"Kaliro",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

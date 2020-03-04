@@ -268,6 +268,9 @@
         "wd:id":"Q891962"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c5c1de40cb0942937316858cb8368070",
     "wof:hierarchy":[
         {
@@ -285,7 +288,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594906,
+    "wof:lastmodified":1582350013,
     "wof:name":"Mubende",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

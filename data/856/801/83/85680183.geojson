@@ -157,6 +157,9 @@
         "wd:id":"Q6450897"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f333f4f7fb8e7492b0884780e68e8c11",
     "wof:hierarchy":[
         {
@@ -174,7 +177,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594924,
+    "wof:lastmodified":1582350019,
     "wof:name":"Kyegegwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -269,6 +269,9 @@
         "wd:id":"Q1229800"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4b2aa6d486504fea785a1b86c9f8bbe3",
     "wof:hierarchy":[
         {
@@ -286,7 +289,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594903,
+    "wof:lastmodified":1582350012,
     "wof:name":"Busia",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

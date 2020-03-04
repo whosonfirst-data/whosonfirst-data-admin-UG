@@ -186,6 +186,9 @@
         "wd:id":"Q580538"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"bb66327acf0bae8fc314d4c8e4234fec",
     "wof:hierarchy":[
         {
@@ -203,7 +206,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594917,
+    "wof:lastmodified":1582350016,
     "wof:name":"Kisoro",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

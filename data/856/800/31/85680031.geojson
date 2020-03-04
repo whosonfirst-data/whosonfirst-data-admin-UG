@@ -200,6 +200,9 @@
         "wd:id":"Q1032233"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"95e325fe7e41fe11a0efff33413fb5e6",
     "wof:hierarchy":[
         {
@@ -217,7 +220,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594918,
+    "wof:lastmodified":1582350016,
     "wof:name":"Masaka",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

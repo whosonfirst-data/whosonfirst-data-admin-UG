@@ -262,6 +262,9 @@
         "wd:id":"Q1318877"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e491d047090a35789aeb6869f7abf4fb",
     "wof:hierarchy":[
         {
@@ -279,7 +282,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594919,
+    "wof:lastmodified":1582350017,
     "wof:name":"Ibanda",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

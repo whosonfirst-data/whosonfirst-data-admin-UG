@@ -254,6 +254,9 @@
         "wd:id":"Q4987159"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"eccb126d306da2e31cf3d1f1e1d60da7",
     "wof:hierarchy":[
         {
@@ -271,7 +274,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594899,
+    "wof:lastmodified":1582350011,
     "wof:name":"Bukwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

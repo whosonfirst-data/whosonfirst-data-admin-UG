@@ -98,6 +98,9 @@
         "wd:id":"Q4987203"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"36f7350cb88f47c1c41ef160a6f25fa4",
     "wof:hierarchy":[
         {
@@ -115,7 +118,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594920,
+    "wof:lastmodified":1582350017,
     "wof:name":"Bulambuli",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

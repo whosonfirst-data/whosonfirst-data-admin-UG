@@ -90,6 +90,9 @@
     },
     "wof:country":"UG",
     "wof:created":1459009037,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"4b652ca688e2915a1e223f68d9262b27",
     "wof:hierarchy":[
         {
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":421174597,
-    "wof:lastmodified":1566595496,
+    "wof:lastmodified":1582350030,
     "wof:name":"Luwero",
     "wof:parent_id":1092071399,
     "wof:placetype":"locality",

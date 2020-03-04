@@ -265,6 +265,9 @@
         "wd:id":"Q983748"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3983c7ab3debdec89dfb9894432d89a8",
     "wof:hierarchy":[
         {
@@ -282,7 +285,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594897,
+    "wof:lastmodified":1582350011,
     "wof:name":"Jinja",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

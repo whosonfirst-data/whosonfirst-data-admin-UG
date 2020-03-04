@@ -194,6 +194,9 @@
         "wd:id":"Q1229758"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"ff1cdcd5c5e99a4a0191220365dda181",
     "wof:hierarchy":[
         {
@@ -211,7 +214,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594909,
+    "wof:lastmodified":1582350014,
     "wof:name":"Arua",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

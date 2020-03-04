@@ -160,6 +160,9 @@
         "wd:id":"Q6699373"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b81bb81b1a9630979346453b910baf7d",
     "wof:hierarchy":[
         {
@@ -177,7 +180,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594922,
+    "wof:lastmodified":1582350018,
     "wof:name":"Kiryandongo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -262,6 +262,9 @@
         "wd:id":"Q1318806"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c636c3b68d147f494234d15a964cb8b3",
     "wof:hierarchy":[
         {
@@ -279,7 +282,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594918,
+    "wof:lastmodified":1582350017,
     "wof:name":"Kamwenge",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

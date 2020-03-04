@@ -165,6 +165,9 @@
         "wd:id":"Q6687695"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5ebf029e0aee9bdc249f3c8ec9918613",
     "wof:hierarchy":[
         {
@@ -182,7 +185,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594914,
+    "wof:lastmodified":1582350015,
     "wof:name":"Lyantonde",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -101,6 +101,9 @@
         "wd:id":"Q4690976"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6f4a3fa8a0e7c9394e2698daf5cf9406",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594921,
+    "wof:lastmodified":1582350018,
     "wof:name":"Agago",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

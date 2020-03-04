@@ -193,6 +193,9 @@
     },
     "wof:country":"UG",
     "wof:created":1469052064,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e2d311e14b34f0ef76ff3b3ea9d13428",
     "wof:hierarchy":[
         {
@@ -204,7 +207,7 @@
         }
     ],
     "wof:id":890435353,
-    "wof:lastmodified":1566595503,
+    "wof:lastmodified":1582350030,
     "wof:name":"Kitgum",
     "wof:parent_id":1092070355,
     "wof:placetype":"locality",

@@ -178,6 +178,9 @@
         "wd:id":"Q500162"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1c12676cd7b6dd802640d69a92d2ba5b",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594910,
+    "wof:lastmodified":1582350014,
     "wof:name":"Kitgum",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

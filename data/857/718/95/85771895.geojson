@@ -81,6 +81,9 @@
         "wk:page":"Makerere"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"73ccbc29d7ad40b2cdd3e83456e9d693",
     "wof:hierarchy":[
         {
@@ -96,7 +99,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379471,
+    "wof:lastmodified":1582350010,
     "wof:name":"Makerere",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

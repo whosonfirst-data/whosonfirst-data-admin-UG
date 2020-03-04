@@ -178,6 +178,9 @@
         "wd:id":"Q1375843"
     },
     "wof:country":"UG",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e96674a0ce32051c663413e21edefc92",
     "wof:hierarchy":[
         {
@@ -195,7 +198,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1566594907,
+    "wof:lastmodified":1582350013,
     "wof:name":"Pallisa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
