@@ -872,9 +872,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Uganda",
-        "digitalenvoy:country_code":[
-            800
-        ],
+        "digitalenvoy:country_code":800,
         "fb:id":"en.uganda",
         "fifa:id":"UGA",
         "fips:code":"UG",
@@ -920,7 +918,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1583529237,
+    "wof:lastmodified":1583797446,
     "wof:name":"Uganda",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
