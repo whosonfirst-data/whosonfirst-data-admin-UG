@@ -9,7 +9,6 @@
     "geom:bbox":"32.3176352985,0.551347571896,32.7953038131,1.14768377103",
     "geom:latitude":0.831877,
     "geom:longitude":32.582229,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Luweero District"
@@ -231,7 +230,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350014,
+    "wof:lastmodified":1603257927,
     "wof:name":"Luweero",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

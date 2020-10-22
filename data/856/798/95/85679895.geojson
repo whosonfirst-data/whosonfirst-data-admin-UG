@@ -9,7 +9,6 @@
     "geom:bbox":"31.8217618428,0.537061209308,32.4994654141,1.47091700566",
     "geom:latitude":1.051444,
     "geom:longitude":32.168359,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Nakaseke District"
@@ -130,7 +129,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350013,
+    "wof:lastmodified":1603257926,
     "wof:name":"Nakaseke",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

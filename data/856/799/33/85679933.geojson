@@ -9,7 +9,6 @@
     "geom:bbox":"30.5406807039,1.07363909543,31.5883713728,1.852395",
     "geom:latitude":1.433539,
     "geom:longitude":31.065309,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Hoima District"
@@ -294,7 +293,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350011,
+    "wof:lastmodified":1603257925,
     "wof:name":"Hoima",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -9,7 +9,6 @@
     "geom:bbox":"33.8789397422,0.190004663923,34.1385742216,0.59487746041",
     "geom:latitude":0.413669,
     "geom:longitude":34.005336,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Busia District"
@@ -289,7 +288,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350012,
+    "wof:lastmodified":1603257926,
     "wof:name":"Busia",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

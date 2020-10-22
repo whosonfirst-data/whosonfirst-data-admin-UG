@@ -9,7 +9,6 @@
     "geom:bbox":"30.027645339,-1.19279744113,30.6326986786,-0.719255881444",
     "geom:latitude":-0.93896,
     "geom:longitude":30.275873,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Ntungamo District"
@@ -285,7 +284,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350016,
+    "wof:lastmodified":1603257928,
     "wof:name":"Ntungamo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

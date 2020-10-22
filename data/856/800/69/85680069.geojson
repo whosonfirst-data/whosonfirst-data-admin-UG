@@ -9,7 +9,6 @@
     "geom:bbox":"30.3188400213,-0.843678222482,30.8150002845,-0.210931708556",
     "geom:latitude":-0.566043,
     "geom:longitude":30.568778,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Mbarara County"
@@ -196,7 +195,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350016,
+    "wof:lastmodified":1603257928,
     "wof:name":"Mbarara",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -9,7 +9,6 @@
     "geom:bbox":"31.9671187395,0.961451130305,32.7997504417,1.67868438307",
     "geom:latitude":1.354819,
     "geom:longitude":32.424491,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Nakasongola District"
@@ -285,7 +284,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350013,
+    "wof:lastmodified":1603257927,
     "wof:name":"Nakasongola",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

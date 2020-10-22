@@ -9,7 +9,6 @@
     "geom:bbox":"32.577028814,2.08167232386,32.9242296803,2.52220977445",
     "geom:latitude":2.29551,
     "geom:longitude":32.766649,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Kole District"
@@ -187,7 +186,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350017,
+    "wof:lastmodified":1603257930,
     "wof:name":"Kole",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

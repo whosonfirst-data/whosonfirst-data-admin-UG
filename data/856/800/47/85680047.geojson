@@ -9,7 +9,6 @@
     "geom:bbox":"30.246555517,-0.286396203957,30.6387887937,0.164334729478",
     "geom:latitude":-0.076533,
     "geom:longitude":30.488663,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Ibanda District"
@@ -282,7 +281,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350017,
+    "wof:lastmodified":1603257929,
     "wof:name":"Ibanda",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

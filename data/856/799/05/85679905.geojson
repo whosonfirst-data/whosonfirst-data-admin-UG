@@ -9,7 +9,6 @@
     "geom:bbox":"32.1284274102,2.45246744797,32.8238560939,3.30289684766",
     "geom:latitude":2.836529,
     "geom:longitude":32.429458,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Gulu District"
@@ -273,7 +272,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350011,
+    "wof:lastmodified":1603257925,
     "wof:name":"Gulu",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -9,7 +9,6 @@
     "geom:bbox":"30.7695494401,0.194326579638,31.2575,0.770878375209",
     "geom:latitude":0.453613,
     "geom:longitude":31.001247,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Kyegegwa District"
@@ -177,7 +176,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350019,
+    "wof:lastmodified":1603257930,
     "wof:name":"Kyegegwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

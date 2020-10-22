@@ -9,7 +9,6 @@
     "geom:bbox":"32.5102685555,0.218872332302,32.6701753064,0.408810840324",
     "geom:latitude":0.317657,
     "geom:longitude":32.596129,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Kampala City"
@@ -293,7 +292,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350013,
+    "wof:lastmodified":1603257927,
     "wof:name":"Kampala",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

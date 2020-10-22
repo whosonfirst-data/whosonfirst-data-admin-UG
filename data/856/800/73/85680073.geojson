@@ -9,7 +9,6 @@
     "geom:bbox":"29.7270801162,-1.4814835,30.3008817056,-0.987692709711",
     "geom:latitude":-1.221386,
     "geom:longitude":29.976497,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Kabale District"
@@ -278,7 +277,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350016,
+    "wof:lastmodified":1603257929,
     "wof:name":"Kabale",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

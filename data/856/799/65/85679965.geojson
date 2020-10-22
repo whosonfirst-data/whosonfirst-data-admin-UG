@@ -9,7 +9,6 @@
     "geom:bbox":"34.0834649963,0.836244243185,34.3360001464,1.17076664996",
     "geom:latitude":1.021772,
     "geom:longitude":34.197501,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Mbale District"
@@ -216,7 +215,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350012,
+    "wof:lastmodified":1603257926,
     "wof:name":"Mbale",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

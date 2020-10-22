@@ -9,7 +9,6 @@
     "geom:bbox":"33.3352986447,0.870098883663,33.6360006626,1.29347459825",
     "geom:latitude":1.070524,
     "geom:longitude":33.482625,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Kaliro District"
@@ -286,7 +285,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350013,
+    "wof:lastmodified":1603257927,
     "wof:name":"Kaliro",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

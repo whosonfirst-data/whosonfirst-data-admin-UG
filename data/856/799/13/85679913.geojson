@@ -9,7 +9,6 @@
     "geom:bbox":"32.8605657785,1.70796424327,33.2891564254,2.11110317458",
     "geom:latitude":1.939567,
     "geom:longitude":33.077467,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Dokolo District"
@@ -282,7 +281,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350013,
+    "wof:lastmodified":1603257926,
     "wof:name":"Dokolo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

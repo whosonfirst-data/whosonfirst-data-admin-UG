@@ -9,7 +9,6 @@
     "geom:bbox":"30.801692,3.01284029303,31.4245995454,3.37199031245",
     "geom:latitude":3.195335,
     "geom:longitude":31.099377,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Maracha District"
@@ -217,7 +216,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350013,
+    "wof:lastmodified":1603257926,
     "wof:name":"Maracha",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

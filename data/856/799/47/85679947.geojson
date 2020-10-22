@@ -9,7 +9,6 @@
     "geom:bbox":"30.5357464251,0.634543074071,31.5280127378,1.22190668277",
     "geom:latitude":0.950132,
     "geom:longitude":31.063269,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Kibale District"
@@ -277,7 +276,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350012,
+    "wof:lastmodified":1603257926,
     "wof:name":"Kibale",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

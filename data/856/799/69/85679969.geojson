@@ -9,7 +9,6 @@
     "geom:bbox":"34.1818875796,0.753532604896,34.4922306474,1.02769613363",
     "geom:latitude":0.889976,
     "geom:longitude":34.34159,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Manafwa District"
@@ -123,7 +122,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350011,
+    "wof:lastmodified":1603257925,
     "wof:name":"Manafwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

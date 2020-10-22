@@ -9,7 +9,6 @@
     "geom:bbox":"31.9925,-1.0,32.7545612593,-0.147357860638",
     "geom:latitude":-0.577824,
     "geom:longitude":32.377653,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Kalangala District"
@@ -291,7 +290,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350010,
+    "wof:lastmodified":1603257924,
     "wof:name":"Kalangala",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

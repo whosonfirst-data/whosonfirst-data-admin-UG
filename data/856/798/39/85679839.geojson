@@ -9,7 +9,6 @@
     "geom:bbox":"30.848079,3.32885899536,31.0995219129,3.744319",
     "geom:latitude":3.526819,
     "geom:longitude":31.006857,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Koboko District"
@@ -294,7 +293,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350014,
+    "wof:lastmodified":1603257927,
     "wof:name":"Koboko",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

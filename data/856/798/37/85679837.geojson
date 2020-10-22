@@ -9,7 +9,6 @@
     "geom:bbox":"30.7688165,2.54313372245,31.5341436475,3.19321585652",
     "geom:latitude":2.877234,
     "geom:longitude":31.126342,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Arua District"
@@ -214,7 +213,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350014,
+    "wof:lastmodified":1603257927,
     "wof:name":"Arua",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

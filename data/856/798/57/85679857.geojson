@@ -9,7 +9,6 @@
     "geom:bbox":"31.0488417098,3.18105458001,31.5351832344,3.79408",
     "geom:latitude":3.523409,
     "geom:longitude":31.28826,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Yumbe District"
@@ -285,7 +284,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350013,
+    "wof:lastmodified":1603257926,
     "wof:name":"Yumbe",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

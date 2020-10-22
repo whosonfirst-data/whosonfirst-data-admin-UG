@@ -9,7 +9,6 @@
     "geom:bbox":"29.6765429112,-1.05789774288,30.0746273155,-0.336338788584",
     "geom:latitude":-0.70342,
     "geom:longitude":29.888427,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Rukungiri District"
@@ -282,7 +281,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350015,
+    "wof:lastmodified":1603257928,
     "wof:name":"Rukungiri",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

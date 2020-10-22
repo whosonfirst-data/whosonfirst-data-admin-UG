@@ -9,7 +9,6 @@
     "geom:bbox":"31.745,1.61587641769,32.3630269429,2.36917466384",
     "geom:latitude":2.02597,
     "geom:longitude":32.040112,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Kiryandongo District"
@@ -180,7 +179,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350018,
+    "wof:lastmodified":1603257930,
     "wof:name":"Kiryandongo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

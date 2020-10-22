@@ -9,7 +9,6 @@
     "geom:bbox":"29.58191425,-1.07623996032,29.9024904465,-0.340189617709",
     "geom:latitude":-0.808943,
     "geom:longitude":29.726351,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Kanungu District"
@@ -284,7 +283,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350017,
+    "wof:lastmodified":1603257929,
     "wof:name":"Kanungu",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

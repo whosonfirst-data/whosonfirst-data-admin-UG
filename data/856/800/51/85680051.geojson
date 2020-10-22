@@ -9,7 +9,6 @@
     "geom:bbox":"30.47926062,-1.07618,31.2702716784,-0.599967968487",
     "geom:latitude":-0.851862,
     "geom:longitude":30.876213,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Isingiro District"
@@ -282,7 +281,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350016,
+    "wof:lastmodified":1603257928,
     "wof:name":"Isingiro",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

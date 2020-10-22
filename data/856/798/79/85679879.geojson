@@ -9,7 +9,6 @@
     "geom:bbox":"32.1917120956,-0.152083634624,32.687577899,0.585757642794",
     "geom:latitude":0.222555,
     "geom:longitude":32.444701,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Wakiso District"
@@ -287,7 +286,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350014,
+    "wof:lastmodified":1603257928,
     "wof:name":"Wakiso",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

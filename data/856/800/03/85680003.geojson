@@ -9,7 +9,6 @@
     "geom:bbox":"33.3471308168,1.72725943746,33.9105352216,2.41776618325",
     "geom:latitude":2.106761,
     "geom:longitude":33.686136,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Amuria District"
@@ -199,7 +198,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350016,
+    "wof:lastmodified":1603257928,
     "wof:name":"Amuria",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

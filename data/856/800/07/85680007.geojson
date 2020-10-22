@@ -9,7 +9,6 @@
     "geom:bbox":"33.5158667479,3.08250037268,34.5588618661,4.218628",
     "geom:latitude":3.607628,
     "geom:longitude":34.032052,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Kaabong District"
@@ -127,7 +126,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350016,
+    "wof:lastmodified":1603257929,
     "wof:name":"Kaabong",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

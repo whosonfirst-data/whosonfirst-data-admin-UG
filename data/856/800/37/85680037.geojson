@@ -9,7 +9,6 @@
     "geom:bbox":"29.7040736906,-0.208463929579,30.2961026467,0.484098173542",
     "geom:latitude":0.12057,
     "geom:longitude":30.002018,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Kasese District"
@@ -275,7 +274,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350017,
+    "wof:lastmodified":1603257929,
     "wof:name":"Kasese",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

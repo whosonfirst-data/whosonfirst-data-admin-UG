@@ -9,7 +9,6 @@
     "geom:bbox":"31.8028553689,0.214136903203,32.2670571151,0.697594713527",
     "geom:latitude":0.445484,
     "geom:longitude":32.058911,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Mityana District"
@@ -282,7 +281,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350014,
+    "wof:lastmodified":1603257927,
     "wof:name":"Mityana",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

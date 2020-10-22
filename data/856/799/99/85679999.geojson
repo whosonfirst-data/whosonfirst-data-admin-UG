@@ -9,7 +9,6 @@
     "geom:bbox":"33.5478872455,2.6204976503,34.3936427494,3.44184820703",
     "geom:latitude":3.034859,
     "geom:longitude":33.980937,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Kotido District"
@@ -221,7 +220,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350012,
+    "wof:lastmodified":1603257926,
     "wof:name":"Kotido",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

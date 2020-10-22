@@ -9,7 +9,6 @@
     "geom:bbox":"31.4000137101,2.88204164431,32.0634244085,3.592536",
     "geom:latitude":3.228636,
     "geom:longitude":31.76873,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Adjumani District"
@@ -291,7 +290,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350013,
+    "wof:lastmodified":1603257927,
     "wof:name":"Adjumani",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

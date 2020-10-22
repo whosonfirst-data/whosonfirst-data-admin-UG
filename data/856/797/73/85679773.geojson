@@ -9,7 +9,6 @@
     "geom:bbox":"33.0421537013,0.393396581684,33.3779504733,0.700313784974",
     "geom:latitude":0.56746,
     "geom:longitude":33.212652,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Jinja District"
@@ -285,7 +284,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350011,
+    "wof:lastmodified":1603257925,
     "wof:name":"Jinja",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -9,7 +9,6 @@
     "geom:bbox":"31.0122095809,-0.342884099375,31.598039291,0.238412698545",
     "geom:latitude":-0.022941,
     "geom:longitude":31.339276,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Sembabule District"
@@ -285,7 +284,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350014,
+    "wof:lastmodified":1603257928,
     "wof:name":"Sembabule",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

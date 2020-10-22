@@ -9,7 +9,6 @@
     "geom:bbox":"33.2728545534,-1.0,33.7088081394,0.606885261583",
     "geom:latitude":-0.090174,
     "geom:longitude":33.550692,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Mayuge District"
@@ -288,7 +287,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350012,
+    "wof:lastmodified":1603257926,
     "wof:name":"Mayuge",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -9,7 +9,6 @@
     "geom:bbox":"30.2124355023,-0.180957551716,30.8586364405,0.578059871866",
     "geom:latitude":0.228163,
     "geom:longitude":30.493018,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Kamwenge District"
@@ -282,7 +281,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350017,
+    "wof:lastmodified":1603257929,
     "wof:name":"Kamwenge",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

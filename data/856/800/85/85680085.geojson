@@ -9,7 +9,6 @@
     "geom:bbox":"30.7407425,2.329511,31.0705841812,2.71308366272",
     "geom:latitude":2.520594,
     "geom:longitude":30.895999,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Zombo District"
@@ -361,7 +360,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350017,
+    "wof:lastmodified":1603257929,
     "wof:name":"Zombo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

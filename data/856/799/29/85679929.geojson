@@ -9,7 +9,6 @@
     "geom:bbox":"29.9116673041,0.40260003067,30.2049029048,0.895043",
     "geom:latitude":0.698243,
     "geom:longitude":30.056901,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Bundibugyo District"
@@ -283,7 +282,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350011,
+    "wof:lastmodified":1603257925,
     "wof:name":"Bundibugyo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

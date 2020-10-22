@@ -9,7 +9,6 @@
     "geom:bbox":"33.8774042317,0.578064427497,34.313723,0.907420900608",
     "geom:latitude":0.727463,
     "geom:longitude":34.081988,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Tororo District"
@@ -281,7 +280,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350012,
+    "wof:lastmodified":1603257925,
     "wof:name":"Tororo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

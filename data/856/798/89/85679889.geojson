@@ -9,7 +9,6 @@
     "geom:bbox":"31.0217242982,0.164262654494,31.9569550848,0.868315782407",
     "geom:latitude":0.521567,
     "geom:longitude":31.533667,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Mubende District"
@@ -288,7 +287,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350013,
+    "wof:lastmodified":1603257927,
     "wof:name":"Mubende",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

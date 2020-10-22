@@ -9,7 +9,6 @@
     "geom:bbox":"29.573558429,-1.389214,29.821324,-1.00728214279",
     "geom:latitude":-1.217197,
     "geom:longitude":29.681477,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Kisoro District"
@@ -206,7 +205,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350016,
+    "wof:lastmodified":1603257929,
     "wof:name":"Kisoro",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

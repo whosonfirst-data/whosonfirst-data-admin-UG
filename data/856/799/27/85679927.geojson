@@ -9,7 +9,6 @@
     "geom:bbox":"32.2271421916,2.07498382928,32.8224722368,2.6232931861",
     "geom:latitude":2.371004,
     "geom:longitude":32.486473,
-    "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Oyam District"
@@ -279,7 +278,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1582350011,
+    "wof:lastmodified":1603257925,
     "wof:name":"Oyam",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
