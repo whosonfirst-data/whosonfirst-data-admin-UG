@@ -586,6 +586,9 @@
         "wd:id":"Q3894",
         "wk:page":"Kampala"
     },
+    "wof:coterminous":[
+        85679867
+    ],
     "wof:country":"UG",
     "wof:created":1459008974,
     "wof:geom_alt":[
@@ -602,7 +605,7 @@
         }
     ],
     "wof:id":421173185,
-    "wof:lastmodified":1607390876,
+    "wof:lastmodified":1607983506,
     "wof:name":"Kampala",
     "wof:parent_id":1092071203,
     "wof:placetype":"locality",
