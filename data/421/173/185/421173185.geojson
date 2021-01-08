@@ -582,6 +582,7 @@
         "gn:id":232422,
         "gp:id":1451962,
         "loc:id":"n80076329",
+        "ne:id":1159150593,
         "qs_pg:id":492935,
         "wd:id":"Q3894",
         "wk:page":"Kampala"
@@ -605,7 +606,8 @@
         }
     ],
     "wof:id":421173185,
-    "wof:lastmodified":1607983506,
+    "wof:lastmodified":1608688176,
+    "wof:megacity":1,
     "wof:name":"Kampala",
     "wof:parent_id":1092071203,
     "wof:placetype":"locality",
