@@ -41,6 +41,9 @@
     "name:eng_x_variant":[
         "Manafwa"
     ],
+    "name:fra_x_preferred":[
+        "Manafwa"
+    ],
     "name:jpn_x_preferred":[
         "\u30de\u30ca\u30d5\u30ef"
     ],
@@ -126,7 +129,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896236,
+    "wof:lastmodified":1627522960,
     "wof:name":"Manafwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

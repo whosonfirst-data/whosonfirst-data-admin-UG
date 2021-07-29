@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Ngora"
     ],
+    "name:fra_x_preferred":[
+        "Ngora"
+    ],
     "name:jpn_x_preferred":[
         "\u30f3\u30b4\u30e9"
     ],
@@ -179,7 +182,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896241,
+    "wof:lastmodified":1627522961,
     "wof:name":"Ngora",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

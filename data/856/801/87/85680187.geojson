@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Kapchorwa"
     ],
+    "name:fra_x_preferred":[
+        "Kween"
+    ],
     "name:und_x_variant":[
         "Kween District"
     ],
@@ -161,7 +164,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896243,
+    "wof:lastmodified":1627522959,
     "wof:name":"Kween",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

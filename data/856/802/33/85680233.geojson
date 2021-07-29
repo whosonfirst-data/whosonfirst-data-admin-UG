@@ -43,6 +43,9 @@
     "name:eng_x_variant":[
         "Mitooma"
     ],
+    "name:fra_x_preferred":[
+        "Mitoma"
+    ],
     "name:jpn_x_preferred":[
         "\u30df\u30c8\u30de"
     ],
@@ -185,7 +188,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896240,
+    "wof:lastmodified":1627522960,
     "wof:name":"Mitooma",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

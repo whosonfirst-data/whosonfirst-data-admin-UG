@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Bulambuli"
     ],
+    "name:fra_x_preferred":[
+        "Bulambuli"
+    ],
     "name:jpn_x_preferred":[
         "\u30d6\u30e9\u30f3\u30d6\u30ea"
     ],
@@ -121,7 +124,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896242,
+    "wof:lastmodified":1627522954,
     "wof:name":"Bulambuli",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

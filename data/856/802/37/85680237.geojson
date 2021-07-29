@@ -34,6 +34,9 @@
     "name:eng_x_preferred":[
         "Bushenyi"
     ],
+    "name:fra_x_preferred":[
+        "Kabwohe"
+    ],
     "name:lug_x_preferred":[
         "Kabwohe"
     ],
@@ -168,7 +171,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896240,
+    "wof:lastmodified":1627522957,
     "wof:name":"Sheema",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

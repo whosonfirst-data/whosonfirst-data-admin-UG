@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Buyende"
     ],
+    "name:fra_x_preferred":[
+        "Buyende"
+    ],
     "name:jpn_x_preferred":[
         "\u30d6\u30a4\u30a7\u30f3\u30c7"
     ],
@@ -120,7 +123,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896243,
+    "wof:lastmodified":1627522956,
     "wof:name":"Buyende",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Agago"
     ],
+    "name:fra_x_preferred":[
+        "Agago"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30ac\u30b4"
     ],
@@ -124,7 +127,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896243,
+    "wof:lastmodified":1627522951,
     "wof:name":"Agago",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Kiruhuura"
     ],
+    "name:fra_x_preferred":[
+        "Kiruhura"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
@@ -77,7 +80,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896244,
+    "wof:lastmodified":1627522958,
     "wof:name":"Kiruhura",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

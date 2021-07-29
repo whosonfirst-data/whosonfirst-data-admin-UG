@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Rubirizi"
     ],
+    "name:fra_x_preferred":[
+        "Rubirizi"
+    ],
     "name:jpn_x_preferred":[
         "\u30eb\u30d3\u30ea\u30b8"
     ],
@@ -120,7 +123,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896240,
+    "wof:lastmodified":1627522962,
     "wof:name":"Rubirizi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -40,6 +40,9 @@
     "name:eng_x_variant":[
         "Katakwi"
     ],
+    "name:fra_x_preferred":[
+        "Katakwi"
+    ],
     "name:jpn_x_preferred":[
         "\u30ab\u30bf\u30af\u30a4"
     ],
@@ -189,7 +192,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896236,
+    "wof:lastmodified":1627522958,
     "wof:name":"Katakwi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

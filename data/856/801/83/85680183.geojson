@@ -38,6 +38,9 @@
     "name:eng_x_variant":[
         "Kyegegwa"
     ],
+    "name:fra_x_preferred":[
+        "Kyegegwa"
+    ],
     "name:jpn_x_preferred":[
         "\u30ad\u30a7\u30b2\u30b0\u30ef"
     ],
@@ -180,7 +183,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896244,
+    "wof:lastmodified":1627522959,
     "wof:name":"Kyegegwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

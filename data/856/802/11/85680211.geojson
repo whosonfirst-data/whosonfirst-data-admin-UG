@@ -37,6 +37,9 @@
     "name:eng_x_variant":[
         "Lwengo"
     ],
+    "name:fra_x_preferred":[
+        "Lwengo"
+    ],
     "name:jpn_x_preferred":[
         "\u30eb\u30a6\u30a7\u30f3\u30b4"
     ],
@@ -179,7 +182,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896240,
+    "wof:lastmodified":1627522960,
     "wof:name":"Lwengo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

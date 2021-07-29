@@ -47,6 +47,9 @@
         "WEST BUDAMA (KISOLO)",
         "West Budama"
     ],
+    "name:fra_x_preferred":[
+        "Kisoko (west Budama)"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1092074289,
-    "wof:lastmodified":1587163112,
+    "wof:lastmodified":1627522958,
     "wof:name":"Kisoko (west Budama)",
     "wof:parent_id":85679989,
     "wof:placetype":"county",
