@@ -25,13 +25,34 @@
     "name:ara_x_variant":[
         "\u0643\u064a\u062a\u063a\u0648\u0645"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u09a4\u0997\u09c1\u09ae"
+    ],
     "name:deu_x_preferred":[
         "Kitgum"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03c4\u03b3\u03ba\u03bf\u03cd\u03bc"
     ],
     "name:eng_x_preferred":[
         "Kitgum"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u062a\u06af\u0627\u0645"
+    ],
     "name:fra_x_preferred":[
+        "Kitgum"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05d8\u05d2\u05d5\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093f\u0924\u0917\u0941\u092e"
+    ],
+    "name:hun_x_preferred":[
+        "Kitgum"
+    ],
+    "name:ind_x_preferred":[
         "Kitgum"
     ],
     "name:ita_x_preferred":[
@@ -39,6 +60,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ad\u30c8\u30a5\u30b0\u30e0"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0b7\uaecc"
     ],
     "name:nld_x_preferred":[
         "Kitgum"
@@ -58,10 +82,16 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u0442\u0433\u0443\u043c"
     ],
+    "name:spa_x_preferred":[
+        "Kitgum"
+    ],
     "name:swa_x_preferred":[
         "Kitgum"
     ],
     "name:swe_x_preferred":[
+        "Kitgum"
+    ],
+    "name:tur_x_preferred":[
         "Kitgum"
     ],
     "name:ukr_x_preferred":[
@@ -72,6 +102,15 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u062a\u06af\u0648\u0645"
+    ],
+    "name:vie_x_preferred":[
+        "Kitgum"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u57fa\u7279\u53e4\u59c6"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u57fa\u7279\u53e4\u59c6"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uganda",
@@ -207,7 +246,7 @@
         }
     ],
     "wof:id":890435353,
-    "wof:lastmodified":1582350030,
+    "wof:lastmodified":1636501891,
     "wof:name":"Kitgum",
     "wof:parent_id":1092070355,
     "wof:placetype":"locality",

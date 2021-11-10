@@ -37,7 +37,16 @@
     "name:eng_x_variant":[
         "Buyende"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06cc\u0646\u062f\u0647"
+    ],
     "name:fra_x_preferred":[
+        "Buyende"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d9\u05e0\u05d3\u05d4"
+    ],
+    "name:hun_x_preferred":[
         "Buyende"
     ],
     "name:jpn_x_preferred":[
@@ -123,7 +132,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1627522956,
+    "wof:lastmodified":1636501852,
     "wof:name":"Buyende",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

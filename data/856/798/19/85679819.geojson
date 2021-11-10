@@ -146,7 +146,16 @@
         "\u067e\u0627\u0644\u06cc\u0633\u0627 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
+        "Pallisa"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Pallisa"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e15\u5229\u8428"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5e15\u5229\u85a9"
     ],
     "name:zho_x_preferred":[
         "\u5e15\u5229\u85a9\u5340"
@@ -201,7 +210,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896238,
+    "wof:lastmodified":1636501842,
     "wof:name":"Pallisa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -53,7 +53,13 @@
         "\u0aac\u0acd\u0aaf\u0ac1\u0a97\u0ac0\u0ab0\u0ac0"
     ],
     "name:hin_x_preferred":[
+        "\u092c\u0941\u0917\u093f\u0930\u093f"
+    ],
+    "name:hin_x_variant":[
         "\u092c\u0941\u0917\u0940\u0930\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Bugiri"
     ],
     "name:ind_x_preferred":[
         "Bugiri"
@@ -175,7 +181,7 @@
         }
     ],
     "wof:id":1126002003,
-    "wof:lastmodified":1566595504,
+    "wof:lastmodified":1636501892,
     "wof:name":"Bugiri",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

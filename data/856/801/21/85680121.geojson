@@ -37,7 +37,13 @@
     "name:eng_x_variant":[
         "Buikwe"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06cc\u06a9\u0648\u0647"
+    ],
     "name:fra_x_preferred":[
+        "Buikwe"
+    ],
+    "name:hun_x_preferred":[
         "Buikwe"
     ],
     "name:jpn_x_preferred":[
@@ -191,7 +197,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1627522953,
+    "wof:lastmodified":1636501853,
     "wof:name":"Buikwe",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

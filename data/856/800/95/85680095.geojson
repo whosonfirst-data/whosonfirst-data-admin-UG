@@ -44,7 +44,16 @@
         "Bukedea",
         "Bukedea District"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06a9\u062f\u06cc"
+    ],
     "name:fra_x_preferred":[
+        "Bukedea"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e7\u05d3\u05d9\u05d0\u05d4"
+    ],
+    "name:hun_x_preferred":[
         "Bukedea"
     ],
     "name:jpn_x_preferred":[
@@ -198,7 +207,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896241,
+    "wof:lastmodified":1636501847,
     "wof:name":"Bukedea",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -32,8 +32,53 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0635\u064a\u0631\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u09b8\u09bf\u09b0\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Tshuapa"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03c3\u03af\u03c1\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Busira"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0633\u06cc\u0631\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e1\u05d9\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0941\u0938\u0940\u0930\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Busira"
+    ],
+    "name:ind_x_preferred":[
+        "Busira"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\uc2dc\ub77c"
+    ],
+    "name:por_x_preferred":[
+        "Busira"
+    ],
+    "name:spa_x_preferred":[
+        "Busira"
+    ],
+    "name:tur_x_preferred":[
+        "Busira"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0441\u0456\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0633\u06cc\u0631\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +92,7 @@
         "gn:id":234057
     },
     "wof:country":"UG",
-    "wof:geomhash":"8525f30b14334921a24fc555e07a1365",
+    "wof:geomhash":"f9a0f326e66a923870724c2ff9f09e75",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -58,7 +103,7 @@
         }
     ],
     "wof:id":1343993781,
-    "wof:lastmodified":1566594805,
+    "wof:lastmodified":1636501831,
     "wof:name":"Busira",
     "wof:parent_id":1092069607,
     "wof:placetype":"locality",
@@ -68,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.67704000000001,
+    33.67704,
     0.39458,
-    33.67704000000001,
+    33.67704,
     0.39458
 ],
-  "geometry": {"coordinates":[33.67704000000001,0.39458],"type":"Point"}
+  "geometry": {"coordinates":[33.67704,0.39458],"type":"Point"}
 }

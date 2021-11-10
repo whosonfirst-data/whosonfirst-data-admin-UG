@@ -38,6 +38,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0628\u06cc\u0645"
     ],
+    "name:hun_x_preferred":[
+        "Abim"
+    ],
     "name:lug_x_preferred":[
         "Abim"
     ],
@@ -63,7 +66,7 @@
         "wk:page":"Abim,_Uganda"
     },
     "wof:country":"UG",
-    "wof:geomhash":"b0c15776ccbed1b892e80fb9ef114eb8",
+    "wof:geomhash":"48bf4b6f877cd4f3eafee29f5140a8bf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1326648823,
-    "wof:lastmodified":1566594760,
+    "wof:lastmodified":1636501830,
     "wof:name":"Abim",
     "wof:parent_id":1092072215,
     "wof:placetype":"locality",
@@ -84,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.67610999999999,
+    33.67611,
     2.70167,
-    33.67610999999999,
+    33.67611,
     2.70167
 ],
-  "geometry": {"coordinates":[33.67610999999999,2.70167],"type":"Point"}
+  "geometry": {"coordinates":[33.67611,2.70167],"type":"Point"}
 }

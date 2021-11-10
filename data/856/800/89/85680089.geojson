@@ -40,6 +40,12 @@
     "name:fra_x_preferred":[
         "Ngora"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d2\u05d5\u05e8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Ngora"
+    ],
     "name:jpn_x_preferred":[
         "\u30f3\u30b4\u30e9"
     ],
@@ -182,7 +188,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1627522961,
+    "wof:lastmodified":1636501848,
     "wof:name":"Ngora",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

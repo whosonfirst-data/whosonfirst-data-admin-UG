@@ -168,7 +168,16 @@
         "\u06a9\u0627\u0626\u0648\u0646\u06af\u0627 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
+        "Kayunga"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Kayunga"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5361\u6c38\u52a0"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5361\u6c38\u52a0"
     ],
     "name:zho_x_preferred":[
         "\u5361\u6c38\u52a0\u5340"
@@ -300,7 +309,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896236,
+    "wof:lastmodified":1636501835,
     "wof:name":"Kayunga",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -38,6 +38,12 @@
     "name:fra_x_preferred":[
         "Rakai"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05e7\u05d0\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Rakai"
+    ],
     "name:lug_x_preferred":[
         "Rakai"
     ],
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":1326464989,
-    "wof:lastmodified":1566594753,
+    "wof:lastmodified":1636501830,
     "wof:name":"Rakai",
     "wof:parent_id":1092071897,
     "wof:placetype":"locality",

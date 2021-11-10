@@ -43,6 +43,9 @@
     "name:fra_x_preferred":[
         "Abim"
     ],
+    "name:hun_x_preferred":[
+        "Abim"
+    ],
     "name:ita_x_preferred":[
         "Abim"
     ],
@@ -182,7 +185,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896242,
+    "wof:lastmodified":1636501851,
     "wof:name":"Abim",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

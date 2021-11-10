@@ -32,13 +32,37 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0644\u0627\u0646\u062c\u0627\u0644\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09b2\u09be\u0999\u09cd\u0997\u09be\u09b2\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Kalangala"
     ],
     "name:deu_x_preferred":[
         "Kalangala"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03bb\u03b1\u03bd\u03b3\u03ba\u03ac\u03bb\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u0644\u0627\u0646\u06af\u0627\u0644\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Kalangala"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05dc\u05e0\u05d2\u05dc\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0932\u093e\u0902\u0917\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Kalangala"
+    ],
+    "name:ind_x_preferred":[
         "Kalangala"
     ],
     "name:ita_x_preferred":[
@@ -46,6 +70,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30ab\u30e9\u30f3\u30ac\u30e9"
+    ],
+    "name:kor_x_preferred":[
+        "\uce7c\ub791\uac08\ub77c"
     ],
     "name:lit_x_preferred":[
         "Kalangala"
@@ -56,7 +83,16 @@
     "name:nld_x_preferred":[
         "Kalangala"
     ],
+    "name:pol_x_preferred":[
+        "Kalangala"
+    ],
+    "name:por_x_preferred":[
+        "Kalangala"
+    ],
     "name:ron_x_preferred":[
+        "Kalangala"
+    ],
+    "name:spa_x_preferred":[
         "Kalangala"
     ],
     "name:srp_x_preferred":[
@@ -65,8 +101,26 @@
     "name:swa_x_preferred":[
         "Kalangala"
     ],
+    "name:swe_x_preferred":[
+        "Kalangala"
+    ],
+    "name:tur_x_preferred":[
+        "Kalangala"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u043d\u0433\u0430\u043b\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u0644\u0627\u06af\u0627\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Kalangala"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5361\u5170\u52a0\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5361\u862d\u52a0\u62c9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -91,7 +145,7 @@
         }
     ],
     "wof:id":1327263263,
-    "wof:lastmodified":1566594774,
+    "wof:lastmodified":1636501831,
     "wof:name":"Kalangala",
     "wof:parent_id":1092071167,
     "wof:placetype":"locality",

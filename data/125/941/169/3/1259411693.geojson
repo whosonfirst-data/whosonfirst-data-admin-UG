@@ -38,6 +38,12 @@
     "name:fra_x_preferred":[
         "Ibanda"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d1\u05e0\u05d3\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Ibanda"
+    ],
     "name:ita_x_preferred":[
         "Ibanda"
     ],
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1259411693,
-    "wof:lastmodified":1566595617,
+    "wof:lastmodified":1636501898,
     "wof:name":"Ibanda",
     "wof:parent_id":1092069895,
     "wof:placetype":"locality",

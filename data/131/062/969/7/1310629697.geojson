@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Jinja"
     ],
+    "name:hun_x_preferred":[
+        "Jinja"
+    ],
     "name:ita_x_preferred":[
         "Jinja"
     ],
@@ -62,7 +65,7 @@
         "gn:id":233113
     },
     "wof:country":"UG",
-    "wof:geomhash":"6b6a4f32b9c3b7c396c0d9a8e765ff76",
+    "wof:geomhash":"9339fe407bf43d26329e50a94a418f62",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1310629697,
-    "wof:lastmodified":1566595335,
+    "wof:lastmodified":1636501870,
     "wof:name":"Jinja",
     "wof:parent_id":1092071203,
     "wof:placetype":"locality",
@@ -83,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.55439000000001,
+    32.55439,
     0.38407,
-    32.55439000000001,
+    32.55439,
     0.38407
 ],
-  "geometry": {"coordinates":[32.55439000000001,0.38407],"type":"Point"}
+  "geometry": {"coordinates":[32.55439,0.38407],"type":"Point"}
 }

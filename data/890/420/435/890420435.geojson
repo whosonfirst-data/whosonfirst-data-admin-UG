@@ -29,7 +29,13 @@
         "Apac"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05e1\u05d9\u05d4-\u05e4\u05e1\u05d9\u05e4\u05d9\u05e7"
+    ],
+    "name:heb_x_variant":[
         "\u05d0\u05e4\u05d0\u05e7"
+    ],
+    "name:hun_x_preferred":[
+        "Apac"
     ],
     "name:ita_x_preferred":[
         "Apac"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":890420435,
-    "wof:lastmodified":1566595501,
+    "wof:lastmodified":1636501889,
     "wof:name":"Apac",
     "wof:parent_id":1092072551,
     "wof:placetype":"locality",

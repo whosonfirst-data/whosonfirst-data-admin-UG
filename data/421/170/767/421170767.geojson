@@ -17,16 +17,55 @@
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0643\u0648\u0645\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09c1\u09ae\u09bf"
+    ],
     "name:ceb_x_preferred":[
         "Kumi"
     ],
     "name:deu_x_preferred":[
         "Kumi"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03bf\u03cd\u03bc\u03b9"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0648\u0645\u06cc"
+    ],
     "name:fra_x_preferred":[
         "Kumi"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05de\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u0942\u092e\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Kumi"
+    ],
+    "name:ind_x_preferred":[
+        "Kumi"
+    ],
+    "name:ita_x_preferred":[
+        "Kumi"
+    ],
+    "name:kor_x_preferred":[
+        "\ucfe0\ubbf8"
+    ],
     "name:nds_x_preferred":[
+        "Kumi"
+    ],
+    "name:por_x_preferred":[
+        "Kumi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0443\u043c\u0438"
+    ],
+    "name:spa_x_preferred":[
         "Kumi"
     ],
     "name:swa_x_preferred":[
@@ -34,6 +73,21 @@
     ],
     "name:swe_x_preferred":[
         "Kumi"
+    ],
+    "name:tur_x_preferred":[
+        "Kumi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0443\u043c\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "Kumi"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e93\u7c73"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5eab\u7c73"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uganda",
@@ -172,7 +226,7 @@
         }
     ],
     "wof:id":421170767,
-    "wof:lastmodified":1566595498,
+    "wof:lastmodified":1636501886,
     "wof:name":"Kumi",
     "wof:parent_id":1092071937,
     "wof:placetype":"locality",

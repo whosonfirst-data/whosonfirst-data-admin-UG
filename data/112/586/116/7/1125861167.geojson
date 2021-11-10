@@ -28,7 +28,13 @@
     "name:eng_x_preferred":[
         "Bundibugyo"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0646\u062f\u06cc\u0628\u0648\u06af\u06cc\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Bundibugyo"
+    ],
+    "name:hun_x_preferred":[
         "Bundibugyo"
     ],
     "name:ita_x_preferred":[
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":1125861167,
-    "wof:lastmodified":1566595503,
+    "wof:lastmodified":1636501891,
     "wof:name":"Bundibugyo",
     "wof:parent_id":1092070289,
     "wof:placetype":"locality",

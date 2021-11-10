@@ -40,6 +40,12 @@
     "name:fra_x_preferred":[
         "Ntoroko"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d8\u05d5\u05e8\u05d5\u05e7\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Ntoroko"
+    ],
     "name:jpn_x_preferred":[
         "\u30f3\u30c8\u30ed\u30b3"
     ],
@@ -179,7 +185,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1627522961,
+    "wof:lastmodified":1636501854,
     "wof:name":"Ntoroko",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -159,6 +159,9 @@
         "\u0628\u0648\u0633\u06cc\u0627 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
+        "Busia"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Busia"
     ],
     "name:zho_x_preferred":[
@@ -292,7 +295,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896237,
+    "wof:lastmodified":1636501840,
     "wof:name":"Busia",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

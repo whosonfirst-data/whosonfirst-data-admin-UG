@@ -65,8 +65,14 @@
     "name:guj_x_preferred":[
         "\u0a95\u0abe\u0ab8\u0abf\u0ab8 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e1\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u093e\u0938\u093f\u0938 \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Kasese"
     ],
     "name:ind_x_preferred":[
         "Distrik Kasese"
@@ -278,7 +284,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896242,
+    "wof:lastmodified":1636501850,
     "wof:name":"Kasese",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

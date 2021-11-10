@@ -26,6 +26,12 @@
     "name:eng_x_variant":[
         "Kanungu"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e0\u05d5\u05e0\u05d2\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Kanungu"
+    ],
     "name:hye_x_preferred":[
         "\u053f\u0561\u0576\u0578\u0582\u0576\u0563\u0578\u0582"
     ],
@@ -110,7 +116,7 @@
         }
     ],
     "wof:id":421166471,
-    "wof:lastmodified":1582350030,
+    "wof:lastmodified":1636501883,
     "wof:name":"Kanungu",
     "wof:parent_id":1092071685,
     "wof:placetype":"locality",

@@ -76,6 +76,9 @@
     "name:hin_x_preferred":[
         "\u092e\u0941\u0915\u094b\u0928\u094b \u091c\u093f\u0932\u093e"
     ],
+    "name:hun_x_preferred":[
+        "Mukono"
+    ],
     "name:ind_x_preferred":[
         "Distrik Mukono"
     ],
@@ -228,7 +231,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896238,
+    "wof:lastmodified":1636501842,
     "wof:name":"Mukono",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

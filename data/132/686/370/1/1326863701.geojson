@@ -32,19 +32,67 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062c\u064a\u0645\u0628\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u0997\u09bf\u09ae\u09cd\u09ac\u09bf"
+    ],
     "name:ceb_x_preferred":[
         "Gimbi"
     ],
     "name:deu_x_preferred":[
         "Gimbi"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03af\u03bc\u03c0\u03b9"
+    ],
     "name:fra_x_preferred":[
         "Gimbi"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d9\u05de\u05d1\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0917\u093f\u092e\u094d\u092c\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Gimbi"
+    ],
+    "name:ind_x_preferred":[
+        "Gimbi"
+    ],
+    "name:ita_x_preferred":[
+        "Gimbi"
+    ],
+    "name:kor_x_preferred":[
+        "\uae40\ube44"
     ],
     "name:pol_x_preferred":[
         "Gimbi"
     ],
+    "name:por_x_preferred":[
+        "Gimbi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0438\u043c\u0431\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Gimbi"
+    ],
     "name:swe_x_preferred":[
+        "Gimbi"
+    ],
+    "name:tur_x_preferred":[
+        "Gimbi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u043c\u0431\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0645\u0628\u06cc"
+    ],
+    "name:vie_x_preferred":[
         "Gimbi"
     ],
     "src:geom":"geonames",
@@ -70,7 +118,7 @@
         }
     ],
     "wof:id":1326863701,
-    "wof:lastmodified":1566594692,
+    "wof:lastmodified":1636501828,
     "wof:name":"Gimbi",
     "wof:parent_id":1092073015,
     "wof:placetype":"locality",

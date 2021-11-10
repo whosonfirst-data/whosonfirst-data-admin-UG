@@ -40,6 +40,9 @@
     "name:fra_x_preferred":[
         "Lwengo"
     ],
+    "name:hun_x_preferred":[
+        "Lwengo"
+    ],
     "name:jpn_x_preferred":[
         "\u30eb\u30a6\u30a7\u30f3\u30b4"
     ],
@@ -182,7 +185,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1627522960,
+    "wof:lastmodified":1636501845,
     "wof:name":"Lwengo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

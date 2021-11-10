@@ -68,10 +68,16 @@
         "\u0aae\u0acb\u0ab0\u0acb\u0a9f\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
     "name:heb_x_preferred":[
+        "\u05e0\u05d0\u05e4\u05e7"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05d7\u05d5\u05d6 \u05de\u05d5\u05e8\u05d5\u05d8\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092e\u094b\u0930\u094b\u091f\u094b \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Napak"
     ],
     "name:ind_x_preferred":[
         "Distrik Moroto"
@@ -226,7 +232,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896240,
+    "wof:lastmodified":1636501846,
     "wof:name":"Napak",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

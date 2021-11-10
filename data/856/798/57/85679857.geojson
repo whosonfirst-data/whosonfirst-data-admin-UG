@@ -68,8 +68,14 @@
     "name:guj_x_preferred":[
         "\u0aaf\u0ac1\u0aae\u0acd\u0aac\u0ac7 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d5\u05de\u05d1\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092f\u0941\u092e\u094d\u092c\u0947 \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Yumbe"
     ],
     "name:ind_x_preferred":[
         "Distrik Yumbe"
@@ -288,7 +294,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896238,
+    "wof:lastmodified":1636501841,
     "wof:name":"Yumbe",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -109,6 +109,9 @@
     "name:hrv_x_preferred":[
         "Kalungu"
     ],
+    "name:hun_x_preferred":[
+        "Kalungu"
+    ],
     "name:ido_x_preferred":[
         "Kalungu"
     ],
@@ -362,7 +365,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896240,
+    "wof:lastmodified":1636501847,
     "wof:name":"Kalungu",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

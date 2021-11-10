@@ -70,8 +70,14 @@
     "name:guj_x_preferred":[
         "\u0a95\u0acb\u0aac\u0acb\u0a95\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d1\u05d5\u05e7\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u094b\u092c\u094b\u0915\u094b \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Koboko"
     ],
     "name:ind_x_preferred":[
         "Distrik Koboko"
@@ -197,7 +203,7 @@
         }
     ],
     "wof:id":1092071795,
-    "wof:lastmodified":1607983502,
+    "wof:lastmodified":1636501879,
     "wof:name":"Koboko",
     "wof:parent_id":85679839,
     "wof:placetype":"county",

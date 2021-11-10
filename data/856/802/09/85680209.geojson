@@ -49,6 +49,12 @@
     "name:fra_x_preferred":[
         "Amudat"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05de\u05d5\u05d3\u05d0\u05d8"
+    ],
+    "name:hun_x_preferred":[
+        "Amudat"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30e0\u30c0\u30c3\u30c8"
     ],
@@ -133,7 +139,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1627522952,
+    "wof:lastmodified":1636501846,
     "wof:name":"Amudat",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

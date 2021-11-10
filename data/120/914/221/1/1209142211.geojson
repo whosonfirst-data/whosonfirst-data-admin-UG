@@ -65,6 +65,9 @@
     "name:fra_x_preferred":[
         "Iringa"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05e8\u05d9\u05e0\u05d2\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Iringa"
     ],
@@ -139,7 +142,7 @@
         }
     ],
     "wof:id":1209142211,
-    "wof:lastmodified":1566595194,
+    "wof:lastmodified":1636501865,
     "wof:name":"Iringa",
     "wof:parent_id":85632625,
     "wof:placetype":"locality",

@@ -25,7 +25,16 @@
     "name:eng_x_preferred":[
         "Kyenjojo"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0646\u062c\u0648\u0644\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Kyenjojo"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05d9\u05e0\u05d2'\u05d5\u05d2'\u05d5"
+    ],
+    "name:hun_x_preferred":[
         "Kyenjojo"
     ],
     "name:ita_x_preferred":[
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":890418137,
-    "wof:lastmodified":1566595501,
+    "wof:lastmodified":1636501889,
     "wof:name":"Kyenjojo",
     "wof:parent_id":1092072955,
     "wof:placetype":"locality",

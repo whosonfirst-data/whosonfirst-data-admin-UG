@@ -68,6 +68,9 @@
     "name:hin_x_preferred":[
         "\u0915\u094d\u092f\u093e\u0902\u0915\u0935\u093e\u0928\u094d\u091c\u093c\u0940 \u091c\u093f\u0932\u093e"
     ],
+    "name:hun_x_preferred":[
+        "Kyankwanzi"
+    ],
     "name:ind_x_preferred":[
         "Distrik Kyankwanzi"
     ],
@@ -201,7 +204,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896244,
+    "wof:lastmodified":1636501869,
     "wof:name":"Kyankwanzi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

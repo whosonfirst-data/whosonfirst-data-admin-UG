@@ -24,6 +24,9 @@
         "\u06a9\u06cc\u0633\u0648\u0631\u0648"
     ],
     "name:ben_x_preferred":[
+        "\u0995\u09bf\u09b8\u09cb\u09b0\u09cb"
+    ],
+    "name:ben_x_variant":[
         "\u0995\u09bf\u09b8\u09cb\u09b0\u09c1"
     ],
     "name:ceb_x_preferred":[
@@ -53,8 +56,14 @@
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0ab8\u0acb\u0ab0\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05e1\u05d5\u05e8\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u093f\u0938\u094b\u0930\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Kisoro"
     ],
     "name:ind_x_preferred":[
         "Kisoro"
@@ -279,7 +288,7 @@
         }
     ],
     "wof:id":421173923,
-    "wof:lastmodified":1566595496,
+    "wof:lastmodified":1636501885,
     "wof:name":"Kisoro",
     "wof:parent_id":1092068877,
     "wof:placetype":"locality",

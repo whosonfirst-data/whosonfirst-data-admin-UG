@@ -65,8 +65,14 @@
     "name:guj_x_preferred":[
         "\u0a86\u0ab0\u0ac2\u0a86 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d5\u05d0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0905\u0930\u0941\u0906 \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Arua"
     ],
     "name:ind_x_preferred":[
         "Distrik Arua"
@@ -217,7 +223,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896239,
+    "wof:lastmodified":1636501843,
     "wof:name":"Arua",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

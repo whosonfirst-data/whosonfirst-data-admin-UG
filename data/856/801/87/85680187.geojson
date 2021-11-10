@@ -37,6 +37,12 @@
     "name:fra_x_preferred":[
         "Kween"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d5\u05d9\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Kween"
+    ],
     "name:und_x_variant":[
         "Kween District"
     ],
@@ -164,7 +170,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1627522959,
+    "wof:lastmodified":1636501853,
     "wof:name":"Kween",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

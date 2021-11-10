@@ -158,7 +158,16 @@
         "\u0646\u06cc\u0628\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
+        "Nebbi"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Nebbi"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5185\u6bd4"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5167\u6bd4"
     ],
     "name:zho_x_preferred":[
         "\u5167\u6bd4\u5340"
@@ -288,7 +297,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896239,
+    "wof:lastmodified":1636501845,
     "wof:name":"Nebbi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

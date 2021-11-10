@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u0648\u062a\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09cb\u09b0\u09cb\u09a4\u09bf"
+    ],
     "name:ceb_x_preferred":[
         "Soroti"
     ],
@@ -28,6 +31,9 @@
     ],
     "name:deu_x_preferred":[
         "Soroti"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c1\u03bf\u03c4\u03af"
     ],
     "name:eng_x_preferred":[
         "Soroti"
@@ -38,7 +44,13 @@
     "name:heb_x_preferred":[
         "\u05e1\u05d5\u05e8\u05d5\u05d8\u05d9"
     ],
+    "name:hin_x_preferred":[
+        "\u0938\u094b\u0930\u094b\u091f\u0940"
+    ],
     "name:hun_x_preferred":[
+        "Soroti"
+    ],
+    "name:ind_x_preferred":[
         "Soroti"
     ],
     "name:ita_x_preferred":[
@@ -46,6 +58,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30bd\u30ed\u30c6\u30a3"
+    ],
+    "name:kor_x_preferred":[
+        "\uc18c\ub85c\ud2f0"
     ],
     "name:lug_x_preferred":[
         "Soroti"
@@ -68,14 +83,26 @@
     "name:ron_x_preferred":[
         "Soroti"
     ],
+    "name:spa_x_preferred":[
+        "Soroti"
+    ],
     "name:swa_x_preferred":[
         "Soroti"
     ],
     "name:swe_x_preferred":[
         "Soroti"
     ],
+    "name:tur_x_preferred":[
+        "Soroti"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u043e\u0440\u043e\u0442\u0456"
+    ],
     "name:urd_x_preferred":[
         "\u0633\u0648\u0631\u0648\u062a\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Soroti"
     ],
     "name:zho_x_preferred":[
         "\u7d22\u7f85\u63d0"
@@ -222,7 +249,7 @@
         }
     ],
     "wof:id":421168677,
-    "wof:lastmodified":1566595494,
+    "wof:lastmodified":1636501883,
     "wof:name":"Soroti",
     "wof:parent_id":1092074017,
     "wof:placetype":"locality",

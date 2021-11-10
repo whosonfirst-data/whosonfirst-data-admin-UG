@@ -53,6 +53,9 @@
     "name:eng_x_variant":[
         "Mbarara District"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u0628\u0627\u0631\u0627\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Mbararan kaupunginosa"
     ],
@@ -62,8 +65,14 @@
     "name:guj_x_preferred":[
         "\u0a8f\u0aae\u0acd\u0aac\u0abe\u0ab0\u0abe\u0ab0\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d1\u05d5\u05de\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u0930\u093e\u0930\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Mbarara"
     ],
     "name:ind_x_preferred":[
         "Distrik Mbarara"
@@ -199,7 +208,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896241,
+    "wof:lastmodified":1636501848,
     "wof:name":"Mbarara",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

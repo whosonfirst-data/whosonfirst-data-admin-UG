@@ -152,7 +152,16 @@
         "\u0645\u0648\u0631\u0648\u062a\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
+        "Moroto"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Moroto"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u83ab\u7f57\u6258"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u83ab\u7f85\u6258"
     ],
     "name:zho_x_preferred":[
         "\u83ab\u7f85\u6258\u5340"
@@ -223,7 +232,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896241,
+    "wof:lastmodified":1636501849,
     "wof:name":"Moroto",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

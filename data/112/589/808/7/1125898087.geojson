@@ -28,6 +28,9 @@
     "name:eng_x_preferred":[
         "Lyantonde"
     ],
+    "name:hun_x_preferred":[
+        "Lyantonde"
+    ],
     "name:jpn_x_preferred":[
         "\u30ea\u30e3\u30f3\u30c8\u30f3\u30c7"
     ],
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1125898087,
-    "wof:lastmodified":1566595503,
+    "wof:lastmodified":1636501892,
     "wof:name":"Lyantonde",
     "wof:parent_id":1092070975,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:fra_x_preferred":[
         "Jinja"
     ],
+    "name:hun_x_preferred":[
+        "Jinja"
+    ],
     "name:ita_x_preferred":[
         "Jinja"
     ],
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1260116391,
-    "wof:lastmodified":1566595302,
+    "wof:lastmodified":1636501868,
     "wof:name":"Jinja",
     "wof:parent_id":1092072911,
     "wof:placetype":"locality",

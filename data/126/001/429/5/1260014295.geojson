@@ -32,6 +32,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d3\u05d5\u05d3\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Bududa"
+    ],
     "name:lug_x_preferred":[
         "Bududa"
     ],
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1260014295,
-    "wof:lastmodified":1566595294,
+    "wof:lastmodified":1636501868,
     "wof:name":"Bududa",
     "wof:parent_id":1092072481,
     "wof:placetype":"locality",

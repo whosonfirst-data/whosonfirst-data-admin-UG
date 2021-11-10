@@ -43,6 +43,12 @@
     "name:fra_x_preferred":[
         "Namutumba"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05d0\u05de\u05d5\u05d8\u05d5\u05de\u05d1\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Namutumba"
+    ],
     "name:jpn_x_preferred":[
         "\u30ca\u30e0\u30c8\u30a5\u30f3\u30d0"
     ],
@@ -194,7 +200,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896239,
+    "wof:lastmodified":1636501843,
     "wof:name":"Namutumba",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

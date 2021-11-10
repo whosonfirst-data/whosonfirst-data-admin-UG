@@ -153,6 +153,9 @@
         "\u062a\u0648\u0631\u0648\u0631\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
+        "Tororo"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Tororo"
     ],
     "name:zho_x_preferred":[
@@ -284,7 +287,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896237,
+    "wof:lastmodified":1636501838,
     "wof:name":"Tororo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

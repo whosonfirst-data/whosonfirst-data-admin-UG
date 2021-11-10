@@ -41,6 +41,9 @@
     "name:epo_x_preferred":[
         "Lira"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Lira"
     ],
@@ -295,7 +298,7 @@
         }
     ],
     "wof:id":421199639,
-    "wof:lastmodified":1566595498,
+    "wof:lastmodified":1636501886,
     "wof:name":"Lira",
     "wof:parent_id":1092072387,
     "wof:placetype":"locality",

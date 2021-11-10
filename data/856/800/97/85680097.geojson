@@ -67,8 +67,14 @@
     "name:guj_x_preferred":[
         "\u0a87\u0a97\u0a82\u0a97\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d1\u05d5\u05d0\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0907\u0917\u093e\u0902\u0917\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Luuka"
     ],
     "name:hye_x_preferred":[
         "\u053b\u0563\u0561\u0576\u0563\u0561"
@@ -224,7 +230,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896242,
+    "wof:lastmodified":1636501850,
     "wof:name":"Luuka",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

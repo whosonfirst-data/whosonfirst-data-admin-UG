@@ -67,8 +67,14 @@
     "name:guj_x_preferred":[
         "\u0ab0\u0a95\u0abe\u0a87 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05e7\u05d0\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0930\u093e\u0915\u0908 \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Rakai"
     ],
     "name:ind_x_preferred":[
         "Distrik Rakai"
@@ -281,7 +287,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896242,
+    "wof:lastmodified":1636501851,
     "wof:name":"Rakai",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

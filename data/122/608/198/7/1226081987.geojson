@@ -30,6 +30,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u06a9\u0648\u0644\u0648"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05e7\u05d5\u05dc\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Dokolo"
+    ],
     "name:lug_x_preferred":[
         "Dokolo"
     ],
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1226081987,
-    "wof:lastmodified":1566595764,
+    "wof:lastmodified":1636501904,
     "wof:name":"Dokolo",
     "wof:parent_id":1092074055,
     "wof:placetype":"locality",

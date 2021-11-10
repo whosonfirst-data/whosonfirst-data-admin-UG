@@ -65,8 +65,14 @@
     "name:guj_x_preferred":[
         "\u0a88\u0aac\u0a82\u0aa1\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d1\u05e0\u05d3\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0907\u092c\u093e\u0928\u094d\u0926\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Ibanda"
     ],
     "name:ind_x_preferred":[
         "Distrik Ibanda"
@@ -288,7 +294,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896242,
+    "wof:lastmodified":1636501851,
     "wof:name":"Ibanda",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

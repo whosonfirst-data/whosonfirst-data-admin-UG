@@ -53,6 +53,12 @@
     "name:fra_x_preferred":[
         "Amuria"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05de\u05d5\u05e8\u05d9\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Amuria"
+    ],
     "name:jpn_x_preferred":[
         "\u30a2\u30e0\u30ea\u30a2"
     ],
@@ -205,7 +211,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1627522952,
+    "wof:lastmodified":1636501848,
     "wof:name":"Amuria",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

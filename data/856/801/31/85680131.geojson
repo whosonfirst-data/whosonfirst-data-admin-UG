@@ -40,6 +40,9 @@
     "name:fra_x_preferred":[
         "Butambala"
     ],
+    "name:hun_x_preferred":[
+        "Butambala"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
     "ne:adm0_label":"2",
@@ -165,7 +168,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1627522955,
+    "wof:lastmodified":1636501854,
     "wof:name":"Butambala",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

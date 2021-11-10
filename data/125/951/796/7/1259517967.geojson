@@ -35,6 +35,12 @@
     "name:ceb_x_preferred":[
         "Nakaseke"
     ],
+    "name:heb_x_preferred":[
+        "\u05e0\u05e7\u05d0\u05e1\u05d5\u05e0\u05d2\u05d5\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Nakaseke"
+    ],
     "name:ron_x_preferred":[
         "Nakaseke"
     ],
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1259517967,
-    "wof:lastmodified":1566595645,
+    "wof:lastmodified":1636501899,
     "wof:name":"Nakaseke",
     "wof:parent_id":1092072985,
     "wof:placetype":"locality",

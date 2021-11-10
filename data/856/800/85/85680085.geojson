@@ -107,7 +107,13 @@
     "name:gsw_x_preferred":[
         "Zombo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d5\u05de\u05d1\u05d5"
+    ],
     "name:hrv_x_preferred":[
+        "Zombo"
+    ],
+    "name:hun_x_preferred":[
         "Zombo"
     ],
     "name:ido_x_preferred":[
@@ -364,7 +370,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896242,
+    "wof:lastmodified":1636501851,
     "wof:name":"Zombo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -32,6 +32,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05e0\u05d8\u05d5\u05e8\u05d5\u05e7\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Ntoroko"
+    ],
     "name:urd_x_preferred":[
         "\u0646\u062a\u0648\u0631\u0648\u06a9\u0648"
     ],
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1310635141,
-    "wof:lastmodified":1566595353,
+    "wof:lastmodified":1636501871,
     "wof:name":"Ntoroko",
     "wof:parent_id":1092073179,
     "wof:placetype":"locality",

@@ -65,8 +65,14 @@
     "name:guj_x_preferred":[
         "\u0a86\u0ab0\u0ac2\u0a86 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e8\u05d0\u05d3\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u0905\u0930\u0941\u0906 \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Maracha"
     ],
     "name:ind_x_preferred":[
         "Distrik Arua"
@@ -149,6 +155,12 @@
     "name:vie_x_preferred":[
         "Qu\u1eadn Arua"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u9a6c\u62c9\u67e5"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5951\u57fa\u5854\u6e56"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u9b6f\u963f\u5340"
     ],
@@ -220,7 +232,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896238,
+    "wof:lastmodified":1636501840,
     "wof:name":"Maracha",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

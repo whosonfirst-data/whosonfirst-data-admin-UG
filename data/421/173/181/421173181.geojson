@@ -50,6 +50,9 @@
     "name:hin_x_preferred":[
         "\u092e\u0941\u0915\u094b\u0928\u094b"
     ],
+    "name:hun_x_preferred":[
+        "Mukono"
+    ],
     "name:hye_x_preferred":[
         "\u0544\u0578\u0582\u056f\u0578\u0576\u0578"
     ],
@@ -188,7 +191,7 @@
         }
     ],
     "wof:id":421173181,
-    "wof:lastmodified":1566595497,
+    "wof:lastmodified":1636501885,
     "wof:name":"Mukono",
     "wof:parent_id":1092072911,
     "wof:placetype":"locality",

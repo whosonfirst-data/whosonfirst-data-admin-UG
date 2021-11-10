@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"31.4799800199,2.4703776234,31.4799800199,2.4703776234",
+    "geom:bbox":"31.47998,2.470378,31.47998,2.470378",
     "geom:latitude":2.470378,
     "geom:longitude":31.47998,
     "iso:country":"UG",
@@ -18,16 +18,40 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0627\u0643\u0648\u0627\u062a\u0634"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u0995\u09cb\u09df\u09be\u099a"
+    ],
     "name:ceb_x_preferred":[
         "Pakwach"
     ],
     "name:deu_x_preferred":[
         "Pakwach"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03ba\u03b3\u03bf\u03c5\u03ac\u03c7"
+    ],
     "name:eng_x_preferred":[
         "Pakwach"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u06a9\u0648\u0627\u0686"
+    ],
     "name:fra_x_preferred":[
+        "Pakwach"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e7\u05d5\u05d5\u05d8\u05e9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0915\u094d\u0935\u093e\u091a"
+    ],
+    "name:hun_x_preferred":[
+        "Pakwach"
+    ],
+    "name:ind_x_preferred":[
         "Pakwach"
     ],
     "name:ita_x_preferred":[
@@ -35,6 +59,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30af\u30ef\u30c1"
+    ],
+    "name:kor_x_preferred":[
+        "\ud30c\ud06c\uc640\uce58"
     ],
     "name:lit_x_preferred":[
         "Pakva\u010das"
@@ -48,8 +75,23 @@
     "name:por_x_preferred":[
         "Pakwach"
     ],
+    "name:spa_x_preferred":[
+        "Pakwach"
+    ],
+    "name:swe_x_preferred":[
+        "Pakwach"
+    ],
+    "name:tur_x_preferred":[
+        "Pakwach"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043a\u0432\u0430\u0447"
+    ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u06a9\u0648\u0627\u0686"
+    ],
+    "name:vie_x_preferred":[
+        "Pakwach"
     ],
     "name:zho_x_preferred":[
         "\u5e15\u5938\u5947"
@@ -162,7 +204,7 @@
     },
     "wof:country":"UG",
     "wof:created":1499130667,
-    "wof:geomhash":"db7675d6429d02989a59c5bd4980c987",
+    "wof:geomhash":"c54bfb5084b5e215240821004439533e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -173,7 +215,7 @@
         }
     ],
     "wof:id":1141906993,
-    "wof:lastmodified":1566595775,
+    "wof:lastmodified":1636501906,
     "wof:name":"Pakwach",
     "wof:parent_id":1092070857,
     "wof:placetype":"locality",
@@ -183,10 +225,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    31.4799800198702,
-    2.47037762339869,
-    31.4799800198702,
-    2.47037762339869
+    31.47998,
+    2.470378,
+    31.47998,
+    2.470378
 ],
-  "geometry": {"coordinates":[31.4799800198702,2.47037762339869],"type":"Point"}
+  "geometry": {"coordinates":[31.47998,2.470378],"type":"Point"}
 }

@@ -39,8 +39,14 @@
     "name:deu_x_preferred":[
         "Masaka"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u0632\u0627\u06a9\u0627"
+    ],
     "name:fra_x_preferred":[
         "Masaka"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05e1\u05e7\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Masaka"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":1327268201,
-    "wof:lastmodified":1566594770,
+    "wof:lastmodified":1636501831,
     "wof:name":"Masaka",
     "wof:parent_id":1092072705,
     "wof:placetype":"locality",

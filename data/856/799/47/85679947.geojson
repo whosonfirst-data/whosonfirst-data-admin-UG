@@ -148,7 +148,16 @@
         "\u06a9\u06cc\u0628\u0622\u0644\u06d2 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
+        "Kibale"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Kibaale"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u57fa\u5df4\u83b1"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u57fa\u5df4\u840a"
     ],
     "name:zho_x_preferred":[
         "\u57fa\u5df4\u840a\u5340"
@@ -280,7 +289,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896238,
+    "wof:lastmodified":1636501840,
     "wof:name":"Kibale",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

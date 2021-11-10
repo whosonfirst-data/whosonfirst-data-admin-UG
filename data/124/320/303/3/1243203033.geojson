@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Kosti"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05e1\u05d8\u05d9"
+    ],
     "name:slk_x_preferred":[
         "Kosti"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1243203033,
-    "wof:lastmodified":1566595586,
+    "wof:lastmodified":1636501896,
     "wof:name":"Kosti",
     "wof:parent_id":1092068817,
     "wof:placetype":"locality",

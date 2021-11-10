@@ -47,8 +47,14 @@
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0a87\u0aae\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05d9\u05de\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0939\u094b\u0908\u092e\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Hoima"
     ],
     "name:ind_x_preferred":[
         "Hoima"
@@ -176,7 +182,7 @@
         }
     ],
     "wof:id":421181185,
-    "wof:lastmodified":1566595497,
+    "wof:lastmodified":1636501886,
     "wof:name":"Hoima",
     "wof:parent_id":1092068961,
     "wof:placetype":"locality",

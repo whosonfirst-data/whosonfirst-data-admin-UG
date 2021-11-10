@@ -155,6 +155,9 @@
         "\u0633\u06cc\u0631\u0648\u0646\u06a9\u0648 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
+        "Sironko"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Sironko"
     ],
     "name:zho_x_preferred":[
@@ -231,7 +234,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896236,
+    "wof:lastmodified":1636501836,
     "wof:name":"Sironko",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

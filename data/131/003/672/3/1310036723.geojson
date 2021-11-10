@@ -42,6 +42,9 @@
     "name:bel_x_preferred":[
         "\u041b\u0443\u0433\u0430\u043d\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09b2\u09c1\u0997\u09be\u09a8\u09cb"
+    ],
     "name:bod_x_preferred":[
         "\u0f63\u0f74\u0f0b\u0f42\u0f0b\u0f53\u0f7c\u0f0d"
     ],
@@ -110,6 +113,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05dc\u05d5\u05d2\u05d0\u05e0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0932\u0941\u0917\u093e\u0928\u094b"
     ],
     "name:hrv_x_preferred":[
         "Lugano"
@@ -287,7 +293,7 @@
         }
     ],
     "wof:id":1310036723,
-    "wof:lastmodified":1566595363,
+    "wof:lastmodified":1636501872,
     "wof:name":"Lugano",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

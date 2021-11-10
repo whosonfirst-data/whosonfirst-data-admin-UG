@@ -33,6 +33,12 @@
     "name:eng_x_preferred":[
         "Budaka"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d3\u05d0\u05e7\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Budaka"
+    ],
     "name:lug_x_preferred":[
         "Budaka"
     ],
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":1260111713,
-    "wof:lastmodified":1566595303,
+    "wof:lastmodified":1636501869,
     "wof:name":"Budaka",
     "wof:parent_id":1092074289,
     "wof:placetype":"locality",

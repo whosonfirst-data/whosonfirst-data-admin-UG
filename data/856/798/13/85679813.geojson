@@ -149,6 +149,9 @@
         "\u0633\u0648\u0631\u0648\u062a\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
+        "Soroti"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Soroti"
     ],
     "name:zho_x_preferred":[
@@ -222,7 +225,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896240,
+    "wof:lastmodified":1636501845,
     "wof:name":"Soroti",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

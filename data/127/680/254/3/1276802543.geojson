@@ -32,6 +32,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e7\u05d5\u05d5\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Bukwa"
+    ],
     "name:und_x_variant":[
         "Bukwo",
         "Bukwa"
@@ -49,7 +55,7 @@
         "wk:page":"Bukwa"
     },
     "wof:country":"UG",
-    "wof:geomhash":"a15a29bb03a7eaee786182ee78e957d1",
+    "wof:geomhash":"3461e0be3f97c11e9e2f6f411857daaa",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1276802543,
-    "wof:lastmodified":1566595058,
+    "wof:lastmodified":1636501859,
     "wof:name":"Bukwa",
     "wof:parent_id":1092071861,
     "wof:placetype":"locality",
@@ -70,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    34.75389000000001,
+    34.75389,
     1.25917,
-    34.75389000000001,
+    34.75389,
     1.25917
 ],
-  "geometry": {"coordinates":[34.75389000000001,1.25917],"type":"Point"}
+  "geometry": {"coordinates":[34.75389,1.25917],"type":"Point"}
 }

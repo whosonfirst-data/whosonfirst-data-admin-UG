@@ -45,10 +45,19 @@
     "name:fra_x_preferred":[
         "Kandi"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e0\u05d3\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u0902\u0921\u0940"
+    ],
     "name:hun_x_preferred":[
         "Kandi"
     ],
     "name:swe_x_preferred":[
+        "Kandi"
+    ],
+    "name:tur_x_preferred":[
         "Kandi"
     ],
     "src:geom":"geonames",
@@ -74,7 +83,7 @@
         }
     ],
     "wof:id":1226785939,
-    "wof:lastmodified":1566595741,
+    "wof:lastmodified":1636501904,
     "wof:name":"Kandi",
     "wof:parent_id":1092074289,
     "wof:placetype":"locality",

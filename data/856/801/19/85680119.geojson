@@ -43,6 +43,12 @@
     "name:fra_x_preferred":[
         "Serere"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e8\u05b6\u05e8\u05b6\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Serere"
+    ],
     "name:ita_x_preferred":[
         "Serere"
     ],
@@ -129,7 +135,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896243,
+    "wof:lastmodified":1636501853,
     "wof:name":"Serere",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -50,7 +50,13 @@
         "\u0aaa\u0ac7\u0aa1\u0ab0"
     ],
     "name:hin_x_preferred":[
+        "\u092a\u0947\u0921\u0930"
+    ],
+    "name:hin_x_variant":[
         "\u092a\u0948\u0921\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Pader"
     ],
     "name:ind_x_preferred":[
         "Pader"
@@ -172,7 +178,7 @@
         }
     ],
     "wof:id":890433349,
-    "wof:lastmodified":1566595502,
+    "wof:lastmodified":1636501890,
     "wof:name":"Pader",
     "wof:parent_id":1092068365,
     "wof:placetype":"locality",

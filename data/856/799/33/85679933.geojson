@@ -68,8 +68,14 @@
     "name:guj_x_preferred":[
         "\u0ab9\u0acb\u0a88\u0aae\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05d9\u05de\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0939\u094b\u0907\u092e\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Hoima"
     ],
     "name:ind_x_preferred":[
         "Distrik Hoima"
@@ -297,7 +303,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896236,
+    "wof:lastmodified":1636501837,
     "wof:name":"Hoima",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

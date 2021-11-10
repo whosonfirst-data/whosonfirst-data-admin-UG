@@ -35,6 +35,12 @@
     "name:fra_x_preferred":[
         "Oyam"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d9\u05d0\u05dd"
+    ],
+    "name:hun_x_preferred":[
+        "Oyam"
+    ],
     "name:lug_x_preferred":[
         "Oyam"
     ],
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1360095483,
-    "wof:lastmodified":1566595396,
+    "wof:lastmodified":1636501873,
     "wof:name":"Oyam",
     "wof:parent_id":1092073449,
     "wof:placetype":"locality",

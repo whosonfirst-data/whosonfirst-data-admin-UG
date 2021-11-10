@@ -32,8 +32,77 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0645\u0628\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09ae\u09cd\u09ac\u09c7"
+    ],
+    "name:deu_x_preferred":[
+        "Semb\u00e9"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03ad\u03bc\u03c0\u03b5"
+    ],
     "name:eng_x_preferred":[
         "Sembe"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0645\u0628\u0647"
+    ],
+    "name:fra_x_preferred":[
+        "Semb\u00e9"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05de\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u092e\u094d\u092c\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Sembe"
+    ],
+    "name:ind_x_preferred":[
+        "Sembe"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30d9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc148\ubca0"
+    ],
+    "name:nld_x_preferred":[
+        "Sembe"
+    ],
+    "name:pol_x_preferred":[
+        "Sembe"
+    ],
+    "name:por_x_preferred":[
+        "Semb\u00e9"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u043c\u0431\u0435"
+    ],
+    "name:swe_x_preferred":[
+        "S\u00e9mb\u00e9"
+    ],
+    "name:tur_x_preferred":[
+        "Sembe"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043c\u0431\u0435"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0645\u0628\u06d2"
+    ],
+    "name:vie_x_preferred":[
+        "Sembe"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u68ee\u8d1d"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u68ee\u8c9d"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +127,7 @@
         }
     ],
     "wof:id":1259820389,
-    "wof:lastmodified":1566595633,
+    "wof:lastmodified":1636501898,
     "wof:name":"Sembe",
     "wof:parent_id":1092073897,
     "wof:placetype":"locality",

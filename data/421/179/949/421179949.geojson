@@ -20,13 +20,37 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0644\u064a\u0633\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09be\u09b2\u09cd\u09b2\u09bf\u09b8\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Pallisa"
+    ],
+    "name:deu_x_preferred":[
+        "Pallisa"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bb\u03af\u03c3\u03b1"
     ],
     "name:eng_x_preferred":[
         "Pallisa"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0627\u0644\u06cc\u0633\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Pallisa"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d9\u05e1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0932\u0940\u0938\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Pallisa"
+    ],
+    "name:ind_x_preferred":[
         "Pallisa"
     ],
     "name:ita_x_preferred":[
@@ -34,6 +58,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30d1\u30ea\u30b5"
+    ],
+    "name:kor_x_preferred":[
+        "\ud314\ub9ac\uc0ac"
     ],
     "name:lug_x_preferred":[
         "Pallisa"
@@ -56,14 +83,35 @@
     "name:rus_x_preferred":[
         "\u041f\u0430\u043b\u043b\u0438\u0441\u0430"
     ],
+    "name:spa_x_preferred":[
+        "Pallisa"
+    ],
     "name:swa_x_preferred":[
         "Pallisa"
+    ],
+    "name:swe_x_preferred":[
+        "Pallisa"
+    ],
+    "name:tur_x_preferred":[
+        "Pallisa"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u043b\u043b\u0456\u0441\u0430"
     ],
     "name:und_x_variant":[
         "Palissa"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0627\u0644\u06cc\u0633\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Pallisa"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e15\u5229\u8428"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5e15\u5229\u85a9"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uganda",
@@ -204,7 +252,7 @@
         }
     ],
     "wof:id":421179949,
-    "wof:lastmodified":1566595499,
+    "wof:lastmodified":1636501887,
     "wof:name":"Pallisa",
     "wof:parent_id":1092073523,
     "wof:placetype":"locality",

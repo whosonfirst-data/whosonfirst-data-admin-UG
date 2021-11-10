@@ -152,6 +152,9 @@
         "\u0633\u0648\u0631\u0648\u062a\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
+        "Soroti"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Soroti"
     ],
     "name:zho_x_preferred":[
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":1092074055,
-    "wof:lastmodified":1607983501,
+    "wof:lastmodified":1636501878,
     "wof:name":"Soroti",
     "wof:parent_id":85679813,
     "wof:placetype":"county",

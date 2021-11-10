@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:hun_x_preferred":[
+        "Wanica"
+    ],
     "name:und_x_variant":[
         "Wandica"
     ],
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1309730759,
-    "wof:lastmodified":1566595484,
+    "wof:lastmodified":1636501883,
     "wof:name":"Wanica",
     "wof:parent_id":1092074097,
     "wof:placetype":"locality",

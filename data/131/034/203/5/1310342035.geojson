@@ -77,6 +77,9 @@
     "name:hrv_x_preferred":[
         "Bukoba"
     ],
+    "name:hun_x_preferred":[
+        "Bukoba"
+    ],
     "name:isl_x_preferred":[
         "Bukoba"
     ],
@@ -151,7 +154,7 @@
         }
     ],
     "wof:id":1310342035,
-    "wof:lastmodified":1566595377,
+    "wof:lastmodified":1636501873,
     "wof:name":"Bukoba",
     "wof:parent_id":1092069607,
     "wof:placetype":"locality",

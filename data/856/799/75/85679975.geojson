@@ -31,11 +31,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062c\u064a\u0631\u064a"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u0997\u09bf\u09b0\u09bf"
+    ],
     "name:ceb_x_preferred":[
         "Bugiri District"
     ],
     "name:deu_x_preferred":[
         "Distrikt Bugiri"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03b3\u03ba\u03af\u03c1\u03b9"
     ],
     "name:eng_x_preferred":[
         "Bugiri"
@@ -48,6 +54,15 @@
     ],
     "name:glg_x_preferred":[
         "Distrito Bugiri"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d2\u05d9\u05e8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0941\u0917\u093f\u0930\u093f"
+    ],
+    "name:hun_x_preferred":[
+        "Bugiri"
     ],
     "name:ind_x_preferred":[
         "Distrik Bugiri"
@@ -76,6 +91,9 @@
     "name:pol_x_preferred":[
         "Dystrykt Bugiri"
     ],
+    "name:por_x_preferred":[
+        "Bugiri"
+    ],
     "name:ron_x_preferred":[
         "Bugiri"
     ],
@@ -91,11 +109,23 @@
     "name:swa_x_preferred":[
         "Bugiri"
     ],
+    "name:swe_x_preferred":[
+        "Bugiri"
+    ],
+    "name:tur_x_preferred":[
+        "Bugiri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0433\u0456\u0440\u0456"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u06af\u06cc\u0631\u06cc"
     ],
     "name:urd_x_variant":[
         "\u0628\u0648\u06af\u06cc\u0631\u06cc \u0636\u0644\u0639"
+    ],
+    "name:vie_x_preferred":[
+        "Bugiri"
     ],
     "name:zho_x_preferred":[
         "\u5e03\u5409\u91cc\u5340"
@@ -226,7 +256,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896237,
+    "wof:lastmodified":1636501838,
     "wof:name":"Bugiri",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -44,6 +44,12 @@
     "name:fra_x_preferred":[
         "Kole Weathers"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Kole"
+    ],
     "name:jpn_x_preferred":[
         "\u30b3\u30fc\u30eb"
     ],
@@ -190,7 +196,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896242,
+    "wof:lastmodified":1636501852,
     "wof:name":"Kole",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

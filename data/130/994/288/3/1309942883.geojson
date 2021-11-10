@@ -32,6 +32,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0643\u064a\u0628\u0648\u0646\u063a\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09bf\u09ac\u09c1\u0982\u0997\u09cb"
+    ],
     "name:cat_x_preferred":[
         "Kibungo"
     ],
@@ -50,10 +56,22 @@
     "name:eus_x_preferred":[
         "Kibungo"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0628\u0648\u0646\u06af\u0648"
+    ],
     "name:fra_x_preferred":[
         "Kibungo"
     ],
+    "name:hin_x_preferred":[
+        "\u0915\u093f\u092c\u0902\u0917\u094b"
+    ],
     "name:hrv_x_preferred":[
+        "Kibungo"
+    ],
+    "name:hun_x_preferred":[
+        "Kibungo"
+    ],
+    "name:ind_x_preferred":[
         "Kibungo"
     ],
     "name:ita_x_preferred":[
@@ -86,11 +104,20 @@
     "name:rus_x_preferred":[
         "\u041a\u0438\u0431\u0443\u043d\u0433\u043e"
     ],
+    "name:spa_x_preferred":[
+        "Kibungo"
+    ],
     "name:tur_x_preferred":[
         "Kibungo"
     ],
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0431\u0443\u043d\u0433\u043e"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0628\u0646\u06af\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Kibungo"
     ],
     "name:zho_x_preferred":[
         "\u57fa\u672c\u53e4"
@@ -118,7 +145,7 @@
         }
     ],
     "wof:id":1309942883,
-    "wof:lastmodified":1566595480,
+    "wof:lastmodified":1636501882,
     "wof:name":"Kibungo",
     "wof:parent_id":1092073061,
     "wof:placetype":"locality",

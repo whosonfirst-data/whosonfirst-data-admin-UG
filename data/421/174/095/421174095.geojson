@@ -26,6 +26,12 @@
     "name:fra_x_preferred":[
         "Kotido"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05d8\u05d9\u05d3\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Kotido"
+    ],
     "name:ita_x_preferred":[
         "Kotido"
     ],
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":421174095,
-    "wof:lastmodified":1566595496,
+    "wof:lastmodified":1636501884,
     "wof:name":"Kotido",
     "wof:parent_id":1092070781,
     "wof:placetype":"locality",

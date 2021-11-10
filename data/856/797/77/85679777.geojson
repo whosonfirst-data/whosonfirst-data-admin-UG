@@ -149,7 +149,16 @@
         "\u06a9\u0648\u0645\u06cc \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
+        "Kumi"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Kumi"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5e93\u7c73"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5eab\u7c73"
     ],
     "name:zho_x_preferred":[
         "\u5eab\u7c73\u5340"
@@ -223,7 +232,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896236,
+    "wof:lastmodified":1636501836,
     "wof:name":"Kumi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

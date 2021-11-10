@@ -49,8 +49,14 @@
     "name:guj_x_preferred":[
         "\u0aaf\u0ac1\u0aae\u0acd\u0aac\u0ac7"
     ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d5\u05de\u05d1\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092f\u0942\u092e\u092c\u0947"
+    ],
+    "name:hun_x_preferred":[
+        "Yumbe"
     ],
     "name:ind_x_preferred":[
         "Yumbe"
@@ -172,7 +178,7 @@
         }
     ],
     "wof:id":1125861177,
-    "wof:lastmodified":1566595503,
+    "wof:lastmodified":1636501891,
     "wof:name":"Yumbe",
     "wof:parent_id":1092068435,
     "wof:placetype":"locality",

@@ -35,6 +35,12 @@
     "name:fra_x_preferred":[
         "Kole Weathers"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d5\u05dc\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Kole"
+    ],
     "name:ron_x_preferred":[
         "Kole"
     ],
@@ -53,7 +59,7 @@
         "gn:id":8051535
     },
     "wof:country":"UG",
-    "wof:geomhash":"dd28cda4f291d5776d8274877eb7a89e",
+    "wof:geomhash":"1faf1bb5fd012f4232716c441f35c45a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1276247535,
-    "wof:lastmodified":1566595090,
+    "wof:lastmodified":1636501860,
     "wof:name":"Kole",
     "wof:parent_id":1092071837,
     "wof:placetype":"locality",
@@ -74,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    32.80034000000001,
+    32.80034,
     2.40015,
-    32.80034000000001,
+    32.80034,
     2.40015
 ],
-  "geometry": {"coordinates":[32.80034000000001,2.40015],"type":"Point"}
+  "geometry": {"coordinates":[32.80034,2.40015],"type":"Point"}
 }

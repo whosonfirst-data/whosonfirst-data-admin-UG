@@ -68,10 +68,16 @@
         "\u0aae\u0abe\u0ab8\u0abf\u0a82\u0aa1\u0ac0 \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
     "name:heb_x_preferred":[
+        "\u05de\u05e1\u05d9\u05e0\u05d3\u05d9"
+    ],
+    "name:heb_x_variant":[
         "\u05de\u05d0\u05e1\u05d9\u05e0\u05d3\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u092e\u0938\u093f\u0902\u0926\u0940 \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Masindi"
     ],
     "name:ind_x_preferred":[
         "Distrik Masindi"
@@ -235,7 +241,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896237,
+    "wof:lastmodified":1636501838,
     "wof:name":"Masindi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

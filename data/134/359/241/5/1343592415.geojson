@@ -35,6 +35,15 @@
     "name:eng_x_preferred":[
         "Buyende"
     ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u06cc\u0646\u062f\u0647"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d9\u05e0\u05d3\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Buyende"
+    ],
     "name:lug_x_preferred":[
         "Buyende"
     ],
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1343592415,
-    "wof:lastmodified":1566594847,
+    "wof:lastmodified":1636501833,
     "wof:name":"Buyende",
     "wof:parent_id":1092073897,
     "wof:placetype":"locality",

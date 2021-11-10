@@ -36,6 +36,9 @@
     "name:eng_x_preferred":[
         "Kapisa"
     ],
+    "name:hun_x_preferred":[
+        "Kapisa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1344192125,
-    "wof:lastmodified":1566594868,
+    "wof:lastmodified":1636501834,
     "wof:name":"Kapisa",
     "wof:parent_id":1092069677,
     "wof:placetype":"locality",

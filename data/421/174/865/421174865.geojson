@@ -53,6 +53,9 @@
     "name:guj_x_preferred":[
         "\u0a8f\u0aae\u0aac\u0ab0\u0abe\u0ab0\u0abe"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d1\u05d5\u05de\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u0930\u0947\u0930\u093e"
     ],
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":421174865,
-    "wof:lastmodified":1566595496,
+    "wof:lastmodified":1636501884,
     "wof:name":"Mbarara",
     "wof:parent_id":1092072775,
     "wof:placetype":"locality",

@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Bweyale"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e8\u05d9\u05d0\u05e0\u05d3\u05d5\u05e0\u05d2\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Kiryandongo"
+    ],
     "name:jpn_x_preferred":[
         "\u30ad\u30ea\u30e3\u30f3\u30c9\u30f3\u30b4"
     ],
@@ -186,7 +192,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1627522956,
+    "wof:lastmodified":1636501853,
     "wof:name":"Kiryandongo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

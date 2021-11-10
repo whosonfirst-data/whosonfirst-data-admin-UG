@@ -86,6 +86,9 @@
     "name:glg_x_preferred":[
         "Melinde"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05dc\u05d9\u05e0\u05d3\u05d9"
+    ],
     "name:hun_x_preferred":[
         "Malindi"
     ],
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":1242908285,
-    "wof:lastmodified":1566595578,
+    "wof:lastmodified":1636501895,
     "wof:name":"Malindi",
     "wof:parent_id":1092069145,
     "wof:placetype":"locality",

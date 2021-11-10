@@ -40,6 +40,9 @@
     "name:fra_x_preferred":[
         "Bulisa"
     ],
+    "name:hun_x_preferred":[
+        "Buliisa"
+    ],
     "name:jpn_x_preferred":[
         "\u30d6\u30ea\u30b5"
     ],
@@ -129,7 +132,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1627522954,
+    "wof:lastmodified":1636501843,
     "wof:name":"Buliisa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

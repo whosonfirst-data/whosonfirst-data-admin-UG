@@ -25,6 +25,12 @@
     "name:eng_x_preferred":[
         "Mayuge"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05d6\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Mayuge"
+    ],
     "name:jpn_x_preferred":[
         "\u30de\u30e6\u30b2"
     ],
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1125898077,
-    "wof:lastmodified":1566595503,
+    "wof:lastmodified":1636501891,
     "wof:name":"Mayuge",
     "wof:parent_id":1092069607,
     "wof:placetype":"locality",

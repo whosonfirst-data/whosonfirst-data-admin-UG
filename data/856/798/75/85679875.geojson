@@ -156,7 +156,16 @@
         "\u0646\u0627\u06a9\u0627\u0633\u0648\u0646\u06af\u0648\u0644\u0627 \u0636\u0644\u0639"
     ],
     "name:vie_x_preferred":[
+        "Nakasongola"
+    ],
+    "name:vie_x_variant":[
         "Qu\u1eadn Nakasongola"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u7eb3\u5361\u677e\u6208\u62c9"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7d0d\u5361\u677e\u6208\u62c9"
     ],
     "name:zho_x_preferred":[
         "\u7d0d\u5361\u677e\u6208\u62c9\u5340"
@@ -288,7 +297,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896239,
+    "wof:lastmodified":1636501842,
     "wof:name":"Nakasongola",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -51,6 +51,9 @@
         "\u0a86\u0ab0\u0ac2\u0a86"
     ],
     "name:heb_x_preferred":[
+        "\u05d0\u05e8\u05d5\u05d0\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05d0\u05e8\u05d5\u05d0"
     ],
     "name:hin_x_preferred":[
@@ -288,7 +291,7 @@
         }
     ],
     "wof:id":421172823,
-    "wof:lastmodified":1566595497,
+    "wof:lastmodified":1636501885,
     "wof:name":"Arua",
     "wof:parent_id":1092068475,
     "wof:placetype":"locality",

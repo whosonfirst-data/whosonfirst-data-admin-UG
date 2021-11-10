@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Kyegegwa"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05d9\u05b6\u05d2\u05b6\u05d2\u05b0\u05d5\u05b8\u05d5\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Kyegegwa"
+    ],
     "name:jpn_x_preferred":[
         "\u30ad\u30a7\u30b2\u30b0\u30ef"
     ],
@@ -183,7 +189,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1627522959,
+    "wof:lastmodified":1636501854,
     "wof:name":"Kyegegwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

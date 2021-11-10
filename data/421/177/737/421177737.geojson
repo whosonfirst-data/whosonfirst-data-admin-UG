@@ -17,11 +17,62 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u0648\u0631\u0648\u062a\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09cb\u09b0\u09cb\u09a4\u09cb"
+    ],
     "name:ceb_x_preferred":[
         "Moroto"
     ],
+    "name:deu_x_preferred":[
+        "Moroto"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c1\u03cc\u03c4\u03bf"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u0648\u062a\u0648"
+    ],
     "name:fra_x_preferred":[
         "Moroto"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u094b\u0930\u094b\u0924\u094b"
+    ],
+    "name:hun_x_preferred":[
+        "Moroto"
+    ],
+    "name:ind_x_preferred":[
+        "Moroto"
+    ],
+    "name:ita_x_preferred":[
+        "Moroto"
+    ],
+    "name:kor_x_preferred":[
+        "\ubaa8\ub85c\ud1a0"
+    ],
+    "name:por_x_preferred":[
+        "Moroto"
+    ],
+    "name:swe_x_preferred":[
+        "Kaabong"
+    ],
+    "name:tur_x_preferred":[
+        "Moroto"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u043e\u0440\u043e\u0442\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "Moroto"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u83ab\u7f57\u6258"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u83ab\u7f85\u6258"
     ],
     "qs:gn_country":"UG",
     "qs:gn_fcode":"ADMD",
@@ -67,7 +118,7 @@
         }
     ],
     "wof:id":421177737,
-    "wof:lastmodified":1566595498,
+    "wof:lastmodified":1636501886,
     "wof:name":"Moroto",
     "wof:parent_id":1092072625,
     "wof:placetype":"locality",

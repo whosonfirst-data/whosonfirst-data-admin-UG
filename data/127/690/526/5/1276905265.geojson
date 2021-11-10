@@ -59,6 +59,9 @@
     "name:hau_x_preferred":[
         "Akure"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e7\u05d5\u05e8\u05d4"
+    ],
     "name:hrv_x_preferred":[
         "Akure"
     ],
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":1276905265,
-    "wof:lastmodified":1566595113,
+    "wof:lastmodified":1636501861,
     "wof:name":"Akure",
     "wof:parent_id":1092071127,
     "wof:placetype":"locality",

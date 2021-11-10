@@ -30,14 +30,23 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0646\u062c\u0648\u0645\u0627"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u0646\u0642\u0648\u0645\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u0982\u0997\u09cb\u09ae\u09be"
     ],
     "name:cat_x_preferred":[
         "Bungoma"
     ],
     "name:deu_x_preferred":[
         "Bungoma"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03bd\u03b3\u03ba\u03cc\u03bc\u03b1"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u0646\u06af\u0648\u0645\u0627"
@@ -46,6 +55,18 @@
         "Bungoma"
     ],
     "name:fra_x_preferred":[
+        "Bungoma"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e0\u05d2\u05d5\u05de\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0941\u0902\u0917\u094b\u092e\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Bungoma"
+    ],
+    "name:ind_x_preferred":[
         "Bungoma"
     ],
     "name:ita_x_preferred":[
@@ -57,6 +78,9 @@
     "name:kik_x_preferred":[
         "Bungoma"
     ],
+    "name:kor_x_preferred":[
+        "\ubd84\uace0\ub9c8"
+    ],
     "name:nld_x_preferred":[
         "Bungoma"
     ],
@@ -64,6 +88,9 @@
         "Bungoma"
     ],
     "name:pol_x_preferred":[
+        "Bungoma"
+    ],
+    "name:por_x_preferred":[
         "Bungoma"
     ],
     "name:ron_x_preferred":[
@@ -81,8 +108,14 @@
     "name:swe_x_preferred":[
         "Bungoma"
     ],
+    "name:tur_x_preferred":[
+        "Bungoma"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0646\u06af\u0648\u0645\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Bungoma"
     ],
     "name:zho_x_preferred":[
         "\u5954\u6208\u99ac"
@@ -99,7 +132,7 @@
         "gn:id":11429929
     },
     "wof:country":"UG",
-    "wof:geomhash":"d7033ae0648ddc7280ec10fa6a94a733",
+    "wof:geomhash":"1878facec5ade944c6f694943cd5145d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -110,7 +143,7 @@
         }
     ],
     "wof:id":1276911035,
-    "wof:lastmodified":1566595124,
+    "wof:lastmodified":1636501862,
     "wof:name":"Bungoma",
     "wof:parent_id":1092069677,
     "wof:placetype":"locality",
@@ -120,10 +153,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    33.87289000000001,
+    33.87289,
     0.85092,
-    33.87289000000001,
+    33.87289,
     0.85092
 ],
-  "geometry": {"coordinates":[33.87289000000001,0.85092],"type":"Point"}
+  "geometry": {"coordinates":[33.87289,0.85092],"type":"Point"}
 }

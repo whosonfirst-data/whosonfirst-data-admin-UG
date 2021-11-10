@@ -49,6 +49,12 @@
     "name:fra_x_preferred":[
         "Amuru"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05de\u05d5\u05e8\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Amuru"
+    ],
     "name:nld_x_preferred":[
         "Amuru"
     ],
@@ -129,7 +135,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1627522952,
+    "wof:lastmodified":1636501854,
     "wof:name":"Amuru",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

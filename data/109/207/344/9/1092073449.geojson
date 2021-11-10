@@ -70,8 +70,14 @@
     "name:guj_x_preferred":[
         "\u0a93\u0aaf\u0aae \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d9\u05d0\u05dd"
+    ],
     "name:hin_x_preferred":[
         "\u0913\u092f\u093e\u092e \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Oyam"
     ],
     "name:ind_x_preferred":[
         "Distrik Oyam"
@@ -194,7 +200,7 @@
         }
     ],
     "wof:id":1092073449,
-    "wof:lastmodified":1607983502,
+    "wof:lastmodified":1636501880,
     "wof:name":"Oyam",
     "wof:parent_id":85679927,
     "wof:placetype":"county",

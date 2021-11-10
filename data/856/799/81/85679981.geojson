@@ -68,8 +68,14 @@
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0a9f\u0ab2\u0ac7\u0a9c\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d8\u05d0\u05dc\u05d2'\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u092c\u0941\u091f\u093e\u0932\u093f\u092f\u093e \u091c\u093f\u0932\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Butaleja"
     ],
     "name:ind_x_preferred":[
         "Distrik Butaleja"
@@ -288,7 +294,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1614896237,
+    "wof:lastmodified":1636501838,
     "wof:name":"Butaleja",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
