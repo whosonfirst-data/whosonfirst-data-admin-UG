@@ -111,6 +111,9 @@
     "name:zho_tw_x_preferred":[
         "\u5361\u5854\u594e"
     ],
+    "name:zul_x_preferred":[
+        "Katakwi"
+    ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uganda",
     "ne:ADM0_A3":"UGA",
@@ -230,7 +233,7 @@
         }
     ],
     "wof:id":1141906029,
-    "wof:lastmodified":1636501905,
+    "wof:lastmodified":1690877078,
     "wof:name":"Katakwi",
     "wof:parent_id":1092074245,
     "wof:placetype":"locality",

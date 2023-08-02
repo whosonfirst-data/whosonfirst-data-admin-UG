@@ -41,6 +41,9 @@
     "name:ben_x_preferred":[
         "\u09a8\u09be\u0997\u09cb\u09b0\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Ngora District"
+    ],
     "name:dan_x_preferred":[
         "Ngora District"
     ],
@@ -54,9 +57,11 @@
         "Ngora"
     ],
     "name:eng_x_variant":[
-        "Ngora",
         "Ngora District",
         "NGORA"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0646\u06af\u0648\u0631\u0627"
     ],
     "name:fin_x_preferred":[
         "Ngoran kaupunginosa"
@@ -94,6 +99,9 @@
     "name:kor_x_preferred":[
         "\uc751\uace0\ub77c \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc751\uace0\ub77c\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Ngoras distrikts"
     ],
@@ -108,6 +116,9 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Ngora"
+    ],
+    "name:nan_x_preferred":[
+        "Ngora Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Ngora"
@@ -157,6 +168,9 @@
     "name:zho_x_preferred":[
         "\u6069\u6208\u62c9\u5340"
     ],
+    "name:zul_x_preferred":[
+        "Ngora District"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
@@ -191,7 +205,7 @@
         }
     ],
     "wof:id":1092073107,
-    "wof:lastmodified":1636501880,
+    "wof:lastmodified":1690877055,
     "wof:name":"Ngora",
     "wof:parent_id":85680089,
     "wof:placetype":"county",

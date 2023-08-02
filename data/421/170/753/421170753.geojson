@@ -32,8 +32,20 @@
     "name:nld_x_preferred":[
         "Kagadi"
     ],
+    "name:pol_x_preferred":[
+        "Kagadi"
+    ],
+    "name:swa_x_preferred":[
+        "Kagadi"
+    ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u06af\u0627\u062f\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u5361\u52a0\u8fea"
+    ],
+    "name:zul_x_preferred":[
+        "Kagadi"
     ],
     "qs:gn_country":"UG",
     "qs:gn_fcode":"PPL",
@@ -83,7 +95,7 @@
         }
     ],
     "wof:id":421170753,
-    "wof:lastmodified":1566595498,
+    "wof:lastmodified":1690877066,
     "wof:name":"Kagadi",
     "wof:parent_id":1092070183,
     "wof:placetype":"locality",

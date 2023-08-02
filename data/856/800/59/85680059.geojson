@@ -59,11 +59,17 @@
     "name:eng_x_variant":[
         "Ntungamo District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0646\u062a\u0648\u0646\u06af\u0627\u0645\u0648"
+    ],
     "name:fin_x_preferred":[
         "Ntungamon kaupunginosa"
     ],
     "name:fra_x_preferred":[
         "Ntungamo"
+    ],
+    "name:gle_x_preferred":[
+        "Ceantar Ntungamo"
     ],
     "name:guj_x_preferred":[
         "\u0aa8\u0a9f\u0ac1\u0a82\u0a97\u0abe\u0aae\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
@@ -86,6 +92,9 @@
     "name:kor_x_preferred":[
         "\uc740\ud241\uac00\ubaa8 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc740\ud241\uac00\ubaa8\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Ntungamo distrikts"
     ],
@@ -100,6 +109,9 @@
     ],
     "name:msa_x_preferred":[
         "Ntungamo District"
+    ],
+    "name:nan_x_preferred":[
+        "Ntungamo Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Ntungamo"
@@ -169,6 +181,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6069\u901a\u52a0\u83ab\u533a"
+    ],
+    "name:zul_x_preferred":[
+        "Ntungamo District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -297,7 +312,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501848,
+    "wof:lastmodified":1690877030,
     "wof:name":"Ntungamo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

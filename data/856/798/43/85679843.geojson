@@ -40,7 +40,13 @@
     "name:fra_x_preferred":[
         "Bulisa"
     ],
+    "name:fra_x_variant":[
+        "Buliisa"
+    ],
     "name:hun_x_preferred":[
+        "Buliisa"
+    ],
+    "name:ita_x_preferred":[
         "Buliisa"
     ],
     "name:jpn_x_preferred":[
@@ -63,6 +69,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0644\u06cc\u0633\u0627"
+    ],
+    "name:zul_x_preferred":[
+        "Buliisa"
     ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
@@ -132,7 +141,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501843,
+    "wof:lastmodified":1690877024,
     "wof:name":"Buliisa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

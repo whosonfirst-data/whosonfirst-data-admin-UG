@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":10.0,
+    "name:bul_x_preferred":[
+        "\u0420\u0443\u043a\u0443\u043d\u0433\u0438\u0440\u0438"
+    ],
     "name:ceb_x_preferred":[
         "Rukungiri"
     ],
     "name:eng_x_preferred":[
         "Rukungiri"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u06a9\u0648\u0646\u06af\u06cc\u0631\u06cc"
     ],
     "name:fra_x_preferred":[
         "Rukungiri"
@@ -49,8 +55,14 @@
     "name:nob_x_preferred":[
         "Rukungiri"
     ],
+    "name:pol_x_preferred":[
+        "Rukungiri"
+    ],
     "name:ron_x_preferred":[
         "Rukungiri"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u043a\u0443\u043d\u0433\u0438\u0440\u0438"
     ],
     "name:swa_x_preferred":[
         "Rukungiri"
@@ -63,6 +75,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u06a9\u0648\u0646\u06af\u06cc\u0631\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b6f\u6606\u5409\u91cc"
+    ],
+    "name:zul_x_preferred":[
+        "Rukungiri"
     ],
     "qs:name":"Rukungiri",
     "qs:photos_9r":0,
@@ -97,7 +115,7 @@
         }
     ],
     "wof:id":890433283,
-    "wof:lastmodified":1636501891,
+    "wof:lastmodified":1690877073,
     "wof:name":"Rukungiri",
     "wof:parent_id":1092073637,
     "wof:placetype":"locality",

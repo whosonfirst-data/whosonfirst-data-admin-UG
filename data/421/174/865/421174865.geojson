@@ -20,8 +20,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0628\u0627\u0631\u0627\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0628\u0627\u0631\u0627\u0631\u0627"
+    ],
     "name:azb_x_preferred":[
         "\u0627\u0645\u0628\u0627\u0631\u0627\u0631\u0627"
+    ],
+    "name:bel_x_preferred":[
+        "\u041c\u0431\u0430\u0440\u0430\u0440\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09ae\u09c7\u09ae\u09cd\u09ac\u09be\u09b0\u09be\u09b0\u09be"
@@ -48,6 +54,9 @@
         "Mbarara"
     ],
     "name:fra_x_preferred":[
+        "Mbarara"
+    ],
+    "name:frr_x_preferred":[
         "Mbarara"
     ],
     "name:guj_x_preferred":[
@@ -152,8 +161,14 @@
     "name:vie_x_preferred":[
         "Mbarara"
     ],
+    "name:war_x_preferred":[
+        "Mbarara"
+    ],
     "name:zho_x_preferred":[
         "\u59c6\u5df4\u62c9\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Mbarara"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uganda",
@@ -294,7 +309,7 @@
         }
     ],
     "wof:id":421174865,
-    "wof:lastmodified":1636501884,
+    "wof:lastmodified":1690877062,
     "wof:name":"Mbarara",
     "wof:parent_id":1092072775,
     "wof:placetype":"locality",

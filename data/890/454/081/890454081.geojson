@@ -79,6 +79,9 @@
     "name:tur_x_preferred":[
         "Busia"
     ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0441\u0456\u0430"
+    ],
     "name:und_x_variant":[
         "Busla"
     ],
@@ -216,7 +219,7 @@
         }
     ],
     "wof:id":890454081,
-    "wof:lastmodified":1636501889,
+    "wof:lastmodified":1690877069,
     "wof:name":"Busia",
     "wof:parent_id":1092073897,
     "wof:placetype":"locality",

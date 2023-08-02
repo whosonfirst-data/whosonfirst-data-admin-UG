@@ -78,6 +78,9 @@
     "name:ron_x_preferred":[
         "Kaberamaido"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u0435\u0440\u0430\u043c\u0430\u0438\u0434\u043e"
+    ],
     "name:spa_x_preferred":[
         "Kaberamaido"
     ],
@@ -104,6 +107,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u5361\u8c9d\u62c9\u99ac\u4f0a\u591a"
+    ],
+    "name:zul_x_preferred":[
+        "Kaberamaido"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uganda",
@@ -224,7 +230,7 @@
         }
     ],
     "wof:id":1141906017,
-    "wof:lastmodified":1636501906,
+    "wof:lastmodified":1690877079,
     "wof:name":"Kaberamaido",
     "wof:parent_id":1092070941,
     "wof:placetype":"locality",

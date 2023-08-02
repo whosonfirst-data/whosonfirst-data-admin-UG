@@ -20,6 +20,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u064a\u0645\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u064a\u0645\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09c8\u09ae\u09be"
     ],
@@ -137,6 +140,9 @@
     "name:vie_x_preferred":[
         "Hoima"
     ],
+    "name:zul_x_preferred":[
+        "Hoima"
+    ],
     "qs:gn_country":"UG",
     "qs:gn_fcode":"ADM3",
     "qs:gn_id":7732256,
@@ -182,7 +188,7 @@
         }
     ],
     "wof:id":421181185,
-    "wof:lastmodified":1636501886,
+    "wof:lastmodified":1690877064,
     "wof:name":"Hoima",
     "wof:parent_id":1092068961,
     "wof:placetype":"locality",

@@ -53,6 +53,9 @@
     "name:eng_x_variant":[
         "Jinja District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u062c\u06cc\u0646\u062c\u0627"
+    ],
     "name:fin_x_preferred":[
         "Jinjan kaupunginosa"
     ],
@@ -89,6 +92,9 @@
     "name:kor_x_preferred":[
         "\uc9c4\uc790 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc9c4\uc790\uad6c"
+    ],
     "name:lav_x_preferred":[
         "D\u017eind\u017eas distrikts"
     ],
@@ -106,6 +112,9 @@
     ],
     "name:msa_x_preferred":[
         "Jinja District"
+    ],
+    "name:nan_x_preferred":[
+        "Jinja Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Jinja"
@@ -160,6 +169,9 @@
     ],
     "name:zho_x_preferred":[
         "\u91d1\u8cc8\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Jinja District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -288,7 +300,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501835,
+    "wof:lastmodified":1690877013,
     "wof:name":"Jinja",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

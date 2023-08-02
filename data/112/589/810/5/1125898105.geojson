@@ -34,8 +34,14 @@
     "name:nld_x_preferred":[
         "Kyotera"
     ],
+    "name:swa_x_preferred":[
+        "Kyotera"
+    ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0648\u062a\u06cc\u0631\u0627"
+    ],
+    "name:zul_x_preferred":[
+        "Kyotera"
     ],
     "qs_pg:aaroncc":"UG",
     "qs_pg:gn_country":"UG",
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1125898105,
-    "wof:lastmodified":1566595503,
+    "wof:lastmodified":1690877074,
     "wof:name":"Kyotera",
     "wof:parent_id":1092072187,
     "wof:placetype":"locality",

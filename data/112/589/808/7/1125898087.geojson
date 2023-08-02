@@ -40,6 +40,9 @@
     "name:nob_x_preferred":[
         "Lyantonde"
     ],
+    "name:pol_x_preferred":[
+        "Lyantonde"
+    ],
     "name:ron_x_preferred":[
         "Lyantonde"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0644\u06cc\u0627\u0646\u062a\u0648\u0646\u062f\u06d2"
+    ],
+    "name:zul_x_preferred":[
+        "Lyantonde"
     ],
     "qs_pg:aaroncc":"UG",
     "qs_pg:gn_country":"UG",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1125898087,
-    "wof:lastmodified":1636501892,
+    "wof:lastmodified":1690877075,
     "wof:name":"Lyantonde",
     "wof:parent_id":1092070975,
     "wof:placetype":"locality",

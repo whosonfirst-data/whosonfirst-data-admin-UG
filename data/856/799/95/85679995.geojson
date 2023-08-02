@@ -127,6 +127,9 @@
     "name:zho_tw_x_preferred":[
         "\u5361\u5854\u594e"
     ],
+    "name:zul_x_preferred":[
+        "Katakwi"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
     "ne:adm0_label":"2",
@@ -252,7 +255,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501836,
+    "wof:lastmodified":1690877015,
     "wof:name":"Katakwi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

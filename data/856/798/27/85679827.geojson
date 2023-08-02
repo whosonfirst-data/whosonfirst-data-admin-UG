@@ -44,7 +44,8 @@
         "Mpigi"
     ],
     "name:deu_x_variant":[
-        "Mpigi Distrikt"
+        "Mpigi Distrikt",
+        "Mpigi-Distrikt"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03af\u03b3\u03ba\u03b9"
@@ -94,6 +95,9 @@
     "name:kor_x_preferred":[
         "\uc74c\ud53c\uae30 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc74c\ud53c\uae30\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Mpigi distrikts"
     ],
@@ -111,6 +115,9 @@
     ],
     "name:msa_x_preferred":[
         "Mpigi District"
+    ],
+    "name:nan_x_preferred":[
+        "Mpigi Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Mpigi"
@@ -168,6 +175,9 @@
     ],
     "name:zho_x_preferred":[
         "\u59c6\u76ae\u5409\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Mpigi District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -294,7 +304,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501841,
+    "wof:lastmodified":1690877022,
     "wof:name":"Mpigi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

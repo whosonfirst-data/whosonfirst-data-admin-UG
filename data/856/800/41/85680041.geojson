@@ -92,6 +92,9 @@
     "name:kor_x_preferred":[
         "\uce84\uc6fd\uac8c \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uce84\uc6fd\uac8c\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Kamvenges distrikts"
     ],
@@ -106,6 +109,9 @@
     ],
     "name:msa_x_preferred":[
         "Kamwenge District"
+    ],
+    "name:nan_x_preferred":[
+        "Kamwenge Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Kamwenge"
@@ -166,6 +172,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u59c6\u6587\u84cb\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Kamwenge District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -294,7 +303,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501850,
+    "wof:lastmodified":1690877034,
     "wof:name":"Kamwenge",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

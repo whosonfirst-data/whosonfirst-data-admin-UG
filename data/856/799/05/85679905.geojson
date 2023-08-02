@@ -56,6 +56,9 @@
     "name:eng_x_variant":[
         "Gulu District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06af\u0648\u0644\u0648"
+    ],
     "name:fin_x_preferred":[
         "Gulun kaupunginosa"
     ],
@@ -89,6 +92,9 @@
     "name:kor_x_preferred":[
         "\uad74\ub8e8 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uad74\ub8e8\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Gulu distrikts"
     ],
@@ -103,6 +109,9 @@
     ],
     "name:msa_x_preferred":[
         "Gulu District"
+    ],
+    "name:nan_x_preferred":[
+        "Gulu Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Gulu"
@@ -157,6 +166,9 @@
     ],
     "name:zho_x_preferred":[
         "\u53e4\u76e7\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Gulu District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -282,7 +294,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501837,
+    "wof:lastmodified":1690877016,
     "wof:name":"Gulu",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

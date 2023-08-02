@@ -23,6 +23,12 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u0646\u062c\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u064a\u0646\u062c\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u062c\u06cc\u0646\u062c\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09bf\u09a8\u099c\u09be"
     ],
@@ -31,6 +37,9 @@
     ],
     "name:cat_x_preferred":[
         "Jinja"
+    ],
+    "name:ceb_x_preferred":[
+        "Jinja Municipality"
     ],
     "name:dan_x_preferred":[
         "Jinja"
@@ -47,6 +56,9 @@
     "name:epo_x_preferred":[
         "Jinja"
     ],
+    "name:eus_x_preferred":[
+        "Jinja"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u06cc\u0646\u062c\u0627\u060c \u0627\u0648\u06af\u0627\u0646\u062f\u0627"
     ],
@@ -57,6 +69,9 @@
         "Jinja"
     ],
     "name:fra_x_preferred":[
+        "Jinja"
+    ],
+    "name:frr_x_preferred":[
         "Jinja"
     ],
     "name:guj_x_preferred":[
@@ -107,8 +122,14 @@
     "name:lug_x_preferred":[
         "Jinja"
     ],
+    "name:mal_x_preferred":[
+        "\u0d1c\u0d3f\u0d7b\u0d1c"
+    ],
     "name:mar_x_preferred":[
         "\u091c\u093f\u0928\u094d\u091c\u093e"
+    ],
+    "name:mri_x_preferred":[
+        "Jinja"
     ],
     "name:msa_x_preferred":[
         "Jinja"
@@ -167,6 +188,9 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0456\u043d\u0434\u0436\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u0414\u0436\u0438\u043d\u0434\u0436\u0430"
+    ],
     "name:und_x_variant":[
         "Jinga"
     ],
@@ -176,11 +200,17 @@
     "name:urd_x_variant":[
         "\u062c\u0646\u062c\u0627"
     ],
+    "name:uzb_x_preferred":[
+        "Jinja"
+    ],
     "name:vie_x_preferred":[
         "Jinja"
     ],
     "name:zho_x_preferred":[
         "\u91d1\u8cc8"
+    ],
+    "name:zul_x_preferred":[
+        "Jinja"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Nigeria",
@@ -325,7 +355,7 @@
         }
     ],
     "wof:id":421176815,
-    "wof:lastmodified":1566595499,
+    "wof:lastmodified":1690877067,
     "wof:name":"Jinja",
     "wof:parent_id":1092070823,
     "wof:placetype":"locality",

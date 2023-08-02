@@ -76,6 +76,9 @@
     "name:urd_x_preferred":[
         "\u0627\u0644\u06cc\u0628\u062a\u0648\u0646\u06af"
     ],
+    "name:zul_x_preferred":[
+        "Alebtong"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
     "ne:adm0_label":"2",
@@ -201,7 +204,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501851,
+    "wof:lastmodified":1690877035,
     "wof:name":"Alebtong",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Kapchorwa"
     ],
+    "name:ckb_x_preferred":[
+        "\u06a9\u0627\u067e\u0686\u06c6\u0631\u0648\u0627"
+    ],
     "name:eng_x_preferred":[
         "Kapchorwa"
     ],
@@ -29,6 +32,9 @@
         "\u06a9\u0627\u067e\u0686\u0648\u0631\u0648\u0627"
     ],
     "name:hun_x_preferred":[
+        "Kapchorwa"
+    ],
+    "name:ind_x_preferred":[
         "Kapchorwa"
     ],
     "name:jpn_x_preferred":[
@@ -43,6 +49,9 @@
     "name:nob_x_preferred":[
         "Kapchorwa"
     ],
+    "name:pol_x_preferred":[
+        "Kapchorwa"
+    ],
     "name:ron_x_preferred":[
         "Kapchorwa"
     ],
@@ -54,6 +63,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0627\u067e\u0686\u0648\u0631\u0648\u0627"
+    ],
+    "name:zul_x_preferred":[
+        "Kapchorwa"
     ],
     "qs:name":"Kapchorwa",
     "qs:photos_9r":0,
@@ -88,7 +100,7 @@
         }
     ],
     "wof:id":890415325,
-    "wof:lastmodified":1636501888,
+    "wof:lastmodified":1690877068,
     "wof:name":"Kapchorwa",
     "wof:parent_id":1092074137,
     "wof:placetype":"locality",

@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0627\u064a\u0648\u0646\u062c\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0627\u064a\u0648\u0646\u062c\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09cd\u09af\u09be\u0989\u0982\u0997\u09be"
     ],
@@ -73,6 +76,9 @@
     "name:nob_x_preferred":[
         "Kayunga"
     ],
+    "name:pol_x_preferred":[
+        "Kayunga"
+    ],
     "name:por_x_preferred":[
         "Kayunga"
     ],
@@ -108,6 +114,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u5361\u6c38\u52a0"
+    ],
+    "name:zul_x_preferred":[
+        "Kayunga"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uganda",
@@ -234,7 +243,7 @@
         }
     ],
     "wof:id":890442037,
-    "wof:lastmodified":1636501889,
+    "wof:lastmodified":1690877070,
     "wof:name":"Kayunga",
     "wof:parent_id":1092073141,
     "wof:placetype":"locality",

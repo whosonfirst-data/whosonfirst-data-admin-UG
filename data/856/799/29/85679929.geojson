@@ -92,6 +92,9 @@
     "name:kor_x_preferred":[
         "\ubd84\ub514\ubd80\uad50 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ubd84\ub514\ubd80\uad50\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Bundibugo distrikts"
     ],
@@ -106,6 +109,9 @@
     ],
     "name:msa_x_preferred":[
         "Bundibugyo District"
+    ],
+    "name:nan_x_preferred":[
+        "Bundibugyo Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Bundibugyo"
@@ -166,6 +172,9 @@
     ],
     "name:zho_x_preferred":[
         "\u672c\u8fea\u5e03\u7126\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Bundibugyo District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -292,7 +301,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501837,
+    "wof:lastmodified":1690877017,
     "wof:name":"Bundibugyo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

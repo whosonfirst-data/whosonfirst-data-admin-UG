@@ -20,11 +20,17 @@
     "name:ara_x_preferred":[
         "\u063a\u0648\u0644\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Gulu"
+    ],
     "name:azb_x_preferred":[
         "\u0642\u0648\u0644\u0648"
     ],
     "name:ben_x_preferred":[
         "\u099c\u09c1\u09b2\u09c1"
+    ],
+    "name:cat_x_preferred":[
+        "Gulu"
     ],
     "name:ceb_x_preferred":[
         "Gulu"
@@ -59,6 +65,9 @@
     "name:fra_x_preferred":[
         "Gulu"
     ],
+    "name:frr_x_preferred":[
+        "Gulu"
+    ],
     "name:guj_x_preferred":[
         "\u0a97\u0ac1\u0ab2\u0ac1"
     ],
@@ -73,6 +82,9 @@
     ],
     "name:hun_x_preferred":[
         "Gulu"
+    ],
+    "name:hye_x_preferred":[
+        "\u0533\u0578\u0582\u056c\u0578\u0582"
     ],
     "name:ind_x_preferred":[
         "Gulu"
@@ -149,6 +161,9 @@
     "name:swe_x_preferred":[
         "Gulu"
     ],
+    "name:szl_x_preferred":[
+        "Gulu"
+    ],
     "name:tam_x_preferred":[
         "\u0b95\u0bc1\u0bb3\u0bc1"
     ],
@@ -170,8 +185,14 @@
     "name:vie_x_preferred":[
         "Gulu"
     ],
+    "name:war_x_preferred":[
+        "Gulu"
+    ],
     "name:zho_x_preferred":[
         "\u53e4\u76e7"
+    ],
+    "name:zul_x_preferred":[
+        "Gulu"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uganda",
@@ -316,7 +337,7 @@
         }
     ],
     "wof:id":421174765,
-    "wof:lastmodified":1566595495,
+    "wof:lastmodified":1690877061,
     "wof:name":"Gulu",
     "wof:parent_id":1092070633,
     "wof:placetype":"locality",

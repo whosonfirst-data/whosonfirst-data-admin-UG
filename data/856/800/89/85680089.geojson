@@ -55,11 +55,20 @@
     "name:nob_x_preferred":[
         "Ngora"
     ],
+    "name:pol_x_preferred":[
+        "Ngora"
+    ],
+    "name:swa_x_preferred":[
+        "Ngora"
+    ],
     "name:und_x_variant":[
         "Ngora District"
     ],
     "name:urd_x_preferred":[
         "\u0646\u06af\u0648\u0631\u0627"
+    ],
+    "name:zul_x_preferred":[
+        "Ngora"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -188,7 +197,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501848,
+    "wof:lastmodified":1690877031,
     "wof:name":"Ngora",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

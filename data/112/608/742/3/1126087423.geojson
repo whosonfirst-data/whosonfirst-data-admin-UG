@@ -32,6 +32,9 @@
     "name:nld_x_preferred":[
         "Makerere"
     ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u51ef\u96f7\u96f7"
+    ],
     "qs_pg:aaroncc":"UG",
     "qs_pg:gn_country":"UG",
     "qs_pg:gn_fcode":"PPLX",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1126087423,
-    "wof:lastmodified":1566595504,
+    "wof:lastmodified":1690877075,
     "wof:name":"Makerere",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

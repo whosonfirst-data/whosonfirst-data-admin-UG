@@ -95,6 +95,9 @@
     "name:kor_x_preferred":[
         "\uc148\ubc14\ubd88\ub808 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc148\ubc14\ubd88\ub808\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Sembabules distrikts"
     ],
@@ -109,6 +112,9 @@
     ],
     "name:msa_x_preferred":[
         "Sembabule District"
+    ],
+    "name:nan_x_preferred":[
+        "Sembabule Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Sembabule"
@@ -169,6 +175,9 @@
     ],
     "name:zho_x_preferred":[
         "\u68ee\u5df4\u5e03\u840a\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Sembabule District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -297,7 +306,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501844,
+    "wof:lastmodified":1690877026,
     "wof:name":"Sembabule",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

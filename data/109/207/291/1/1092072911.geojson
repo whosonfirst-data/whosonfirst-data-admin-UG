@@ -63,6 +63,9 @@
         "Mukono District",
         "MUKONO"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0645\u0648\u06a9\u0648\u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "Mukonon kaupunginosa"
     ],
@@ -99,6 +102,9 @@
     "name:kor_x_preferred":[
         "\ubb34\ucf54\ub178 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ubb34\ucf54\ub178\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Mukono distrikts"
     ],
@@ -116,6 +122,9 @@
     ],
     "name:msa_x_preferred":[
         "Mukono District"
+    ],
+    "name:nan_x_preferred":[
+        "Mukono Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Mukono"
@@ -171,6 +180,9 @@
     "name:zho_x_preferred":[
         "\u7a46\u79d1\u8afe\u5340"
     ],
+    "name:zul_x_preferred":[
+        "Mukono District"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
@@ -205,7 +217,7 @@
         }
     ],
     "wof:id":1092072911,
-    "wof:lastmodified":1636501878,
+    "wof:lastmodified":1690877053,
     "wof:name":"Mukono",
     "wof:parent_id":85679817,
     "wof:placetype":"county",

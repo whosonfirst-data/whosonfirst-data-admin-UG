@@ -41,6 +41,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ac\u09c7\u09b0\u09be\u09ae\u09be\u0987\u09a6\u09cb \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Kaberamaido District"
+    ],
     "name:dan_x_preferred":[
         "Kaberamaido District"
     ],
@@ -54,7 +57,6 @@
         "Kaberamaido"
     ],
     "name:eng_x_variant":[
-        "Kaberamaido",
         "Kaberamaido District",
         "KABERAMAIDO"
     ],
@@ -88,6 +90,9 @@
     "name:kor_x_preferred":[
         "\uce74\ubca0\ub77c\ub9c8\uc774\ub3c4 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uce74\ubca0\ub77c\ub9c8\uc774\ub3c4\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Kaberamaido distrikts"
     ],
@@ -102,6 +107,9 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Kaberamaido"
+    ],
+    "name:nan_x_preferred":[
+        "Kaberamaido Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Kaberamaido"
@@ -166,6 +174,9 @@
     "name:zho_x_preferred":[
         "\u5361\u8c9d\u62c9\u99ac\u4f0a\u591a\u5340"
     ],
+    "name:zul_x_preferred":[
+        "Kaberamaido District"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
@@ -200,7 +211,7 @@
         }
     ],
     "wof:id":1092070941,
-    "wof:lastmodified":1636501879,
+    "wof:lastmodified":1690877054,
     "wof:name":"Kaberamaido",
     "wof:parent_id":85679783,
     "wof:placetype":"county",

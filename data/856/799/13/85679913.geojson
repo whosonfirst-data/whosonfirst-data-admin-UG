@@ -92,6 +92,9 @@
     "name:kor_x_preferred":[
         "\ub3c4\ucf5c\ub85c \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ub3c4\ucf5c\ub85c\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Dokolo distrikts"
     ],
@@ -106,6 +109,9 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Dokolo"
+    ],
+    "name:nan_x_preferred":[
+        "Dokolo Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Dokolo"
@@ -166,6 +172,9 @@
     ],
     "name:zho_x_preferred":[
         "\u591a\u79d1\u6d1b\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Dokolo District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -297,7 +306,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501840,
+    "wof:lastmodified":1690877020,
     "wof:name":"Dokolo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

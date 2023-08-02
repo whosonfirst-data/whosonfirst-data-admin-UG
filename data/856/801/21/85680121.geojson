@@ -49,6 +49,9 @@
     "name:jpn_x_preferred":[
         "\u30d6\u30a4\u30af\u30a6\u30a7"
     ],
+    "name:kor_x_preferred":[
+        "\ubd80\uc774\ud018"
+    ],
     "name:lug_x_preferred":[
         "Buikwe"
     ],
@@ -61,6 +64,15 @@
     "name:nob_x_preferred":[
         "Buikwe"
     ],
+    "name:pol_x_preferred":[
+        "Buikwe"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0439\u043a\u0432\u0435"
+    ],
+    "name:swa_x_preferred":[
+        "Buikwe"
+    ],
     "name:und_x_variant":[
         "Buikwe District"
     ],
@@ -69,6 +81,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u4f0a\u594e"
+    ],
+    "name:zul_x_preferred":[
+        "Buikwe"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -197,7 +212,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501853,
+    "wof:lastmodified":1690877037,
     "wof:name":"Buikwe",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

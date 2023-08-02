@@ -41,6 +41,9 @@
     "name:ben_x_preferred":[
         "\u09a4\u09c1\u09b0\u09c1\u09b0\u09c1 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Tororo District"
+    ],
     "name:dan_x_preferred":[
         "Tororo District"
     ],
@@ -54,9 +57,11 @@
         "Tororo"
     ],
     "name:eng_x_variant":[
-        "Tororo",
         "Tororo District",
         "TORORO"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u062a\u0648\u0631\u0648\u0631\u0648"
     ],
     "name:fin_x_preferred":[
         "Tororon kaupunginosa"
@@ -91,6 +96,9 @@
     "name:kor_x_preferred":[
         "\ud1a0\ub85c\ub85c \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ud1a0\ub85c\ub85c\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Tororo distrikts"
     ],
@@ -105,6 +113,9 @@
     ],
     "name:msa_x_preferred":[
         "Tororo District"
+    ],
+    "name:nan_x_preferred":[
+        "Tororo Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Tororo"
@@ -163,6 +174,9 @@
     "name:zho_x_preferred":[
         "\u6258\u7f85\u7f85\u5340"
     ],
+    "name:zul_x_preferred":[
+        "Tororo District"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
@@ -197,7 +211,7 @@
         }
     ],
     "wof:id":1092074213,
-    "wof:lastmodified":1636501877,
+    "wof:lastmodified":1690877050,
     "wof:name":"Tororo",
     "wof:parent_id":85679989,
     "wof:placetype":"county",

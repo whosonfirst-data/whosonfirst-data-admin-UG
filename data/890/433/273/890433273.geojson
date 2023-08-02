@@ -34,11 +34,20 @@
     "name:nld_x_preferred":[
         "Wobulenzi"
     ],
+    "name:pol_x_preferred":[
+        "Wobulenzi"
+    ],
+    "name:swa_x_preferred":[
+        "Wobulenzi"
+    ],
     "name:und_x_variant":[
         "Wobulenzil"
     ],
     "name:urd_x_preferred":[
         "\u0648\u0648\u0628\u0648\u0644\u06cc\u0646\u0632\u06cc"
+    ],
+    "name:zul_x_preferred":[
+        "Wobulenzi"
     ],
     "qs:name":"Wobulenzi",
     "qs:photos_9r":0,
@@ -73,7 +82,7 @@
         }
     ],
     "wof:id":890433273,
-    "wof:lastmodified":1566595501,
+    "wof:lastmodified":1690877071,
     "wof:name":"Wobulenzi",
     "wof:parent_id":1092071399,
     "wof:placetype":"locality",

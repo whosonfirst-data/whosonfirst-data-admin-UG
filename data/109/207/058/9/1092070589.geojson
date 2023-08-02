@@ -60,6 +60,9 @@
         "Gomba District",
         "GOMBA"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06af\u0648\u0645\u0628\u0627"
+    ],
     "name:fin_x_preferred":[
         "Gomban kaupunginosa"
     ],
@@ -71,6 +74,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acb\u0aae\u0acd\u0aac\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05de\u05d1\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0917\u094b\u092e\u094d\u092c\u093e \u091c\u093f\u0932\u093e"
@@ -93,6 +99,9 @@
     "name:kor_x_preferred":[
         "\uacf0\ubc14 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uacf0\ubc14\uad6c"
+    ],
     "name:kur_x_preferred":[
         "Gomba"
     ],
@@ -113,6 +122,9 @@
     ],
     "name:msa_x_preferred":[
         "Gomba District"
+    ],
+    "name:nan_x_preferred":[
+        "Gomba Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Gomba"
@@ -162,6 +174,9 @@
     "name:zho_x_preferred":[
         "\u8ca2\u5df4\u5340"
     ],
+    "name:zul_x_preferred":[
+        "Gomba District"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
@@ -196,7 +211,7 @@
         }
     ],
     "wof:id":1092070589,
-    "wof:lastmodified":1636501879,
+    "wof:lastmodified":1690877053,
     "wof:name":"Gomba",
     "wof:parent_id":85680133,
     "wof:placetype":"county",

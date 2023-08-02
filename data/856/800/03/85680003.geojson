@@ -86,6 +86,9 @@
     "name:urd_x_preferred":[
         "\u0627\u0645\u0648\u0631\u06cc\u0627"
     ],
+    "name:zul_x_preferred":[
+        "Amuria"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
     "ne:adm0_label":"2",
@@ -211,7 +214,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501848,
+    "wof:lastmodified":1690877030,
     "wof:name":"Amuria",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -41,6 +41,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b2\u09bf\u09b8\u09be \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Bulisa District"
+    ],
     "name:dan_x_preferred":[
         "Buliisa District"
     ],
@@ -54,10 +57,12 @@
         "Buliisa"
     ],
     "name:eng_x_variant":[
-        "Buliisa",
         "Lake Albert",
         "Buliisa District",
         "BULIISA"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0648\u0644\u06cc\u0633\u0627"
     ],
     "name:fin_x_preferred":[
         "Buliisan kaupunginosa"
@@ -92,6 +97,9 @@
     "name:kor_x_preferred":[
         "\ubd88\ub9ac\uc0ac \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ubd88\ub9ac\uc0ac\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Bulisas distrikts"
     ],
@@ -106,6 +114,9 @@
     ],
     "name:msa_x_preferred":[
         "Buliisa District"
+    ],
+    "name:nan_x_preferred":[
+        "Buliisa Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Bulisa"
@@ -161,6 +172,9 @@
     "name:zho_x_preferred":[
         "\u5e03\u5229\u85a9\u5340"
     ],
+    "name:zul_x_preferred":[
+        "Buliisa District"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
@@ -195,7 +209,7 @@
         }
     ],
     "wof:id":1092069517,
-    "wof:lastmodified":1636501881,
+    "wof:lastmodified":1690877057,
     "wof:name":"Buliisa",
     "wof:parent_id":85679843,
     "wof:placetype":"county",

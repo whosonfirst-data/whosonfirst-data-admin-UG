@@ -25,6 +25,9 @@
     "name:dan_x_preferred":[
         "Apac"
     ],
+    "name:deu_x_preferred":[
+        "Apac"
+    ],
     "name:eng_x_preferred":[
         "Apac"
     ],
@@ -52,6 +55,12 @@
     "name:nob_x_preferred":[
         "Apac"
     ],
+    "name:nqo_x_preferred":[
+        "\u07ca\u07d4\u07ca\u07de"
+    ],
+    "name:pol_x_preferred":[
+        "Apac"
+    ],
     "name:ron_x_preferred":[
         "Apac"
     ],
@@ -63,6 +72,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u067e\u0627\u06a9"
+    ],
+    "name:zul_x_preferred":[
+        "Apac"
     ],
     "qs:name":"Apac",
     "qs:photos_9r":0,
@@ -97,7 +109,7 @@
         }
     ],
     "wof:id":890420435,
-    "wof:lastmodified":1636501889,
+    "wof:lastmodified":1690877069,
     "wof:name":"Apac",
     "wof:parent_id":1092072551,
     "wof:placetype":"locality",

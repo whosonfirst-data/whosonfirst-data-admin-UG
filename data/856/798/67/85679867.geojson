@@ -38,6 +38,9 @@
     "name:ast_x_preferred":[
         "Distritu de Kampala"
     ],
+    "name:bel_x_preferred":[
+        "\u0430\u043a\u0440\u0443\u0433\u0430 \u041a\u0430\u043c\u043f\u0430\u043b\u0430"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ae\u09cd\u09aa\u09be\u09b2\u09be \u099c\u09c7\u09b2\u09be"
     ],
@@ -102,7 +105,8 @@
         "\uce84\ud314\ub77c"
     ],
     "name:kor_x_variant":[
-        "\uce84\ud314\ub77c \uad6c"
+        "\uce84\ud314\ub77c \uad6c",
+        "\uce84\ud314\ub77c\uad6c"
     ],
     "name:kur_x_preferred":[
         "Kampala"
@@ -308,7 +312,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501841,
+    "wof:lastmodified":1690877022,
     "wof:name":"Kampala",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

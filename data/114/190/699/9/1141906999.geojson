@@ -78,6 +78,9 @@
     "name:spa_x_preferred":[
         "Puerto de Masindi"
     ],
+    "name:swa_x_preferred":[
+        "Masindi Port"
+    ],
     "name:swe_x_preferred":[
         "Masindi Port"
     ],
@@ -98,6 +101,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u99ac\u8f9b\u8fea\u6e2f"
+    ],
+    "name:zul_x_preferred":[
+        "Masindi Port"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uganda",
@@ -218,7 +224,7 @@
         }
     ],
     "wof:id":1141906999,
-    "wof:lastmodified":1636501906,
+    "wof:lastmodified":1690877079,
     "wof:name":"Masindi-Port",
     "wof:parent_id":1092071513,
     "wof:placetype":"locality",
