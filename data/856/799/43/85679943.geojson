@@ -91,6 +91,9 @@
     "name:kor_x_preferred":[
         "\ud0a4\uc5d4\uc870\uc870 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ud0a4\uc5d4\uc870\uc870\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Kjend\u017eod\u017eo distrikts"
     ],
@@ -105,6 +108,9 @@
     ],
     "name:msa_x_preferred":[
         "Kyenjojo District"
+    ],
+    "name:nan_x_preferred":[
+        "Kyenjojo Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Kyenjojo"
@@ -168,6 +174,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57fa\u6069\u55ac\u55ac\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Kyenjojo District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -294,7 +303,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501839,
+    "wof:lastmodified":1690877018,
     "wof:name":"Kyenjojo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

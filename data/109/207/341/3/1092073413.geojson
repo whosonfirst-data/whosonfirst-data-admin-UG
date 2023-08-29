@@ -38,8 +38,14 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0648\u062a\u0648\u0643"
     ],
+    "name:ast_x_preferred":[
+        "Distritu d'Otuke"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u09a4\u09c1\u0995\u09c7 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "Otuke District"
     ],
     "name:dan_x_preferred":[
         "Otuke District"
@@ -54,7 +60,6 @@
         "Otuke"
     ],
     "name:eng_x_variant":[
-        "Otuke",
         "Otuke District",
         "OTUKE"
     ],
@@ -97,6 +102,9 @@
     "name:kor_x_preferred":[
         "\uc624\ud22c\ucf00 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc624\ud22c\ucf00\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Otukes distrikts"
     ],
@@ -111,6 +119,9 @@
     ],
     "name:msa_x_preferred":[
         "Otuke District"
+    ],
+    "name:nan_x_preferred":[
+        "Otuke Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Otuke"
@@ -160,6 +171,9 @@
     "name:zho_x_preferred":[
         "\u5967\u5716\u51f1\u5340"
     ],
+    "name:zul_x_preferred":[
+        "Otuke District"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
@@ -194,7 +208,7 @@
         }
     ],
     "wof:id":1092073413,
-    "wof:lastmodified":1636501876,
+    "wof:lastmodified":1690877048,
     "wof:name":"Otuke",
     "wof:parent_id":85680165,
     "wof:placetype":"county",

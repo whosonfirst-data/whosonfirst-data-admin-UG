@@ -52,6 +52,9 @@
     "name:nld_x_preferred":[
         "Ntoroko"
     ],
+    "name:swa_x_preferred":[
+        "Ntoroko"
+    ],
     "name:und_x_variant":[
         "Ntoroko District"
     ],
@@ -185,7 +188,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501854,
+    "wof:lastmodified":1690877038,
     "wof:name":"Ntoroko",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

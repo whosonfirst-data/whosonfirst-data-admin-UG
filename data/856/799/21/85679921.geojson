@@ -58,6 +58,9 @@
     "name:eng_x_variant":[
         "Masindi District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0645\u0627\u0633\u0646\u062f\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Masindin kaupunginosa"
     ],
@@ -94,6 +97,9 @@
     "name:kor_x_preferred":[
         "\ub9c8\uc2e0\ub514 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ub9c8\uc2e0\ub514\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Masindi distrikts"
     ],
@@ -111,6 +117,9 @@
     ],
     "name:msa_x_preferred":[
         "Masindi District"
+    ],
+    "name:nan_x_preferred":[
+        "Masindi Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Masindi"
@@ -174,6 +183,9 @@
     ],
     "name:zho_x_preferred":[
         "\u99ac\u8f9b\u8fea\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Masindi District"
     ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
@@ -241,7 +253,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501838,
+    "wof:lastmodified":1690877017,
     "wof:name":"Masindi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

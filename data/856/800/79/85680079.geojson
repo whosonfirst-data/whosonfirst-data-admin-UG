@@ -56,6 +56,9 @@
     "name:eng_x_variant":[
         "Kanungu District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0627\u0646\u0648\u0646\u06af\u0648"
+    ],
     "name:fin_x_preferred":[
         "Kanungun kaupunginosa"
     ],
@@ -89,6 +92,9 @@
     "name:kor_x_preferred":[
         "\uce74\ub219\uad6c \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uce74\ub219\uad6c\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Kanungu distrikts"
     ],
@@ -103,6 +109,9 @@
     ],
     "name:msa_x_preferred":[
         "Kanungu District"
+    ],
+    "name:nan_x_preferred":[
+        "Kanungu Ko\u0101n"
     ],
     "name:nds_x_preferred":[
         "Kanungu"
@@ -166,6 +175,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u8fb2\u53e4\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Kanungu District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -293,7 +305,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501850,
+    "wof:lastmodified":1690877034,
     "wof:name":"Kanungu",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

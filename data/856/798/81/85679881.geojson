@@ -60,6 +60,9 @@
     "name:eng_x_variant":[
         "Luwero District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0644\u0648\u0648\u0626\u0631\u0648"
+    ],
     "name:fin_x_preferred":[
         "Luweron kaupunginosa"
     ],
@@ -71,6 +74,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab2\u0ac1\u0ab5\u0ac7\u0ab0\u0acb \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d5\u05e8\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u0932\u0941\u0935\u0940\u0930\u094b \u091c\u093f\u0932\u093e"
@@ -93,6 +99,9 @@
     "name:kor_x_preferred":[
         "\ub8e8\uc6e8\ub85c \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ub8e8\uc6e8\ub85c\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Luv\u0113ro re\u0123ions"
     ],
@@ -110,6 +119,9 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Luwero"
+    ],
+    "name:nan_x_preferred":[
+        "Luweero Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Luwero"
@@ -170,6 +182,9 @@
     ],
     "name:zho_x_preferred":[
         "\u76e7\u97cb\u7f85\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Luweero District"
     ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
@@ -237,7 +252,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501842,
+    "wof:lastmodified":1690877024,
     "wof:name":"Luweero",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

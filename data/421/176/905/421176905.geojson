@@ -71,11 +71,17 @@
     "name:nob_x_preferred":[
         "Kiboga"
     ],
+    "name:pol_x_preferred":[
+        "Kiboga"
+    ],
     "name:por_x_preferred":[
         "Kiboga"
     ],
     "name:ron_x_preferred":[
         "Kiboga"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u0431\u043e\u0433\u0430"
     ],
     "name:spa_x_preferred":[
         "Kiboga"
@@ -103,6 +109,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u57fa\u535a\u52a0"
+    ],
+    "name:zul_x_preferred":[
+        "Kiboga"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uganda",
@@ -251,7 +260,7 @@
         }
     ],
     "wof:id":421176905,
-    "wof:lastmodified":1636501887,
+    "wof:lastmodified":1690877067,
     "wof:name":"Kiboga",
     "wof:parent_id":1092071543,
     "wof:placetype":"locality",

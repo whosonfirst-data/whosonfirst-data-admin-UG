@@ -25,10 +25,16 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0628\u064a\u0646\u062f\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0628\u064a\u0646\u062f\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u09ac\u09c7\u09a8\u09cd\u09a6\u09c7"
     ],
     "name:ceb_x_preferred":[
+        "Mubende"
+    ],
+    "name:deu_x_preferred":[
         "Mubende"
     ],
     "name:ell_x_preferred":[
@@ -70,6 +76,9 @@
     "name:nob_x_preferred":[
         "Mubende"
     ],
+    "name:pol_x_preferred":[
+        "Mubende"
+    ],
     "name:por_x_preferred":[
         "Mubende"
     ],
@@ -83,6 +92,9 @@
         "Mubende"
     ],
     "name:swa_x_preferred":[
+        "Mubende"
+    ],
+    "name:swe_x_preferred":[
         "Mubende"
     ],
     "name:tur_x_preferred":[
@@ -105,6 +117,12 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u7a46\u672c\u5fb7"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a46\u672c\u5fb7"
+    ],
+    "name:zul_x_preferred":[
+        "Mubende"
     ],
     "qs_pg:aaroncc":"UG",
     "qs_pg:gn_country":"UG",
@@ -145,7 +163,7 @@
         }
     ],
     "wof:id":1125983551,
-    "wof:lastmodified":1636501892,
+    "wof:lastmodified":1690877075,
     "wof:name":"Mubende",
     "wof:parent_id":1092070137,
     "wof:placetype":"locality",

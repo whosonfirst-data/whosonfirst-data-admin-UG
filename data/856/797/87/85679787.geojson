@@ -59,6 +59,9 @@
     "name:eng_x_variant":[
         "Kayunga District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0627\u06cc\u0648\u0646\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kayungan kaupunginosa"
     ],
@@ -92,6 +95,9 @@
     "name:kor_x_preferred":[
         "\uce74\uc735\uac00 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uce74\uc735\uac00\uad6c"
+    ],
     "name:kur_x_preferred":[
         "Kayunga"
     ],
@@ -112,6 +118,9 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Kayunga"
+    ],
+    "name:nan_x_preferred":[
+        "Kayunga Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Kayunga"
@@ -149,6 +158,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bbe\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bbe  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bbe\u0baf\u0bc1\u0b99\u0bcd\u0b95\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c2f\u0c41\u0c02\u0c17\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
@@ -181,6 +193,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u6c38\u52a0\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Kayunga District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -309,7 +324,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501835,
+    "wof:lastmodified":1690877014,
     "wof:name":"Kayunga",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

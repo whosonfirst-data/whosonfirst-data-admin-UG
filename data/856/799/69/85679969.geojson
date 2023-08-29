@@ -59,6 +59,9 @@
     "name:nob_x_preferred":[
         "Manafwa"
     ],
+    "name:pol_x_preferred":[
+        "Manafwa"
+    ],
     "name:ron_x_preferred":[
         "Manafwa"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0646\u0627\u0641\u0648\u0627"
+    ],
+    "name:zul_x_preferred":[
+        "Manafwa"
     ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
@@ -135,7 +141,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501837,
+    "wof:lastmodified":1690877015,
     "wof:name":"Manafwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

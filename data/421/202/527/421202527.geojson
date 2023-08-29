@@ -88,6 +88,9 @@
     "name:kor_x_preferred":[
         "\ud0a4\ubc1c\ub808 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ud0a4\ubc1c\ub808\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Kibaales distrikts"
     ],
@@ -102,6 +105,9 @@
     ],
     "name:msa_x_preferred":[
         "Kibaale District"
+    ],
+    "name:nan_x_preferred":[
+        "Kibaale Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Kibaale"
@@ -171,6 +177,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57fa\u5df4\u840a\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Kibaale District"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uganda",
@@ -325,7 +334,7 @@
         }
     ],
     "wof:id":421202527,
-    "wof:lastmodified":1636501884,
+    "wof:lastmodified":1690877060,
     "wof:name":"Kibale",
     "wof:parent_id":85680041,
     "wof:placetype":"county",

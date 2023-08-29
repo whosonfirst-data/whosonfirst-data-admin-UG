@@ -83,6 +83,9 @@
     "name:ron_x_preferred":[
         "Kalangala"
     ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043b\u0430\u043d\u0433\u0430\u043b\u0430"
+    ],
     "name:spa_x_preferred":[
         "Kalangala"
     ],
@@ -112,6 +115,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u5361\u862d\u52a0\u62c9"
+    ],
+    "name:zul_x_preferred":[
+        "Kalangala"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uganda",
@@ -251,7 +257,7 @@
         }
     ],
     "wof:id":421201475,
-    "wof:lastmodified":1636501886,
+    "wof:lastmodified":1690877066,
     "wof:name":"Kalangala",
     "wof:parent_id":1092069185,
     "wof:placetype":"locality",

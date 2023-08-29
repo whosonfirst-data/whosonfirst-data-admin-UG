@@ -56,11 +56,23 @@
     "name:nob_x_preferred":[
         "Kyegegwa"
     ],
+    "name:pol_x_preferred":[
+        "Kyegegwa"
+    ],
+    "name:swa_x_preferred":[
+        "Kyegegwa"
+    ],
     "name:und_x_variant":[
         "Kyegegwa District"
     ],
     "name:urd_x_preferred":[
         "\u06a9\u0626\u06cc\u06af\u06cc\u06af\u0648\u0627"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u57c3\u84cb\u74dc"
+    ],
+    "name:zul_x_preferred":[
+        "Kyegegwa"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -189,7 +201,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501854,
+    "wof:lastmodified":1690877039,
     "wof:name":"Kyegegwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

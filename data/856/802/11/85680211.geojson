@@ -52,11 +52,20 @@
     "name:nob_x_preferred":[
         "Lwengo"
     ],
+    "name:pol_x_preferred":[
+        "Lwengo"
+    ],
+    "name:swa_x_preferred":[
+        "Lwengo"
+    ],
     "name:und_x_variant":[
         "Lwengo District"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u06cc\u0646\u06af\u0648"
+    ],
+    "name:zul_x_preferred":[
+        "Lwengo"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -185,7 +194,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501845,
+    "wof:lastmodified":1690877027,
     "wof:name":"Lwengo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

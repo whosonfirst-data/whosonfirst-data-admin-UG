@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u062c\u064a\u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u062c\u064a\u0631\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u0997\u09c1\u09b0\u09bf"
     ],
@@ -109,6 +112,9 @@
     "name:rus_x_preferred":[
         "\u0411\u0430\u0433\u0435\u0440\u0438"
     ],
+    "name:rus_x_variant":[
+        "\u0411\u0443\u0433\u0438\u0440\u0438"
+    ],
     "name:sin_x_preferred":[
         "\u0db6\u0dbb\u0dca\u0d9c\u0dd2\u0dbb\u0dd2"
     ],
@@ -140,6 +146,9 @@
         "\u0628\u0648\u06af\u06cc\u0631\u06cc"
     ],
     "name:vie_x_preferred":[
+        "Bugiri"
+    ],
+    "name:zul_x_preferred":[
         "Bugiri"
     ],
     "qs_pg:aaroncc":"UG",
@@ -181,7 +190,7 @@
         }
     ],
     "wof:id":1126002003,
-    "wof:lastmodified":1636501892,
+    "wof:lastmodified":1690877076,
     "wof:name":"Bugiri",
     "wof:parent_id":1092074461,
     "wof:placetype":"locality",

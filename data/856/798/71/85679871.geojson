@@ -55,6 +55,9 @@
     "name:eng_x_variant":[
         "Kiboga District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u06cc\u0628\u0648\u06af\u0627"
+    ],
     "name:fin_x_preferred":[
         "Kibogan kaupunginosa"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0aac\u0acb\u0a97\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05d1\u05d5\u05d2\u05d4"
     ],
     "name:hin_x_preferred":[
         "\u0915\u093f\u092c\u094b\u0917\u093e \u091c\u093f\u0932\u093e"
@@ -84,6 +90,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud0a4\ubcf4\uac00 \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\ud0a4\ubcf4\uac00\uad6c"
     ],
     "name:kur_x_preferred":[
         "Kiboga"
@@ -105,6 +114,9 @@
     ],
     "name:msa_x_preferred":[
         "Kiboga District"
+    ],
+    "name:nan_x_preferred":[
+        "Kiboga Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Kiboga"
@@ -139,6 +151,9 @@
     "name:tam_x_preferred":[
         "\u0b95\u0bbf\u0baa\u0bcb\u0b95\u0bbe  \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0b95\u0bbf\u0baa\u0bcb\u0b95\u0bbe \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c15\u0c3f\u0c2c\u0c4b\u0c17\u0c3e \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
     ],
@@ -168,6 +183,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57fa\u535a\u52a0\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Kiboga District"
     ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
@@ -235,7 +253,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501844,
+    "wof:lastmodified":1690877026,
     "wof:name":"Kiboga",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

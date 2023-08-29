@@ -22,10 +22,16 @@
     "name:ara_x_preferred":[
         "\u0643\u0627\u0645\u0648\u0644\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u0627\u0645\u0648\u0644\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09ae\u09c1\u09b2\u09bf"
     ],
     "name:ceb_x_preferred":[
+        "Kamuli"
+    ],
+    "name:deu_x_preferred":[
         "Kamuli"
     ],
     "name:ell_x_preferred":[
@@ -73,6 +79,9 @@
     "name:nob_x_preferred":[
         "Kamuli"
     ],
+    "name:pol_x_preferred":[
+        "Kamuli"
+    ],
     "name:por_x_preferred":[
         "Kamuli"
     ],
@@ -86,6 +95,9 @@
         "Kamuli"
     ],
     "name:swa_x_preferred":[
+        "Kamuli"
+    ],
+    "name:swe_x_preferred":[
         "Kamuli"
     ],
     "name:tur_x_preferred":[
@@ -105,6 +117,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u5361\u7a46\u5229"
+    ],
+    "name:zul_x_preferred":[
+        "Kamuli"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uganda",
@@ -231,7 +246,7 @@
         }
     ],
     "wof:id":890454079,
-    "wof:lastmodified":1636501888,
+    "wof:lastmodified":1690877068,
     "wof:name":"Kamuli",
     "wof:parent_id":1092068917,
     "wof:placetype":"locality",

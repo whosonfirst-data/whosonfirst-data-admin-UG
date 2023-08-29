@@ -55,6 +55,9 @@
     "name:eng_x_variant":[
         "Rakai District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0631\u0627\u06a9\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Rakain kaupunginosa"
     ],
@@ -91,6 +94,9 @@
     "name:kor_x_preferred":[
         "\ub77c\uce74\uc774 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ub77c\uce74\uc774\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Rakai distrikts"
     ],
@@ -105,6 +111,9 @@
     ],
     "name:msa_x_preferred":[
         "Rakai District"
+    ],
+    "name:nan_x_preferred":[
+        "Rakai Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Rakai"
@@ -159,6 +168,9 @@
     ],
     "name:zho_x_preferred":[
         "\u62c9\u5361\u4f0a\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Rakai District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -287,7 +299,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501851,
+    "wof:lastmodified":1690877035,
     "wof:name":"Rakai",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

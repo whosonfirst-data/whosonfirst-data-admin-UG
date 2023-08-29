@@ -37,6 +37,9 @@
     "name:ceb_x_preferred":[
         "Mitooma"
     ],
+    "name:cym_x_preferred":[
+        "Mitooma"
+    ],
     "name:eng_x_preferred":[
         "Bushenyi"
     ],
@@ -61,11 +64,17 @@
     "name:nob_x_preferred":[
         "Mitooma"
     ],
+    "name:swa_x_preferred":[
+        "Mitooma"
+    ],
     "name:und_x_variant":[
         "Mitoma District"
     ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u062a\u0648\u0645\u0627"
+    ],
+    "name:zul_x_preferred":[
+        "Mitooma"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -194,7 +203,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501845,
+    "wof:lastmodified":1690877027,
     "wof:name":"Mitooma",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

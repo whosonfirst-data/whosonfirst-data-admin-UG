@@ -43,6 +43,12 @@
     "name:fas_x_preferred":[
         "\u0645\u0648\u0631\u0648\u062a\u0648"
     ],
+    "name:fin_x_preferred":[
+        "Moroto"
+    ],
+    "name:fra_x_preferred":[
+        "Moroto"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05d5\u05e8\u05d5\u05d8\u05d5"
     ],
@@ -70,11 +76,17 @@
     "name:nob_x_preferred":[
         "Moroto"
     ],
+    "name:pol_x_preferred":[
+        "Moroto"
+    ],
     "name:por_x_preferred":[
         "Moroto"
     ],
     "name:ron_x_preferred":[
         "Moroto"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0440\u043e\u0442\u043e"
     ],
     "name:spa_x_preferred":[
         "Moroto"
@@ -105,6 +117,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u83ab\u7f85\u6258"
+    ],
+    "name:zul_x_preferred":[
+        "Moroto"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uganda",
@@ -239,7 +254,7 @@
         }
     ],
     "wof:id":890442381,
-    "wof:lastmodified":1636501890,
+    "wof:lastmodified":1690877071,
     "wof:name":"Moroto",
     "wof:parent_id":1092072851,
     "wof:placetype":"locality",

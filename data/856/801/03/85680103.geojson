@@ -61,8 +61,17 @@
     "name:nob_x_preferred":[
         "Buyende"
     ],
+    "name:pol_x_preferred":[
+        "Buyende"
+    ],
+    "name:swa_x_preferred":[
+        "Buyende"
+    ],
     "name:urd_x_preferred":[
         "\u0628\u0648\u0626\u06cc\u0646\u062f\u06d2"
+    ],
+    "name:zul_x_preferred":[
+        "Buyende"
     ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
@@ -132,7 +141,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501852,
+    "wof:lastmodified":1690877036,
     "wof:name":"Buyende",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

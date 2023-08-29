@@ -49,6 +49,9 @@
     "name:eng_x_variant":[
         "Pader District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u067e\u062f\u0631"
+    ],
     "name:fra_x_preferred":[
         "Pader"
     ],
@@ -76,11 +79,17 @@
     "name:kor_x_preferred":[
         "\ud30c\ub370\ub974 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ud30c\ub370\ub974\uad6c"
+    ],
     "name:lug_x_preferred":[
         "Pader"
     ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d1f\u0d46\u0d7c \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
+    "name:nan_x_preferred":[
+        "Pader Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Pader"
@@ -123,6 +132,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e15\u5fb7\u723e\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Pader District"
     ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
@@ -190,7 +202,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501838,
+    "wof:lastmodified":1690877017,
     "wof:name":"Pader",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

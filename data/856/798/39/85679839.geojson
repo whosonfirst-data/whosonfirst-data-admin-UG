@@ -56,6 +56,9 @@
     "name:eng_x_variant":[
         "Koboko District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0648\u0628\u0648\u06a9\u0648"
+    ],
     "name:fin_x_preferred":[
         "Kobokon kaupunginosa"
     ],
@@ -92,6 +95,9 @@
     "name:kor_x_preferred":[
         "\ucf54\ubcf4\ucf54 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ucf54\ubcf4\ucf54\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Koboko distrikts"
     ],
@@ -106,6 +112,9 @@
     ],
     "name:msa_x_preferred":[
         "Koboko District"
+    ],
+    "name:nan_x_preferred":[
+        "Koboko Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Koboko"
@@ -172,6 +181,9 @@
     ],
     "name:zho_x_preferred":[
         "\u79d1\u535a\u79d1\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Koboko District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -303,7 +315,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501844,
+    "wof:lastmodified":1690877025,
     "wof:name":"Koboko",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

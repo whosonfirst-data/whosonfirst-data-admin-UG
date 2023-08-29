@@ -41,6 +41,9 @@
     "name:ben_x_preferred":[
         "\u0995\u09c1\u09ae\u09bf \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Kumi District"
+    ],
     "name:dan_x_preferred":[
         "Kumi District"
     ],
@@ -54,9 +57,11 @@
         "Kumi"
     ],
     "name:eng_x_variant":[
-        "Kumi",
         "Kumi District",
         "KUMI"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0648\u0645\u06cc"
     ],
     "name:fin_x_preferred":[
         "Kumin kaupunginosa"
@@ -88,6 +93,9 @@
     "name:kor_x_preferred":[
         "\ucfe0\ubbf8 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ucfe0\ubbf8\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Kumi distrikts"
     ],
@@ -102,6 +110,9 @@
     ],
     "name:msa_x_preferred":[
         "Kumi District"
+    ],
+    "name:nan_x_preferred":[
+        "Kumi Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Kumi"
@@ -166,6 +177,9 @@
     "name:zho_x_preferred":[
         "\u5eab\u7c73\u5340"
     ],
+    "name:zul_x_preferred":[
+        "Kumi District"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
@@ -203,7 +217,7 @@
         }
     ],
     "wof:id":1092071937,
-    "wof:lastmodified":1636501875,
+    "wof:lastmodified":1690877045,
     "wof:name":"Kumi",
     "wof:parent_id":85679777,
     "wof:placetype":"county",

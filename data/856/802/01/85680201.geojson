@@ -55,6 +55,9 @@
     "name:eng_x_variant":[
         "Moroto District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0645\u0648\u0631\u0648\u062a\u0648"
+    ],
     "name:fin_x_preferred":[
         "Moroton piirikunta"
     ],
@@ -94,6 +97,9 @@
     "name:kor_x_preferred":[
         "\ubaa8\ub85c\ud1a0 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ubaa8\ub85c\ud1a0\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Moroto distrikts"
     ],
@@ -108,6 +114,9 @@
     ],
     "name:msa_x_preferred":[
         "Moroto District"
+    ],
+    "name:nan_x_preferred":[
+        "Moroto Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Moroto"
@@ -165,6 +174,9 @@
     ],
     "name:zho_x_preferred":[
         "\u83ab\u7f85\u6258\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Moroto District"
     ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
@@ -232,7 +244,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501846,
+    "wof:lastmodified":1690877028,
     "wof:name":"Napak",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

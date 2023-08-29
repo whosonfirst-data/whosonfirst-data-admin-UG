@@ -53,6 +53,12 @@
     "name:swa_x_preferred":[
         "Port Bell"
     ],
+    "name:urd_x_preferred":[
+        "\u067e\u0648\u0631\u0679 \u0628\u06cc\u0644"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d1d\u5c14\u6e2f"
+    ],
     "qs:gn_country":"UG",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":226744,
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":421187511,
-    "wof:lastmodified":1566595496,
+    "wof:lastmodified":1690877062,
     "wof:name":"Port Bell",
     "wof:parent_id":1092071203,
     "wof:placetype":"locality",

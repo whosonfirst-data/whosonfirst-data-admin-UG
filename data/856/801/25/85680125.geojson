@@ -58,6 +58,9 @@
     "name:eng_x_variant":[
         "Mukono District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0645\u0648\u06a9\u0648\u0646\u0648"
+    ],
     "name:fin_x_preferred":[
         "Mukonon kaupunginosa"
     ],
@@ -94,6 +97,9 @@
     "name:kor_x_preferred":[
         "\ubb34\ucf54\ub178 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ubb34\ucf54\ub178\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Mukono distrikts"
     ],
@@ -111,6 +117,9 @@
     ],
     "name:msa_x_preferred":[
         "Mukono District"
+    ],
+    "name:nan_x_preferred":[
+        "Mukono Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Mukono"
@@ -165,6 +174,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7a46\u79d1\u8afe\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Mukono District"
     ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
@@ -234,7 +246,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501855,
+    "wof:lastmodified":1690877039,
     "wof:name":"Buvuma",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

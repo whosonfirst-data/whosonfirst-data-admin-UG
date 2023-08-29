@@ -20,13 +20,22 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u062a\u064a\u0627\u0646\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u062a\u064a\u0627\u0646\u0627"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09a4\u09bf\u09af\u09bc\u09be\u09a8\u09be"
     ],
     "name:ceb_x_preferred":[
         "Mityana"
     ],
+    "name:ces_x_preferred":[
+        "Mityana"
+    ],
     "name:dan_x_preferred":[
+        "Mityana"
+    ],
+    "name:deu_x_preferred":[
         "Mityana"
     ],
     "name:ell_x_preferred":[
@@ -104,6 +113,9 @@
     "name:sin_x_preferred":[
         "\u0db8\u0dd2\u0da7\u0dca\u200d\u0dba\u0dcf\u0db1\u0dcf"
     ],
+    "name:slk_x_preferred":[
+        "Mityana"
+    ],
     "name:spa_x_preferred":[
         "Mityana"
     ],
@@ -135,6 +147,9 @@
         "\u0645\u06cc\u062a\u06cc\u0627\u0646\u0627"
     ],
     "name:vie_x_preferred":[
+        "Mityana"
+    ],
+    "name:zul_x_preferred":[
         "Mityana"
     ],
     "ne:ADM0CAP":0.0,
@@ -276,7 +291,7 @@
         }
     ],
     "wof:id":421192803,
-    "wof:lastmodified":1636501884,
+    "wof:lastmodified":1690877060,
     "wof:name":"Mityana",
     "wof:parent_id":1092072811,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
     "name:ara_x_variant":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0623\u0631\u0648\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Distritu d'Arua"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b0\u09c1\u09af\u09bc\u09be \u099c\u09c7\u09b2\u09be"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:eng_x_variant":[
         "Arua District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0622\u0631\u0648\u0627"
     ],
     "name:fin_x_preferred":[
         "Aruan kaupunginosa"
@@ -89,6 +95,9 @@
     "name:kor_x_preferred":[
         "\uc544\ub8e8\uc544 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc544\ub8e8\uc544\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Arua distikts"
     ],
@@ -103,6 +112,9 @@
     ],
     "name:msa_x_preferred":[
         "Arua District"
+    ],
+    "name:nan_x_preferred":[
+        "Arua Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Arua"
@@ -163,6 +175,9 @@
     ],
     "name:zho_x_preferred":[
         "\u963f\u9b6f\u963f\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Arua District"
     ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
@@ -232,7 +247,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501840,
+    "wof:lastmodified":1690877021,
     "wof:name":"Maracha",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

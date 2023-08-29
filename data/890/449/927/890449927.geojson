@@ -79,6 +79,9 @@
     "name:ron_x_preferred":[
         "Moyo"
     ],
+    "name:rus_x_preferred":[
+        "\u041c\u043e\u0439\u043e"
+    ],
     "name:spa_x_preferred":[
         "Moyo"
     ],
@@ -105,6 +108,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u83ab\u7d04"
+    ],
+    "name:zul_x_preferred":[
+        "Moyo"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uganda",
@@ -231,7 +237,7 @@
         }
     ],
     "wof:id":890449927,
-    "wof:lastmodified":1636501888,
+    "wof:lastmodified":1690877068,
     "wof:name":"Moyo",
     "wof:parent_id":1092074321,
     "wof:placetype":"locality",

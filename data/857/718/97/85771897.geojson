@@ -33,6 +33,9 @@
     "name:fra_x_preferred":[
         "Mulago"
     ],
+    "name:jpn_x_preferred":[
+        "\u30e0\u30e9\u30b4"
+    ],
     "name:nld_x_preferred":[
         "Mulago"
     ],
@@ -99,7 +102,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582350010,
+    "wof:lastmodified":1690877012,
     "wof:name":"Mulago",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

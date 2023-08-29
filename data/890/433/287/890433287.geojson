@@ -31,6 +31,9 @@
     "name:nld_x_preferred":[
         "Bweyogerere"
     ],
+    "name:swa_x_preferred":[
+        "Bweyogerere"
+    ],
     "qs:name":"Bweyogerere",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890433287,
-    "wof:lastmodified":1566595502,
+    "wof:lastmodified":1690877071,
     "wof:name":"Bweyogerere",
     "wof:parent_id":1092072041,
     "wof:placetype":"locality",

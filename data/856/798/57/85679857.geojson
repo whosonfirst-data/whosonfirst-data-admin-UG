@@ -56,6 +56,9 @@
     "name:eng_x_variant":[
         "Yumbe District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06cc\u0648\u0645\u0628\u0647"
+    ],
     "name:fin_x_preferred":[
         "Yumben piirikunta"
     ],
@@ -92,6 +95,9 @@
     "name:kor_x_preferred":[
         "\uc730\ubca0 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc730\ubca0\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Jumbes distrikts"
     ],
@@ -106,6 +112,9 @@
     ],
     "name:msa_x_preferred":[
         "Yumbe District"
+    ],
+    "name:nan_x_preferred":[
+        "Yumbe Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Yumbe"
@@ -161,11 +170,17 @@
     "name:urd_x_preferred":[
         "\u06cc\u0648\u0645\u0628\u06d2"
     ],
+    "name:urd_x_variant":[
+        "\u06cc\u0648\u0645\u0628\u06d2 \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Qu\u1eadn Yumbe"
     ],
     "name:zho_x_preferred":[
         "\u6c38\u8c9d\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Yumbe District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -294,7 +309,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501841,
+    "wof:lastmodified":1690877021,
     "wof:name":"Yumbe",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

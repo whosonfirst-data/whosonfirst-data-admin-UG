@@ -24,6 +24,9 @@
     "name:ara_x_preferred":[
         "\u062d\u064a \u0646\u064a\u0628\u0649"
     ],
+    "name:arz_x_preferred":[
+        "\u062d\u0649 \u0646\u064a\u0628\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u09c7\u09ac\u09cd\u09ac\u09bf"
     ],
@@ -113,6 +116,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u5167\u6bd4"
+    ],
+    "name:zul_x_preferred":[
+        "Nebbi"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uganda",
@@ -247,7 +253,7 @@
         }
     ],
     "wof:id":1141906019,
-    "wof:lastmodified":1636501906,
+    "wof:lastmodified":1690877079,
     "wof:name":"Nebbi",
     "wof:parent_id":1092073489,
     "wof:placetype":"locality",

@@ -41,6 +41,9 @@
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u0993\u09af\u09bc\u09c7\u099c\u09c1 \u099c\u09c7\u09b2\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Buhweju District"
+    ],
     "name:dan_x_preferred":[
         "Buhweju"
     ],
@@ -54,7 +57,6 @@
         "Buhweju"
     ],
     "name:eng_x_variant":[
-        "Buhweju",
         "Buhweju District",
         "BUHWEJU"
     ],
@@ -94,6 +96,9 @@
     "name:kor_x_preferred":[
         "\ubd80\ud750\uc6e8\uc8fc \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ubd80\ud750\uc6e8\uc8fc\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Buhved\u017eu distirkts"
     ],
@@ -108,6 +113,9 @@
     ],
     "name:msa_x_preferred":[
         "Buhweju District"
+    ],
+    "name:nan_x_preferred":[
+        "Buhweju Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Buhweju"
@@ -157,6 +165,9 @@
     "name:zho_x_preferred":[
         "\u5e03\u60e0\u6731\u5340"
     ],
+    "name:zul_x_preferred":[
+        "Buhweju District"
+    ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "statoids:area_km":"",
@@ -191,7 +202,7 @@
         }
     ],
     "wof:id":1092069121,
-    "wof:lastmodified":1636501881,
+    "wof:lastmodified":1690877056,
     "wof:name":"Buhweju",
     "wof:parent_id":85680241,
     "wof:placetype":"county",

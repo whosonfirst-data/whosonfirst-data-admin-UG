@@ -31,6 +31,12 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0643\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0648\u0643\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Bukwa"
+    ],
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u0995\u09be\u0989"
     ],
@@ -39,6 +45,9 @@
     ],
     "name:deu_x_preferred":[
         "Bukwa"
+    ],
+    "name:deu_x_variant":[
+        "Bukwo"
     ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03cd\u03ba\u03bf\u03c5\u03b1"
@@ -280,7 +289,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501836,
+    "wof:lastmodified":1690877015,
     "wof:name":"Bukwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -52,6 +52,12 @@
     "name:nob_x_preferred":[
         "Amudat"
     ],
+    "name:pol_x_preferred":[
+        "Amudat"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u043c\u0443\u0434\u0430\u0442"
+    ],
     "name:swa_x_preferred":[
         "Amudat"
     ],
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1126002027,
-    "wof:lastmodified":1636501892,
+    "wof:lastmodified":1690877076,
     "wof:name":"Amudat",
     "wof:parent_id":1092073601,
     "wof:placetype":"locality",

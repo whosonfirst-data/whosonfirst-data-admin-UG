@@ -89,6 +89,9 @@
     "name:kor_x_preferred":[
         "\uc74c\ubc14\ub77c\ub77c \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc74c\ubc14\ub77c\ub77c\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Mbararas distrikts"
     ],
@@ -103,6 +106,9 @@
     ],
     "name:msa_x_preferred":[
         "Mbarara District"
+    ],
+    "name:nan_x_preferred":[
+        "Mbarara Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Mbarara"
@@ -158,6 +164,9 @@
     "name:zho_x_preferred":[
         "\u59c6\u5df4\u62c9\u62c9\u5340"
     ],
+    "name:zul_x_preferred":[
+        "Mbarara District"
+    ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
     "qs:a1":"Mbarara",
@@ -208,7 +217,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501848,
+    "wof:lastmodified":1690877031,
     "wof:name":"Mbarara",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -55,6 +55,9 @@
     "name:eng_x_variant":[
         "Kitgum District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u06cc\u062a\u06af\u0648\u0645"
+    ],
     "name:fin_x_preferred":[
         "Kitgumin kaupunginosa"
     ],
@@ -88,6 +91,9 @@
     "name:kor_x_preferred":[
         "\ud0a4\ud2b8\uad7c \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ud0a4\ud2b8\uad7c\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Kitgumas distrikts"
     ],
@@ -102,6 +108,9 @@
     ],
     "name:msa_x_preferred":[
         "Mukim Kitgum"
+    ],
+    "name:nan_x_preferred":[
+        "Kitgum Ko\u0101n"
     ],
     "name:nds_x_preferred":[
         "Kitgum"
@@ -162,6 +171,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57fa\u7279\u53e4\u59c6\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Kitgum District"
     ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
@@ -229,7 +241,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501855,
+    "wof:lastmodified":1690877039,
     "wof:name":"Lamwo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

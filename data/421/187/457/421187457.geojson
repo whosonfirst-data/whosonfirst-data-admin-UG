@@ -17,7 +17,40 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Kaba"
+    ],
+    "name:arg_x_preferred":[
+        "Kaba"
+    ],
+    "name:ast_x_preferred":[
+        "Kaba"
+    ],
+    "name:bam_x_preferred":[
+        "Kaba"
+    ],
+    "name:bar_x_preferred":[
+        "Kaba"
+    ],
+    "name:bre_x_preferred":[
+        "Kaba"
+    ],
+    "name:cat_x_preferred":[
+        "Kaba"
+    ],
     "name:ceb_x_preferred":[
+        "Kaba"
+    ],
+    "name:ces_x_preferred":[
+        "Kaba"
+    ],
+    "name:cos_x_preferred":[
+        "Kaba"
+    ],
+    "name:cym_x_preferred":[
+        "Kaba"
+    ],
+    "name:dan_x_preferred":[
         "Kaba"
     ],
     "name:deu_x_preferred":[
@@ -26,16 +59,190 @@
     "name:eng_x_preferred":[
         "Kaba"
     ],
+    "name:epo_x_preferred":[
+        "Kaba"
+    ],
+    "name:est_x_preferred":[
+        "Kaba"
+    ],
+    "name:eus_x_preferred":[
+        "Kaba"
+    ],
     "name:fin_x_preferred":[
         "Kaba"
     ],
     "name:fra_x_preferred":[
         "Kaba"
     ],
+    "name:frc_x_preferred":[
+        "Kaba"
+    ],
+    "name:frp_x_preferred":[
+        "Kaba"
+    ],
+    "name:fur_x_preferred":[
+        "Kaba"
+    ],
+    "name:gla_x_preferred":[
+        "Kaba"
+    ],
+    "name:gle_x_preferred":[
+        "Kaba"
+    ],
+    "name:glg_x_preferred":[
+        "Kaba"
+    ],
+    "name:gsw_x_preferred":[
+        "Kaba"
+    ],
     "name:hrv_x_preferred":[
         "Kaba"
     ],
+    "name:ido_x_preferred":[
+        "Kaba"
+    ],
+    "name:ile_x_preferred":[
+        "Kaba"
+    ],
+    "name:ina_x_preferred":[
+        "Kaba"
+    ],
+    "name:ind_x_preferred":[
+        "Kaba"
+    ],
+    "name:ita_x_preferred":[
+        "Kaba"
+    ],
+    "name:jam_x_preferred":[
+        "Kaba"
+    ],
+    "name:kab_x_preferred":[
+        "Kaba"
+    ],
+    "name:kon_x_preferred":[
+        "Kaba"
+    ],
+    "name:lij_x_preferred":[
+        "Kaba"
+    ],
+    "name:lim_x_preferred":[
+        "Kaba"
+    ],
+    "name:lit_x_preferred":[
+        "Kaba"
+    ],
+    "name:ltz_x_preferred":[
+        "Kaba"
+    ],
+    "name:min_x_preferred":[
+        "Kaba"
+    ],
+    "name:mlg_x_preferred":[
+        "Kaba"
+    ],
+    "name:msa_x_preferred":[
+        "Kaba"
+    ],
+    "name:nap_x_preferred":[
+        "Kaba"
+    ],
+    "name:nds_x_preferred":[
+        "Kaba"
+    ],
+    "name:nld_x_preferred":[
+        "Kaba"
+    ],
+    "name:nno_x_preferred":[
+        "Kaba"
+    ],
+    "name:nob_x_preferred":[
+        "Kaba"
+    ],
+    "name:nqo_x_preferred":[
+        "\u07de\u07ca\u07ec\u07d3\u07ca"
+    ],
+    "name:nrm_x_preferred":[
+        "Kaba"
+    ],
+    "name:oci_x_preferred":[
+        "Kaba"
+    ],
+    "name:pap_x_preferred":[
+        "Kaba"
+    ],
+    "name:pcd_x_preferred":[
+        "Kaba"
+    ],
+    "name:pms_x_preferred":[
+        "Kaba"
+    ],
+    "name:pol_x_preferred":[
+        "Kaba"
+    ],
+    "name:por_x_preferred":[
+        "Kaba"
+    ],
+    "name:prg_x_preferred":[
+        "Kaba"
+    ],
+    "name:rgn_x_preferred":[
+        "Kaba"
+    ],
+    "name:roh_x_preferred":[
+        "Kaba"
+    ],
+    "name:ron_x_preferred":[
+        "Kaba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0431\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "Kaba"
+    ],
+    "name:sco_x_preferred":[
+        "Kaba"
+    ],
+    "name:slk_x_preferred":[
+        "Kaba"
+    ],
+    "name:spa_x_preferred":[
+        "Kaba"
+    ],
+    "name:srd_x_preferred":[
+        "Kaba"
+    ],
+    "name:swa_x_preferred":[
+        "Kaba"
+    ],
     "name:swe_x_preferred":[
+        "Kaba"
+    ],
+    "name:tur_x_preferred":[
+        "Kaba"
+    ],
+    "name:vec_x_preferred":[
+        "Kaba"
+    ],
+    "name:vie_x_preferred":[
+        "Kaba"
+    ],
+    "name:vls_x_preferred":[
+        "Kaba"
+    ],
+    "name:vmf_x_preferred":[
+        "Kaba"
+    ],
+    "name:vol_x_preferred":[
+        "Kaba"
+    ],
+    "name:wln_x_preferred":[
+        "Kaba"
+    ],
+    "name:wol_x_preferred":[
+        "Kaba"
+    ],
+    "name:zul_x_preferred":[
         "Kaba"
     ],
     "qs:gn_country":"UG",
@@ -84,7 +291,7 @@
         }
     ],
     "wof:id":421187457,
-    "wof:lastmodified":1566595496,
+    "wof:lastmodified":1690877063,
     "wof:name":"Kaba",
     "wof:parent_id":421202527,
     "wof:placetype":"locality",

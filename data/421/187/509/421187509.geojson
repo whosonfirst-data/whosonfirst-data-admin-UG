@@ -20,10 +20,16 @@
     "name:eng_x_preferred":[
         "Kawanda"
     ],
+    "name:fra_x_preferred":[
+        "Kawanda"
+    ],
     "name:lug_x_preferred":[
         "Kawanda"
     ],
     "name:nld_x_preferred":[
+        "Kawanda"
+    ],
+    "name:swa_x_preferred":[
         "Kawanda"
     ],
     "qs:gn_country":"UG",
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":421187509,
-    "wof:lastmodified":1566595496,
+    "wof:lastmodified":1690877062,
     "wof:name":"Kawanda",
     "wof:parent_id":1092072041,
     "wof:placetype":"locality",

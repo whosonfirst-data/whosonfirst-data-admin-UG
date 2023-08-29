@@ -40,6 +40,9 @@
     "name:nob_x_preferred":[
         "Mayuge"
     ],
+    "name:pol_x_preferred":[
+        "Mayuge"
+    ],
     "name:ron_x_preferred":[
         "Mayuge"
     ],
@@ -48,6 +51,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0627\u0626\u0648\u06af\u06cc"
+    ],
+    "name:zul_x_preferred":[
+        "Mayuge"
     ],
     "qs_pg:aaroncc":"UG",
     "qs_pg:gn_country":"UG",
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":1125898077,
-    "wof:lastmodified":1636501891,
+    "wof:lastmodified":1690877074,
     "wof:name":"Mayuge",
     "wof:parent_id":1092069607,
     "wof:placetype":"locality",

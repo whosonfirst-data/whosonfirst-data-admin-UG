@@ -56,6 +56,9 @@
     "name:eng_x_variant":[
         "Budaka District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0648\u062f\u0627\u06a9\u0627"
+    ],
     "name:fin_x_preferred":[
         "Budakan kaupunginosa"
     ],
@@ -92,6 +95,9 @@
     "name:kor_x_preferred":[
         "\ubd80\ub2e4\uce74 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ubd80\ub2e4\uce74\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Budakas disrikts"
     ],
@@ -106,6 +112,9 @@
     ],
     "name:msa_x_preferred":[
         "Budaka District"
+    ],
+    "name:nan_x_preferred":[
+        "Budaka Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Budaka"
@@ -163,6 +172,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u9054\u5361\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Budaka District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -294,7 +306,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501854,
+    "wof:lastmodified":1690877038,
     "wof:name":"Budaka",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

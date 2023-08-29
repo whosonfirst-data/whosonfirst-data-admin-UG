@@ -56,6 +56,9 @@
     "name:eng_x_variant":[
         "Butaleja District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0628\u0648\u062a\u0627\u0644\u062c\u0627"
+    ],
     "name:fin_x_preferred":[
         "Butalejan kaupunginosa"
     ],
@@ -92,6 +95,9 @@
     "name:kor_x_preferred":[
         "\ubd80\ud0c8\ub808\uc790 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ubd80\ud0c8\ub808\uc790\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Butaled\u017eas distrikts"
     ],
@@ -106,6 +112,9 @@
     ],
     "name:msa_x_preferred":[
         "Butaleja District"
+    ],
+    "name:nan_x_preferred":[
+        "Butaleja Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Butaleja"
@@ -166,6 +175,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u5854\u840a\u8cc8\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Butaleja District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -294,7 +306,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501838,
+    "wof:lastmodified":1690877018,
     "wof:name":"Butaleja",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

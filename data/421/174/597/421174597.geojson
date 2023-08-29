@@ -41,14 +41,23 @@
     "name:nob_x_preferred":[
         "Luweero"
     ],
+    "name:pol_x_preferred":[
+        "Luwero"
+    ],
     "name:ron_x_preferred":[
         "Luwero"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0432\u0435\u0440\u043e"
     ],
     "name:swa_x_preferred":[
         "Luweero"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u0648\u06cc\u0631\u0648"
+    ],
+    "name:zul_x_preferred":[
+        "Luweero"
     ],
     "qs:gn_country":"UG",
     "qs:gn_fcode":"PPL",
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":421174597,
-    "wof:lastmodified":1582350030,
+    "wof:lastmodified":1690877061,
     "wof:name":"Luwero",
     "wof:parent_id":1092071399,
     "wof:placetype":"locality",

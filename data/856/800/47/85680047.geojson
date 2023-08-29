@@ -35,6 +35,9 @@
     "name:ara_x_variant":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0625\u064a\u0628\u0627\u0646\u062f\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Distritu d'Ibanda"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09a8\u09ac\u09be\u09a8\u09cd\u09a1\u09be \u099c\u09c7\u09b2\u09be"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:eng_x_variant":[
         "Ibanda District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0627\u06cc\u0628\u0627\u0646\u062f\u0627"
     ],
     "name:fin_x_preferred":[
         "Ibandan kaupunginosa"
@@ -89,6 +95,9 @@
     "name:kor_x_preferred":[
         "\uc774\ubc18\ub2e4 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc774\ubc18\ub2e4\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Ibandas distrikts"
     ],
@@ -103,6 +112,9 @@
     ],
     "name:msa_x_preferred":[
         "Ibanda District"
+    ],
+    "name:nan_x_preferred":[
+        "Ibanda Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Ibanda"
@@ -163,6 +175,9 @@
     ],
     "name:zho_x_preferred":[
         "\u4f0a\u73ed\u9054\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Ibanda District"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
@@ -294,7 +309,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501851,
+    "wof:lastmodified":1690877035,
     "wof:name":"Ibanda",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

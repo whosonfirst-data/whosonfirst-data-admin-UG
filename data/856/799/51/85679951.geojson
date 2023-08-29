@@ -70,6 +70,9 @@
     "name:guj_x_preferred":[
         "\u0a95\u0ac7\u0aaa\u0a9a\u0acb\u0ab0\u0acd\u0ab5\u0abe \u0a9c\u0abf\u0ab2\u0acd\u0ab2\u0acb"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e4\u05e6'\u05d5\u05e8\u05d5\u05d5\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u0948\u092a\u0915\u094b\u0930\u0935\u093e \u091c\u093f\u0932\u093e"
     ],
@@ -91,6 +94,9 @@
     "name:kor_x_preferred":[
         "\uce74\ud504\ucd08\ub974\uc640 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uce74\ud504\ucd08\ub974\uc640\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Kap\u010dorvas distrikts"
     ],
@@ -105,6 +111,9 @@
     ],
     "name:msa_x_preferred":[
         "Daerah Kapchorwa"
+    ],
+    "name:nan_x_preferred":[
+        "Kapchorwa Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Kapchorwa"
@@ -159,6 +168,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5361\u666e\u55ac\u9b6f\u74e6\u5340"
+    ],
+    "name:zul_x_preferred":[
+        "Kapchorwa District"
     ],
     "qs:a0":"Uganda",
     "qs:a0_lc":"UG",
@@ -225,7 +237,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501837,
+    "wof:lastmodified":1690877016,
     "wof:name":"Kapchorwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

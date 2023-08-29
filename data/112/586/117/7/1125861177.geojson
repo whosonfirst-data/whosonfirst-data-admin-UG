@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u064a\u0648\u0645\u0628\u0649"
     ],
+    "name:arz_x_preferred":[
+        "\u064a\u0648\u0645\u0628\u0649"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u0989\u09ae\u09cd\u09ac\u09c7"
     ],
@@ -139,6 +142,9 @@
     "name:vie_x_preferred":[
         "Yumbe"
     ],
+    "name:zul_x_preferred":[
+        "Yumbe"
+    ],
     "qs_pg:aaroncc":"UG",
     "qs_pg:gn_country":"UG",
     "qs_pg:gn_fcode":"PPLA2",
@@ -178,7 +184,7 @@
         }
     ],
     "wof:id":1125861177,
-    "wof:lastmodified":1636501891,
+    "wof:lastmodified":1690877074,
     "wof:name":"Yumbe",
     "wof:parent_id":1092068435,
     "wof:placetype":"locality",

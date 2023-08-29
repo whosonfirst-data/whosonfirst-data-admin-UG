@@ -80,6 +80,9 @@
     "name:urd_x_preferred":[
         "\u0628\u0648\u06a9\u06cc\u062f\u06cc\u0627"
     ],
+    "name:zul_x_preferred":[
+        "Bukedea"
+    ],
     "ne:abbrev":"",
     "ne:adm0_a3":"UGA",
     "ne:adm0_label":"2",
@@ -207,7 +210,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501847,
+    "wof:lastmodified":1690877030,
     "wof:name":"Bukedea",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

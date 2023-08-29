@@ -41,6 +41,9 @@
     "name:eng_x_variant":[
         "Kabarole District"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u06a9\u0627\u0628\u0627\u0631\u0648\u0644\u0647"
+    ],
     "name:fin_x_preferred":[
         "Kabarolen kaupunginosa"
     ],
@@ -74,6 +77,9 @@
     "name:kor_x_preferred":[
         "\uce74\ubc14\ub864\ub808 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uce74\ubc14\ub864\ub808\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Kabaroles distrikts"
     ],
@@ -88,6 +94,9 @@
     ],
     "name:msa_x_preferred":[
         "Kabarole District"
+    ],
+    "name:nan_x_preferred":[
+        "Kabarole Ko\u0101n"
     ],
     "name:nld_x_preferred":[
         "Kabarole"
@@ -137,6 +146,9 @@
     "name:zho_x_preferred":[
         "\u5361\u5df4\u7f85\u840a\u5340"
     ],
+    "name:zul_x_preferred":[
+        "Kabarole District"
+    ],
     "qs:gn_country":"UG",
     "qs:gn_fcode":"PPL",
     "qs:gn_id":233041,
@@ -183,7 +195,7 @@
         }
     ],
     "wof:id":421178943,
-    "wof:lastmodified":1636501887,
+    "wof:lastmodified":1690877066,
     "wof:name":"Kabarole",
     "wof:parent_id":421174009,
     "wof:placetype":"locality",

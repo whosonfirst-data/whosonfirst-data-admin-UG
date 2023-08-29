@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0633\u0648\u0631\u0648\u062a\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u0648\u0631\u0648\u062a\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Soroti"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09cb\u09b0\u09cb\u09a4\u09bf"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:eng_x_preferred":[
         "Soroti"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0631\u0648\u062a\u06cc"
     ],
     "name:fra_x_preferred":[
         "Soroti"
@@ -83,6 +92,9 @@
     "name:ron_x_preferred":[
         "Soroti"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u043e\u0440\u043e\u0442\u0438"
+    ],
     "name:spa_x_preferred":[
         "Soroti"
     ],
@@ -106,6 +118,9 @@
     ],
     "name:zho_x_preferred":[
         "\u7d22\u7f85\u63d0"
+    ],
+    "name:zul_x_preferred":[
+        "Soroti"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Uganda",
@@ -249,7 +264,7 @@
         }
     ],
     "wof:id":421168677,
-    "wof:lastmodified":1636501883,
+    "wof:lastmodified":1690877059,
     "wof:name":"Soroti",
     "wof:parent_id":1092074017,
     "wof:placetype":"locality",

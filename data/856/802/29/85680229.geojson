@@ -58,6 +58,12 @@
     "name:nob_x_preferred":[
         "Rubirizi"
     ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0431\u0438\u0440\u0438\u0437\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Rubirizi"
+    ],
     "name:urd_x_preferred":[
         "\u0631\u0648\u0628\u06cc\u0631\u06cc\u0632\u06cc"
     ],
@@ -129,7 +135,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501845,
+    "wof:lastmodified":1690877028,
     "wof:name":"Rubirizi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
