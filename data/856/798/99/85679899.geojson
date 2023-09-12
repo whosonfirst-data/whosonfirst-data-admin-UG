@@ -5,13 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.321819,
-    "geom:area_square_m":3972316641.535981,
+    "geom:area_square_m":3972316679.217542,
     "geom:bbox":"32.728277,3.118234,33.74179,3.764155",
     "geom:latitude":3.406448,
     "geom:longitude":33.27191,
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
         "Kitgum District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "label:eng_x_preferred_shortcode":[
         "QT"
@@ -205,7 +208,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2fda22adde615a7215872ac59c61bfed",
+    "wof:geomhash":"37d8a01ceb70027f660ad583b94ccac0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -222,7 +225,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877025,
+    "wof:lastmodified":1694493260,
     "wof:name":"Kitgum",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

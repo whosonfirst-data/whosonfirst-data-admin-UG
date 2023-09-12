@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.202743,
-    "geom:area_square_m":2505741615.758602,
+    "geom:area_square_m":2505741907.457085,
     "geom:bbox":"34.220736,1.549415,34.871664,2.14222",
     "geom:latitude":1.7776,
     "geom:longitude":34.59129,
@@ -39,7 +39,7 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Kadani (chekwii)"
+        "Kadani"
     ],
     "name:eng_x_variant":[
         "Kadani (chekwii)",
@@ -73,7 +73,7 @@
     },
     "wof:country":"UG",
     "wof:created":1473899320,
-    "wof:geomhash":"f7e1d92756ecb0158ce7a2e5f34c8df1",
+    "wof:geomhash":"277d740fa56d9b2cb1daed11fc51ff7c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,8 +83,8 @@
         }
     ],
     "wof:id":1092070319,
-    "wof:lastmodified":1627522957,
-    "wof:name":"Kadani (chekwii)",
+    "wof:lastmodified":1694492806,
+    "wof:name":"Kadani",
     "wof:parent_id":85680021,
     "wof:placetype":"county",
     "wof:placetype_local":"county",

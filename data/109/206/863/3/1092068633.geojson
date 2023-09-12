@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096766,
-    "geom:area_square_m":1196395762.789748,
+    "geom:area_square_m":1196395690.594973,
     "geom:bbox":"32.539331,0.559603,32.795304,1.147684",
     "geom:latitude":0.845886,
     "geom:longitude":32.672406,
@@ -39,7 +39,7 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Wabusana (bamunanika)"
+        "Wabusana"
     ],
     "name:eng_x_variant":[
         "Wabusana (bamunanika)",
@@ -72,7 +72,7 @@
     },
     "wof:country":"UG",
     "wof:created":1473899254,
-    "wof:geomhash":"80a533012a52cf894610a6ea2f776d33",
+    "wof:geomhash":"c214f3d2a8b6c31dca03f251cf0bc1f1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -82,8 +82,8 @@
         }
     ],
     "wof:id":1092068633,
-    "wof:lastmodified":1627522963,
-    "wof:name":"Wabusana (bamunanika)",
+    "wof:lastmodified":1694492806,
+    "wof:name":"Wabusana",
     "wof:parent_id":85679881,
     "wof:placetype":"county",
     "wof:placetype_local":"county",

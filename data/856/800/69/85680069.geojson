@@ -5,14 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144527,
-    "geom:area_square_m":1787006707.158949,
+    "geom:area_square_m":1787006575.20817,
     "geom:bbox":"30.31884,-0.843678,30.815,-0.210932",
     "geom:latitude":-0.566043,
     "geom:longitude":30.568778,
     "gn:id":"",
     "iso:country":"UG",
     "label:eng_x_preferred_longname":[
-        "Mbarara County"
+        "Mbarara District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
     ],
     "label:eng_x_preferred_shortcode":[
         "RR"
@@ -200,7 +203,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9aeea933f94b333a3da312355581b06f",
+    "wof:geomhash":"4456f98ede521b4832c55ab9dbb5ea10",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -217,7 +220,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877031,
+    "wof:lastmodified":1694493260,
     "wof:name":"Mbarara",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

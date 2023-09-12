@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062536,
-    "geom:area_square_m":773203224.637887,
+    "geom:area_square_m":773203224.637866,
     "geom:bbox":"33.877404,0.578064,34.207738,0.891224",
     "geom:latitude":0.723996,
     "geom:longitude":34.022204,
@@ -39,7 +39,7 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
-        "Kisoko (west Budama)"
+        "Kisoko"
     ],
     "name:eng_x_variant":[
         "Kisoko (west Budama)",
@@ -73,7 +73,7 @@
     },
     "wof:country":"UG",
     "wof:created":1473899483,
-    "wof:geomhash":"309162924231c394b8c4d9e160c35626",
+    "wof:geomhash":"cb28ea3dbcc4bf28b04b2b4e2328e682",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -83,8 +83,8 @@
         }
     ],
     "wof:id":1092074289,
-    "wof:lastmodified":1627522958,
-    "wof:name":"Kisoko (west Budama)",
+    "wof:lastmodified":1694492806,
+    "wof:name":"Kisoko",
     "wof:parent_id":85679989,
     "wof:placetype":"county",
     "wof:placetype_local":"county",
