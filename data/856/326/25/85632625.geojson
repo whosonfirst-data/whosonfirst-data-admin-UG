@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":19.620679,
-    "geom:area_square_m":242481622914.336548,
+    "geom:area_square_m":242481622914.335999,
     "geom:bbox":"29.573558,-1.481483,35.033049,4.218628",
     "geom:latitude":1.278252,
     "geom:longitude":32.391663,
@@ -14,6 +14,9 @@
     "iso:country":"UG",
     "itu:country_code":[
         "256"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "UG"
@@ -1073,7 +1076,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"256",
     "statoids:ds":"EAU",
     "statoids:fifa":"UGA",
@@ -1132,7 +1136,7 @@
         "meso",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"e851e71acf07b9f0bd75e601689e2b4d",
+    "wof:geomhash":"048edeb715eeaba576241fdba6ef3351",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1148,12 +1152,12 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877040,
+    "wof:lastmodified":1694639545,
     "wof:name":"Uganda",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":37578876,
-    "wof:population_rank":15,
+    "wof:population":44269594,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-ug",
     "wof:shortcode":"UG",
     "wof:superseded_by":[],
