@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124455,
-    "geom:area_square_m":1537698637.607126,
+    "geom:area_square_m":1537698902.651697,
     "geom:bbox":"32.977927,2.030501,33.547109,2.508548",
     "geom:latitude":2.270422,
     "geom:longitude":33.255838,
@@ -205,9 +205,10 @@
         "hasc:id":"UG.MX.MR",
         "wd:id":"Q1375850"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899426,
-    "wof:geomhash":"b7bba11a890f5886812c2a4256f3c28c",
+    "wof:geomhash":"e3c73e79a5e128072772fd7ef07edabb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -217,7 +218,7 @@
         }
     ],
     "wof:id":1092072869,
-    "wof:lastmodified":1690877045,
+    "wof:lastmodified":1695886801,
     "wof:name":"Moroto",
     "wof:parent_id":85680161,
     "wof:placetype":"county",

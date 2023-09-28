@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000421,
-    "geom:area_square_m":5203036.509953,
+    "geom:area_square_m":5203009.090827,
     "geom:bbox":"34.646137,2.522497,34.672823,2.543674",
     "geom:latitude":2.532015,
     "geom:longitude":34.659496,
@@ -198,9 +198,10 @@
         "hasc:id":"UG.AL.MR",
         "wd:id":"Q1375850"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899425,
-    "wof:geomhash":"006732d327e016b63edfb3ff06d201e3",
+    "wof:geomhash":"9153bffaea33433d2c6e398b4d69752a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -216,7 +217,7 @@
         }
     ],
     "wof:id":1092072851,
-    "wof:lastmodified":1690877051,
+    "wof:lastmodified":1695886709,
     "wof:name":"Moroto Municipality",
     "wof:parent_id":-1,
     "wof:placetype":"county",

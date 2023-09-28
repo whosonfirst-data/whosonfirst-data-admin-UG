@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.204809,
-    "geom:area_square_m":2531533395.573807,
+    "geom:area_square_m":2531533048.554633,
     "geom:bbox":"30.791183,1.271169,31.588371,1.85306",
     "geom:latitude":1.579558,
     "geom:longitude":31.21836,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"UG.HO.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899268,
-    "wof:geomhash":"fe883b2f660b0110366c3e3b0b274046",
+    "wof:geomhash":"93850e0da5ae338ad35a2823eb916fad",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1092068961,
-    "wof:lastmodified":1627522953,
+    "wof:lastmodified":1695886162,
     "wof:name":"Bugahya",
     "wof:parent_id":85679933,
     "wof:placetype":"county",

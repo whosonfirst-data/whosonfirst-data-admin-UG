@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.627355,
-    "geom:area_square_m":7757110615.115157,
+    "geom:area_square_m":7757111645.87081,
     "geom:bbox":"32.191712,-1.0,33.984247,0.734886",
     "geom:latitude":-0.070341,
     "geom:longitude":33.438969,
@@ -68,9 +68,10 @@
     "wof:concordances":{
         "hasc:id":"UG.BI.BI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899490,
-    "wof:geomhash":"02ecbad77db293dc5683fec59e01d3d1",
+    "wof:geomhash":"6dca8aa4861d64622cd6f3ea7816a8a3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +81,7 @@
         }
     ],
     "wof:id":1092074461,
-    "wof:lastmodified":1627522955,
+    "wof:lastmodified":1695886166,
     "wof:name":"Busiro",
     "wof:parent_id":85679975,
     "wof:placetype":"county",

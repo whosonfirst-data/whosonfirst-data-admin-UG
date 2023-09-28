@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105293,
-    "geom:area_square_m":1300910950.702804,
+    "geom:area_square_m":1300911027.304924,
     "geom:bbox":"32.779248,2.012566,33.160888,2.654224",
     "geom:latitude":2.304253,
     "geom:longitude":32.969395,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.LL.EU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899329,
-    "wof:geomhash":"8905b7628966d092d2d0ccb282c109d1",
+    "wof:geomhash":"85c94128b7919f57d7673aef3dfa495b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092070567,
-    "wof:lastmodified":1627522956,
+    "wof:lastmodified":1695886167,
     "wof:name":"Erute",
     "wof:parent_id":85679909,
     "wof:placetype":"county",

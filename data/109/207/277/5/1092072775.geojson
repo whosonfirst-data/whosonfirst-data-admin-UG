@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003673,
-    "geom:area_square_m":45414840.8805,
+    "geom:area_square_m":45414837.776262,
     "geom:bbox":"30.61288,-0.64016,30.699024,-0.580161",
     "geom:latitude":-0.609025,
     "geom:longitude":30.655504,
@@ -188,9 +188,10 @@
         "hasc:id":"UG.RR.MA",
         "wd:id":"Q1091595"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899422,
-    "wof:geomhash":"e17553610346149c93f407377b0ebbd5",
+    "wof:geomhash":"1a7ba09234dd65fd074a1e07146c3618",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -200,7 +201,7 @@
         }
     ],
     "wof:id":1092072775,
-    "wof:lastmodified":1690877050,
+    "wof:lastmodified":1695886709,
     "wof:name":"Mbarara Municipality",
     "wof:parent_id":85680069,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036252,
-    "geom:area_square_m":448172273.789602,
+    "geom:area_square_m":448172201.159421,
     "geom:bbox":"34.17828,1.086904,34.527208,1.289348",
     "geom:latitude":1.172689,
     "geom:longitude":34.331562,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"UG.SK.BD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899261,
-    "wof:geomhash":"df10d4c5245e176e729cf9988b191095",
+    "wof:geomhash":"69feb1f3b2f7cdaab9a97085e8f3c4b2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092068781,
-    "wof:lastmodified":1627522953,
+    "wof:lastmodified":1695886162,
     "wof:name":"Budadiri",
     "wof:parent_id":85679961,
     "wof:placetype":"county",

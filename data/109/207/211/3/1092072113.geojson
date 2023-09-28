@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.14196,
-    "geom:area_square_m":1755300069.047555,
+    "geom:area_square_m":1755299437.22859,
     "geom:bbox":"30.769549,0.194327,31.2575,0.770878",
     "geom:latitude":0.453613,
     "geom:longitude":31.001247,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"UG.QG.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899392,
-    "wof:geomhash":"1f95dc9768a4350cbfc4ad267f952829",
+    "wof:geomhash":"a0a9bd32695d77e519f245c52bc6d63e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1092072113,
-    "wof:lastmodified":1627522959,
+    "wof:lastmodified":1695886170,
     "wof:name":"Kyaka",
     "wof:parent_id":85680183,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056578,
-    "geom:area_square_m":699540336.929995,
+    "geom:area_square_m":699540309.485864,
     "geom:bbox":"30.31884,-0.843678,30.655149,-0.586738",
     "geom:latitude":-0.723046,
     "geom:longitude":30.509366,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.RR.RA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899465,
-    "wof:geomhash":"68c6a88fb065ab8bdade5b5c2cf80272",
+    "wof:geomhash":"b501b96cbd1da598484a4c29374f5774",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092073881,
-    "wof:lastmodified":1627522962,
+    "wof:lastmodified":1695886173,
     "wof:name":"Rwampara",
     "wof:parent_id":85680069,
     "wof:placetype":"county",

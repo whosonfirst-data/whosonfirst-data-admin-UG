@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069488,
-    "geom:area_square_m":857728571.894099,
+    "geom:area_square_m":857728530.342526,
     "geom:bbox":"31.426361,3.152139,31.768537,3.578108",
     "geom:latitude":3.395595,
     "geom:longitude":31.555553,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.MY.OO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899442,
-    "wof:geomhash":"a70ebdf64fe65386b5e33d8bba3c159a",
+    "wof:geomhash":"ee897df66b8f62880be936da19266733",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092073299,
-    "wof:lastmodified":1627522961,
+    "wof:lastmodified":1695886171,
     "wof:name":"Obongi",
     "wof:parent_id":85679853,
     "wof:placetype":"county",

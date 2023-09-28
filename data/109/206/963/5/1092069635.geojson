@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040569,
-    "geom:area_square_m":501628200.506513,
+    "geom:area_square_m":501628013.920316,
     "geom:bbox":"29.987005,0.337962,30.294318,0.625575",
     "geom:latitude":0.497603,
     "geom:longitude":30.171855,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.BR.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899295,
-    "wof:geomhash":"7f7a3016887f10aec9520cfa0583f1c5",
+    "wof:geomhash":"30c69013706f792dba91bc0898aa2ed5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092069635,
-    "wof:lastmodified":1627522954,
+    "wof:lastmodified":1695886164,
     "wof:name":"Bunyangabu",
     "wof:parent_id":85679939,
     "wof:placetype":"county",

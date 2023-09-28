@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064215,
-    "geom:area_square_m":794027328.591987,
+    "geom:area_square_m":794027382.190281,
     "geom:bbox":"31.01221,-0.090034,31.327617,0.238413",
     "geom:latitude":0.07921,
     "geom:longitude":31.169884,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.SE.LW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899408,
-    "wof:geomhash":"8d71a80ef38ea97bfc1afa92e94fd52a",
+    "wof:geomhash":"51517505e2e921713a45d84174c5807a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092072439,
-    "wof:lastmodified":1627522959,
+    "wof:lastmodified":1695886170,
     "wof:name":"Lwemiyaga",
     "wof:parent_id":85679823,
     "wof:placetype":"county",

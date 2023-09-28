@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.189314,
-    "geom:area_square_m":2336463427.384172,
+    "geom:area_square_m":2336463427.38389,
     "geom:bbox":"31.0488417098,3.18105458001,31.5351832344,3.79408",
     "geom:latitude":3.523409,
     "geom:longitude":31.28826,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.YU.AR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899247,
-    "wof:geomhash":"a81e3d4bd70fb7ce0f9deaea9c109bf7",
+    "wof:geomhash":"8b1e1327b3b6c13a4c3353f6be4f9586",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092068435,
-    "wof:lastmodified":1566595457,
+    "wof:lastmodified":1695886710,
     "wof:name":"Aringa",
     "wof:parent_id":85679857,
     "wof:placetype":"county",

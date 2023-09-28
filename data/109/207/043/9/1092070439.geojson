@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087389,
-    "geom:area_square_m":1079966403.121695,
+    "geom:area_square_m":1079966403.121692,
     "geom:bbox":"32.860566,1.707964,33.289156,2.111103",
     "geom:latitude":1.939567,
     "geom:longitude":33.077467,
@@ -196,12 +196,13 @@
         "hasc:id":"UG.DO.DK",
         "wd:id":"Q1318872"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85679913
     ],
     "wof:country":"UG",
     "wof:created":1473899325,
-    "wof:geomhash":"f5a05542ecf7d85b13e57031d9f8b988",
+    "wof:geomhash":"626f3958459b1f39db87958c31607da7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -211,7 +212,7 @@
         }
     ],
     "wof:id":1092070439,
-    "wof:lastmodified":1690877051,
+    "wof:lastmodified":1695886802,
     "wof:name":"Dokolo",
     "wof:parent_id":85679913,
     "wof:placetype":"county",

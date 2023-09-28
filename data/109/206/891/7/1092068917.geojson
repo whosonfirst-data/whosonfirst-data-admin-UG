@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.093073,
-    "geom:area_square_m":1150682124.532311,
+    "geom:area_square_m":1150682074.365345,
     "geom:bbox":"32.92713,0.790096,33.305464,1.227779",
     "geom:latitude":1.003074,
     "geom:longitude":33.094813,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.QU.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899267,
-    "wof:geomhash":"a830fe0a0c4d43178bb5e4815cfde3b5",
+    "wof:geomhash":"669adc842d8b770f8417f5f963c6eb0b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092068917,
-    "wof:lastmodified":1627522953,
+    "wof:lastmodified":1695886162,
     "wof:name":"Bugabula",
     "wof:parent_id":85679795,
     "wof:placetype":"county",

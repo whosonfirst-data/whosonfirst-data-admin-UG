@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138693,
-    "geom:area_square_m":1713866218.361608,
+    "geom:area_square_m":1713866218.36149,
     "geom:bbox":"34.2207478653,1.75114373799,34.7942393221,2.44137591002",
     "geom:latitude":2.050662,
     "geom:longitude":34.521714,
@@ -87,9 +87,10 @@
     "wof:concordances":{
         "hasc:id":"UG.NI.PA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899453,
-    "wof:geomhash":"e9cc5e6a23ed8625be82c97f42e02f76",
+    "wof:geomhash":"d6da0656a4e8f34956ee0874f2d9a2f5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,7 +100,7 @@
         }
     ],
     "wof:id":1092073567,
-    "wof:lastmodified":1566595443,
+    "wof:lastmodified":1695886709,
     "wof:name":"Pian",
     "wof:parent_id":85680021,
     "wof:placetype":"county",

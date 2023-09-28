@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082045,
-    "geom:area_square_m":1013546948.517499,
+    "geom:area_square_m":1013546997.633547,
     "geom:bbox":"31.250821,2.156437,31.528983,2.779689",
     "geom:latitude":2.486527,
     "geom:longitude":31.370917,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.NB.JN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899342,
-    "wof:geomhash":"7c6bf9af8adff77a4618bdf99959969d",
+    "wof:geomhash":"4520b9a8b9eec7b94deb9488e56bc0a3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092070857,
-    "wof:lastmodified":1627522956,
+    "wof:lastmodified":1695886167,
     "wof:name":"Jonam",
     "wof:parent_id":85679849,
     "wof:placetype":"county",

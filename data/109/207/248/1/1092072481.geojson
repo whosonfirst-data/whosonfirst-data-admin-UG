@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020591,
-    "geom:area_square_m":254573544.835183,
+    "geom:area_square_m":254573594.003646,
     "geom:bbox":"34.271047,0.96617,34.533896,1.118706",
     "geom:latitude":1.048337,
     "geom:longitude":34.396319,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.BA.MN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899409,
-    "wof:geomhash":"87e7d0b6bb0a3c93407fd7fdf295565f",
+    "wof:geomhash":"911579dbb50c1baedc5b416c8c8d153f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092072481,
-    "wof:lastmodified":1627522960,
+    "wof:lastmodified":1695886170,
     "wof:name":"Manjiya",
     "wof:parent_id":85680251,
     "wof:placetype":"county",

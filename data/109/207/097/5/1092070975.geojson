@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072258,
-    "geom:area_square_m":893470804.734289,
+    "geom:area_square_m":893470874.972294,
     "geom:bbox":"31.0675,-0.491767,31.3325,-0.026808",
     "geom:latitude":-0.217102,
     "geom:longitude":31.189565,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"UG.LY.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899346,
-    "wof:geomhash":"0b92dda09f399f6c347f6037557a22ca",
+    "wof:geomhash":"9cd3ada9851740fb6d664a433e7ccb0f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092070975,
-    "wof:lastmodified":1627522957,
+    "wof:lastmodified":1695886167,
     "wof:name":"Kabula",
     "wof:parent_id":85680215,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040048,
-    "geom:area_square_m":495124175.89776,
+    "geom:area_square_m":495124382.465866,
     "geom:bbox":"34.083465,0.836244,34.336,1.170767",
     "geom:latitude":1.018918,
     "geom:longitude":34.198501,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.ME.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899292,
-    "wof:geomhash":"a7f0438f66f5260b3a67d337212b9cd8",
+    "wof:geomhash":"f265067ec9ad29730fb15e888132a212",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092069563,
-    "wof:lastmodified":1627522954,
+    "wof:lastmodified":1695886164,
     "wof:name":"Bungokho",
     "wof:parent_id":85679965,
     "wof:placetype":"county",

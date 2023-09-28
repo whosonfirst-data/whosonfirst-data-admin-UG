@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033132,
-    "geom:area_square_m":409681178.49339,
+    "geom:area_square_m":409681495.480619,
     "geom:bbox":"31.810752,0.009841,32.302924,0.319325",
     "geom:latitude":0.156344,
     "geom:longitude":32.073533,
@@ -199,9 +199,10 @@
         "hasc:id":"UG.BT.BT",
         "wd:id":"Q3321622"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899307,
-    "wof:geomhash":"5c34c1a913838a66d0a462c7ad80ebae",
+    "wof:geomhash":"02f0ca461172602c8453366817091b1f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -211,7 +212,7 @@
         }
     ],
     "wof:id":1092069969,
-    "wof:lastmodified":1690877055,
+    "wof:lastmodified":1695886803,
     "wof:name":"Butambala",
     "wof:parent_id":85680131,
     "wof:placetype":"county",

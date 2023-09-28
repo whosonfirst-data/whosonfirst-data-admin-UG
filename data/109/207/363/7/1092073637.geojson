@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040174,
-    "geom:area_square_m":496698511.529557,
+    "geom:area_square_m":496698577.753204,
     "geom:bbox":"29.849015,-1.057898,30.074627,-0.774049",
     "geom:latitude":-0.921035,
     "geom:longitude":29.96971,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.RK.RB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899455,
-    "wof:geomhash":"fc24ba3a2205b4a4520fb3609e2a0a07",
+    "wof:geomhash":"cb0d54521ccb29f14c9e8b5921a93784",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092073637,
-    "wof:lastmodified":1627522962,
+    "wof:lastmodified":1695886172,
     "wof:name":"Rubabo",
     "wof:parent_id":85680061,
     "wof:placetype":"county",

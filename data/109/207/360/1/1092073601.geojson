@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.134828,
-    "geom:area_square_m":1666326020.069568,
+    "geom:area_square_m":1666326041.560728,
     "geom:bbox":"34.622266,1.367992,35.033049,2.28813",
     "geom:latitude":1.810133,
     "geom:longitude":34.88034,
@@ -57,9 +57,10 @@
     "wof:concordances":{
         "hasc:id":"UG.NP.PO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899454,
-    "wof:geomhash":"c9ff82db428f7104c13e8a279b7e219c",
+    "wof:geomhash":"f3ca6316301fece8bd2d5116c4377fe1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1092073601,
-    "wof:lastmodified":1627522963,
+    "wof:lastmodified":1695886173,
     "wof:name":"Upe",
     "wof:parent_id":85680209,
     "wof:placetype":"county",

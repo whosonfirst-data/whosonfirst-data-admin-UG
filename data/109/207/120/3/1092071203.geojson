@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015971,
-    "geom:area_square_m":197478599.520244,
+    "geom:area_square_m":197478598.756182,
     "geom:bbox":"32.510269,0.218872,32.670175,0.408811",
     "geom:latitude":0.317657,
     "geom:longitude":32.596129,
@@ -197,9 +197,10 @@
         "hasc:id":"UG.KM.KM",
         "wd:id":"Q926417"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899355,
-    "wof:geomhash":"fb5b0437ce3ec917ce49beb5d6b21620",
+    "wof:geomhash":"94238dff45823119a67a82119a102f82",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -209,7 +210,7 @@
         }
     ],
     "wof:id":1092071203,
-    "wof:lastmodified":1690877049,
+    "wof:lastmodified":1695886709,
     "wof:name":"Central Kampala",
     "wof:parent_id":85679867,
     "wof:placetype":"county",

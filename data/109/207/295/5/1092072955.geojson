@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190927,
-    "geom:area_square_m":2360690154.669457,
+    "geom:area_square_m":2360690344.336449,
     "geom:bbox":"30.396393,0.349975,30.924679,0.939208",
     "geom:latitude":0.659423,
     "geom:longitude":30.661955,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.QJ.ME"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899429,
-    "wof:geomhash":"e5f445af2dcab85e7a7f0045b8c4e355",
+    "wof:geomhash":"5afe5b47b658ae166537d9db1f4b2abd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092072955,
-    "wof:lastmodified":1627522960,
+    "wof:lastmodified":1695886171,
     "wof:name":"Mwenge",
     "wof:parent_id":85679943,
     "wof:placetype":"county",

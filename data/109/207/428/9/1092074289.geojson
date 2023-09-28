@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"UG.TR.KS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899483,
     "wof:geomhash":"cb28ea3dbcc4bf28b04b2b4e2328e682",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1092074289,
-    "wof:lastmodified":1694639797,
+    "wof:lastmodified":1695886169,
     "wof:name":"Kisoko",
     "wof:parent_id":85679989,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.091761,
-    "geom:area_square_m":1132897791.5154,
+    "geom:area_square_m":1132898394.811067,
     "geom:bbox":"30.930001,3.01284,31.4246,3.356942",
     "geom:latitude":3.177906,
     "geom:longitude":31.16596,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.AX.TR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899474,
-    "wof:geomhash":"9bb12be3f0cd01b67e8c1dbcbd4492d8",
+    "wof:geomhash":"3fa5db7396fdf38844552b6c949a7eb3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092074097,
-    "wof:lastmodified":1627522962,
+    "wof:lastmodified":1695886173,
     "wof:name":"Terego",
     "wof:parent_id":85679861,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060836,
-    "geom:area_square_m":750828238.912328,
+    "geom:area_square_m":750828238.911726,
     "geom:bbox":"30.848079,3.328859,31.099522,3.744319",
     "geom:latitude":3.52682,
     "geom:longitude":31.006857,
@@ -202,12 +202,13 @@
         "hasc:id":"UG.OK.KB",
         "wd:id":"Q1318857"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85679839
     ],
     "wof:country":"UG",
     "wof:created":1473899378,
-    "wof:geomhash":"3f3f2f69433b9878263a72b661b11d7d",
+    "wof:geomhash":"3f5a31be38250e5fdf1f83cd9e4a96bd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -217,7 +218,7 @@
         }
     ],
     "wof:id":1092071795,
-    "wof:lastmodified":1690877054,
+    "wof:lastmodified":1695886802,
     "wof:name":"Koboko",
     "wof:parent_id":85679839,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117526,
-    "geom:area_square_m":1453211421.719777,
+    "geom:area_square_m":1453211808.989209,
     "geom:bbox":"32.8625,0.050942,33.290897,0.557231",
     "geom:latitude":0.308801,
     "geom:longitude":33.039719,
@@ -191,9 +191,10 @@
         "hasc:id":"UG.BZ.BI",
         "wd:id":"Q3321631"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899276,
-    "wof:geomhash":"532681770b5b821c1a37fd3e2f9fdaef",
+    "wof:geomhash":"e22b32651c5123b13df295a1a990efb8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -203,7 +204,7 @@
         }
     ],
     "wof:id":1092069145,
-    "wof:lastmodified":1690877057,
+    "wof:lastmodified":1695886710,
     "wof:name":"Buyikwe",
     "wof:parent_id":85680121,
     "wof:placetype":"county",

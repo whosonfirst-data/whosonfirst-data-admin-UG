@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028786,
-    "geom:area_square_m":355846730.627284,
+    "geom:area_square_m":355846886.422293,
     "geom:bbox":"34.303603,1.197292,34.537415,1.477866",
     "geom:latitude":1.351863,
     "geom:longitude":34.422162,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.QP.TI"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899475,
-    "wof:geomhash":"778cebfd98f3d6ba6e7b1d45de3e2940",
+    "wof:geomhash":"807577bb0923d133169b82b8cd1fd0d1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092074137,
-    "wof:lastmodified":1627522962,
+    "wof:lastmodified":1695886173,
     "wof:name":"Tingey",
     "wof:parent_id":85679951,
     "wof:placetype":"county",

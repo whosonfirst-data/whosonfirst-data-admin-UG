@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25517,
-    "geom:area_square_m":3154388946.140862,
+    "geom:area_square_m":3154388978.581704,
     "geom:bbox":"30.540681,1.073639,31.416498,1.560429",
     "geom:latitude":1.316315,
     "geom:longitude":30.942462,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.HO.BH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899273,
-    "wof:geomhash":"e0b575b40680631fa063b17ec03cba5b",
+    "wof:geomhash":"3ac61155f36f82e6de30440e84defa00",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092069075,
-    "wof:lastmodified":1627522953,
+    "wof:lastmodified":1695886163,
     "wof:name":"Buhaguzi",
     "wof:parent_id":85679933,
     "wof:placetype":"county",

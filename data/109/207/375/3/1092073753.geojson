@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044092,
-    "geom:area_square_m":545167887.417001,
+    "geom:area_square_m":545167780.452743,
     "geom:bbox":"29.885485,-0.776341,30.160008,-0.437224",
     "geom:latitude":-0.621644,
     "geom:longitude":30.021619,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.MM.RH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899460,
-    "wof:geomhash":"219d6b1e63e39dbb6cdf2a0e70df29a8",
+    "wof:geomhash":"e7a0133170a21a4929be5b22d981c05e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092073753,
-    "wof:lastmodified":1627522962,
+    "wof:lastmodified":1695886172,
     "wof:name":"Ruhinda",
     "wof:parent_id":85680233,
     "wof:placetype":"county",

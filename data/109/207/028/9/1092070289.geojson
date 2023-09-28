@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.022096,
-    "geom:area_square_m":273195031.019818,
+    "geom:area_square_m":273194759.801794,
     "geom:bbox":"29.954837,0.615535,30.114253,0.860451",
     "geom:latitude":0.738229,
     "geom:longitude":30.022897,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.BX.BW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899319,
-    "wof:geomhash":"12006f7a2b2704e3206d40733572d7e0",
+    "wof:geomhash":"34ce8d791dedf2346ce7d59011ce379a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092070289,
-    "wof:lastmodified":1627522956,
+    "wof:lastmodified":1695886166,
     "wof:name":"Bwamba",
     "wof:parent_id":85679929,
     "wof:placetype":"county",

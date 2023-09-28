@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049808,
-    "geom:area_square_m":615812699.339592,
+    "geom:area_square_m":615812630.028143,
     "geom:bbox":"34.181888,0.753533,34.492231,1.027696",
     "geom:latitude":0.889976,
     "geom:longitude":34.34159,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.MW.BB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899259,
-    "wof:geomhash":"d5e2ac79b5552ae262aab29f15fa07d0",
+    "wof:geomhash":"6779657075c399e0685cfcc4c0ab2545",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092068753,
-    "wof:lastmodified":1627522952,
+    "wof:lastmodified":1695886162,
     "wof:name":"Bubulo",
     "wof:parent_id":85679969,
     "wof:placetype":"county",

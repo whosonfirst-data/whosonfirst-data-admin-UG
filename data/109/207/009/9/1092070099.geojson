@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.775506,
-    "geom:area_square_m":9588871928.970747,
+    "geom:area_square_m":9588871640.776743,
     "geom:bbox":"32.872383,-1.0,33.522632,0.358205",
     "geom:latitude":-0.3939,
     "geom:longitude":33.207618,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"UG.BV.BV"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899311,
-    "wof:geomhash":"34a9f9a3e62353962be586c7c24f2a8d",
+    "wof:geomhash":"291c75844edd990d50a8bd411ad6f586",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1092070099,
-    "wof:lastmodified":1627522955,
+    "wof:lastmodified":1695886165,
     "wof:name":"Buvuma Islands",
     "wof:parent_id":85680125,
     "wof:placetype":"county",

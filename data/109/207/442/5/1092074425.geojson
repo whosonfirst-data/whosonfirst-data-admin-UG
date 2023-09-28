@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.317687,
-    "geom:area_square_m":3924723523.971667,
+    "geom:area_square_m":3924723335.563938,
     "geom:bbox":"30.974561,1.343662,31.750298,3.193216",
     "geom:latitude":2.36747,
     "geom:longitude":31.40662,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"UG.AX.MD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899489,
-    "wof:geomhash":"f26ff1c6f217c4b290e616a0a5fc1250",
+    "wof:geomhash":"42e29e81716be5da8cd6c23f13886a35",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1092074425,
-    "wof:lastmodified":1627522960,
+    "wof:lastmodified":1695886171,
     "wof:name":"Madi-okollo",
     "wof:parent_id":85679921,
     "wof:placetype":"county",

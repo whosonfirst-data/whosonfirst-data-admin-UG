@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.051981,
-    "geom:area_square_m":642704125.239847,
+    "geom:area_square_m":642704171.153265,
     "geom:bbox":"33.361537,0.533279,33.578763,0.911201",
     "geom:latitude":0.729659,
     "geom:longitude":33.477848,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.IC.KG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899371,
-    "wof:geomhash":"53e717e9cb7d546b22ab14e0dbfed637",
+    "wof:geomhash":"125e1bb05e5a09f41bbf54ca4ed6bcf4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092071603,
-    "wof:lastmodified":1627522958,
+    "wof:lastmodified":1695886168,
     "wof:name":"Kigulu",
     "wof:parent_id":85679789,
     "wof:placetype":"county",

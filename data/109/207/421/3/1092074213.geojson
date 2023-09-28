@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032864,
-    "geom:area_square_m":406332993.063162,
+    "geom:area_square_m":406332896.044228,
     "geom:bbox":"34.052435,0.580185,34.313723,0.907421",
     "geom:latitude":0.737216,
     "geom:longitude":34.187887,
@@ -199,9 +199,10 @@
         "hasc:id":"UG.TR.TO",
         "wd:id":"Q1186541"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899478,
-    "wof:geomhash":"ae2ae7f4b39c1cb76fe427e44b66beca",
+    "wof:geomhash":"55c00e58a39537d47396b9a269972606",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -211,7 +212,7 @@
         }
     ],
     "wof:id":1092074213,
-    "wof:lastmodified":1690877050,
+    "wof:lastmodified":1695886802,
     "wof:name":"Tororo",
     "wof:parent_id":85679989,
     "wof:placetype":"county",

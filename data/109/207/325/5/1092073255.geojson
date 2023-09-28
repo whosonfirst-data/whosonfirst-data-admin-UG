@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.24712,
-    "geom:area_square_m":3055619244.309371,
+    "geom:area_square_m":3055619351.669647,
     "geom:bbox":"30.607107,-0.712653,31.154197,0.057552",
     "geom:latitude":-0.347295,
     "geom:longitude":30.91375,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.KH.NA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899441,
-    "wof:geomhash":"20234b97a8cd425b28c0d8519e8a9adb",
+    "wof:geomhash":"7f16213bb01a41a9f5cdc0e696a6d1f0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092073255,
-    "wof:lastmodified":1627522961,
+    "wof:lastmodified":1695886171,
     "wof:name":"Nyabushozi",
     "wof:parent_id":1108808411,
     "wof:placetype":"county",

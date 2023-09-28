@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076043,
-    "geom:area_square_m":940219525.713364,
+    "geom:area_square_m":940220138.990183,
     "geom:bbox":"31.4375,-0.826294,31.956598,-0.427443",
     "geom:latitude":-0.651882,
     "geom:longitude":31.634076,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"UG.RI.KY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899395,
-    "wof:geomhash":"e8c4f005a7a409e2313e486745428ba6",
+    "wof:geomhash":"145f6d62201a95e3beddfe25d715e13a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092072187,
-    "wof:lastmodified":1627522959,
+    "wof:lastmodified":1695886170,
     "wof:name":"Kyotera",
     "wof:parent_id":85680025,
     "wof:placetype":"county",

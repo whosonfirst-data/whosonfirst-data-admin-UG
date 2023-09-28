@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067654,
-    "geom:area_square_m":836508943.122078,
+    "geom:area_square_m":836508804.432959,
     "geom:bbox":"32.703734,0.368941,32.982756,0.859145",
     "geom:latitude":0.59078,
     "geom:longitude":32.84408,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.MV.NK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899432,
-    "wof:geomhash":"53e9a66af45d5977403db283ee7fc669",
+    "wof:geomhash":"777f2da328b604e5cea234355a8ea5c1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092073015,
-    "wof:lastmodified":1627522961,
+    "wof:lastmodified":1695886171,
     "wof:name":"Nakifuma",
     "wof:parent_id":85679817,
     "wof:placetype":"county",

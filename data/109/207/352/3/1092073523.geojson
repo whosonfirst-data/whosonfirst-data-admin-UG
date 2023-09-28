@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0627,
-    "geom:area_square_m":775123279.169042,
+    "geom:area_square_m":775123506.242627,
     "geom:bbox":"33.39561,1.092304,33.872895,1.3475",
     "geom:latitude":1.233976,
     "geom:longitude":33.659179,
@@ -202,9 +202,10 @@
         "hasc:id":"UG.PS.PS",
         "wd:id":"Q1375843"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899451,
-    "wof:geomhash":"bd277170b6e2e5c9303cd3ee0c703867",
+    "wof:geomhash":"71f8888f804f551d53146c20c312dacd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -214,7 +215,7 @@
         }
     ],
     "wof:id":1092073523,
-    "wof:lastmodified":1690877044,
+    "wof:lastmodified":1695886801,
     "wof:name":"Pallisa",
     "wof:parent_id":85679819,
     "wof:placetype":"county",

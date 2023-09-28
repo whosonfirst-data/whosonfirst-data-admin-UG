@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124184,
-    "geom:area_square_m":1535548122.171312,
+    "geom:area_square_m":1535548240.090045,
     "geom:bbox":"31.272069,-0.342884,31.598039,0.212614",
     "geom:latitude":-0.075763,
     "geom:longitude":31.426868,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.SE.MW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899417,
-    "wof:geomhash":"ee6eee2459c307401ce67070f12fbdeb",
+    "wof:geomhash":"f2ab354e60c774620215d405207b5249",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092072661,
-    "wof:lastmodified":1627522960,
+    "wof:lastmodified":1695886170,
     "wof:name":"Mawogola",
     "wof:parent_id":85679823,
     "wof:placetype":"county",

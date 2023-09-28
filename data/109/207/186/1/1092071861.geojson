@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043696,
-    "geom:area_square_m":540182272.434596,
+    "geom:area_square_m":540182004.310255,
     "geom:bbox":"34.551741,1.104697,34.831583,1.410567",
     "geom:latitude":1.272786,
     "geom:longitude":34.683352,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.BW.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899382,
-    "wof:geomhash":"b202c718e04a9ef11be54c6b2cd58b98",
+    "wof:geomhash":"d0c1bb04b9bb822c1f7a83d6885eeae7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092071861,
-    "wof:lastmodified":1627522959,
+    "wof:lastmodified":1695886169,
     "wof:name":"Kongasis",
     "wof:parent_id":85679957,
     "wof:placetype":"county",

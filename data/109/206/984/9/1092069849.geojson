@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066187,
-    "geom:area_square_m":818319789.671664,
+    "geom:area_square_m":818319844.823926,
     "geom:bbox":"33.53946,0.686461,33.847693,1.09136",
     "geom:latitude":0.87154,
     "geom:longitude":33.680527,
@@ -193,9 +193,10 @@
         "hasc:id":"UG.BK.BS",
         "wd:id":"Q1375819"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899303,
-    "wof:geomhash":"7075a18758a0430304d1a165fd109119",
+    "wof:geomhash":"91770f0c74f7ace72ee4312f0d34a3ce",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -205,7 +206,7 @@
         }
     ],
     "wof:id":1092069849,
-    "wof:lastmodified":1690877056,
+    "wof:lastmodified":1695886710,
     "wof:name":"Busiki",
     "wof:parent_id":85679807,
     "wof:placetype":"county",

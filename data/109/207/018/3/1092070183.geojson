@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126707,
-    "geom:area_square_m":1566512880.997423,
+    "geom:area_square_m":1566513334.74416,
     "geom:bbox":"30.535746,0.83875,31.130464,1.203471",
     "geom:latitude":1.017637,
     "geom:longitude":30.808567,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.KI.BY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899314,
-    "wof:geomhash":"afa7e5ce5c0ca9acc5068704acc15b81",
+    "wof:geomhash":"b06e3885f6b1d003f950559e613977d6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092070183,
-    "wof:lastmodified":1627522955,
+    "wof:lastmodified":1695886165,
     "wof:name":"Buyaga",
     "wof:parent_id":85679947,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001075,
-    "geom:area_square_m":13291461.851788,
+    "geom:area_square_m":13291502.949066,
     "geom:bbox":"32.553965,0.982636,32.585689,1.042474",
     "geom:latitude":1.011478,
     "geom:longitude":32.56935,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.LW.KT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899364,
-    "wof:geomhash":"8f51c0f6c189e8960b67ff3679a75a94",
+    "wof:geomhash":"85a060fe79c6913afb80ec3d04801de7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092071441,
-    "wof:lastmodified":1627522958,
+    "wof:lastmodified":1695886168,
     "wof:name":"Katikamu",
     "wof:parent_id":85679881,
     "wof:placetype":"county",

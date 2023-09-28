@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.273688,
-    "geom:area_square_m":3379748844.679579,
+    "geom:area_square_m":3379748454.181743,
     "geom:bbox":"32.471596,2.531241,33.223165,3.241764",
     "geom:latitude":2.935463,
     "geom:longitude":32.871562,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.PR.AU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899250,
-    "wof:geomhash":"c3b8a3862fa43e116b871b1bf3ea19e8",
+    "wof:geomhash":"fdf9191bfc79d6412c64a26c24a8a140",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092068503,
-    "wof:lastmodified":1627522952,
+    "wof:lastmodified":1695886161,
     "wof:name":"Aruu",
     "wof:parent_id":85679917,
     "wof:placetype":"county",

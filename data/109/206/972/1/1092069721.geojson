@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.10368,
-    "geom:area_square_m":1281935680.265469,
+    "geom:area_square_m":1281935599.746221,
     "geom:bbox":"30.119694,0.268254,30.56079,0.971601",
     "geom:latitude":0.638156,
     "geom:longitude":30.335063,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.BR.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899298,
-    "wof:geomhash":"adf79373c605f680013675ac7af53208",
+    "wof:geomhash":"c68835b262d18f329d416f0d879063a5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092069721,
-    "wof:lastmodified":1627522954,
+    "wof:lastmodified":1695886164,
     "wof:name":"Burahya",
     "wof:parent_id":85679939,
     "wof:placetype":"county",

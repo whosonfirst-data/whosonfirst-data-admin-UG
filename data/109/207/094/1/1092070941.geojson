@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.072201,
-    "geom:area_square_m":892389153.196058,
+    "geom:area_square_m":892388990.95334,
     "geom:bbox":"32.945725,1.463323,33.308813,1.913333",
     "geom:latitude":1.696939,
     "geom:longitude":33.127587,
@@ -199,9 +199,10 @@
         "hasc:id":"UG.KD.KB",
         "wd:id":"Q1229906"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899345,
-    "wof:geomhash":"fe17cc9aca30298bf6f98e424565ce7b",
+    "wof:geomhash":"a14fb18c1f324660b1970b6faa2c2a84",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -211,7 +212,7 @@
         }
     ],
     "wof:id":1092070941,
-    "wof:lastmodified":1690877054,
+    "wof:lastmodified":1695886802,
     "wof:name":"Kaberamaido",
     "wof:parent_id":85679783,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030959,
-    "geom:area_square_m":382792954.954327,
+    "geom:area_square_m":382792538.606266,
     "geom:bbox":"33.53855,0.446296,33.684071,0.804612",
     "geom:latitude":0.629582,
     "geom:longitude":33.604845,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.IC.BG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899271,
-    "wof:geomhash":"b0aade48d9a3d86edb2150510934b574",
+    "wof:geomhash":"76198c018a601bb5df32b0396f008dd5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092069033,
-    "wof:lastmodified":1627522953,
+    "wof:lastmodified":1695886163,
     "wof:name":"Bugweri",
     "wof:parent_id":85679789,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.256767,
-    "geom:area_square_m":3174855030.480427,
+    "geom:area_square_m":3174854865.617993,
     "geom:bbox":"31.167211,-0.815933,32.060639,-0.1494",
     "geom:latitude":-0.465918,
     "geom:longitude":31.716888,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"UG.LE.BU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899287,
-    "wof:geomhash":"eab962401f40318ee1427bcfbe68a011",
+    "wof:geomhash":"0713642341b9ed25b0937be175522c44",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1092069393,
-    "wof:lastmodified":1627522954,
+    "wof:lastmodified":1695886164,
     "wof:name":"Bukoto",
     "wof:parent_id":85680031,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070125,
-    "geom:area_square_m":867112837.211829,
+    "geom:area_square_m":867112416.981167,
     "geom:bbox":"29.704074,-0.203913,30.029155,0.314669",
     "geom:latitude":0.049269,
     "geom:longitude":29.836527,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"UG.KS.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899285,
-    "wof:geomhash":"4e69f20078f1b63aba932fcb3435f5a8",
+    "wof:geomhash":"0ff08f350b77c62a9c28f3f4014ead03",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1092069357,
-    "wof:lastmodified":1627522954,
+    "wof:lastmodified":1695886163,
     "wof:name":"Bukonjo",
     "wof:parent_id":85680037,
     "wof:placetype":"county",

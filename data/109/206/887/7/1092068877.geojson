@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059293,
-    "geom:area_square_m":733001418.787954,
+    "geom:area_square_m":733001367.289429,
     "geom:bbox":"29.573558,-1.389214,29.821324,-1.007282",
     "geom:latitude":-1.217197,
     "geom:longitude":29.681477,
@@ -128,9 +128,10 @@
         "hasc:id":"UG.KR.BF",
         "wd:id":"Q580538"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899265,
-    "wof:geomhash":"8d354389147b4f37b438fa18ef55afb6",
+    "wof:geomhash":"a5703f473225b09d8ec2e53c9bcaee2e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":1092068877,
-    "wof:lastmodified":1690877056,
+    "wof:lastmodified":1695886710,
     "wof:name":"Bufumbira",
     "wof:parent_id":85680075,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124441,
-    "geom:area_square_m":1538704967.40735,
+    "geom:area_square_m":1538704687.836205,
     "geom:bbox":"31.9925,-0.620338,32.40228,-0.148555",
     "geom:latitude":-0.373378,
     "geom:longitude":32.159913,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"UG.KN.BJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899277,
-    "wof:geomhash":"dcf43929adcaeb6ffef701005af715db",
+    "wof:geomhash":"2a915dee0791c1a26252a87640e6ca1c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1092069185,
-    "wof:lastmodified":1627522953,
+    "wof:lastmodified":1695886163,
     "wof:name":"Bujumba",
     "wof:parent_id":85679769,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.287263,
-    "geom:area_square_m":3548231748.174888,
+    "geom:area_square_m":3548232071.693473,
     "geom:bbox":"34.280556,2.127289,34.955515,3.108778",
     "geom:latitude":2.652049,
     "geom:longitude":34.63076,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.MX.MT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899415,
-    "wof:geomhash":"a96bff95b37027068daeaa96fd36ca1f",
+    "wof:geomhash":"3adabb694812c479413c4a11e6c87cee",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092072625,
-    "wof:lastmodified":1627522960,
+    "wof:lastmodified":1695886170,
     "wof:name":"Matheniko",
     "wof:parent_id":85680017,
     "wof:placetype":"county",

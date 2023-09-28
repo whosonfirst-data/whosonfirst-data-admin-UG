@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.278737,
-    "geom:area_square_m":3446520721.934836,
+    "geom:area_square_m":3446520721.93393,
     "geom:bbox":"33.2728545534,-1.0,33.7088081394,0.606885261583",
     "geom:latitude":-0.090174,
     "geom:longitude":33.550692,
@@ -72,9 +72,10 @@
     "wof:concordances":{
         "hasc:id":"UG.MG.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899294,
-    "wof:geomhash":"707a85ecc4a9fa98a8df65db4b29c1ce",
+    "wof:geomhash":"3897b260d7e249f97a5e8be82de8ad51",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":1092069607,
-    "wof:lastmodified":1566595460,
+    "wof:lastmodified":1695886710,
     "wof:name":"Bunya",
     "wof:parent_id":85679985,
     "wof:placetype":"county",

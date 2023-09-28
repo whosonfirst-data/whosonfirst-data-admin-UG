@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.155231,
-    "geom:area_square_m":1919368670.291289,
+    "geom:area_square_m":1919368891.278924,
     "geom:bbox":"31.565876,0.242507,31.956955,0.823389",
     "geom:latitude":0.542268,
     "geom:longitude":31.754004,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"UG.MD.KS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899361,
-    "wof:geomhash":"3756e6594d7a48b7645f2ad1a1d0c42d",
+    "wof:geomhash":"429efb20bfe3521dd43130862c6a1c5a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092071357,
-    "wof:lastmodified":1627522958,
+    "wof:lastmodified":1695886168,
     "wof:name":"Kassanda",
     "wof:parent_id":85679889,
     "wof:placetype":"county",

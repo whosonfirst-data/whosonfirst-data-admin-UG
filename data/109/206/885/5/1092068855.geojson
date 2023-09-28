@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.15269,
-    "geom:area_square_m":1887582373.689764,
+    "geom:area_square_m":1887582071.041809,
     "geom:bbox":"32.820667,0.987438,33.439334,1.4839",
     "geom:latitude":1.2643,
     "geom:longitude":33.140939,
@@ -56,9 +56,10 @@
     "wof:concordances":{
         "hasc:id":"UG.KX.BD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899264,
-    "wof:geomhash":"973f35bfa63d3cb30f3fc688d00e8dca",
+    "wof:geomhash":"ba6764b345af5852c22fee6e5e502a3f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1092068855,
-    "wof:lastmodified":1627522953,
+    "wof:lastmodified":1695886162,
     "wof:name":"Budiope",
     "wof:parent_id":85680103,
     "wof:placetype":"county",

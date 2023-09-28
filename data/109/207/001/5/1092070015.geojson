@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02632,
-    "geom:area_square_m":325379468.189972,
+    "geom:area_square_m":325379125.898172,
     "geom:bbox":"33.734858,1.081183,34.138927,1.296434",
     "geom:latitude":1.199027,
     "geom:longitude":33.93754,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"UG.PS.BT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899308,
-    "wof:geomhash":"131046837fc69b652ba4a8633528b3de",
+    "wof:geomhash":"cd191509034e1c184c60e6d647f8d7c8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092070015,
-    "wof:lastmodified":1627522955,
+    "wof:lastmodified":1695886165,
     "wof:name":"Butebo",
     "wof:parent_id":85679819,
     "wof:placetype":"county",

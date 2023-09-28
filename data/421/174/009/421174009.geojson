@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00317,
-    "geom:area_square_m":39197619.412798,
+    "geom:area_square_m":39197596.404816,
     "geom:bbox":"30.251656,0.618321,30.321065,0.701112",
     "geom:latitude":0.655574,
     "geom:longitude":30.281449,
@@ -365,12 +365,13 @@
         "wd:id":"Q1229910",
         "wk:page":"Fort Portal"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1459009017,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"95fc9aeae93728ddadaf5791c775eb29",
+    "wof:geomhash":"9eeaf6435c88cbd0f66a45350a29a5ac",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -380,7 +381,7 @@
         }
     ],
     "wof:id":421174009,
-    "wof:lastmodified":1690877061,
+    "wof:lastmodified":1695886795,
     "wof:name":"Fort Portal Municipality",
     "wof:parent_id":85679939,
     "wof:placetype":"county",

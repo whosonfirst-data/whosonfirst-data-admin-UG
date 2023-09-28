@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.20301,
-    "geom:area_square_m":2510239398.231119,
+    "geom:area_square_m":2510239721.465731,
     "geom:bbox":"29.712957,-0.208464,30.296103,0.484098",
     "geom:latitude":0.1452,
     "geom:longitude":30.059183,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.KS.BS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899304,
-    "wof:geomhash":"791d386642dd24cff128afe860c4fb25",
+    "wof:geomhash":"7e590e64614b98709451c3e209a2bdb6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092069895,
-    "wof:lastmodified":1627522955,
+    "wof:lastmodified":1695886165,
     "wof:name":"Busongora",
     "wof:parent_id":85680037,
     "wof:placetype":"county",
