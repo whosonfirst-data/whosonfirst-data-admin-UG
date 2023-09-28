@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.188398,
-    "geom:area_square_m":2329575450.763263,
+    "geom:area_square_m":2329575622.280384,
     "geom:bbox":"31.01221,-0.342884,31.598039,0.238413",
     "geom:latitude":-0.022941,
     "geom:longitude":31.339276,
@@ -280,16 +280,18 @@
         "gn:id":443787,
         "gp:id":20070450,
         "hasc:id":"UG.SE",
+        "iso:code":"UG-111",
         "iso:id":"UG-111",
         "qs_pg:id":1109540,
         "unlc:id":"UG-111",
         "wd:id":"Q976883"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"426555e15c69dbba0a3478f4876308f1",
+    "wof:geomhash":"47a7f016f7f18a75e0f48590fa2f4263",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -306,7 +308,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877026,
+    "wof:lastmodified":1695884915,
     "wof:name":"Sembabule",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

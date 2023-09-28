@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056771,
-    "geom:area_square_m":701948180.276792,
+    "geom:area_square_m":701948032.964989,
     "geom:bbox":"30.116694,-0.762059,30.477506,-0.423225",
     "geom:latitude":-0.601639,
     "geom:longitude":30.325648,
@@ -156,14 +156,16 @@
         "gn:id":8030587,
         "gp:id":-20070414,
         "hasc:id":"UG.SH",
+        "iso:code":"UG-425",
         "iso:id":"UG-425",
         "unlc:id":"UG-425"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d3c5cccd7235ff87927e4d1fa9a39a54",
+    "wof:geomhash":"72101efe057d2befde70296faeac3d80",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -180,7 +182,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501846,
+    "wof:lastmodified":1695884916,
     "wof:name":"Sheema",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

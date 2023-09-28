@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078326,
-    "geom:area_square_m":968517471.883643,
+    "geom:area_square_m":968517471.883617,
     "geom:bbox":"30.246556,-0.286396,30.638789,0.164335",
     "geom:latitude":-0.076533,
     "geom:longitude":30.488663,
@@ -280,11 +280,13 @@
         "gn:id":7056284,
         "gp:id":56190204,
         "hasc:id":"UG.AM",
+        "iso:code":"UG-216",
         "iso:id":"UG-216",
         "qs_pg:id":1112932,
         "unlc:id":"UG-416",
         "wd:id":"Q1318877"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1092070677
     ],
@@ -292,7 +294,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3dab6473f4033a70efc8497d19964596",
+    "wof:geomhash":"56d6bea9b230821da147ee1677151737",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -309,7 +311,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877035,
+    "wof:lastmodified":1695884917,
     "wof:name":"Ibanda",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028786,
-    "geom:area_square_m":355846730.627284,
+    "geom:area_square_m":355846886.422293,
     "geom:bbox":"34.303603,1.197292,34.537415,1.477866",
     "geom:latitude":1.351863,
     "geom:longitude":34.422162,
@@ -213,14 +213,16 @@
         "fips:code":"UGA5",
         "gp:id":20070423,
         "hasc:id":"UG.QP",
+        "iso:code":"UG-206",
         "iso:id":"UG-206",
         "wd:id":"Q1229921"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9bfa690a130124e26ccabe79d6cebd80",
+    "wof:geomhash":"5aaacef95a7f34e14803439d54ce7be5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -237,7 +239,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877016,
+    "wof:lastmodified":1695884913,
     "wof:name":"Kapchorwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

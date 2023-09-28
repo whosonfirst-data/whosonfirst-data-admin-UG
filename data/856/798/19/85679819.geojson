@@ -202,8 +202,10 @@
     "wof:concordances":{
         "gp:id":20070441,
         "hasc:id":"UG.PS",
+        "iso:code":"UG-210",
         "wd:id":"Q1375843"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
@@ -225,7 +227,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1694493260,
+    "wof:lastmodified":1695884914,
     "wof:name":"Pallisa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

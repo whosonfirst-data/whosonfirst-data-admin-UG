@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039869,
-    "geom:area_square_m":492902620.656837,
+    "geom:area_square_m":492902403.393279,
     "geom:bbox":"33.626366,0.945987,33.935964,1.172168",
     "geom:latitude":1.056519,
     "geom:longitude":33.800399,
@@ -218,15 +218,17 @@
         "fips:code":"UGF6",
         "gp:id":20070441,
         "hasc:id":"UG.QB",
+        "iso:code":"UG-227",
         "iso:id":"UG-227",
         "unlc:id":"UG-227",
         "wd:id":"Q1375843"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"53f27932a34384bf25b10cf926af05d1",
+    "wof:geomhash":"c91e8c5687d1e63d6ed0451347814f74",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -243,7 +245,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877037,
+    "wof:lastmodified":1695884917,
     "wof:name":"Kibuku",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

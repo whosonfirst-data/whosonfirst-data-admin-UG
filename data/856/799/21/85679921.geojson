@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.319319,
-    "geom:area_square_m":3946569589.892904,
+    "geom:area_square_m":3946569623.59031,
     "geom:bbox":"31.367959,1.32623,32.090828,2.300243",
     "geom:latitude":1.746435,
     "geom:longitude":31.711529,
@@ -229,14 +229,16 @@
         "fips:code":"UG50",
         "gp:id":20070432,
         "hasc:id":"UG.MZ",
+        "iso:code":"UG-409",
         "iso:id":"UG-409",
         "wd:id":"Q1032238"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"73c4bacd69050e29cc4183ecf41ecddb",
+    "wof:geomhash":"cd05ed11153bfa0d7e04b2361b73e67a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -253,7 +255,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877017,
+    "wof:lastmodified":1695884913,
     "wof:name":"Masindi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

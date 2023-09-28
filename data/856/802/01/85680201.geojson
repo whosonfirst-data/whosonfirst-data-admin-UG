@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.404667,
-    "geom:area_square_m":4999362749.248236,
+    "geom:area_square_m":4999362885.820486,
     "geom:bbox":"33.630168,1.885623,34.590829,2.907413",
     "geom:latitude":2.399602,
     "geom:longitude":34.221374,
@@ -220,14 +220,16 @@
         "fips:code":"UGG8",
         "gp:id":20070435,
         "hasc:id":"UG.NQ",
+        "iso:code":"UG-328",
         "iso:id":"UG-328",
         "wd:id":"Q1375850"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8c842ff904148248bd6a9f3c9d44f9c4",
+    "wof:geomhash":"d9160a4d85879b6ae730f2be64c92ded",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -244,7 +246,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877028,
+    "wof:lastmodified":1695884915,
     "wof:name":"Napak",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

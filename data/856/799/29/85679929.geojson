@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.06695,
-    "geom:area_square_m":827792247.932716,
+    "geom:area_square_m":827792060.844037,
     "geom:bbox":"29.911667,0.4026,30.204903,0.895043",
     "geom:latitude":0.698243,
     "geom:longitude":30.056901,
@@ -276,15 +276,17 @@
         "gn:id":443329,
         "gp:id":20070413,
         "hasc:id":"UG.BX",
+        "iso:code":"UG-401",
         "iso:id":"UG-401",
         "qs_pg:id":1087213,
         "wd:id":"Q1362129"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9c50877da6ff6ee5891ac212ffdf593a",
+    "wof:geomhash":"1f532145764d9a8c166ed12904de1150",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -301,7 +303,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877017,
+    "wof:lastmodified":1695884913,
     "wof:name":"Bundibugyo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

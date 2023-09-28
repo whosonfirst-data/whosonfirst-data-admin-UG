@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.273688,
-    "geom:area_square_m":3379748844.679579,
+    "geom:area_square_m":3379748454.181743,
     "geom:bbox":"32.471596,2.531241,33.223165,3.241764",
     "geom:latitude":2.935463,
     "geom:longitude":32.871562,
@@ -178,14 +178,16 @@
         "fips:code":"UG92",
         "gp:id":24550736,
         "hasc:id":"UG.PR",
+        "iso:code":"UG-312",
         "iso:id":"UG-312",
         "wd:id":"Q1230035"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"db6fee0bdd9225e3da3ba1448b63084c",
+    "wof:geomhash":"2c98879b1bb752553929564c14f97e7b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -202,7 +204,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877017,
+    "wof:lastmodified":1695884913,
     "wof:name":"Pader",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

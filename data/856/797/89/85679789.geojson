@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.08294,
-    "geom:area_square_m":1025497080.194116,
+    "geom:area_square_m":1025496709.759397,
     "geom:bbox":"33.361537,0.446296,33.684071,0.911201",
     "geom:latitude":0.692303,
     "geom:longitude":33.525252,
@@ -224,14 +224,16 @@
         "fips:code":"UGA3",
         "gp:id":20070449,
         "hasc:id":"UG.IC",
+        "iso:code":"UG-203",
         "iso:id":"UG-203",
         "wd:id":"Q1229869"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"172ede16486b50e2bbc964b0bf9df0c3",
+    "wof:geomhash":"34d936a4c0e7b68920ed91a40e65c620",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -248,7 +250,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877013,
+    "wof:lastmodified":1695884913,
     "wof:name":"Iganga",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

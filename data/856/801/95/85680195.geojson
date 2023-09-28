@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053139,
-    "geom:area_square_m":656879255.314364,
+    "geom:area_square_m":656878802.657206,
     "geom:bbox":"34.226202,1.151863,34.537286,1.569735",
     "geom:latitude":1.381292,
     "geom:longitude":34.352176,
@@ -105,15 +105,17 @@
         "fips:code":"UGE9",
         "gp:id":24550737,
         "hasc:id":"UG.BB",
+        "iso:code":"UG-225",
         "iso:id":"UG-225",
         "unlc:id":"UG-225",
         "wd:id":"Q4987203"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"24d8cfe3ebbf8c2d73b32e354aede2ca",
+    "wof:geomhash":"dee6a420d302c617aa7198d9a533e102",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -130,7 +132,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501852,
+    "wof:lastmodified":1695884917,
     "wof:name":"Bulambuli",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

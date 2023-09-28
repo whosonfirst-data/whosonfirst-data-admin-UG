@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.282415,
-    "geom:area_square_m":3491497476.316724,
+    "geom:area_square_m":3491497440.926296,
     "geom:bbox":"31.821762,0.537061,32.499465,1.470917",
     "geom:latitude":1.051444,
     "geom:longitude":32.168359,
@@ -125,16 +125,18 @@
         "fips:code":"UGD9",
         "gp:id":20070453,
         "hasc:id":"UG.NK",
+        "iso:code":"UG-115",
         "iso:id":"UG-115",
         "qs_pg:id":1084703,
         "unlc:id":"UG-115",
         "wd:id":"Q3529595"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"46dda29f77516a7b7b8a47513c15e83f",
+    "wof:geomhash":"3cc6fb14de5239af348951b4949f3e5e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -151,7 +153,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877021,
+    "wof:lastmodified":1695884914,
     "wof:name":"Nakaseke",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087309,
-    "geom:area_square_m":1079227339.189071,
+    "geom:area_square_m":1079227339.189131,
     "geom:bbox":"33.729819,1.260694,34.230064,1.6525",
     "geom:latitude":1.476344,
     "geom:longitude":33.96055,
@@ -217,9 +217,11 @@
         "fips:code":"UG46",
         "gp:id":20070430,
         "hasc:id":"UG.QM",
+        "iso:code":"UG-208",
         "iso:id":"UG-208",
         "wd:id":"Q1151062"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1092071937
     ],
@@ -227,7 +229,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c435c34f4928b497c71aec90fb554684",
+    "wof:geomhash":"d8a075d0b2567d56ee5ec8278c6dcb79",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -244,7 +246,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877014,
+    "wof:lastmodified":1695884913,
     "wof:name":"Kumi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

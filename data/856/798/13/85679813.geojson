@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114826,
-    "geom:area_square_m":1419168011.311129,
+    "geom:area_square_m":1419168011.311097,
     "geom:bbox":"33.395973,1.55864,33.814237,2.023329",
     "geom:latitude":1.774512,
     "geom:longitude":33.590272,
@@ -213,9 +213,11 @@
         "fips:code":"UG95",
         "gp:id":20070447,
         "hasc:id":"UG.ST",
+        "iso:code":"UG-211",
         "iso:id":"UG-211",
         "wd:id":"Q1091337"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1092074055
     ],
@@ -223,7 +225,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c8e77894b49234a88d8527b2fdeb2944",
+    "wof:geomhash":"4a6602ed470f013d9eb0dc4d41a4503f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -240,7 +242,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877027,
+    "wof:lastmodified":1695884915,
     "wof:name":"Soroti",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

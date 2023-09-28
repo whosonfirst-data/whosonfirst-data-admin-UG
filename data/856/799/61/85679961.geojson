@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036252,
-    "geom:area_square_m":448172273.789602,
+    "geom:area_square_m":448172201.159421,
     "geom:bbox":"34.17828,1.086904,34.527208,1.289348",
     "geom:latitude":1.172689,
     "geom:longitude":34.331562,
@@ -222,14 +222,16 @@
         "fips:code":"UG94",
         "gp:id":24550737,
         "hasc:id":"UG.SK",
+        "iso:code":"UG-215",
         "iso:id":"UG-215",
         "wd:id":"Q1375835"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"64af64566f3a1d735e4584c6a3451d21",
+    "wof:geomhash":"d1725356808f5a9b2a076c645a0b535e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -246,7 +248,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877015,
+    "wof:lastmodified":1695884913,
     "wof:name":"Sironko",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

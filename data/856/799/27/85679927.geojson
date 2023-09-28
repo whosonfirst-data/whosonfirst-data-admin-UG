@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.178312,
-    "geom:area_square_m":2202964916.945148,
+    "geom:area_square_m":2202964916.945081,
     "geom:bbox":"32.227142,2.074984,32.822472,2.623293",
     "geom:latitude":2.371004,
     "geom:longitude":32.486473,
@@ -277,11 +277,13 @@
         "gn:id":7056295,
         "gp:id":56190213,
         "hasc:id":"UG.OY",
+        "iso:code":"UG-321",
         "iso:id":"UG-321",
         "qs_pg:id":923445,
         "unlc:id":"UG-321",
         "wd:id":"Q1318833"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1092073449
     ],
@@ -289,7 +291,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ebe4d60201750bafcf548dac8931e705",
+    "wof:geomhash":"b0530ff45aa412bc85aa2ebc999ef4bd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -306,7 +308,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877016,
+    "wof:lastmodified":1695884913,
     "wof:name":"Oyam",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

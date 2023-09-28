@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.197564,
-    "geom:area_square_m":2441533950.966856,
+    "geom:area_square_m":2441534159.848349,
     "geom:bbox":"33.808598,1.6375,34.224282,2.307206",
     "geom:latitude":1.925083,
     "geom:longitude":34.037306,
@@ -231,14 +231,16 @@
         "gn:id":443785,
         "gp:id":-56190194,
         "hasc:id":"UG.KK",
+        "iso:code":"UG-207",
         "iso:id":"UG-207",
         "wd:id":"Q2544864"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"df991102cf266b7d2a6c49a683d15371",
+    "wof:geomhash":"1689b27fc76c884c66dd49a035b28733",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -255,7 +257,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877015,
+    "wof:lastmodified":1695884913,
     "wof:name":"Katakwi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

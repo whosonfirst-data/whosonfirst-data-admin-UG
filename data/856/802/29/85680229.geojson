@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106873,
-    "geom:area_square_m":1321489389.102592,
+    "geom:area_square_m":1321489191.153162,
     "geom:bbox":"29.676924,-0.4475,30.287321,-0.06289",
     "geom:latitude":-0.246709,
     "geom:longitude":29.98537,
@@ -110,15 +110,17 @@
         "fips:code":"UGH4",
         "gp:id":20070414,
         "hasc:id":"UG.RZ",
+        "iso:code":"UG-424",
         "iso:id":"UG-424",
         "unlc:id":"UG-424",
         "wd:id":"Q6700100"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1d4cea7dd53108633eb0c0fb489e4706",
+    "wof:geomhash":"ad60217921428e90b613b08435ee049e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -135,7 +137,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877028,
+    "wof:lastmodified":1695884915,
     "wof:name":"Rubirizi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

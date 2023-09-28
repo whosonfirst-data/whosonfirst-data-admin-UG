@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.301259,
-    "geom:area_square_m":3719888999.009286,
+    "geom:area_square_m":3719889281.408997,
     "geom:bbox":"33.547887,2.620498,34.393643,3.441848",
     "geom:latitude":3.034859,
     "geom:longitude":33.980937,
@@ -217,15 +217,17 @@
         "fips:code":"UGA7",
         "gp:id":20070429,
         "hasc:id":"UG.KF",
+        "iso:code":"UG-306",
         "iso:id":"UG-306",
         "qs_pg:id":902960,
         "wd:id":"Q1318843"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a9ef70b0632643ef45e5eb447fb343c1",
+    "wof:geomhash":"2bdf453c965ac53a61654f06aa143d14",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -242,7 +244,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877019,
+    "wof:lastmodified":1695884914,
     "wof:name":"Kotido",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

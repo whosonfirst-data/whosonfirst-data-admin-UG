@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052787,
-    "geom:area_square_m":652654532.712703,
+    "geom:area_square_m":652654497.540283,
     "geom:bbox":"33.21807,0.563123,33.432286,1.078908",
     "geom:latitude":0.807275,
     "geom:longitude":33.337687,
@@ -221,15 +221,17 @@
         "fips:code":"UGG4",
         "gp:id":20070449,
         "hasc:id":"UG.LK",
+        "iso:code":"UG-229",
         "iso:id":"UG-229",
         "unlc:id":"UG-229",
         "wd:id":"Q1229869"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"659c3db0a2be236249d89180932cbf3c",
+    "wof:geomhash":"bf6d8ceb8fbed8269fc0c83f4c3e2aae",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -246,7 +248,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877033,
+    "wof:lastmodified":1695884917,
     "wof:name":"Luuka",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

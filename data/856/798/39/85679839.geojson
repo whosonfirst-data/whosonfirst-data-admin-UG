@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.060836,
-    "geom:area_square_m":750828238.912328,
+    "geom:area_square_m":750828238.911726,
     "geom:bbox":"30.848079,3.328859,31.099522,3.744319",
     "geom:latitude":3.52682,
     "geom:longitude":31.006857,
@@ -286,11 +286,13 @@
         "gn:id":7056289,
         "gp:id":56190212,
         "hasc:id":"UG.OK",
+        "iso:code":"UG-316",
         "iso:id":"UG-316",
         "qs_pg:id":176846,
         "unlc:id":"UG-316",
         "wd:id":"Q1318857"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1092071795
     ],
@@ -298,7 +300,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f6f9463f7609ddc6f482943093ffa4b7",
+    "wof:geomhash":"7200aba8f48bb5a6be5318f3ccf16f2a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -315,7 +317,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877025,
+    "wof:lastmodified":1695884915,
     "wof:name":"Koboko",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

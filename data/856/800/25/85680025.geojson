@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.330029,
-    "geom:area_square_m":4080500750.83954,
+    "geom:area_square_m":4080501348.501643,
     "geom:bbox":"31.09011,-1.001481,31.999626,-0.427443",
     "geom:latitude":-0.765224,
     "geom:longitude":31.519263,
@@ -274,15 +274,17 @@
         "gn:id":443363,
         "gp:id":-20070442,
         "hasc:id":"UG.RI",
+        "iso:code":"UG-110",
         "iso:id":"UG-110",
         "unlc:id":"UG-110",
         "wd:id":"Q976873"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eec8be5cb680a6b5a3d7b9ae79ce2242",
+    "wof:geomhash":"95bdce4a1e98ab01aa70ff0717c86989",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -299,7 +301,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877035,
+    "wof:lastmodified":1695884917,
     "wof:name":"Rakai",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.294599,
-    "geom:area_square_m":3637577708.723544,
+    "geom:area_square_m":3637578007.792194,
     "geom:bbox":"31.35942,2.678124,32.363439,3.587165",
     "geom:latitude":3.052668,
     "geom:longitude":31.972441,
@@ -125,15 +125,17 @@
         "fips:code":"UGB9",
         "gp:id":20070415,
         "hasc:id":"UG.AY",
+        "iso:code":"UG-319",
         "iso:id":"UG-319",
         "unlc:id":"UG-319",
         "wd:id":"Q4749014"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"6dc471d1324f3f5df95fbc15b460d64d",
+    "wof:geomhash":"88750507090a45fcac3ed661c6678a88",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,7 +152,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877038,
+    "wof:lastmodified":1695884918,
     "wof:name":"Amuru",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

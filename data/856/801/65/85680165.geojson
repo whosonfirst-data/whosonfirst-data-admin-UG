@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125543,
-    "geom:area_square_m":1550909081.055912,
+    "geom:area_square_m":1550908708.806415,
     "geom:bbox":"33.003565,2.324381,33.657565,2.630011",
     "geom:latitude":2.481116,
     "geom:longitude":33.362605,
@@ -165,14 +165,16 @@
         "gn:id":8030567,
         "gp:id":-20070431,
         "hasc:id":"UG.OT",
+        "iso:code":"UG-330",
         "iso:id":"UG-330",
         "wd:id":"Q6696899"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"765278574a6228f6978b98dea063f688",
+    "wof:geomhash":"d912aabd59aff2ece8fe36cc4d18087a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -189,7 +191,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501854,
+    "wof:lastmodified":1695884918,
     "wof:name":"Otuke",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

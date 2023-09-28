@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.117526,
-    "geom:area_square_m":1453211421.719638,
+    "geom:area_square_m":1453211808.989029,
     "geom:bbox":"32.8625,0.050942,33.290897,0.557231",
     "geom:latitude":0.308801,
     "geom:longitude":33.039719,
@@ -187,15 +187,17 @@
         "gn:id":8030577,
         "gp:id":-20070438,
         "hasc:id":"UG.BZ",
+        "iso:code":"UG-117",
         "iso:id":"UG-117",
         "unlc:id":"UG-117",
         "wd:id":"Q4986374"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"87c1f9a550f015f45230fa1607629c91",
+    "wof:geomhash":"d4bfcd81844bb3963772239c3148dd6e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -212,7 +214,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877037,
+    "wof:lastmodified":1695884917,
     "wof:name":"Buikwe",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

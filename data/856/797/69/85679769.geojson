@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.632286,
-    "geom:area_square_m":7817872538.206674,
+    "geom:area_square_m":7817872498.414597,
     "geom:bbox":"31.9925,-1.0,32.754561,-0.147358",
     "geom:latitude":-0.577824,
     "geom:longitude":32.377653,
@@ -289,16 +289,18 @@
         "gn:id":443338,
         "gp:id":20070420,
         "hasc:id":"UG.KN",
+        "iso:code":"UG-101",
         "iso:id":"UG-101",
         "qs_pg:id":890567,
         "unlc:id":"UG-101",
         "wd:id":"Q867219"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e56eaf0ba37c3924df7b5ed0d1c2bf20",
+    "wof:geomhash":"89c27be1270c0ac0130c63716758b108",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -315,7 +317,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877013,
+    "wof:lastmodified":1695884912,
     "wof:name":"Kalangala",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

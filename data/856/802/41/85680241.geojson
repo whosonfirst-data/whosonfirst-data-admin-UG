@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.065101,
-    "geom:area_square_m":804968725.554799,
+    "geom:area_square_m":804969191.114517,
     "geom:bbox":"30.114491,-0.455004,30.517219,-0.187026",
     "geom:latitude":-0.327319,
     "geom:longitude":30.326065,
@@ -156,14 +156,16 @@
         "gn:id":8030585,
         "gp:id":-20070414,
         "hasc:id":"UG.BH",
+        "iso:code":"UG-325",
         "iso:id":"UG-325",
         "wd:id":"Q4986330"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c07f1523fb0415616a8ed64b5331e43f",
+    "wof:geomhash":"1d86ab8cd936cb629b48a9371a077947",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -180,7 +182,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501846,
+    "wof:lastmodified":1695884916,
     "wof:name":"Buhweju",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

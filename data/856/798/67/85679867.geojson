@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015971,
-    "geom:area_square_m":197478598.756169,
+    "geom:area_square_m":197478598.756182,
     "geom:bbox":"32.510269,0.218872,32.670175,0.408811",
     "geom:latitude":0.317657,
     "geom:longitude":32.596129,
@@ -283,11 +283,13 @@
         "gn:id":443339,
         "gp:id":20070421,
         "hasc:id":"UG.KM",
+        "iso:code":"UG-102",
         "iso:id":"UG-102",
         "qs_pg:id":327607,
         "unlc:id":"UG-102",
         "wd:id":"Q926417"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421173185
     ],
@@ -295,7 +297,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fceb944c329f6da3054aba31537aa349",
+    "wof:geomhash":"6095a2f61fb95c7114d320504965e116",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -312,7 +314,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877022,
+    "wof:lastmodified":1695884914,
     "wof:name":"Kampala",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

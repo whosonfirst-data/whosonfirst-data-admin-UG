@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.284323,
-    "geom:area_square_m":3511154128.84523,
+    "geom:area_square_m":3511154312.494285,
     "geom:bbox":"33.012407,2.588645,33.604402,3.307785",
     "geom:latitude":2.912029,
     "geom:longitude":33.345997,
@@ -109,14 +109,16 @@
         "fips:code":"UGE3",
         "gp:id":24550736,
         "hasc:id":"UG.AG",
+        "iso:code":"UG-322",
         "iso:id":"UG-322",
         "wd:id":"Q4690976"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e844e88408b542ab5aa88f493bab3817",
+    "wof:geomhash":"60a3818648f7b48c62a1875b2e4125ba",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -133,7 +135,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501852,
+    "wof:lastmodified":1695884917,
     "wof:name":"Agago",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

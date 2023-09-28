@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.264712,
-    "geom:area_square_m":3271427687.296329,
+    "geom:area_square_m":3271427274.217074,
     "geom:bbox":"32.091214,1.612633,32.958544,2.222548",
     "geom:latitude":1.891782,
     "geom:longitude":32.564414,
@@ -276,14 +276,16 @@
         "gn:id":443327,
         "gp:id":-20070411,
         "hasc:id":"UG.AQ",
+        "iso:code":"UG-302",
         "iso:id":"UG-302",
         "wd:id":"Q1229750"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4e3c3dcc560d63d446bb6d0c2454c2d4",
+    "wof:geomhash":"41c8ebe0ed890a5209af23170fe273a3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -300,7 +302,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877036,
+    "wof:lastmodified":1695884917,
     "wof:name":"Apac",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

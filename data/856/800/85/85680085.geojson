@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.073345,
-    "geom:area_square_m":906041513.166461,
+    "geom:area_square_m":906040813.264979,
     "geom:bbox":"30.740743,2.329511,31.070584,2.713084",
     "geom:latitude":2.520594,
     "geom:longitude":30.895999,
@@ -345,15 +345,17 @@
         "gn:id":8030563,
         "gp:id":20070439,
         "hasc:id":"UG.ZO",
+        "iso:code":"UG-331",
         "iso:id":"UG-331",
         "qs_pg:id":1063351,
         "wd:id":"Q8073799"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0c336f8a18745599800e0ffc6410f3c2",
+    "wof:geomhash":"82926e027abd84a07199f040e4e6b990",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -370,7 +372,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501851,
+    "wof:lastmodified":1695884917,
     "wof:name":"Zombo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

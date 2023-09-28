@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053154,
-    "geom:area_square_m":657186124.674035,
+    "geom:area_square_m":657185734.584053,
     "geom:bbox":"33.760049,0.688474,34.128163,1.045139",
     "geom:latitude":0.885572,
     "geom:longitude":33.931937,
@@ -280,16 +280,18 @@
         "gn:id":7056282,
         "gp:id":56190199,
         "hasc:id":"UG.BJ",
+        "iso:code":"UG-219",
         "iso:id":"UG-219",
         "qs_pg:id":1112930,
         "unlc:id":"UG-219",
         "wd:id":"Q1375755"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"5195fe5fea25f531c40880c4690d0c77",
+    "wof:geomhash":"39eec8415b7c65115e9114ff195a8ede",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -306,7 +308,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877018,
+    "wof:lastmodified":1695884913,
     "wof:name":"Butaleja",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

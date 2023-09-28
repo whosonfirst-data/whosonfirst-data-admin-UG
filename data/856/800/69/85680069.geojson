@@ -196,9 +196,11 @@
     "wof:concordances":{
         "gp:id":20070434,
         "hasc:id":"UG.RR",
+        "iso:code":"UG-410",
         "qs_pg:id":1087219,
         "wd:id":"Q1091595"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
@@ -220,7 +222,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1694493260,
+    "wof:lastmodified":1695884916,
     "wof:name":"Mbarara",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

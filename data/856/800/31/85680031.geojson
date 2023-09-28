@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.165184,
-    "geom:area_square_m":2042453239.315929,
+    "geom:area_square_m":2042453216.946911,
     "geom:bbox":"31.656975,-0.815933,32.060639,-0.1494",
     "geom:latitude":-0.499378,
     "geom:longitude":31.865913,
@@ -223,14 +223,16 @@
         "fips:code":"UG71",
         "gp:id":20070451,
         "hasc:id":"UG.MQ",
+        "iso:code":"UG-105",
         "iso:id":"UG-105",
         "wd:id":"Q1032233"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"06a492437ee0ece83ec775bbb359dd48",
+    "wof:geomhash":"a43cccd20278dc7ee22a8f9b4b24ff5e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -247,7 +249,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877033,
+    "wof:lastmodified":1695884917,
     "wof:name":"Masaka",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

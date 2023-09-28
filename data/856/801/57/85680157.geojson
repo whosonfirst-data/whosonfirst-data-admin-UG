@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.087183,
-    "geom:area_square_m":1077170487.766553,
+    "geom:area_square_m":1077170338.850291,
     "geom:bbox":"32.577029,2.081672,32.92423,2.52221",
     "geom:latitude":2.29551,
     "geom:longitude":32.766649,
@@ -174,15 +174,17 @@
         "gn:id":8030565,
         "gp:id":20070411,
         "hasc:id":"UG.QL",
+        "iso:code":"UG-326",
         "iso:id":"UG-326",
         "qs_pg:id":364493,
         "wd:id":"Q3108824"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3d0acec3d22e9154451c06e35ac14851",
+    "wof:geomhash":"aacff7418b24779e1b992fbb0f0d4ba4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -199,7 +201,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877036,
+    "wof:lastmodified":1695884917,
     "wof:name":"Kole",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

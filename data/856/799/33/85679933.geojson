@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.459993,
-    "geom:area_square_m":5686095558.480229,
+    "geom:area_square_m":5686095211.953453,
     "geom:bbox":"30.540681,1.073639,31.588371,1.852395",
     "geom:latitude":1.433539,
     "geom:longitude":31.065309,
@@ -292,16 +292,18 @@
         "gn:id":443332,
         "gp:id":20070416,
         "hasc:id":"UG.HO",
+        "iso:code":"UG-403",
         "iso:id":"UG-403",
         "qs_pg:id":890566,
         "unlc:id":"UG-403",
         "wd:id":"Q1186535"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"13c7ce74475d41eadd9dade0ef5ff2be",
+    "wof:geomhash":"fc5ec65c9bc85b537ac5118aa6ddb568",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -318,7 +320,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877016,
+    "wof:lastmodified":1695884913,
     "wof:name":"Hoima",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

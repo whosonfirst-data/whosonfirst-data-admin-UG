@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.191688,
-    "geom:area_square_m":2367524190.822859,
+    "geom:area_square_m":2367524074.025268,
     "geom:bbox":"33.521563,2.456144,34.036864,3.152992",
     "geom:latitude":2.750613,
     "geom:longitude":33.72987,
@@ -160,15 +160,17 @@
         "gn:id":7056273,
         "gp:id":-20070429,
         "hasc:id":"UG.IB",
+        "iso:code":"UG-416",
         "iso:id":"UG-416",
         "unlc:id":"UG-317",
         "wd:id":"Q16249258"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9db09cc0dc2e4e50773a0596699907a4",
+    "wof:geomhash":"a51ab1b4e66b000be569e8db2559570b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -185,7 +187,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501851,
+    "wof:lastmodified":1695884917,
     "wof:name":"Abim",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

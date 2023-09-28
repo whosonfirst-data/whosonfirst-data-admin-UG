@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058634,
-    "geom:area_square_m":724765712.162372,
+    "geom:area_square_m":724765902.470407,
     "geom:bbox":"33.555351,1.312037,33.900281,1.68514",
     "geom:latitude":1.499049,
     "geom:longitude":33.753482,
@@ -172,15 +172,17 @@
         "gn:id":8030570,
         "gp:id":-20070430,
         "hasc:id":"UG.NR",
+        "iso:code":"UG-231",
         "iso:id":"UG-231",
         "unlc:id":"UG-231",
         "wd:id":"Q6693037"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"1c117e6b7c6c462f08b88f50bd8819e4",
+    "wof:geomhash":"d21c312252f1704948d4d4906397fb61",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -197,7 +199,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877031,
+    "wof:lastmodified":1695884916,
     "wof:name":"Ngora",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

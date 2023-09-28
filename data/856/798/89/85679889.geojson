@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.375407,
-    "geom:area_square_m":4641768215.047345,
+    "geom:area_square_m":4641768654.992034,
     "geom:bbox":"31.021724,0.164263,31.956955,0.868316",
     "geom:latitude":0.521567,
     "geom:longitude":31.533667,
@@ -289,16 +289,18 @@
         "gn:id":443358,
         "gp:id":20070437,
         "hasc:id":"UG.RR",
+        "iso:code":"UG-410",
         "iso:id":"UG-410",
         "qs_pg:id":1087222,
         "unlc:id":"UG-107",
         "wd:id":"Q891962"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"25dbec51af75b073259d542f39dda26a",
+    "wof:geomhash":"0913657eff62626a685b9c92be19e974",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -315,7 +317,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877023,
+    "wof:lastmodified":1695884914,
     "wof:name":"Mubende",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

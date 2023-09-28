@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124455,
-    "geom:area_square_m":1537698637.607126,
+    "geom:area_square_m":1537698902.651697,
     "geom:bbox":"32.977927,2.030501,33.547109,2.508548",
     "geom:latitude":2.270422,
     "geom:longitude":33.255838,
@@ -180,14 +180,16 @@
         "gn:id":8030568,
         "gp:id":-20070431,
         "hasc:id":"UG.AL",
+        "iso:code":"UG-323",
         "iso:id":"UG-323",
         "wd:id":"Q4714068"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c2c44364afc599133d088cc7aaf9fdf9",
+    "wof:geomhash":"2a26e2de5ecf4fcc26de4bf50f029f78",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -204,7 +206,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877035,
+    "wof:lastmodified":1695884917,
     "wof:name":"Alebtong",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

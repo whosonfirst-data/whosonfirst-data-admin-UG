@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11212,
-    "geom:area_square_m":1386162534.169973,
+    "geom:area_square_m":1386162239.315245,
     "geom:bbox":"30.152506,0.721136,30.551756,1.288697",
     "geom:latitude":1.012384,
     "geom:longitude":30.363292,
@@ -163,15 +163,17 @@
         "gn:id":8030583,
         "gp:id":-20070413,
         "hasc:id":"UG.NO",
+        "iso:code":"UG-423",
         "iso:id":"UG-423",
         "unlc:id":"UG-423",
         "wd:id":"Q16896010"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"bd80834a1a06c0d3e413d938d7e18cea",
+    "wof:geomhash":"b26fb0d44f167170c308ea4c4aec44a6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -188,7 +190,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877038,
+    "wof:lastmodified":1695884918,
     "wof:name":"Ntoroko",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

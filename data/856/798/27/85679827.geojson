@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123619,
-    "geom:area_square_m":1528568264.289762,
+    "geom:area_square_m":1528568078.007027,
     "geom:bbox":"31.871132,-0.15234,32.426883,0.408258",
     "geom:latitude":0.069946,
     "geom:longitude":32.158024,
@@ -280,14 +280,16 @@
         "gn:id":233709,
         "gp:id":-20070436,
         "hasc:id":"UG.MJ",
+        "iso:code":"UG-106",
         "iso:id":"UG-106",
         "wd:id":"Q1362109"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"a6dd20dae4bc6bf84c351bbc99e2d238",
+    "wof:geomhash":"96846e4483f8c6dec50411471441a56e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -304,7 +306,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877022,
+    "wof:lastmodified":1695884914,
     "wof:name":"Mpigi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",
