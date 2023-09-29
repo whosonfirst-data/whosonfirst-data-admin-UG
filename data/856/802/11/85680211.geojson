@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.095458,
-    "geom:area_square_m":1180327317.283346,
+    "geom:area_square_m":1180327196.258834,
     "geom:bbox":"31.167211,-0.594832,31.826952,-0.230656",
     "geom:latitude":-0.402521,
     "geom:longitude":31.45977,
@@ -169,15 +169,17 @@
         "gn:id":8030580,
         "gp:id":-20070451,
         "hasc:id":"UG.LE",
+        "iso:code":"UG-124",
         "iso:id":"UG-124",
         "unlc:id":"UG-124",
         "wd:id":"Q6687528"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"067c02d2d61a74ea3d2ddacae80853cc",
+    "wof:geomhash":"36f7b01ad5a1bdbbf777758cfa12b20f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -194,7 +196,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877027,
+    "wof:lastmodified":1695884915,
     "wof:name":"Lwengo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

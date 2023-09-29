@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.031652,
-    "geom:area_square_m":390827743.394073,
+    "geom:area_square_m":390827305.76593,
     "geom:bbox":"30.768817,2.961515,31.113868,3.137582",
     "geom:latitude":3.047134,
     "geom:longitude":30.910968,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.AX.AY"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899253,
-    "wof:geomhash":"3cbe5b3af3fdcfec9730238c1b8064d3",
+    "wof:geomhash":"4f59415f86ebe692c9c474e59967a623",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092068591,
-    "wof:lastmodified":1627522952,
+    "wof:lastmodified":1695886162,
     "wof:name":"Ayivu",
     "wof:parent_id":85679837,
     "wof:placetype":"county",

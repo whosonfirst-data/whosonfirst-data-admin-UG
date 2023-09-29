@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.116936,
-    "geom:area_square_m":1445128092.609677,
+    "geom:area_square_m":1445127659.891538,
     "geom:bbox":"32.526998,1.622036,32.958544,2.15326",
     "geom:latitude":1.916815,
     "geom:longitude":32.733296,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.AQ.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899386,
-    "wof:geomhash":"d22fc3738f463079a8bc626e269c8409",
+    "wof:geomhash":"f09b6babd38bc3bf9b1b63d5d2ffc1cc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092071971,
-    "wof:lastmodified":1627522959,
+    "wof:lastmodified":1695886169,
     "wof:name":"Kwania",
     "wof:parent_id":85680151,
     "wof:placetype":"county",

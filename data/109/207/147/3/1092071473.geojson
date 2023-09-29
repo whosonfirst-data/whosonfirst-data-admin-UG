@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.126629,
-    "geom:area_square_m":1565786061.56276,
+    "geom:area_square_m":1565785752.769472,
     "geom:bbox":"30.5675,-0.161354,31.055354,0.213906",
     "geom:latitude":0.04417,
     "geom:longitude":30.791651,
@@ -81,9 +81,10 @@
     "wof:concordances":{
         "hasc:id":"UG.KH.KZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899365,
-    "wof:geomhash":"792eb8358b4f8b77af4fbeba24021daa",
+    "wof:geomhash":"76b8a6ff452e21b9bf9de3302c6ce92d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -93,7 +94,7 @@
         }
     ],
     "wof:id":1092071473,
-    "wof:lastmodified":1627522958,
+    "wof:lastmodified":1695886168,
     "wof:name":"Kazo",
     "wof:parent_id":1108808411,
     "wof:placetype":"county",

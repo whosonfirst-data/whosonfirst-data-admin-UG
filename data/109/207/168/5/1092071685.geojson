@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.106626,
-    "geom:area_square_m":1318314176.814352,
+    "geom:area_square_m":1318313375.366724,
     "geom:bbox":"29.581914,-1.07624,29.90249,-0.34019",
     "geom:latitude":-0.808943,
     "geom:longitude":29.726351,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"UG.UU.KN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899374,
-    "wof:geomhash":"4052609290905634823bba8b3bd3d6e7",
+    "wof:geomhash":"11a7fc21e7a375519c00fcac3faac057",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1092071685,
-    "wof:lastmodified":1627522958,
+    "wof:lastmodified":1695886169,
     "wof:name":"Kinkiizi",
     "wof:parent_id":85680079,
     "wof:placetype":"county",

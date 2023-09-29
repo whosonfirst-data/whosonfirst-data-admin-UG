@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.070571,
-    "geom:area_square_m":872468603.412932,
+    "geom:area_square_m":872468920.966627,
     "geom:bbox":"33.335299,0.870099,33.636001,1.293475",
     "geom:latitude":1.070524,
     "geom:longitude":33.482625,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.RO.BL"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899289,
-    "wof:geomhash":"94be1c979697d02d0998c9a686ac233f",
+    "wof:geomhash":"2e770a7872225c1fa23f3b425bf5e3a8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092069483,
-    "wof:lastmodified":1627522954,
+    "wof:lastmodified":1695886164,
     "wof:name":"Bulamogi",
     "wof:parent_id":85679803,
     "wof:placetype":"county",

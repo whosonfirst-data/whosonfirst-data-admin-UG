@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147419,
-    "geom:area_square_m":1822761500.184726,
+    "geom:area_square_m":1822761210.071279,
     "geom:bbox":"29.987005,0.268254,30.56079,0.971601",
     "geom:latitude":0.599851,
     "geom:longitude":30.288995,
@@ -273,15 +273,17 @@
         "gn:id":443337,
         "gp:id":-20070419,
         "hasc:id":"UG.BR",
+        "iso:code":"UG-405",
         "iso:id":"UG-405",
         "unlc:id":"UG-405",
         "wd:id":"Q1229910"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0ea2613f0a83a8ac5257df6d6bfa4452",
+    "wof:geomhash":"3c079d16e3bf924e21f6919e00bbb234",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -298,7 +300,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877019,
+    "wof:lastmodified":1695884913,
     "wof:name":"Kabarole",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.086246,
-    "geom:area_square_m":1066318531.849547,
+    "geom:area_square_m":1066318350.044997,
     "geom:bbox":"30.202646,-1.068936,30.632699,-0.719256",
     "geom:latitude":-0.904143,
     "geom:longitude":30.377732,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.NT.RH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899458,
-    "wof:geomhash":"7610e9eff32ac59b5fd44f6e39892ae3",
+    "wof:geomhash":"85a061cdc677fa15112f569429b4f179",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092073713,
-    "wof:lastmodified":1627522962,
+    "wof:lastmodified":1695886172,
     "wof:name":"Ruhaama",
     "wof:parent_id":85680059,
     "wof:placetype":"county",

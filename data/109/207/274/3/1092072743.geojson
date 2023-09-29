@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00197,
-    "geom:area_square_m":24354604.329041,
+    "geom:area_square_m":24354659.305554,
     "geom:bbox":"34.14803,1.052747,34.206422,1.111452",
     "geom:latitude":1.07979,
     "geom:longitude":34.177163,
@@ -181,9 +181,10 @@
         "hasc:id":"UG.ME.MA",
         "wd:id":"Q581822"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899420,
-    "wof:geomhash":"9b4c846eb60e5670b75b782c34385052",
+    "wof:geomhash":"a9e09e113b687ffa42601124eca79b02",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -193,7 +194,7 @@
         }
     ],
     "wof:id":1092072743,
-    "wof:lastmodified":1690877045,
+    "wof:lastmodified":1695886708,
     "wof:name":"Mbale Municipality",
     "wof:parent_id":85679965,
     "wof:placetype":"county",

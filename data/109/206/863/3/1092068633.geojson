@@ -70,6 +70,7 @@
     "wof:concordances":{
         "hasc:id":"UG.LW.BM"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899254,
     "wof:geomhash":"c214f3d2a8b6c31dca03f251cf0bc1f1",
@@ -82,7 +83,7 @@
         }
     ],
     "wof:id":1092068633,
-    "wof:lastmodified":1694639797,
+    "wof:lastmodified":1695886173,
     "wof:name":"Wabusana",
     "wof:parent_id":85679881,
     "wof:placetype":"county",

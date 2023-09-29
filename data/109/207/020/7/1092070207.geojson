@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.094319,
-    "geom:area_square_m":1166152973.689202,
+    "geom:area_square_m":1166153062.640117,
     "geom:bbox":"30.837498,0.634543,31.289133,1.010549",
     "geom:latitude":0.805747,
     "geom:longitude":31.068267,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"UG.KI.BJ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899316,
-    "wof:geomhash":"87607e776750122b5a2ebceb33669427",
+    "wof:geomhash":"17fa49db67464eba7847c8dc13ffcf8a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1092070207,
-    "wof:lastmodified":1627522956,
+    "wof:lastmodified":1695886166,
     "wof:name":"Buyanja",
     "wof:parent_id":85679947,
     "wof:placetype":"county",

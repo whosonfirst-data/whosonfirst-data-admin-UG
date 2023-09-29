@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053154,
-    "geom:area_square_m":657186124.674035,
+    "geom:area_square_m":657185734.584053,
     "geom:bbox":"33.760049,0.688474,34.128163,1.045139",
     "geom:latitude":0.885572,
     "geom:longitude":33.931937,
@@ -56,9 +56,10 @@
     "wof:concordances":{
         "hasc:id":"UG.BJ.BN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899297,
-    "wof:geomhash":"b36ada9c4ea3f82e5a5108b374abea54",
+    "wof:geomhash":"c627249347e96dddcd9ee7d54d803c0d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1092069677,
-    "wof:lastmodified":1627522954,
+    "wof:lastmodified":1695886164,
     "wof:name":"Bunyole",
     "wof:parent_id":85679981,
     "wof:placetype":"county",

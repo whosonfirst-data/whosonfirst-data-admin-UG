@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108149,
-    "geom:area_square_m":1336199922.181559,
+    "geom:area_square_m":1336200080.791464,
     "geom:bbox":"32.779248,2.012566,33.160888,2.654224",
     "geom:latitude":2.30282,
     "geom:longitude":32.967539,
@@ -279,14 +279,16 @@
         "gn:id":443349,
         "gp:id":-20070431,
         "hasc:id":"UG.LL",
+        "iso:code":"UG-307",
         "iso:id":"UG-307",
         "wd:id":"Q206519"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"817a3cb2e09d4a5c83066da750941b57",
+    "wof:geomhash":"84a1a88a7948d9a96fa8688bd561ba67",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -303,7 +305,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877019,
+    "wof:lastmodified":1695884913,
     "wof:name":"Lira",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

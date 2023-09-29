@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043696,
-    "geom:area_square_m":540182272.434596,
+    "geom:area_square_m":540182004.310255,
     "geom:bbox":"34.551741,1.104697,34.831583,1.410567",
     "geom:latitude":1.272786,
     "geom:longitude":34.683352,
@@ -264,15 +264,17 @@
         "gn:id":7056296,
         "gp:id":-20070423,
         "hasc:id":"UG.BW",
+        "iso:code":"UG-218",
         "iso:id":"UG-218",
         "unlc:id":"UG-218",
         "wd:id":"Q4987159"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f85e92aa29a43972559895ed55dc1709",
+    "wof:geomhash":"7f24270edc2c316ca4a5955e6ebb25c7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -289,7 +291,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877015,
+    "wof:lastmodified":1695884913,
     "wof:name":"Bukwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

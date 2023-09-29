@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.068132,
-    "geom:area_square_m":842460446.517677,
+    "geom:area_square_m":842460135.29731,
     "geom:bbox":"31.647709,-0.274129,31.99159,0.079369",
     "geom:latitude":-0.099669,
     "geom:longitude":31.802012,
@@ -340,15 +340,17 @@
         "gn:id":7910134,
         "gp:id":-20070451,
         "hasc:id":"UG.QA",
+        "iso:code":"UG-122",
         "iso:id":"UG-122",
         "unlc:id":"UG-122",
         "wd:id":"Q15822537"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"08be9152cb7947027cf318b34d9caaa3",
+    "wof:geomhash":"8e9a015a846fa91f18f6cdb520bcb372",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -365,7 +367,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1636501847,
+    "wof:lastmodified":1695884916,
     "wof:name":"Kalungu",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

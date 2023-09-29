@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.128687,
-    "geom:area_square_m":1589515976.422643,
+    "geom:area_square_m":1589515834.315251,
     "geom:bbox":"32.128427,2.452467,32.823856,2.841301",
     "geom:latitude":2.669321,
     "geom:longitude":32.471102,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"UG.GL.OO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899445,
-    "wof:geomhash":"49da1ddb5bad692a0941afa7f0d44dd8",
+    "wof:geomhash":"34655d1a9c63ea86c2d749a261805607",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092073377,
-    "wof:lastmodified":1627522961,
+    "wof:lastmodified":1695886172,
     "wof:name":"Omoro",
     "wof:parent_id":85679905,
     "wof:placetype":"county",

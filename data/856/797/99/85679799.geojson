@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142972,
-    "geom:area_square_m":1767165246.972468,
+    "geom:area_square_m":1767165412.505271,
     "geom:bbox":"32.314389,1.438016,32.999266,1.839348",
     "geom:latitude":1.622029,
     "geom:longitude":32.73803,
@@ -283,16 +283,18 @@
         "gn:id":7056275,
         "gp:id":56190195,
         "hasc:id":"UG.MD",
+        "iso:code":"UG-107",
         "iso:id":"UG-107",
         "qs_pg:id":1096346,
         "unlc:id":"UG-314",
         "wd:id":"Q1318822"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c372ac17f7e0428aabce070e27be88d9",
+    "wof:geomhash":"1ce86edb9b9646793aa08272319bc739",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -309,7 +311,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877014,
+    "wof:lastmodified":1695884913,
     "wof:name":"Amolatar",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

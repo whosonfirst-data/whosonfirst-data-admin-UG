@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.120807,
-    "geom:area_square_m":1493629642.789938,
+    "geom:area_square_m":1493629505.23162,
     "geom:bbox":"30.752212,-0.999454,31.270272,-0.667955",
     "geom:latitude":-0.866272,
     "geom:longitude":31.01493,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.NG.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899280,
-    "wof:geomhash":"dcb659e1c6353309aa392f590f30dd6a",
+    "wof:geomhash":"be6197f1bff0789fca25526fc1a9c18d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092069267,
-    "wof:lastmodified":1627522954,
+    "wof:lastmodified":1695886163,
     "wof:name":"Bukanga",
     "wof:parent_id":85680051,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.14196,
-    "geom:area_square_m":1755300069.047555,
+    "geom:area_square_m":1755299437.22859,
     "geom:bbox":"30.769549,0.194327,31.2575,0.770878",
     "geom:latitude":0.453613,
     "geom:longitude":31.001247,
@@ -175,16 +175,18 @@
         "gn:id":8030581,
         "gp:id":24550734,
         "hasc:id":"UG.QG",
+        "iso:code":"UG-421",
         "iso:id":"UG-421",
         "qs_pg:id":970547,
         "unlc:id":"UG-421",
         "wd:id":"Q6450897"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"47913941328c65ea447cd6b82e8fe8d8",
+    "wof:geomhash":"c45da0dc8015fd8db23d8bf00a69cd9f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -201,7 +203,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877039,
+    "wof:lastmodified":1695884918,
     "wof:name":"Kyegegwa",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

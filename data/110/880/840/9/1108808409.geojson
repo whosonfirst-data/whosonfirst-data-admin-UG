@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.195469,
-    "geom:area_square_m":2416539218.598976,
+    "geom:area_square_m":2416539218.598921,
     "geom:bbox":"31.293081,0.822585,31.919139,1.368766",
     "geom:latitude":1.128281,
     "geom:longitude":31.637712,
@@ -197,12 +197,14 @@
     "wof:concordances":{
         "fips:code":"UGG1",
         "hasc:id":"UG.QZ",
+        "iso:code":"UG-123",
         "iso:id":"UG-123",
         "wd:id":"Q534203"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:created":1486157728,
-    "wof:geomhash":"59ca6380e90f524c51d10b3bfb27ee3d",
+    "wof:geomhash":"7f339719af6bdc6a580810642d4b2f14",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -219,7 +221,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877043,
+    "wof:lastmodified":1695884918,
     "wof:name":"Kyankwanzi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

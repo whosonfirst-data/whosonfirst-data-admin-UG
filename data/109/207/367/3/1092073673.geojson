@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.058831,
-    "geom:area_square_m":727299645.758481,
+    "geom:area_square_m":727299112.799836,
     "geom:bbox":"29.72708,-1.435425,30.029289,-0.987693",
     "geom:latitude":-1.179,
     "geom:longitude":29.867416,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.KA.RB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899457,
-    "wof:geomhash":"43d65870f985b1e2bed8eeda81c7eb3f",
+    "wof:geomhash":"df30dcdb6d6fff715b2c062ce1465117",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092073673,
-    "wof:lastmodified":1627522962,
+    "wof:lastmodified":1695886172,
     "wof:name":"Rubanda",
     "wof:parent_id":85680073,
     "wof:placetype":"county",

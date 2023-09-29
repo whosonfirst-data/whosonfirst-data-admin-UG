@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002719,
-    "geom:area_square_m":33616822.951,
+    "geom:area_square_m":33616891.670915,
     "geom:bbox":"29.956605,-1.301961,30.020601,-1.225558",
     "geom:latitude":-1.256607,
     "geom:longitude":29.99004,
@@ -200,9 +200,10 @@
         "hasc:id":"UG.KA.KB",
         "wd:id":"Q3526470"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899343,
-    "wof:geomhash":"73f71ae703eb51278fbffe614bd959d6",
+    "wof:geomhash":"8f59f1d7af7cf861a2dc7c063c35d503",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -212,7 +213,7 @@
         }
     ],
     "wof:id":1092070905,
-    "wof:lastmodified":1690877048,
+    "wof:lastmodified":1695886709,
     "wof:name":"Kabale Municipality",
     "wof:parent_id":85680073,
     "wof:placetype":"county",

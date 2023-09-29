@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081582,
-    "geom:area_square_m":1006740058.620153,
+    "geom:area_square_m":1006740422.107713,
     "geom:bbox":"31.514361,3.511468,31.976439,3.836599",
     "geom:latitude":3.644147,
     "geom:longitude":31.765894,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.MY.WS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899485,
-    "wof:geomhash":"c24c5ce6d11060f049fa0421a2930010",
+    "wof:geomhash":"1119d9ae98ac6e3c199af1b8d30dbb63",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092074321,
-    "wof:lastmodified":1627522963,
+    "wof:lastmodified":1695886174,
     "wof:name":"West Moyo",
     "wof:parent_id":85679853,
     "wof:placetype":"county",

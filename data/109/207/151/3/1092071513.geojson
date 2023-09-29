@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.294974,
-    "geom:area_square_m":3645114091.966056,
+    "geom:area_square_m":3645114085.801593,
     "geom:bbox":"31.745,1.615876,32.363027,2.369175",
     "geom:latitude":2.02597,
     "geom:longitude":32.040112,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.QD.KB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899367,
-    "wof:geomhash":"3a905cdeff53c9ba79ef5fb011f0aa01",
+    "wof:geomhash":"d9aa8e38dbe9aea8e4008dd06c491592",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092071513,
-    "wof:lastmodified":1627522958,
+    "wof:lastmodified":1695886168,
     "wof:name":"Kibanda",
     "wof:parent_id":85680175,
     "wof:placetype":"county",

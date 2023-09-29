@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.388144,
-    "geom:area_square_m":4794786520.662314,
+    "geom:area_square_m":4794786539.340186,
     "geom:bbox":"31.33775,2.217803,32.35975,2.837462",
     "geom:latitude":2.530242,
     "geom:longitude":31.840608,
@@ -193,9 +193,10 @@
         "hasc:id":"UG.NW.NO",
         "wd:id":"Q3539572"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899440,
-    "wof:geomhash":"df7d227ded094d73c0dce7ac86b7c8ae",
+    "wof:geomhash":"33bc75c2e69ec24764ee453df5268937",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -205,7 +206,7 @@
         }
     ],
     "wof:id":1092073225,
-    "wof:lastmodified":1690877049,
+    "wof:lastmodified":1695886801,
     "wof:name":"Nwoya",
     "wof:parent_id":85680247,
     "wof:placetype":"county",

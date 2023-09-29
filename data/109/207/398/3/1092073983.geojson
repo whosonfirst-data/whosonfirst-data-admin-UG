@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.056771,
-    "geom:area_square_m":701948180.276792,
+    "geom:area_square_m":701948032.964989,
     "geom:bbox":"30.116694,-0.762059,30.477506,-0.423225",
     "geom:latitude":-0.601639,
     "geom:longitude":30.325648,
@@ -190,9 +190,10 @@
         "hasc:id":"UG.SH.SE",
         "wd:id":"Q3539711"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899469,
-    "wof:geomhash":"d14508ecdc6d0516c448fc24810d4f6f",
+    "wof:geomhash":"3391e90c12a6ff3e67c871cba897cfed",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -202,7 +203,7 @@
         }
     ],
     "wof:id":1092073983,
-    "wof:lastmodified":1690877044,
+    "wof:lastmodified":1695886801,
     "wof:name":"Sheema",
     "wof:parent_id":85680237,
     "wof:placetype":"county",

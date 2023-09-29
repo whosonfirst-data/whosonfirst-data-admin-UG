@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.033363,
-    "geom:area_square_m":412470673.63417,
+    "geom:area_square_m":412470673.63412,
     "geom:bbox":"33.86294,0.9375,34.12558,1.193936",
     "geom:latitude":1.062625,
     "geom:longitude":33.987985,
@@ -277,11 +277,13 @@
         "gn:id":7056279,
         "gp:id":56190197,
         "hasc:id":"UG.BD",
+        "iso:code":"UG-217",
         "iso:id":"UG-217",
         "qs_pg:id":1136337,
         "unlc:id":"UG-217",
         "wd:id":"Q1362085"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1092068817
     ],
@@ -289,7 +291,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f810a482587d4f6abdda051e935e8303",
+    "wof:geomhash":"4aa1f5078d0315b6d4b7efba7275be8b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -306,7 +308,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877038,
+    "wof:lastmodified":1695884918,
     "wof:name":"Budaka",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

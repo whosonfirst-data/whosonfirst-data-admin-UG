@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.328145,
-    "geom:area_square_m":4056922459.064831,
+    "geom:area_square_m":4056922246.005953,
     "geom:bbox":"31.293081,0.616175,32.212294,1.368766",
     "geom:latitude":1.014479,
     "geom:longitude":31.763743,
@@ -204,9 +204,10 @@
         "hasc:id":"UG.KG.KB",
         "wd:id":"Q892064"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899368,
-    "wof:geomhash":"cb13ebfd047aaf234a91a000ee6e5adf",
+    "wof:geomhash":"783c28b569fe616f6948902617764b72",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -216,7 +217,7 @@
         }
     ],
     "wof:id":1092071543,
-    "wof:lastmodified":1690877049,
+    "wof:lastmodified":1695886802,
     "wof:name":"Kiboga",
     "wof:parent_id":1108808409,
     "wof:placetype":"county",

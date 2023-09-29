@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004224,
-    "geom:area_square_m":52171998.202716,
+    "geom:area_square_m":52171899.894701,
     "geom:bbox":"32.242595,2.739431,32.336097,2.812479",
     "geom:latitude":2.774101,
     "geom:longitude":32.290448,
@@ -191,9 +191,10 @@
         "hasc:id":"UG.GL.GL",
         "wd:id":"Q1028215"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899332,
-    "wof:geomhash":"50648e56146cca09dd3887f8b26296f4",
+    "wof:geomhash":"c7e30c0d06e34eccb81c9ad7759f7ea4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -203,7 +204,7 @@
         }
     ],
     "wof:id":1092070633,
-    "wof:lastmodified":1690877047,
+    "wof:lastmodified":1695886709,
     "wof:name":"Gulu Municipality",
     "wof:parent_id":85679905,
     "wof:placetype":"county",

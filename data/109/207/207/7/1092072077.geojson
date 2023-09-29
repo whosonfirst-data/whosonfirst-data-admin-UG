@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00655,
-    "geom:area_square_m":80987570.749782,
+    "geom:area_square_m":80987478.259732,
     "geom:bbox":"32.531579,0.169202,32.633275,0.282872",
     "geom:latitude":0.227811,
     "geom:longitude":32.581437,
@@ -197,9 +197,10 @@
         "hasc:id":"UG.WA.KA",
         "wd:id":"Q983748"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899390,
-    "wof:geomhash":"e3f26cef43d6a15dbc193506cadd8442",
+    "wof:geomhash":"23150dac0c71513458c9848030ecf251",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -209,7 +210,7 @@
         }
     ],
     "wof:id":1092072077,
-    "wof:lastmodified":1690877052,
+    "wof:lastmodified":1695886709,
     "wof:name":"Kyadondo",
     "wof:parent_id":85679879,
     "wof:placetype":"county",

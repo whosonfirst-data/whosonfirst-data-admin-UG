@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055194,
-    "geom:area_square_m":682368154.543019,
+    "geom:area_square_m":682368179.225335,
     "geom:bbox":"30.027645,-1.192797,30.377196,-0.8805",
     "geom:latitude":-1.044869,
     "geom:longitude":30.178974,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.NT.RS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899463,
-    "wof:geomhash":"bdb90ee477ab2e88cbc7f9f02d2e0393",
+    "wof:geomhash":"aedbfead0dadcf331ddaa498aac5b90f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092073825,
-    "wof:lastmodified":1627522962,
+    "wof:lastmodified":1695886173,
     "wof:name":"Rushenyi",
     "wof:parent_id":85680059,
     "wof:placetype":"county",

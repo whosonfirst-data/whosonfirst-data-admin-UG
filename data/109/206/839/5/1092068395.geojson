@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.111432,
-    "geom:area_square_m":1377034488.83554,
+    "geom:area_square_m":1377034945.91037,
     "geom:bbox":"33.347131,1.727259,33.896328,2.247851",
     "geom:latitude":2.009474,
     "geom:longitude":33.637207,
@@ -205,9 +205,10 @@
         "hasc:id":"UG.AM.AU",
         "wd:id":"Q1375762"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899246,
-    "wof:geomhash":"6722ef11d4533a9cca7c08060c8c82ea",
+    "wof:geomhash":"e3b417038a71e1b8d68d41396601c216",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -217,7 +218,7 @@
         }
     ],
     "wof:id":1092068395,
-    "wof:lastmodified":1690877058,
+    "wof:lastmodified":1695886803,
     "wof:name":"Amuria",
     "wof:parent_id":85680003,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.228401,
-    "geom:area_square_m":2824184719.182042,
+    "geom:area_square_m":2824184765.303842,
     "geom:bbox":"32.191712,-0.152084,32.687578,0.585758",
     "geom:latitude":0.222555,
     "geom:longitude":32.444701,
@@ -285,16 +285,18 @@
         "gn:id":448224,
         "gp:id":24550740,
         "hasc:id":"UG.WA",
+        "iso:code":"UG-113",
         "iso:id":"UG-113",
         "qs_pg:id":1196802,
         "unlc:id":"UG-113",
         "wd:id":"Q976848"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"498063a3d6e1c278a8e9ccf582e01cc2",
+    "wof:geomhash":"1a83b276069a96b203581ef8ab5a3e3d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -311,7 +313,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877026,
+    "wof:lastmodified":1695884915,
     "wof:name":"Wakiso",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

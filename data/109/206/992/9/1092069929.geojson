@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.039948,
-    "geom:area_square_m":493953443.077145,
+    "geom:area_square_m":493952997.397634,
     "geom:bbox":"31.802855,0.214137,32.267057,0.393598",
     "geom:latitude":0.306138,
     "geom:longitude":32.039177,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.TY.BS"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899306,
-    "wof:geomhash":"243b2d7e029c3034b8fba24d66f3e3af",
+    "wof:geomhash":"e42f3e37f3599ef459df975ee2ee71c0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092069929,
-    "wof:lastmodified":1627522955,
+    "wof:lastmodified":1695886165,
     "wof:name":"Busujju",
     "wof:parent_id":85679891,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04887,
-    "geom:area_square_m":604284400.008141,
+    "geom:area_square_m":604284548.847847,
     "geom:bbox":"31.533323,-0.304324,31.722838,0.052877",
     "geom:latitude":-0.12697,
     "geom:longitude":31.627286,
@@ -196,9 +196,10 @@
         "hasc:id":"UG.BM.BM",
         "wd:id":"Q3321599"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899283,
-    "wof:geomhash":"3a4200529188530fc5561d439f12dc60",
+    "wof:geomhash":"6894199df8922ab67e2fbdfa96f39800",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -208,7 +209,7 @@
         }
     ],
     "wof:id":1092069329,
-    "wof:lastmodified":1690877057,
+    "wof:lastmodified":1695886803,
     "wof:name":"Bukomansimbi",
     "wof:parent_id":85680219,
     "wof:placetype":"county",

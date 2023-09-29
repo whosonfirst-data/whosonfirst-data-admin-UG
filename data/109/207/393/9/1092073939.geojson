@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067092,
-    "geom:area_square_m":829322062.817211,
+    "geom:area_square_m":829322104.742054,
     "geom:bbox":"33.383678,1.31191,33.707362,1.676257",
     "geom:latitude":1.492672,
     "geom:longitude":33.532448,
@@ -193,9 +193,10 @@
         "hasc:id":"UG.SX.SE",
         "wd:id":"Q1114927"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899468,
-    "wof:geomhash":"691595cd6d7912eb6bdd564ab546a577",
+    "wof:geomhash":"480347ba8c99d2260000cc4453a025fd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -205,7 +206,7 @@
         }
     ],
     "wof:id":1092073939,
-    "wof:lastmodified":1690877049,
+    "wof:lastmodified":1695886802,
     "wof:name":"Serere",
     "wof:parent_id":85680119,
     "wof:placetype":"county",

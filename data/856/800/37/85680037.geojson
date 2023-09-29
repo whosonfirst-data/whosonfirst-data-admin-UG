@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.273136,
-    "geom:area_square_m":3377352235.442867,
+    "geom:area_square_m":3377352138.446846,
     "geom:bbox":"29.704074,-0.208464,30.296103,0.484098",
     "geom:latitude":0.12057,
     "geom:longitude":30.002018,
@@ -270,16 +270,18 @@
         "gn:id":443342,
         "gp:id":20070424,
         "hasc:id":"UG.KS",
+        "iso:code":"UG-406",
         "iso:id":"UG-406",
         "qs_pg:id":425216,
         "unlc:id":"UG-406",
         "wd:id":"Q1229919"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"44f528ed79385f1c78745f3cc99cb295",
+    "wof:geomhash":"c9ff32833a46dadd974a0bbd22f629bf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -296,7 +298,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877033,
+    "wof:lastmodified":1695884917,
     "wof:name":"Kasese",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

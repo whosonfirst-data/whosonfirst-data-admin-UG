@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.210446,
-    "geom:area_square_m":2600442712.752269,
+    "geom:area_square_m":2600442792.113088,
     "geom:bbox":"33.347131,1.727259,33.910535,2.417766",
     "geom:latitude":2.106761,
     "geom:longitude":33.686136,
@@ -189,15 +189,17 @@
         "gn:id":7056276,
         "gp:id":20070446,
         "hasc:id":"UG.PS",
+        "iso:code":"UG-210",
         "iso:id":"UG-210",
         "qs_pg:id":1251710,
         "wd:id":"Q4749005"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"3c06d97a27a44b9f1fd4439153951096",
+    "wof:geomhash":"752b32227267a14df0648b9cb7eca634",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -214,7 +216,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877030,
+    "wof:lastmodified":1695884916,
     "wof:name":"Amuria",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

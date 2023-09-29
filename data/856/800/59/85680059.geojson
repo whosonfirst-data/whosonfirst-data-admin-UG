@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166866,
-    "geom:area_square_m":2063049865.297683,
+    "geom:area_square_m":2063049924.316817,
     "geom:bbox":"30.027645,-1.192797,30.632699,-0.719256",
     "geom:latitude":-0.93896,
     "geom:longitude":30.275873,
@@ -286,16 +286,18 @@
         "gn:id":443361,
         "gp:id":20070440,
         "hasc:id":"UG.NT",
+        "iso:code":"UG-411",
         "iso:id":"UG-411",
         "qs_pg:id":967618,
         "unlc:id":"UG-411",
         "wd:id":"Q204642"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4a05cbee6d575f3c5fae346825ae8116",
+    "wof:geomhash":"5689e609a05eeb0341c2a9fcd6ef086e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -312,7 +314,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877030,
+    "wof:lastmodified":1695884916,
     "wof:name":"Ntungamo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

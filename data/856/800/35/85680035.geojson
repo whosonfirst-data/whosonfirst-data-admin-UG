@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076908,
-    "geom:area_square_m":950951833.578126,
+    "geom:area_square_m":950951824.843582,
     "geom:bbox":"29.907281,-0.661409,30.311674,-0.301286",
     "geom:latitude":-0.476845,
     "geom:longitude":30.132426,
@@ -270,14 +270,16 @@
         "gn:id":443330,
         "gp:id":-20070414,
         "hasc:id":"UG.BC",
+        "iso:code":"UG-402",
         "iso:id":"UG-402",
         "wd:id":"Q1229797"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7cfcddafd9cdb711638d073d5897095b",
+    "wof:geomhash":"9fa0e6dc2f808f187ad800c123e1a384",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -294,7 +296,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877030,
+    "wof:lastmodified":1695884916,
     "wof:name":"Bushenyi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

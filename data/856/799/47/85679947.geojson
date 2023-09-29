@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.356641,
-    "geom:area_square_m":4409311744.87023,
+    "geom:area_square_m":4409312615.194487,
     "geom:bbox":"30.535746,0.634543,31.528013,1.221907",
     "geom:latitude":0.950132,
     "geom:longitude":31.063269,
@@ -272,16 +272,18 @@
         "gn:id":443343,
         "gp:id":20070425,
         "hasc:id":"UG.KI",
+        "iso:code":"UG-407",
         "iso:id":"UG-407",
         "qs_pg:id":13419,
         "unlc:id":"UG-407",
         "wd:id":"Q604966"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d05f83faf83bea4e781af275b4258703",
+    "wof:geomhash":"8d8661dbc8dbfffe45964c3fe5c27c02",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -298,7 +300,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877020,
+    "wof:lastmodified":1695884914,
     "wof:name":"Kibale",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.163229,
-    "geom:area_square_m":2016492652.842723,
+    "geom:area_square_m":2016492642.65528,
     "geom:bbox":"31.001006,2.156437,31.528983,2.779689",
     "geom:latitude":2.461008,
     "geom:longitude":31.275105,
@@ -285,14 +285,16 @@
         "gn:id":443360,
         "gp:id":-20070439,
         "hasc:id":"UG.NB",
+        "iso:code":"UG-310",
         "iso:id":"UG-310",
         "wd:id":"Q1375825"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c2705d9814dd518bed554941c594e319",
+    "wof:geomhash":"86a05848ef499732cb01eda9cbb1d5e0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -309,7 +311,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877027,
+    "wof:lastmodified":1695884915,
     "wof:name":"Nebbi",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

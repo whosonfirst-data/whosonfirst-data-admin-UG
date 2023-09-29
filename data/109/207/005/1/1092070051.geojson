@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02164,
-    "geom:area_square_m":267574174.071684,
+    "geom:area_square_m":267574112.478104,
     "geom:bbox":"33.157844,0.451086,33.37795,0.660143",
     "geom:latitude":0.542961,
     "geom:longitude":33.281268,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.JI.BT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899310,
-    "wof:geomhash":"c7200ac98f5d5335e12f145d76db09eb",
+    "wof:geomhash":"5c9d78d9ec904ccd76224c71649af5b9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092070051,
-    "wof:lastmodified":1627522955,
+    "wof:lastmodified":1695886165,
     "wof:name":"Butembe",
     "wof:parent_id":85679773,
     "wof:placetype":"county",

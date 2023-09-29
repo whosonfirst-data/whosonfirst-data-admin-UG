@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.13623,
-    "geom:area_square_m":1684496492.753439,
+    "geom:area_square_m":1684496678.731743,
     "geom:bbox":"31.308255,0.03959,32.15463,0.369961",
     "geom:latitude":0.198913,
     "geom:longitude":31.701546,
@@ -199,15 +199,17 @@
         "gn:id":8030578,
         "gp:id":-20070436,
         "hasc:id":"UG.GM",
+        "iso:code":"UG-121",
         "iso:id":"UG-121",
         "unlc:id":"UG-121",
         "wd:id":"Q1011712"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"99ccc4e0135db9fc703ff7eade38a219",
+    "wof:geomhash":"883fbd91f2b0a3407753e3e8ffb826e3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -224,7 +226,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877036,
+    "wof:lastmodified":1695884538,
     "wof:name":"Gomba",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

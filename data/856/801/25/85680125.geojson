@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.775506,
-    "geom:area_square_m":9588871928.970747,
+    "geom:area_square_m":9588871640.776743,
     "geom:bbox":"32.872383,-1.0,33.522632,0.358205",
     "geom:latitude":-0.3939,
     "geom:longitude":33.207618,
@@ -221,15 +221,17 @@
         "fips:code":"UGF2",
         "gp:id":20070438,
         "hasc:id":"UG.BV",
+        "iso:code":"UG-120",
         "iso:id":"UG-120",
         "unlc:id":"UG-120",
         "wd:id":"Q1151066"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"708fd23e5bf3d61886ca4817887a5767",
+    "wof:geomhash":"e5777d942b111b0eb7134c56e92944cd",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -246,7 +248,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877039,
+    "wof:lastmodified":1695884918,
     "wof:name":"Buvuma",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

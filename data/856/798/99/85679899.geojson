@@ -202,8 +202,10 @@
     "wof:concordances":{
         "gp:id":20070428,
         "hasc:id":"UG.QT",
+        "iso:code":"UG-305",
         "wd:id":"Q500162"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
@@ -225,7 +227,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1694493260,
+    "wof:lastmodified":1695884915,
     "wof:name":"Kitgum",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

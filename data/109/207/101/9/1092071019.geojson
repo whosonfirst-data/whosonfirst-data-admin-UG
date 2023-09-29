@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0325,
-    "geom:area_square_m":401844991.309615,
+    "geom:area_square_m":401844799.272746,
     "geom:bbox":"33.042154,0.48035,33.296749,0.700314",
     "geom:latitude":0.605454,
     "geom:longitude":33.163621,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.JI.KG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899348,
-    "wof:geomhash":"c8d92f6f2eda190d0a5b8aac3e4dd182",
+    "wof:geomhash":"3cb60504a50ed69d54564a4816105325",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092071019,
-    "wof:lastmodified":1627522957,
+    "wof:lastmodified":1695886167,
     "wof:name":"Kagoma",
     "wof:parent_id":85679773,
     "wof:placetype":"county",

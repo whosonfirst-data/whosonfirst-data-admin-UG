@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.284989,
-    "geom:area_square_m":3522948591.536487,
+    "geom:area_square_m":3522948755.777161,
     "geom:bbox":"31.967119,0.961451,32.79975,1.678684",
     "geom:latitude":1.354819,
     "geom:longitude":32.424491,
@@ -56,9 +56,10 @@
     "wof:concordances":{
         "hasc:id":"UG.NA.BR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899300,
-    "wof:geomhash":"246405a3fea7d7c9fcdecf73f468e362",
+    "wof:geomhash":"c2d85b9d2e18be070f0a0520248dfd44",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,7 +69,7 @@
         }
     ],
     "wof:id":1092069759,
-    "wof:lastmodified":1627522954,
+    "wof:lastmodified":1695886164,
     "wof:name":"Buruli",
     "wof:parent_id":85679875,
     "wof:placetype":"county",

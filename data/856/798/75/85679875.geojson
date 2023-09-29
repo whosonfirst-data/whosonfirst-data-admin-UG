@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.284989,
-    "geom:area_square_m":3522948591.536487,
+    "geom:area_square_m":3522948755.777161,
     "geom:bbox":"31.967119,0.961451,32.79975,1.678684",
     "geom:latitude":1.354819,
     "geom:longitude":32.424491,
@@ -283,16 +283,18 @@
         "gn:id":443786,
         "gp:id":20070452,
         "hasc:id":"UG.NA",
+        "iso:code":"UG-109",
         "iso:id":"UG-109",
         "qs_pg:id":1064705,
         "unlc:id":"UG-109",
         "wd:id":"Q976859"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"09317d80c3f29eb3e232ade44ce3a617",
+    "wof:geomhash":"59ce49783da129649d8eac25765ebea0",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -309,7 +311,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877023,
+    "wof:lastmodified":1695884914,
     "wof:name":"Nakasongola",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

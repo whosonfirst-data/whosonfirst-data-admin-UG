@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.218179,
-    "geom:area_square_m":2697525873.613016,
+    "geom:area_square_m":2697525544.562714,
     "geom:bbox":"30.479261,-1.07618,31.270272,-0.599968",
     "geom:latitude":-0.851862,
     "geom:longitude":30.876213,
@@ -280,16 +280,18 @@
         "gn:id":7056285,
         "gp:id":56190210,
         "hasc:id":"UG.NG",
+        "iso:code":"UG-417",
         "iso:id":"UG-417",
         "qs_pg:id":1112934,
         "unlc:id":"UG-417",
         "wd:id":"Q1318887"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9dd0dc039e2529f347c572cba3541e77",
+    "wof:geomhash":"2f23f12178094455c13330ba86e30933",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -306,7 +308,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877031,
+    "wof:lastmodified":1695884916,
     "wof:name":"Isingiro",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.373749,
-    "geom:area_square_m":4621405305.871979,
+    "geom:area_square_m":4621405104.439085,
     "geom:bbox":"30.5675,-0.712653,31.154197,0.213906",
     "geom:latitude":-0.214664,
     "geom:longitude":30.872382,
@@ -23,7 +23,7 @@
     "lbl:longitude":30.848655,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
     "name:ara_x_preferred":[
@@ -59,11 +59,13 @@
     "wof:concordances":{
         "fips:code":"UGD3",
         "hasc:id":"UG.KH",
+        "iso:code":"UG-418",
         "iso:id":"UG-418"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:created":1486157729,
-    "wof:geomhash":"bd6542069807b775e0bffd7f6a54b838",
+    "wof:geomhash":"1725050ceb16bc7d1089ea5d246c786c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,7 +82,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1627522958,
+    "wof:lastmodified":1695884285,
     "wof:name":"Kiruhura",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

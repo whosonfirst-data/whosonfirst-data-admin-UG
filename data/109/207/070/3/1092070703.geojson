@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.076908,
-    "geom:area_square_m":950951833.578126,
+    "geom:area_square_m":950951824.843582,
     "geom:bbox":"29.907281,-0.661409,30.311674,-0.301286",
     "geom:latitude":-0.476845,
     "geom:longitude":30.132426,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.BC.IG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899335,
-    "wof:geomhash":"3ec155bfad8eefa6830f48ff23788350",
+    "wof:geomhash":"5da6dc886aa4046aa7c35012334ce16e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092070703,
-    "wof:lastmodified":1627522956,
+    "wof:lastmodified":1695886167,
     "wof:name":"Igara",
     "wof:parent_id":85680035,
     "wof:placetype":"county",

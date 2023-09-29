@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050564,
-    "geom:area_square_m":625235645.44401,
+    "geom:area_square_m":625236128.623965,
     "geom:bbox":"30.212436,-0.180958,30.477558,0.166189",
     "geom:latitude":-0.003127,
     "geom:longitude":30.347907,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.KE.KT"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899377,
-    "wof:geomhash":"842f03085bdb3e3012110b289b9377a5",
+    "wof:geomhash":"aada7a44ce39a469a39ab8bdedfba2d9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092071759,
-    "wof:lastmodified":1627522959,
+    "wof:lastmodified":1695886169,
     "wof:name":"Kitagwenda",
     "wof:parent_id":85680041,
     "wof:placetype":"county",

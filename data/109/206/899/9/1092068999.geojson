@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.135614,
-    "geom:area_square_m":1676645890.183647,
+    "geom:area_square_m":1676646217.810168,
     "geom:bbox":"31.092961,0.70657,31.528013,1.221907",
     "geom:latitude":0.98748,
     "geom:longitude":31.297766,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.KI.BZ"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899269,
-    "wof:geomhash":"d129c50eae1782335f1be952b27eac6f",
+    "wof:geomhash":"2ed405da8833da22179b3317a1f9ed6c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092068999,
-    "wof:lastmodified":1627522953,
+    "wof:lastmodified":1695886163,
     "wof:name":"Bugangaizi",
     "wof:parent_id":85679947,
     "wof:placetype":"county",

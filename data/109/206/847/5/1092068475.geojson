@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000866,
-    "geom:area_square_m":10692166.963626,
+    "geom:area_square_m":10692086.68998,
     "geom:bbox":"30.898524,3.00259,30.934545,3.039879",
     "geom:latitude":3.020098,
     "geom:longitude":30.915793,
@@ -194,9 +194,10 @@
         "hasc:id":"UG.AX.AU",
         "wd:id":"Q1229758"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899249,
-    "wof:geomhash":"9e6f7aee0f17006b30ab8532b4e1ca87",
+    "wof:geomhash":"d2998bd9c5ad73c869a5ae25be2b0a89",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -206,7 +207,7 @@
         }
     ],
     "wof:id":1092068475,
-    "wof:lastmodified":1690877058,
+    "wof:lastmodified":1695886710,
     "wof:name":"Arua Municipality",
     "wof:parent_id":85679837,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062425,
-    "geom:area_square_m":770938812.39826,
+    "geom:area_square_m":770938404.642385,
     "geom:bbox":"30.796668,2.65402,31.143344,3.029253",
     "geom:latitude":2.856116,
     "geom:longitude":30.967537,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"UG.AX.VU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899481,
-    "wof:geomhash":"f054f4bd7c2a9800761d5747493be242",
+    "wof:geomhash":"d90b7d0ca6f81d24e4ea6b93ab81bbdb",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092074259,
-    "wof:lastmodified":1627522963,
+    "wof:lastmodified":1695886173,
     "wof:name":"Vurra",
     "wof:parent_id":85679837,
     "wof:placetype":"county",

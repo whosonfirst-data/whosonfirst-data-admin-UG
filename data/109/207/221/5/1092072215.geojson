@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.191688,
-    "geom:area_square_m":2367524190.822859,
+    "geom:area_square_m":2367524074.025268,
     "geom:bbox":"33.521563,2.456144,34.036864,3.152992",
     "geom:latitude":2.750613,
     "geom:longitude":33.72987,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.AI.LB"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899396,
-    "wof:geomhash":"678991fc0cc5dc1e17d83789ee7bc617",
+    "wof:geomhash":"0ca6c202d092a53ed7f0ad9e44d3667e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092072215,
-    "wof:lastmodified":1627522959,
+    "wof:lastmodified":1695886170,
     "wof:name":"Labwor",
     "wof:parent_id":85680013,
     "wof:placetype":"county",

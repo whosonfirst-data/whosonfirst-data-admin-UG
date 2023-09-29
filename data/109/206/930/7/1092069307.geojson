@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.085368,
-    "geom:area_square_m":1055295036.62089,
+    "geom:area_square_m":1055295156.548799,
     "geom:bbox":"33.917256,1.160422,34.274772,1.582569",
     "geom:latitude":1.364517,
     "geom:longitude":34.123377,
@@ -202,9 +202,10 @@
         "hasc:id":"UG.BE.BK",
         "wd:id":"Q1375812"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899282,
-    "wof:geomhash":"2d93b54e6aaba62ffff5812e6e411410",
+    "wof:geomhash":"67a0580bd70f27274b265a7e180fbc19",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -214,7 +215,7 @@
         }
     ],
     "wof:id":1092069307,
-    "wof:lastmodified":1690877055,
+    "wof:lastmodified":1695886803,
     "wof:name":"Bukedea",
     "wof:parent_id":85680095,
     "wof:placetype":"county",

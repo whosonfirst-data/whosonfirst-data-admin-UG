@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.1127,
-    "geom:area_square_m":1392887075.967472,
+    "geom:area_square_m":1392887075.967439,
     "geom:bbox":"33.395973,1.55864,33.814237,2.023329",
     "geom:latitude":1.775449,
     "geom:longitude":33.590005,
@@ -199,12 +199,13 @@
         "hasc:id":"UG.ST.SM",
         "wd:id":"Q1091337"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85679813
     ],
     "wof:country":"UG",
     "wof:created":1473899472,
-    "wof:geomhash":"95dedda5a1e735262b840dec90d2887d",
+    "wof:geomhash":"37a1c9cc4cad3ccb8573d6f85c007f80",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -214,7 +215,7 @@
         }
     ],
     "wof:id":1092074055,
-    "wof:lastmodified":1690877052,
+    "wof:lastmodified":1695886802,
     "wof:name":"Soroti",
     "wof:parent_id":85679813,
     "wof:placetype":"county",

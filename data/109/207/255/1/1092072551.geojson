@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147776,
-    "geom:area_square_m":1826299594.686416,
+    "geom:area_square_m":1826299614.325679,
     "geom:bbox":"32.091214,1.612633,32.6575,2.222548",
     "geom:latitude":1.871973,
     "geom:longitude":32.430777,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.AQ.MR"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899412,
-    "wof:geomhash":"a9177bea4d0b017007331d07a4a2cddf",
+    "wof:geomhash":"00ab577db4f3affdc7b749d253ce6337",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092072551,
-    "wof:lastmodified":1627522960,
+    "wof:lastmodified":1695886170,
     "wof:name":"Maruzi",
     "wof:parent_id":85680151,
     "wof:placetype":"county",

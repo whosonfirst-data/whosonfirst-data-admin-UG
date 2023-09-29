@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.321819,
-    "geom:area_square_m":3972316641.535981,
+    "geom:area_square_m":3972316679.217542,
     "geom:bbox":"32.728277,3.118234,33.74179,3.764155",
     "geom:latitude":3.406448,
     "geom:longitude":33.27191,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"UG.QT.CU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899322,
-    "wof:geomhash":"7b850656fa43c7b135f0f0402271c4c5",
+    "wof:geomhash":"88cb431eaa12555b0094080ae636042f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1092070355,
-    "wof:lastmodified":1627522956,
+    "wof:lastmodified":1695886166,
     "wof:name":"Chua",
     "wof:parent_id":85679899,
     "wof:placetype":"county",

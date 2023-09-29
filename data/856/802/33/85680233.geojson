@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044092,
-    "geom:area_square_m":545167887.417001,
+    "geom:area_square_m":545167780.452743,
     "geom:bbox":"29.885485,-0.776341,30.160008,-0.437224",
     "geom:latitude":-0.621644,
     "geom:longitude":30.021619,
@@ -178,15 +178,17 @@
         "gn:id":8030586,
         "gp:id":-20070414,
         "hasc:id":"UG.MM",
+        "iso:code":"UG-422",
         "iso:id":"UG-422",
         "unlc:id":"UG-422",
         "wd:id":"Q6699878"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"595309962e6974b8071c25d4e8b705d8",
+    "wof:geomhash":"7f1f9c36cd3b5dc2996815c35fbb8019",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -203,7 +205,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877027,
+    "wof:lastmodified":1695884915,
     "wof:name":"Mitooma",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

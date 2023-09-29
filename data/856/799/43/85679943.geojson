@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.190927,
-    "geom:area_square_m":2360690154.669457,
+    "geom:area_square_m":2360690344.336449,
     "geom:bbox":"30.396393,0.349975,30.924679,0.939208",
     "geom:latitude":0.659423,
     "geom:longitude":30.661955,
@@ -279,14 +279,16 @@
         "gn:id":226116,
         "gp:id":-24550734,
         "hasc:id":"UG.QJ",
+        "iso:code":"UG-415",
         "iso:id":"UG-415",
         "wd:id":"Q1318815"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"283d237b744849a37165d87c5c5afc8c",
+    "wof:geomhash":"e0e09de8a3578cc470c53a01d5b17fe6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -303,7 +305,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877018,
+    "wof:lastmodified":1695884913,
     "wof:name":"Kyenjojo",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

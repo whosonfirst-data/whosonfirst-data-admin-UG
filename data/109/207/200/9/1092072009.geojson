@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.069256,
-    "geom:area_square_m":856100285.728967,
+    "geom:area_square_m":856100620.365945,
     "geom:bbox":"34.406713,1.099311,34.756701,1.6025",
     "geom:latitude":1.431976,
     "geom:longitude":34.573335,
@@ -193,9 +193,10 @@
         "hasc:id":"UG.QW.KW",
         "wd:id":"Q3321998"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899387,
-    "wof:geomhash":"7a30de2330dfeb52a9a98f0e0af7c664",
+    "wof:geomhash":"6a6bdf1c3bef221d273b2f6103719142",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -205,7 +206,7 @@
         }
     ],
     "wof:id":1092072009,
-    "wof:lastmodified":1690877051,
+    "wof:lastmodified":1695886802,
     "wof:name":"Kween",
     "wof:parent_id":85680187,
     "wof:placetype":"county",

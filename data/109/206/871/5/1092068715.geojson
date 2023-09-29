@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.404667,
-    "geom:area_square_m":4999362749.248236,
+    "geom:area_square_m":4999362885.820486,
     "geom:bbox":"33.630168,1.885623,34.590829,2.907413",
     "geom:latitude":2.399602,
     "geom:longitude":34.221374,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.NQ.BK"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899258,
-    "wof:geomhash":"a1ba3770fe39bb1db33b790bb78735ca",
+    "wof:geomhash":"f076aba9da5dd631d22838b65d803c72",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092068715,
-    "wof:lastmodified":1627522952,
+    "wof:lastmodified":1695886162,
     "wof:name":"Bokora",
     "wof:parent_id":85680201,
     "wof:placetype":"county",

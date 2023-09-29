@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003876,
-    "geom:area_square_m":47925526.118398,
+    "geom:area_square_m":47925568.570632,
     "geom:bbox":"31.692876,-0.372068,31.770103,-0.292378",
     "geom:latitude":-0.3305,
     "geom:longitude":31.735643,
@@ -200,9 +200,10 @@
         "hasc:id":"UG.MQ.MS",
         "wd:id":"Q1032233"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899414,
-    "wof:geomhash":"39e17eedfb71d6ed42246ca6ea520e64",
+    "wof:geomhash":"07e92d7653f573b1b67d5422a82af795",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -212,7 +213,7 @@
         }
     ],
     "wof:id":1092072593,
-    "wof:lastmodified":1690877046,
+    "wof:lastmodified":1695886709,
     "wof:name":"Masaka Municipality",
     "wof:parent_id":85680211,
     "wof:placetype":"county",

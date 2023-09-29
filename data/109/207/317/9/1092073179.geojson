@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.11212,
-    "geom:area_square_m":1386162534.169973,
+    "geom:area_square_m":1386162239.315245,
     "geom:bbox":"30.152506,0.721136,30.551756,1.288697",
     "geom:latitude":1.012384,
     "geom:longitude":30.363292,
@@ -190,9 +190,10 @@
         "hasc:id":"UG.NO.NO",
         "wd:id":"Q3539547"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899438,
-    "wof:geomhash":"4ecf59f6376481f624bd29c10f792ecf",
+    "wof:geomhash":"58192ff930ac3b69550776b1379f8c79",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -202,7 +203,7 @@
         }
     ],
     "wof:id":1092073179,
-    "wof:lastmodified":1690877054,
+    "wof:lastmodified":1695886802,
     "wof:name":"Ntoroko",
     "wof:parent_id":85680179,
     "wof:placetype":"county",

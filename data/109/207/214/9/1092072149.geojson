@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.507845,
-    "geom:area_square_m":6279167570.799254,
+    "geom:area_square_m":6279167810.578534,
     "geom:bbox":"31.997021,-1.0,32.754561,-0.147358",
     "geom:latitude":-0.627921,
     "geom:longitude":32.431007,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"UG.KN.KA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899393,
-    "wof:geomhash":"ec97d10db9ec1efbace4191b45c8bd5b",
+    "wof:geomhash":"499930b1eaecdd83f8a222e5dacbe132",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1092072149,
-    "wof:lastmodified":1627522959,
+    "wof:lastmodified":1695886170,
     "wof:name":"Kyamuswa",
     "wof:parent_id":85679769,
     "wof:placetype":"county",

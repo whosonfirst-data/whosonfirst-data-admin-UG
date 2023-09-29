@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059417,
-    "geom:area_square_m":734671241.348291,
+    "geom:area_square_m":734671111.493234,
     "geom:bbox":"33.042154,0.393397,33.37795,0.700314",
     "geom:latitude":0.56746,
     "geom:longitude":33.212652,
@@ -274,16 +274,18 @@
         "gn:id":443335,
         "gp:id":20070417,
         "hasc:id":"UG.JI",
+        "iso:code":"UG-204",
         "iso:id":"UG-204",
         "qs_pg:id":237423,
         "unlc:id":"UG-204",
         "wd:id":"Q983748"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"71831a53c2daf36ad5584568ff35a1b6",
+    "wof:geomhash":"927ed03cd1e1a6029fc923ad619decf1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -300,7 +302,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877013,
+    "wof:lastmodified":1695884912,
     "wof:name":"Jinja",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

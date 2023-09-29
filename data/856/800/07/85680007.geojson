@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.580089,
-    "geom:area_square_m":7158626091.393545,
+    "geom:area_square_m":7158626046.063964,
     "geom:bbox":"33.515867,3.0825,34.558862,4.218628",
     "geom:latitude":3.607628,
     "geom:longitude":34.032052,
@@ -176,16 +176,18 @@
         "fips:code":"UGD1",
         "gp:id":20070429,
         "hasc:id":"UG.AB",
+        "iso:code":"UG-315",
         "iso:id":"UG-315",
         "qs_pg:id":902960,
         "unlc:id":"UG-315",
         "wd:id":"Q6272909"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"66be08a8fe89b0f33c5c7091a6652cfd",
+    "wof:geomhash":"e01f7e2d2728451b2445c02c9dcf17f2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -202,7 +204,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877033,
+    "wof:lastmodified":1695884916,
     "wof:name":"Kaabong",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

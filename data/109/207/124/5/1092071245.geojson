@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.099014,
-    "geom:area_square_m":1223408223.916869,
+    "geom:area_square_m":1223407846.202668,
     "geom:bbox":"33.494626,1.97563,33.910535,2.417766",
     "geom:latitude":2.216251,
     "geom:longitude":33.741203,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.AM.KP"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899357,
-    "wof:geomhash":"0cb4811cfd9adb48fd3bb46905440e8d",
+    "wof:geomhash":"73dfb4e857c35920ad47a1703f0e58c4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092071245,
-    "wof:lastmodified":1627522957,
+    "wof:lastmodified":1695886168,
     "wof:name":"Kapelebyong",
     "wof:parent_id":85680003,
     "wof:placetype":"county",

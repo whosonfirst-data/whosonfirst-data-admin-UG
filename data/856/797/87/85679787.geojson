@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.138657,
-    "geom:area_square_m":1714259703.700755,
+    "geom:area_square_m":1714260340.831646,
     "geom:bbox":"32.693996,0.5075,33.083691,1.47762",
     "geom:latitude":0.976593,
     "geom:longitude":32.890352,
@@ -298,16 +298,18 @@
         "gn:id":448218,
         "gp:id":24550742,
         "hasc:id":"UG.KY",
+        "iso:code":"UG-112",
         "iso:id":"UG-112",
         "qs_pg:id":1154614,
         "unlc:id":"UG-112",
         "wd:id":"Q1207391"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"0bebe25d1fc3dcfa5142616e05721725",
+    "wof:geomhash":"6ef604d9068eea83fc13d94fb225e624",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -324,7 +326,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877014,
+    "wof:lastmodified":1695884912,
     "wof:name":"Kayunga",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

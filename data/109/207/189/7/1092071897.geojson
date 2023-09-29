@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.103676,
-    "geom:area_square_m":1281890968.553733,
+    "geom:area_square_m":1281891252.31267,
     "geom:bbox":"31.09011,-0.921978,31.517846,-0.451803",
     "geom:latitude":-0.66419,
     "geom:longitude":31.28804,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.RI.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899383,
-    "wof:geomhash":"f47d9f3f8ea7f73acb1cab45f8285b77",
+    "wof:geomhash":"50e64af0dec2a07a2f5d73ec2c80028c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092071897,
-    "wof:lastmodified":1627522959,
+    "wof:lastmodified":1695886169,
     "wof:name":"Kooki",
     "wof:parent_id":85680025,
     "wof:placetype":"county",

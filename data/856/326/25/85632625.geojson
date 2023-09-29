@@ -1115,6 +1115,7 @@
         "hasc:id":"UG",
         "icao:code":"5X",
         "ioc:id":"UGA",
+        "iso:code":"UG",
         "itu:id":"UGA",
         "loc:id":"n80126332",
         "m49:code":"800",
@@ -1129,6 +1130,7 @@
         "wk:page":"Uganda",
         "wmo:id":"UG"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:country_alpha3":"UGA",
     "wof:geom_alt":[
@@ -1152,7 +1154,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1694639545,
+    "wof:lastmodified":1695881202,
     "wof:name":"Uganda",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

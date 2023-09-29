@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.124022,
-    "geom:area_square_m":1533434269.962476,
+    "geom:area_square_m":1533434466.509053,
     "geom:bbox":"29.676543,-1.057898,30.074627,-0.336339",
     "geom:latitude":-0.70342,
     "geom:longitude":29.888427,
@@ -280,16 +280,18 @@
         "gn:id":443364,
         "gp:id":20070443,
         "hasc:id":"UG.RK",
+        "iso:code":"UG-412",
         "iso:id":"UG-412",
         "qs_pg:id":1251712,
         "unlc:id":"UG-412",
         "wd:id":"Q289419"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"f4f9371b22034663925ad407fd2ebbd4",
+    "wof:geomhash":"86f7e7ebeda5849a61f7c9094b845917",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -306,7 +308,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877029,
+    "wof:lastmodified":1695884916,
     "wof:name":"Rukungiri",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

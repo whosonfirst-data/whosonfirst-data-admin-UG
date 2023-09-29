@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002856,
-    "geom:area_square_m":35288971.478756,
+    "geom:area_square_m":35289053.486542,
     "geom:bbox":"32.863276,2.217757,32.9275,2.280466",
     "geom:latitude":2.249987,
     "geom:longitude":32.899096,
@@ -197,9 +197,10 @@
         "hasc:id":"UG.LL.LR",
         "wd:id":"Q206519"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899405,
-    "wof:geomhash":"de64f4aa0dcadfaa00e7f35b5d1cde23",
+    "wof:geomhash":"8886f84473e256b4a39ecfce762b7e2d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -209,7 +210,7 @@
         }
     ],
     "wof:id":1092072387,
-    "wof:lastmodified":1690877052,
+    "wof:lastmodified":1695886709,
     "wof:name":"Lira Municipality",
     "wof:parent_id":85679909,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.081184,
-    "geom:area_square_m":1002945704.325078,
+    "geom:area_square_m":1002945645.021752,
     "geom:bbox":"31.001006,2.196163,31.30919,2.677695",
     "geom:latitude":2.435218,
     "geom:longitude":31.178276,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.NB.PD"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899450,
-    "wof:geomhash":"a546240f180357bd20acc55cd56f6d3f",
+    "wof:geomhash":"adbb9789593f6692dbad2b81c321261c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092073489,
-    "wof:lastmodified":1627522962,
+    "wof:lastmodified":1695886172,
     "wof:name":"Padyere",
     "wof:parent_id":85679849,
     "wof:placetype":"county",

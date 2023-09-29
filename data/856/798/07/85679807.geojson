@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.066187,
-    "geom:area_square_m":818319789.671664,
+    "geom:area_square_m":818319844.823926,
     "geom:bbox":"33.53946,0.686461,33.847693,1.09136",
     "geom:latitude":0.87154,
     "geom:longitude":33.680527,
@@ -181,15 +181,17 @@
         "gn:id":234069,
         "gp:id":-56190214,
         "hasc:id":"UG.BK",
+        "iso:code":"UG-222",
         "iso:id":"UG-222",
         "unlc:id":"UG-222",
         "wd:id":"Q6272234"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"UG",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"08bb7625ec78ebf45e5eb120ff1a2933",
+    "wof:geomhash":"6651974c3b4e5eb31311819281bf3c62",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -206,7 +208,7 @@
         "swa",
         "eng"
     ],
-    "wof:lastmodified":1690877024,
+    "wof:lastmodified":1695884915,
     "wof:name":"Namutumba",
     "wof:parent_id":85632625,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.142972,
-    "geom:area_square_m":1767165246.972468,
+    "geom:area_square_m":1767165412.505271,
     "geom:bbox":"32.314389,1.438016,32.999266,1.839348",
     "geom:latitude":1.622029,
     "geom:longitude":32.73803,
@@ -67,9 +67,10 @@
     "wof:concordances":{
         "hasc:id":"UG.AT.KO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899376,
-    "wof:geomhash":"3dcf3ecc605fbcb78f6f6e56a3bf2545",
+    "wof:geomhash":"28b480600ea7562377c30564b93e0c8a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -79,7 +80,7 @@
         }
     ],
     "wof:id":1092071719,
-    "wof:lastmodified":1627522959,
+    "wof:lastmodified":1695886169,
     "wof:name":"Kyoga",
     "wof:parent_id":85679799,
     "wof:placetype":"county",

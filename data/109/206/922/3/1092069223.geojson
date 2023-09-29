@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.083848,
-    "geom:area_square_m":1036735758.432936,
+    "geom:area_square_m":1036735888.755635,
     "geom:bbox":"29.676543,-0.882286,30.047583,-0.336339",
     "geom:latitude":-0.599154,
     "geom:longitude":29.849482,
@@ -57,9 +57,10 @@
     "wof:concordances":{
         "hasc:id":"UG.KR.BF"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899278,
-    "wof:geomhash":"801b95fcaea1e0d79c49419b6a515af8",
+    "wof:geomhash":"d06e79736816d0e3dde6ca38984c45f2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,7 +70,7 @@
         }
     ],
     "wof:id":1092069223,
-    "wof:lastmodified":1627522953,
+    "wof:lastmodified":1695886163,
     "wof:name":"Rujumbura",
     "wof:parent_id":85680061,
     "wof:placetype":"county",

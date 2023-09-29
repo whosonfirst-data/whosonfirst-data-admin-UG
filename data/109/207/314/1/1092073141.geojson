@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043323,
-    "geom:area_square_m":535653125.91302,
+    "geom:area_square_m":535653487.839088,
     "geom:bbox":"32.821867,0.5075,33.083691,0.906074",
     "geom:latitude":0.699373,
     "geom:longitude":32.975397,
@@ -69,9 +69,10 @@
     "wof:concordances":{
         "hasc:id":"UG.KY.NE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899437,
-    "wof:geomhash":"4a82cc55bdf6e9e1c4c8f5e8850f68fe",
+    "wof:geomhash":"74fd7a9a2ed978e62b10da9a7e819ac5",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -81,7 +82,7 @@
         }
     ],
     "wof:id":1092073141,
-    "wof:lastmodified":1627522961,
+    "wof:lastmodified":1695886171,
     "wof:name":"Ntenjeru",
     "wof:parent_id":85679787,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.147958,
-    "geom:area_square_m":1827041467.086497,
+    "geom:area_square_m":1827041499.630038,
     "geom:bbox":"32.183652,2.771678,32.658128,3.302897",
     "geom:latitude":2.983741,
     "geom:longitude":32.397207,
@@ -75,9 +75,10 @@
     "wof:concordances":{
         "hasc:id":"UG.GL.AW"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899252,
-    "wof:geomhash":"79890bb0da6a10d7b10a32d30473b796",
+    "wof:geomhash":"df1bbd9b169b8418bf8a2cd318a3d5cf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":1092068547,
-    "wof:lastmodified":1627522952,
+    "wof:lastmodified":1695886161,
     "wof:name":"Aswa",
     "wof:parent_id":85679905,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.078326,
-    "geom:area_square_m":968517471.883643,
+    "geom:area_square_m":968517471.883617,
     "geom:bbox":"30.246556,-0.286396,30.638789,0.164335",
     "geom:latitude":-0.076533,
     "geom:longitude":30.488663,
@@ -199,12 +199,13 @@
         "hasc:id":"UG.IB.IA",
         "wd:id":"Q1318877"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         85680047
     ],
     "wof:country":"UG",
     "wof:created":1473899334,
-    "wof:geomhash":"ae302e65195c7b84f82ef486ad30d0f3",
+    "wof:geomhash":"510002b8ac35020c4c4bb36ca147e5a9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -214,7 +215,7 @@
         }
     ],
     "wof:id":1092070677,
-    "wof:lastmodified":1690877053,
+    "wof:lastmodified":1695886802,
     "wof:name":"Ibanda",
     "wof:parent_id":85680047,
     "wof:placetype":"county",

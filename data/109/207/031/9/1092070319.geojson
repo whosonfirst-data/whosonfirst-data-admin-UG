@@ -71,6 +71,7 @@
     "wof:concordances":{
         "hasc:id":"UG.NI.CE"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899320,
     "wof:geomhash":"277d740fa56d9b2cb1daed11fc51ff7c",
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":1092070319,
-    "wof:lastmodified":1694639797,
+    "wof:lastmodified":1695886167,
     "wof:name":"Kadani",
     "wof:parent_id":85680021,
     "wof:placetype":"county",

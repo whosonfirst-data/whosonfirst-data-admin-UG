@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.045525,
-    "geom:area_square_m":562772557.295712,
+    "geom:area_square_m":562772475.055925,
     "geom:bbox":"29.890147,-1.481483,30.174403,-1.194947",
     "geom:latitude":-1.329891,
     "geom:longitude":30.027598,
@@ -66,9 +66,10 @@
     "wof:concordances":{
         "hasc:id":"UG.KA.NO"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899433,
-    "wof:geomhash":"d73d91bb07e7adac080ea1adef4227f7",
+    "wof:geomhash":"df4b851287fbbdaa7fa3e6e698311e79",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -78,7 +79,7 @@
         }
     ],
     "wof:id":1092073061,
-    "wof:lastmodified":1627522961,
+    "wof:lastmodified":1695886171,
     "wof:name":"Ndorwa",
     "wof:parent_id":85680073,
     "wof:placetype":"county",

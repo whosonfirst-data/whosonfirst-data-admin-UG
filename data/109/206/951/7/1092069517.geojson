@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.156742,
-    "geom:area_square_m":1937007682.647549,
+    "geom:area_square_m":1937007991.146905,
     "geom:bbox":"31.11393,1.677701,31.612857,2.265025",
     "geom:latitude":1.962317,
     "geom:longitude":31.400864,
@@ -197,9 +197,10 @@
         "hasc:id":"UG.BL.BL",
         "wd:id":"Q1229793"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"UG",
     "wof:created":1473899291,
-    "wof:geomhash":"3452af9ccb43e82a01d1383c3ecdd7ca",
+    "wof:geomhash":"45445ddee0030b61f56bd0e9a30e49b7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -209,7 +210,7 @@
         }
     ],
     "wof:id":1092069517,
-    "wof:lastmodified":1690877057,
+    "wof:lastmodified":1695886803,
     "wof:name":"Buliisa",
     "wof:parent_id":85679843,
     "wof:placetype":"county",
