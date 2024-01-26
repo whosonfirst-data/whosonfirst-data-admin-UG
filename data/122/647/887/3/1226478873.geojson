@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":11357111
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11357467
+        ]
+    },
     "wof:country":"UG",
     "wof:geomhash":"a4dd6fd0158dfc0d4ecf1831ff2b1324",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1226478873,
-    "wof:lastmodified":1566595731,
+    "wof:lastmodified":1706240713,
     "wof:name":"Ggangu",
     "wof:parent_id":1092072077,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ug",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293237435
+    ],
     "wof:tags":[]
 },
   "bbox": [
