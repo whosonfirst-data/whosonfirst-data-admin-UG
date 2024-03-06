@@ -32,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Kiterera"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":230827
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            230896
+        ]
     },
     "wof:country":"UG",
     "wof:geomhash":"a3be34b2bf05d5a2e05541e61cbfecc6",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1210053343,
-    "wof:lastmodified":1566595256,
+    "wof:lastmodified":1706240713,
     "wof:name":"Kityerera",
     "wof:parent_id":1092069607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ug",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343798185
+    ],
     "wof:tags":[]
 },
   "bbox": [

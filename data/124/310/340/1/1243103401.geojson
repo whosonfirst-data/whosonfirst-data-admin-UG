@@ -11,6 +11,8 @@
     "geom:longitude":33.5129,
     "gn:admin1_code":"E",
     "gn:admin2_code":"D2",
+    "gn:admin3_code":"234305.0",
+    "gn:admin4_code":"8657555.0",
     "gn:asciiname":"Ihagalo",
     "gn:country_code":"UG",
     "gn:dem":1099,
@@ -30,6 +32,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Waigalo",
+        "Ilhago"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -40,6 +46,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11429862
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            225991
+        ]
     },
     "wof:country":"UG",
     "wof:geomhash":"084c150de045059f62d17bbadffab9ee",
@@ -53,13 +64,15 @@
         }
     ],
     "wof:id":1243103401,
-    "wof:lastmodified":1566595598,
+    "wof:lastmodified":1706240713,
     "wof:name":"Ihagalo",
     "wof:parent_id":1092069483,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ug",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276796139
+    ],
     "wof:tags":[]
 },
   "bbox": [
